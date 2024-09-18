@@ -3,8 +3,9 @@
 Welcome to the **IOE Syllabus Data Repository**! This repository contains syllabus data for various subjects offered by the Institute of Engineering (IOE). The syllabus files are organized by faculty and semester, providing an easy-to-navigate structure for students and educators.
 
 ## Remaining Tasks
-- [] Add a new syllabus for the batch of 2081 B.S.
-- [] Make a syllabus struture consistent and uniform.
+- [x] Add initial syllabus for all faculties. 
+- [ ] Add a new syllabus for the batch of 2081 B.S.
+- [ ] Make a syllabus struture consistent and uniform.
   
 ## 📁 Repository Structure
 
