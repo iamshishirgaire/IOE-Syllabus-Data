@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ###  Theory
 

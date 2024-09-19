@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Introduction to Avionics (8 Hours)**
    - Need for Avionics

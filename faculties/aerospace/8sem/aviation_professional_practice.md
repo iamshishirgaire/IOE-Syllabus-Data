@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Brief introduction of Professional Ethics (3 hours)**
    - What is Ethics? Why study ethics? What is Professional Ethics, and what are the rules or standards that a worker should follow in the workplace?

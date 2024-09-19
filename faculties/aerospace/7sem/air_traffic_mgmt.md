@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Air Traffic Services (4 hours)**
     * Introduction

@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Basic Circuits Concepts (4 hours)**
     * Passive components: Resistance, Inductance, Capacitance; series, parallel combinations; Kirchhoff's law: Voltage, Current; Linearity

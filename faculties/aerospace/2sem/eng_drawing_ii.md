@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Conventional Practices for Orthographic and Sectional Views (12 hours)**
    1.1 Conventional Practices in Orthographic views: Half Views and Partial Views, Treatment of Unimportant Intersections, Aligned Views, Treatment for Radially Arranged Features, Representation of Fillets and Rounds

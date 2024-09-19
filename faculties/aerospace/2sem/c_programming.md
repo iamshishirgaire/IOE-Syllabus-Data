@@ -1,4 +1,3 @@
-### **Course Content:**
 
 1. **Overview of computer software & programming languages (2 hours)**
     * System software

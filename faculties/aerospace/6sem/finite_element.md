@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Overview (2 hours)**
     * Introduction

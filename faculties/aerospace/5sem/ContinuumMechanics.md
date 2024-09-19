@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Load on Structure and Response of Material (1 hour)**
     - General Load on Structure and its Effects

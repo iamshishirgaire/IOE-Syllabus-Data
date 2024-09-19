@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ### 1. Introduction, Approximation and errors of computation (4 hours)
 

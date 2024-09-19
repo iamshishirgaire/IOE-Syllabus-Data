@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ## Course Objectives:
 This course builds on the student's background in Fluid Mechanics to deal primarily with internal and external flows (low-speed and high speed) relevant to aerospace applications. Students are expected to be able to analyse flows past airfoils, wings as well as nozzles and diffusers which form the basic building blocks of an airplane.

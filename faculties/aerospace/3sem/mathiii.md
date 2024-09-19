@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Determinants and Matrices (11 hours)**
    - Determinant and its properties 

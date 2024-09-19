@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Control System Background (2 hours)**
     * History of control system and its importance

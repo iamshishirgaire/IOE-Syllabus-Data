@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Definition and Analysis method (2 hours)**
     * Definition and Properties of a Fluid

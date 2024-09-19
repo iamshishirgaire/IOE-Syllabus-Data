@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Introduction (4 hours)**
     * Engineering Design

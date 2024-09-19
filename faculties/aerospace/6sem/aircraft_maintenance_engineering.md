@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Why do have to do Maintenance? (4 hours)**
    * Introduction

@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Gas Power Cycle (10 hours)**
     * Air standard cycles - Otto - Diesel - Dual - Work output, Efficiency and MEP calculations

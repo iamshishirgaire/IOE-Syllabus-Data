@@ -1,10 +1,3 @@
-## FLEET PLANNING FOR AIRLINES
-
-**Course Objectives:**
-
-To conceptualize and visualize the process of fleet planning as applied to scheduled airlines operating aircraft.
-
-### **Syllabus**
 
 **1. Introduction (7 Hours)**
 

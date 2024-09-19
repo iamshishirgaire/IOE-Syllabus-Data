@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Introduction (6 hours)**
    * Introduction, Mathematical Preliminaries

@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Instrumental Drawing, Technical Lettering Practices and Techniques (2 hours)**
    - Equipment and materials

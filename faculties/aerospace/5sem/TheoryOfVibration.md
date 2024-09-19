@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Engine Force Analysis (2 hours)**
     * Analytical Method for Velocity and Acceleration of the Piston and the Connecting Rod

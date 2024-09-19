@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ### Objectives:
 After the completion of the course, the student shall be able to:

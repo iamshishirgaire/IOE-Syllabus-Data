@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ### 1. Introduction (2 hours)
 - Definitions and scope of Applied Mechanics

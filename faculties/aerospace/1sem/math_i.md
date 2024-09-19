@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ## 1. Derivatives and their Applications (14 hours)
 

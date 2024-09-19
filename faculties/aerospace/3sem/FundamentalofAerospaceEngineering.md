@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Standard Atmosphere (2 hours)**
     * Derive the formulation for the standard atmosphere, including the various altitude definitions. 

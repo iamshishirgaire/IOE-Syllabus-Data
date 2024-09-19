@@ -1,5 +1,3 @@
-## **Subject Content**
-
 ### 1. General Electric System (6 hours)
 - Constituent parts of an electrical system (source, load, communication & control)
 - Current flow in a circuit
