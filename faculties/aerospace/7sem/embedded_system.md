@@ -1,6 +1,3 @@
-## **Subject Content**
-
-### Topics:
 
 1. **Introduction (5 hours)**
     * Course Overview

@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Introduction (9 hours)**
    - Introduction to CAD

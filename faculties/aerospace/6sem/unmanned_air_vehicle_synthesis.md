@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **UAV Aerodynamics (8 hours)**
    * Introduction

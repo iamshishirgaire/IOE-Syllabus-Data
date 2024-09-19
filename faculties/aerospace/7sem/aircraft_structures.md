@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Introduction to Aircraft Structural Design (6 hours)**
     * Structural layout of the Airplane and components

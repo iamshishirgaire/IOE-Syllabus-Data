@@ -1,4 +1,3 @@
-# Course Content:
 
 1. **Introduction (4 hours)**
     * Definition and Scope of Engineering Thermodynamics

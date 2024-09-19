@@ -1,8 +1,3 @@
-## **Subject Content**
-
-The aircraft environmental control is vital to modern aircraft because of increasingly comfort level for commercial airliners and intensively avionics cooling for military aircraft. This course mainly focuses on fundamentals of aircraft environmental control and aircraft control systems and components. Fundamentals of aircraft environmental control mainly include atmosphere, aviation physiology, phycrometrics and air conditioning processes.
-
-### **Topics**
 
 1. **Atmosphere  and Aviation Physiology (6 hours)**
     * Structures of atmosphere 

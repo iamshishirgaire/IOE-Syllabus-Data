@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Virtual Work (2 hours)**
     * Definition of Work and Virtual Work

@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ### 1. Overview of Aircraft Manufacturing (2 hours)
 

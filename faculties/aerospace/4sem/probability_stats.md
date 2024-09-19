@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Descriptive Statistics and Basic Probability (6 hours)**
    * Introductions in statistics and its importance in engineering

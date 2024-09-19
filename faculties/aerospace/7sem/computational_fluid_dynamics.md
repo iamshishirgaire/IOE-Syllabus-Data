@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ### **Introduction to CFD (4 hours)**
 

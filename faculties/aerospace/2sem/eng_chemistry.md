@@ -1,4 +1,3 @@
-## **Subject Content**
 
 ### **1. Electro-chemistry and Buffer (6 hours)**
 

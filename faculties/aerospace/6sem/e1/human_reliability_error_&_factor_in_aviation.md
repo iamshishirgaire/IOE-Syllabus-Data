@@ -1,12 +1,3 @@
-# Syllabus
-
-## Human Reliability, Error and Factor in Aviation
-
-**Course Objectives:**
-
-To understand the Importance of Human Related Errors and its solution in aviation maintenance.
-
-### Topics:
 
 1. **Introduction (2 Hours)**
     * Background

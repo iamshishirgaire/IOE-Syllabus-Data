@@ -1,4 +1,3 @@
-## **Subject Content**
 
 1. **Oscillation (7 hours)**
    - Mechanical Oscillation: Introduction

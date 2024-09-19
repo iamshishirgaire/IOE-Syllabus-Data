@@ -1,4 +1,3 @@
-# Course Content:
 
 1. **Calculus of Two or more variables (6 hours)**
     * Introduction: Limit and Continuity
