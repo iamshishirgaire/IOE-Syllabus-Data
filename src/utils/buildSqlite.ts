@@ -6,11 +6,14 @@ export interface Subject {
   subjectName: string;
   content: string;
 }
-
+export interface Elective {
+  electiveGroup: string;
+  electives: Subject[];
+}
 export interface Semester {
   semesterName: string;
   subjects: Subject[];
-  electives: Subject[];
+  electives?: Elective[]; // Added to handle electives
 }
 
 export interface Faculty {
@@ -53,21 +56,26 @@ export function createAndPopulateDatabase(
       name TEXT NOT NULL,
       content TEXT NOT NULL,
       semester_id INTEGER,
-      faculty_id INTEGER,
-      FOREIGN KEY(semester_id) REFERENCES semester(id),
-      FOREIGN KEY(faculty_id) REFERENCES faculty(id)
+      FOREIGN KEY(semester_id) REFERENCES semester(id)
     )
   `);
 
   db.run(`
-    CREATE TABLE IF NOT EXISTS elective (
+    CREATE TABLE IF NOT EXISTS elective_group (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      group_name TEXT NOT NULL,
+      semester_id INTEGER,
+      FOREIGN KEY(semester_id) REFERENCES semester(id)
+    )
+  `);
+
+  db.run(`
+    CREATE TABLE IF NOT EXISTS elective_subject (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       name TEXT NOT NULL,
       content TEXT NOT NULL,
-      semester_id INTEGER,
-      faculty_id INTEGER,
-      FOREIGN KEY(semester_id) REFERENCES semester(id),
-      FOREIGN KEY(faculty_id) REFERENCES faculty(id)
+      elective_group_id INTEGER,
+      FOREIGN KEY(elective_group_id) REFERENCES elective_group(id)
     )
   `);
 
@@ -96,31 +104,40 @@ export function createAndPopulateDatabase(
       const semesterResult = semesterStmt.run(semester.semesterName, facultyId);
       const semesterId = semesterResult.lastInsertRowid;
 
+      // Insert subjects
       semester.subjects.forEach((subject) => {
-        // Insert subject
         const subjectStmt = db.prepare(
-          "INSERT INTO subject (name, content, semester_id, faculty_id) VALUES (?, ?, ?, ?)"
+          "INSERT INTO subject (name, content, semester_id) VALUES (?, ?, ?)"
         );
-        subjectStmt.run(
-          subject.subjectName,
-          subject.content,
-          semesterId,
-          facultyId
-        );
+        subjectStmt.run(subject.subjectName, subject.content, semesterId);
       });
 
-      semester.electives.forEach((elective) => {
-        // Insert elective
-        const electiveStmt = db.prepare(
-          "INSERT INTO elective (name, content, semester_id, faculty_id) VALUES (?, ?, ?, ?)"
-        );
-        electiveStmt.run(
-          elective.subjectName,
-          elective.content,
-          semesterId,
-          facultyId
-        );
-      });
+      // Insert electives
+      if (semester.electives) {
+        semester.electives.forEach((elective) => {
+          // Insert elective group
+          const electiveGroupStmt = db.prepare(
+            "INSERT INTO elective_group (group_name, semester_id) VALUES (?, ?)"
+          );
+          const electiveGroupResult = electiveGroupStmt.run(
+            elective.electiveGroup,
+            semesterId
+          );
+          const electiveGroupId = electiveGroupResult.lastInsertRowid;
+
+          // Insert elective subjects
+          elective.electives.forEach((electiveSubject) => {
+            const electiveSubjectStmt = db.prepare(
+              "INSERT INTO elective_subject (name, content, elective_group_id) VALUES (?, ?, ?)"
+            );
+            electiveSubjectStmt.run(
+              electiveSubject.subjectName,
+              electiveSubject.content,
+              electiveGroupId
+            );
+          });
+        });
+      }
     });
   });
 

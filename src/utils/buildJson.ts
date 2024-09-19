@@ -1,11 +1,12 @@
 import fs from "fs";
 import path from "path";
-import type { Faculty, Semester, Subject } from "./buildSqlite";
+import type { Faculty, Semester, Subject, Elective } from "./buildSqlite";
 
+// Main function to build JSON from folder
 export function buildJsonFromFolder(folderPath: string) {
   const result: Faculty[] = [];
 
-  const items: string[] = fs.readdirSync(folderPath);
+  const items = fs.readdirSync(folderPath);
 
   items.forEach((item) => {
     const fullPath = path.join(folderPath, item);
@@ -18,25 +19,28 @@ export function buildJsonFromFolder(folderPath: string) {
       });
     }
   });
+
   const outputFilePath = path.join(__dirname, "../../syllabus.json");
   fs.writeFileSync(outputFilePath, JSON.stringify(result, null, 2));
 }
 
+// Function to build semesters from folder
 function buildSemesters(folderPath: string): Semester[] {
   const result: Semester[] = [];
 
-  const items: string[] = fs.readdirSync(folderPath);
+  const items = fs.readdirSync(folderPath);
 
   items.forEach((item) => {
     const fullPath = path.join(folderPath, item);
     const { name } = path.parse(item);
 
     if (fs.statSync(fullPath).isDirectory()) {
-      const res = buildSubjects(fullPath);
+      const { regularSubjects, electiveGroups } =
+        buildSubjectsAndElectives(fullPath);
       result.push({
         semesterName: name,
-        subjects: res.regularSubjects,
-        electives: res.electiveSubjects,
+        subjects: regularSubjects,
+        electives: electiveGroups,
       });
     }
   });
@@ -44,48 +48,69 @@ function buildSemesters(folderPath: string): Semester[] {
   return result;
 }
 
-function buildSubjects(folderPath: string): {
+// Function to build subjects and electives from folder
+function buildSubjectsAndElectives(folderPath: string): {
   regularSubjects: Subject[];
-  electiveSubjects: Subject[];
+  electiveGroups: Elective[];
 } {
   const regularSubjects: Subject[] = [];
-  const electiveSubjects: Subject[] = [];
+  const electiveGroups: Elective[] = [];
 
-  const items: string[] = fs.readdirSync(folderPath);
+  const items = fs.readdirSync(folderPath);
 
   items.forEach((item) => {
     const fullPath = path.join(folderPath, item);
     const { name, ext } = path.parse(item);
 
-    // Check if the folder is an elective (starts with "e" followed by a number)
-    //if it is folder and is elective loop through the files in the folder and add them to the electiveSubjects array
-    if (fs.statSync(fullPath).isDirectory() && /^e\d+$/i.test(name)) {
-      const items: string[] = fs.readdirSync(fullPath);
-
-      items.forEach((item) => {
-        const fp = path.join(fullPath, item);
-        const { name, ext } = path.parse(item);
-
-        if (fs.statSync(fp).isFile()) {
-          const subject = {
-            subjectName: name,
-            content: fs.readFileSync(fp, "utf-8"),
-          };
-
-          electiveSubjects.push(subject);
-        }
-      });
+    if (fs.statSync(fullPath).isDirectory()) {
+      // Check if folder is an elective group (e.g., e1, e2, e3)
+      if (/^e\d+$/i.test(name)) {
+        const electiveSubjects = buildSubjects(fullPath);
+        electiveGroups.push({
+          electiveGroup: name,
+          electives: electiveSubjects,
+        });
+      } else {
+        // Process directories that are not elective groups
+        const {
+          regularSubjects: subjects,
+          electiveGroups: nestedElectiveGroups,
+        } = buildSubjectsAndElectives(fullPath);
+        regularSubjects.push(...subjects);
+        electiveGroups.push(...nestedElectiveGroups);
+      }
+    } else if (fs.statSync(fullPath).isFile()) {
+      // If file is not in an elective group folder
+      if (!/^e\d+$/i.test(path.dirname(fullPath))) {
+        const subject = {
+          subjectName: name,
+          content: fs.readFileSync(fullPath, "utf-8"),
+        };
+        regularSubjects.push(subject);
+      }
     }
+  });
+
+  return { regularSubjects, electiveGroups };
+}
+
+// Helper function to build subjects from a folder
+function buildSubjects(folderPath: string): Subject[] {
+  const subjects: Subject[] = [];
+  const items = fs.readdirSync(folderPath);
+
+  items.forEach((item) => {
+    const fullPath = path.join(folderPath, item);
+    const { name } = path.parse(item);
 
     if (fs.statSync(fullPath).isFile()) {
       const subject = {
         subjectName: name,
         content: fs.readFileSync(fullPath, "utf-8"),
       };
-
-      regularSubjects.push(subject);
+      subjects.push(subject);
     }
   });
 
-  return { regularSubjects, electiveSubjects };
+  return subjects;
 }
