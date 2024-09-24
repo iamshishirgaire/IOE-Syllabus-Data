@@ -1,7 +1,3 @@
-## AGRICULTURAL ENGINEERING PROJECT (PART I)
-
-**Course Objective:**
-
 The objective of Agricultural Engineering Project work is to provide students with hands-on skill development and practical learning. This involves design, development, fabrication, testing, evaluation, and exploitation of solutions to Agricultural Engineering problems within a chosen specialization area. 
 
 * Each project group consists of at least 4 students.
@@ -20,11 +16,10 @@ This part exposes students to preparing and presenting technical papers and repo
 
 **Evaluation Scheme:**
 
-| S. N. | Particulars | Marks Distribution |
-|---|---|---|
-| 1 | Project proposal preparation and submission | 10 |
-| 2 | Seminar Presentation | 15 |
-| 3 | Preparation and submission of project report up to methodology etc. | 25 |
-| **Total** | | **50** | 
+| S. N.     | Particulars                                                         | Marks Distribution |
+| --------- | ------------------------------------------------------------------- | ------------------ |
+| 1         | Project proposal preparation and submission                         | 10                 |
+| 2         | Seminar Presentation                                                | 15                 |
+| 3         | Preparation and submission of project report up to methodology etc. | 25                 |
+| **Total** |                                                                     | **50**             |
 
-**Copyright &copy; 2021** 

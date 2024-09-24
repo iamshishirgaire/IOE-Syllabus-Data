@@ -1,9 +1,3 @@
-## AGRICULTURAL EXTENSION EDUCATION & RURAL DEVELOPMENT
-
-**Course Objective:**
-
-1. To familiarize students with agricultural extension education, learning principles, leadership development, and extension delivery systems for the dissemination of agricultural engineering technologies.
-2. To acquaint students with the concept of rural development, its planning, monitoring, and evaluation tools.
 
 **Part – A**
 
@@ -91,24 +85,23 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 12 |
-| 2 | 2 | 12 |
-| 3 | 4 | 12 |
-| 4 | 3 | 12 |
-| 5 | 2 | 12 |
-| 6 | 2 | 8 |
-| 7 | 4 | 12 |
-| 8 | 3 | 6 |
-| 9 | 3 | 8 |
-| 10 | 3 | 8 |
-| 11 | 4 | 6 |
-| 12 | 3 | 8 |
-| 13 | 1 | 8 |
-| 14 | 2 | 8 |
-| 15 | 4 | 8 |
-| 16 | 3 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 12                  |
+| 2         | 2      | 12                  |
+| 3         | 4      | 12                  |
+| 4         | 3      | 12                  |
+| 5         | 2      | 12                  |
+| 6         | 2      | 8                   |
+| 7         | 4      | 12                  |
+| 8         | 3      | 6                   |
+| 9         | 3      | 8                   |
+| 10        | 3      | 8                   |
+| 11        | 4      | 6                   |
+| 12        | 3      | 8                   |
+| 13        | 1      | 8                   |
+| 14        | 2      | 8                   |
+| 15        | 4      | 8                   |
+| 16        | 3      | 6                   |
+| **Total** | **45** | **80**              |
 
-**\*Minor deviation on mark distribution can be made.**

@@ -1,13 +1,3 @@
-## Syllabus
-
-**FARM STRUCTURES AND BUILDING TECHNOLOGY**
-
-**Course Objective:** 
-
-After completion of this course, students will be able to:
-
-1. Understand the functional requirements and planning of a farmstead.
-2. Carry out design and modification of existing designs of cattle housing and agricultural structures.
 
 **Part – A BUILDING TECHNOLOGY**
 
@@ -218,32 +208,29 @@ The practical should be used for problem-solving, and class should be taken of t
 
 The questions will cover the entire chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks distribution* |
-|---|---|---|
-| **Part A** | | |
-| 1 | 2 | 10 |
-| 2 | 4 | 10 |
-| 3 | 2 | 10 |
-| 4 | 2 | 10 |
-| 5 | 2 | 10 |
-| 6 | 3 | 10 |
-| 7 | 2 | 10 |
-| 8 | 2 | 10 |
-| 9 | 2 | 10 |
-| 10 | 2 | 10 |
-| 11 | 2 | 10 |
-| 12 | 2 | 10 |
-| 13 | 2 | 10 |
-| **Part B** | | |
-| 1 | 2 | 10 |
-| 2 | 2 | 10 |
-| 3 | 2 | 10 |
-| 4 | 2 | 10 |
-| 5 | 2 | 10 |
-| 6 | 2 | 10 |
-| 7 | 2 | 10 |
-| 8 | 2 | 10 |
-| **Total** | **45** | **80** |
-
-* Minor deviation on mark distribution can be made.
-* The question setting should be in the multiplication of either 8 or 10. 
+| Chapter    | Hours  | Marks distribution* |
+| ---------- | ------ | ------------------- |
+| **Part A** |        |                     |
+| 1          | 2      | 10                  |
+| 2          | 4      | 10                  |
+| 3          | 2      | 10                  |
+| 4          | 2      | 10                  |
+| 5          | 2      | 10                  |
+| 6          | 3      | 10                  |
+| 7          | 2      | 10                  |
+| 8          | 2      | 10                  |
+| 9          | 2      | 10                  |
+| 10         | 2      | 10                  |
+| 11         | 2      | 10                  |
+| 12         | 2      | 10                  |
+| 13         | 2      | 10                  |
+| **Part B** |        |                     |
+| 1          | 2      | 10                  |
+| 2          | 2      | 10                  |
+| 3          | 2      | 10                  |
+| 4          | 2      | 10                  |
+| 5          | 2      | 10                  |
+| 6          | 2      | 10                  |
+| 7          | 2      | 10                  |
+| 8          | 2      | 10                  |
+| **Total**  | **45** | **80**              |

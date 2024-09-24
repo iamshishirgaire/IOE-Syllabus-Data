@@ -1,8 +1,3 @@
-## REFRIGERATION AND COLD STORAGE
-
-**Course Objective:**
-
-To develop basic concept and fundamental knowledge of air compressor, refrigeration system, psychrometry and cold storage
 
 ### **1. Thermodynamic Cycles (4 hours)**
 
@@ -103,20 +98,16 @@ To develop basic concept and fundamental knowledge of air compressor, refrigerat
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 5 |
-| 2 | 8 | 10 |
-| 3 | 6 | 8 |
-| 4 | 8 | 10 |
-| 5, 6, 7 | 10 | 13 |
-| 8 | 6 | 10 |
-| 9 | 10 | 12 |
-| 10 | 8 | 12 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 5                   |
+| 2         | 8      | 10                  |
+| 3         | 6      | 8                   |
+| 4         | 8      | 10                  |
+| 5, 6, 7   | 10     | 13                  |
+| 8         | 6      | 10                  |
+| 9         | 10     | 12                  |
+| 10        | 8      | 12                  |
+| **Total** | **60** | **80**              |
 
-*There may be minor deviation in marks distribution.
 
-***
-
-**Copyright &copy; 2021** 

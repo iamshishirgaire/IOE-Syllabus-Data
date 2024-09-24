@@ -1,10 +1,3 @@
-## Syllabus
-
-**Aviation Legislation**
-
-**Course Objectives:**
-
-To have a brief understanding of Aviation Regulation followed around the world.
 
 **1. Regulatory Framework (15 Hours)**
 
@@ -90,6 +83,4 @@ There will be questions covering all the chapters in the syllabus. The evaluatio
 | 1 & 4 | 16 |
 | **Total** | **80** |
 
-*Mark Distribution is subject to change as per instructor's discretion
 
-**Copyright © 2021** 

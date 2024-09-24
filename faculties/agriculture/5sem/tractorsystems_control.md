@@ -1,17 +1,3 @@
-## Syllabus: TRACTOR SYSTEMS AND CONTROL
-
-**Course Objective:**
-
-After studying this course, the student shall be able to:
-
-1. Understand tractor developing patterns and principles.
-2. Apply appropriate engineering principles, concepts, theories, definitions, laws, models and patterns to understand and present tractor control systems in a clear and logical form.
-3. Apply knowledge and understanding of power transmission and control in familiar and unfamiliar situations of tractor application.
-4. Analyze the result of experiments accurately and clearly, draw conclusions and make generalizations from experiments.
-5. Appreciate the scientific, social, economic, environmental and technological contributions and applications of tractors.
-
-**Course Outline:**
-
 1. **Tractor as a Source of Mechanical Farm Power (3 hours)**
     * History of Development of Tractors
     * Classification of Tractors
@@ -142,27 +128,23 @@ Tutorial classes shall be devoted to design problem solving on:
 
 The questions will cover all the chapters in the syllabus. The evaluation for the final theory examination is indicated as follows:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 10 |
-| 2.1 | 3 | 10 |
-| 2.2 | 2 | 10 |
-| 2.3 | 3 | 10 |
-| 2.4 | 2 | 10 |
-| 2.5 | 2 | 10 |
-| 2.6 | 2 | 10 |
-| 2.7 | 3 | 10 |
-| 2.8 | 2 | 10 |
-| 3 | 4 | 20 |
-| 4 | 4 | 20 |
-| 5 | 3 | 10 |
-| 6 | 4 | 10 |
-| 7 | 3 | 10 |
-| 8 | 3 | 10 |
-| 9 | 2 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 10                  |
+| 2.1       | 3      | 10                  |
+| 2.2       | 2      | 10                  |
+| 2.3       | 3      | 10                  |
+| 2.4       | 2      | 10                  |
+| 2.5       | 2      | 10                  |
+| 2.6       | 2      | 10                  |
+| 2.7       | 3      | 10                  |
+| 2.8       | 2      | 10                  |
+| 3         | 4      | 20                  |
+| 4         | 4      | 20                  |
+| 5         | 3      | 10                  |
+| 6         | 4      | 10                  |
+| 7         | 3      | 10                  |
+| 8         | 3      | 10                  |
+| 9         | 2      | 10                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
-* The questions setting should be in the multiplication of either 8 or 10.
-
-**Copyright © 2021** 

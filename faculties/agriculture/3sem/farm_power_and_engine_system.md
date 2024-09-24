@@ -1,9 +1,3 @@
-## FARM POWER AND ENGINE SYSTEMS
-
-**Course Objective:**
-
-After completion of this course the students will be able to understand the concept of prime sources of farm power and fundamentals of internal combustion engines.
-
 ### 1. Animate and Inanimate Sources of Farm Power (10 hours)
 
 * **Sources of Farm Power and their Utilization:**
@@ -156,18 +150,15 @@ After completion of this course the students will be able to understand the conc
 
 The questions will cover all the chapters of the syllabus. The evaluation for the final theory examination is indicated as follows:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 12 |
-| 2 | 8 | 10 |
-| 3 | 8 | 10 |
-| 4.1 & 4.2 | 7 | 10 |
-| 4.3 | 8 | 10 |
-| 4.4 & 4.6 | 6 | 9 |
-| 4.5 & 4.7 | 7 | 10 |
-| 4.8 & 5 | 6 | 9 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 12                  |
+| 2         | 8      | 10                  |
+| 3         | 8      | 10                  |
+| 4.1 & 4.2 | 7      | 10                  |
+| 4.3       | 8      | 10                  |
+| 4.4 & 4.6 | 6      | 9                   |
+| 4.5 & 4.7 | 7      | 10                  |
+| 4.8 & 5   | 6      | 9                   |
+| **Total** | **60** | **80**              |
 
-\*There could be minor variation in marks distribution
-
-#### Copyright &copy; 2021

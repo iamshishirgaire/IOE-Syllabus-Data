@@ -1,13 +1,3 @@
-## Syllabus
-
-**HYDRAULICS**
-
-**Course Objective:**
-
-The knowledge of hydraulics is essential to the design of many hydraulic structures. The knowledge of hydraulic is very important to the students and engineers in the field of hydraulic engineering. Hence, this course has been designed to provide basic knowledge of hydraulics to the students of civil engineering so that it would be helpful them to understand the basic phenomena of this science. This course shall be considered as an introduction: common for all civil engineering faculties of Tribhuvan University in the second year second part of undergraduate.
-
-### **Topics:**
-
 1. **Pipe flow (9 hours)**
     * Introduction to pipe flow, distinguish between pipe and open channel flow. Reynolds experiment and flow based on Reynolds's number
     * Laminar flow (Steady uniform incompressible flow in a circular pipe, shear stress, and velocity distribution)
@@ -123,22 +113,17 @@ The following exercises will be performed in this course:
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below: 
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 9 | 8 |
-| 2 | 5 | 8 |
-| 3 | 6 | 10 |
-| 4 | 5 | 8 |
-| 5 | 3 | 4 |
-| 6 | 7 | 10 |
-| 7 | 11 | 12 |
-| 8 | 6 | 8 |
-| 9 | 4 | 6 |
-| 10 | 4 | 6 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 9      | 8                   |
+| 2         | 5      | 8                   |
+| 3         | 6      | 10                  |
+| 4         | 5      | 8                   |
+| 5         | 3      | 4                   |
+| 6         | 7      | 10                  |
+| 7         | 11     | 12                  |
+| 8         | 6      | 8                   |
+| 9         | 4      | 6                   |
+| 10        | 4      | 6                   |
+| **Total** | **60** | **80**              |
 
-*There may be minor variation in marks distribution
-
----
-
-**Copyright &copy; 2021**

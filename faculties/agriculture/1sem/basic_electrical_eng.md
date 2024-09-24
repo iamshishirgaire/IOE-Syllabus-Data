@@ -1,11 +1,3 @@
-## BASIC ELECTRICAL ENGINEERING
-
-**Course Objectives:**
-
-After completion of this course, the student will understand the fundamental concept of DC, AC & 3-phase electrical circuits.
-
-**Course Content:**
-
 1. **General Electric System (6 hours)**
     * Constituent parts of an electrical system (source, load, communication & control)
     * Current flow in a circuit
@@ -103,6 +95,3 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 | 7 | 4 | 10 |
 | 8 | 6 | 10 |
 
-*There may be minor deviation in marks distribution. 
-
-**Copyright © 2021**

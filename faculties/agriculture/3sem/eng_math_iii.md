@@ -1,11 +1,3 @@
-## Syllabus: Engineering Mathematics III
-
-**Course Objective:**
-
-To round out the students' preparation for more sophisticated applications with an introduction to linear algebra, Fourier Series, Laplace Transforms, integral transformation theorems, and linear programming.
-
-### Topics
-
 1. **Determinants and Matrices (11 hours)**
     * Determinant and its properties
     * Solution of system of linear equations
@@ -60,15 +52,13 @@ To round out the students' preparation for more sophisticated applications with 
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 11 | 20 |
-| 2 | 12 | 20 |
-| 3 | 8 | 15 |
-| 4 | 5 | 10 |
-| 5 | 9 | 15 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 11     | 20                  |
+| 2         | 12     | 20                  |
+| 3         | 8      | 15                  |
+| 4         | 5      | 10                  |
+| 5         | 9      | 15                  |
+| **Total** | **45** | **80**              |
 
-\*There may be minor deviation in marks distribution.
 
-***Copyright&copy; 2021*** 

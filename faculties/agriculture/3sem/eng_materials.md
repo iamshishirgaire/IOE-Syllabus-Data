@@ -1,11 +1,3 @@
-# Syllabus
-
-## **ENGINERING MATERIAL**
-
-**Course objective:** 
-
-After completion of this course, student will be familiar about the fundamental properties of construction material.
-
 ### 1. Introduction (3 hours)
 - Scope of the subject
 - Type of building material
@@ -126,18 +118,15 @@ After completion of this course, student will be familiar about the fundamental 
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 4 | 8 |
-| 3 | 12 | 20 |
-| 4 | 5 | 10 |
-| 5 | 6 | 12 |
-| 6 | 6 | 10 |
-| 7 | 6 | 10 |
-| 8 | 3 | 5 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 4      | 8                   |
+| 3         | 12     | 20                  |
+| 4         | 5      | 10                  |
+| 5         | 6      | 12                  |
+| 6         | 6      | 10                  |
+| 7         | 6      | 10                  |
+| 8         | 3      | 5                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution
-
-## Copyright&copy; 2021 

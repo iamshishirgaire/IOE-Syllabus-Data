@@ -1,10 +1,3 @@
-## IRRIGATION AND DRAINAGE ENGINEERING
-
-**Course Objective:**
-
-To orient and familiarize the students in theory, technological development and current practices in problem solving in the area of irrigation and drainage engineering that covers on-farm and off-farm irrigation and drainage systems.
-
-### Syllabus
 
 1. **Introduction [2 hours]**
    * Definition, Need and Objectives of Irrigation
@@ -132,20 +125,20 @@ Tutorial Classes for Design of Irrigation & Drainage structure
 
 ### Practical
 
-| S.N. | Laboratories                                                                                   | Periods |
-| ----- | -------------------------------------------------------------------------------------------- | ------- |
-| 1     | Estimation of Crop Evapotranspiration Using Empirical Methods                               | 2       |
-| 2     | Field evaluation of Crop Evapotranspiration using Lysimeter                                    | 2       |
-| 3     | Measurement of Irrigation Water Using Flow Measuring Structures: Notches, Parshall Flume, H-Flume, Cut-throat Flume | 3       |
-| 4     | Determination of Water Conveyance Efficiency in Unlined and Lined Channels                   | 2       |
-| 5     | Field Evaluation of Check Basin Irrigation                                                    | 2       |
-| 6     | Field Evaluation of Border-Strip Irrigation                                                  | 3       |
-| 7     | Field Evaluation of Sprinkler Irrigation                                                     | 2       |
-| 8     | Field Evaluation of Drip Irrigation                                                         | 2       |
-| 9     | Design of Open Channels                                                                        | 2       |
-| 10    | Determination of Hydraulic Conductivity in the Field and Laboratory for Drainage Investigation | 4       |
-| 11    | Determination of Drainage Coefficient from Daily Rainfall Data                             | 2       |
-| **Total** |                                                                                             | **26**    |
+| S.N.      | Laboratories                                                                                                        | Periods |
+| --------- | ------------------------------------------------------------------------------------------------------------------- | ------- |
+| 1         | Estimation of Crop Evapotranspiration Using Empirical Methods                                                       | 2       |
+| 2         | Field evaluation of Crop Evapotranspiration using Lysimeter                                                         | 2       |
+| 3         | Measurement of Irrigation Water Using Flow Measuring Structures: Notches, Parshall Flume, H-Flume, Cut-throat Flume | 3       |
+| 4         | Determination of Water Conveyance Efficiency in Unlined and Lined Channels                                          | 2       |
+| 5         | Field Evaluation of Check Basin Irrigation                                                                          | 2       |
+| 6         | Field Evaluation of Border-Strip Irrigation                                                                         | 3       |
+| 7         | Field Evaluation of Sprinkler Irrigation                                                                            | 2       |
+| 8         | Field Evaluation of Drip Irrigation                                                                                 | 2       |
+| 9         | Design of Open Channels                                                                                             | 2       |
+| 10        | Determination of Hydraulic Conductivity in the Field and Laboratory for Drainage Investigation                      | 4       |
+| 11        | Determination of Drainage Coefficient from Daily Rainfall Data                                                      | 2       |
+| **Total** |                                                                                                                     | **26**  |
 
 ### References
 
@@ -167,23 +160,21 @@ Tutorial Classes for Design of Irrigation & Drainage structure
 
 The questions will cover the entire chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-| ------- | ----- | ------------------ |
-| 1       | 2     | 4                   |
-| 2       | 5     | 10                  |
-| 3       | 5     | 10                  |
-| 4       | 3     | 4                   |
-| 5       | 3     | 4                   |
-| 6       | 5     | 10                  |
-| 7       | 2     | 4                   |
-| 8       | 3     | 5                   |
-| 9       | 4     | 8                   |
-| 10      | 3     | 5                   |
-| 11      | 5     | 8                   |
-| 12      | 1     | 8                   |
-| 13      | 3     | 8                   |
-| 14      | 1     | 8                   |
-| **Total** | **45** | **80**                |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 5      | 10                  |
+| 3         | 5      | 10                  |
+| 4         | 3      | 4                   |
+| 5         | 3      | 4                   |
+| 6         | 5      | 10                  |
+| 7         | 2      | 4                   |
+| 8         | 3      | 5                   |
+| 9         | 4      | 8                   |
+| 10        | 3      | 5                   |
+| 11        | 5      | 8                   |
+| 12        | 1      | 8                   |
+| 13        | 3      | 8                   |
+| 14        | 1      | 8                   |
+| **Total** | **45** | **80**              |
 
-* There may be minor variation in marks distribution.
-* The questions setting should be in the multiplication of either 8 or 10. 

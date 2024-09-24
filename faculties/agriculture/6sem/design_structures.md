@@ -1,9 +1,3 @@
-## Syllabus - Design of Structures
-
-**Course Objective:** 
-
-This course aims to teach students the concepts of structural design and computational analysis for the design and management of agricultural projects. It provides a practical approach to the various aspects of the subject and emphasizes the application of steel, timber, and concrete structures to solve engineering problems in the agricultural engineering field.
-
 ### Part-A: Design of Steel and Timber Structures
 
 1. **Introduction [2 hours]**
@@ -141,30 +135,22 @@ Tutorial classes will focus on design problem-solving. Students will be required
 
 The questions will cover the entire chapter of the syllabus. The evaluation scheme is as follows:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| **Part – A** |  |  |
-| 1 | 2 | 8 |
-| 2 | 3 | 8 |
-| 3 | 4 | 5 |
-| 4 | 2 | 10 |
-| 5 | 4 | 10 |
-| 6 | 4 | 5 |
-| 7 | 3 | 8 |
-| 8 | 4 | 8 |
-| 9 | 4 | 5 |
-| **Part – B** |  |  |
-| 1 | 4 | 5 |
-| 2 | 4 | 5 |
-| 3 | 4 | 5 |
-| 4 | 6 | 8 |
-| 5 | 12 | 16 |
-| **Total** | **60** | **80** |
-
-*There may be minor deviations in marks distribution.
-
-*The question setting should be in multiples of either 8 or 10.
-
-### Copyright
-
-Copyright © 2021
+| Chapter      | Hours  | Marks Distribution* |
+| ------------ | ------ | ------------------- |
+| **Part – A** |        |                     |
+| 1            | 2      | 8                   |
+| 2            | 3      | 8                   |
+| 3            | 4      | 5                   |
+| 4            | 2      | 10                  |
+| 5            | 4      | 10                  |
+| 6            | 4      | 5                   |
+| 7            | 3      | 8                   |
+| 8            | 4      | 8                   |
+| 9            | 4      | 5                   |
+| **Part – B** |        |                     |
+| 1            | 4      | 5                   |
+| 2            | 4      | 5                   |
+| 3            | 4      | 5                   |
+| 4            | 6      | 8                   |
+| 5            | 12     | 16                  |
+| **Total**    | **60** | **80**              |

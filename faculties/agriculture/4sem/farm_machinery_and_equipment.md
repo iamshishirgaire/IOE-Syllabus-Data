@@ -1,10 +1,3 @@
-## Syllabus - FARM MACHINERY AND EQUIPMENT
-
-**Course Objective:**
-
-After completing this course, students will be familiar with primary and secondary tillage implements, seeding, planting, harvesting, threshing, plant protection machines, equipment, and their management.
-
-### Topics Covered
 
 1. **Objectives and Scope of Farm Mechanization (2 hours)**
     * Objectives of Farm Mechanization
@@ -153,22 +146,17 @@ After completing this course, students will be familiar with primary and seconda
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 & 2 | 5 | 6 |
-| 3.1 & 3.2 | 6 | 8 |
-| 3.3 & 3.4 | 8 | 12 |
-| 3.5 & 3.6 | 5 | 6 |
-| 3.7 | 3 | 5 |
-| 4 | 5 | 7 |
-| 5 | 4 | 6 |
-| 6, 7 & 8 | 16 | 20 |
-| 9 & 10 | 4 | 5 |
-| 11 | 4 | 5 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 5      | 6                   |
+| 3.1 & 3.2 | 6      | 8                   |
+| 3.3 & 3.4 | 8      | 12                  |
+| 3.5 & 3.6 | 5      | 6                   |
+| 3.7       | 3      | 5                   |
+| 4         | 5      | 7                   |
+| 5         | 4      | 6                   |
+| 6, 7 & 8  | 16     | 20                  |
+| 9 & 10    | 4      | 5                   |
+| 11        | 4      | 5                   |
+| **Total** | **60** | **80**              |
 
-*There may be minor deviations in marks distribution.
-
----
-
-**Copyright © 2021** 

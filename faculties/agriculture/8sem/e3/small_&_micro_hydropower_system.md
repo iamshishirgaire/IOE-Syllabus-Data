@@ -1,13 +1,3 @@
-## Syllabus: SMALL AND MICRO‐HYDRO  POWER SYSTEM
-
-**AE 785 04**
-
-**Course Objective:**
-
-After the completion of this course students will be able to locate and predict the small and micro‐hydro  power sources for the fulfilment of requirement of energy in Agricultural  Engineering activities in rural areas. This course also emphasizes in review,  system design and development, commissioning and testing of such rural micro‐hydro power station and supply  electrical energy to operate tools, equipments and machineries used in  agricultural works.
-
-### Course Content
-
 1. **Review  of Small and Micro</strong><strong>‐</strong><strong>Hydropower Systems in  Nepal</strong><strong>(2  hours)</strong>
     * Importance of small  and Micro‐hydropower Systems in  Nepal
     * History of development  of Small Hydropower Systems
@@ -95,19 +85,16 @@ After the completion of this course students will be able to locate and predict 
 
 The  questions will cover all the chapters in the Syllabus. The evaluation scheme  will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 16 |
-| 2 | 6 | 16 |
-| 3 | 6 | 8 |
-| 4 | 15 | 32 |
-| 5 | 3 | 8 |
-| 6 | 2 | 8 |
-| 7 | 3 | 16 |
-| 8 | 6 | 16 |
-| 9 | 2 | 16 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 16                  |
+| 2         | 6      | 16                  |
+| 3         | 6      | 8                   |
+| 4         | 15     | 32                  |
+| 5         | 3      | 8                   |
+| 6         | 2      | 8                   |
+| 7         | 3      | 16                  |
+| 8         | 6      | 16                  |
+| 9         | 2      | 16                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation on mark distribution
-
-**Copyright&copy; 2021**

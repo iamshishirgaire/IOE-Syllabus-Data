@@ -1,13 +1,3 @@
-# Syllabus
-
-## Estimating and Costing
-
-**Course objective:** 
-
-To provide the knowledge of basic tools and methodology of estimating and costing of a construction work. After completion of this course, the students can prepare detailed estimates of Building, Agricultural Roads & Farm Buildings and can prepare BOQ. They can also write specifications of building materials and building works.
-
-### Topics:
-
 1. **Introduction (2 hours)**
     * General
     * System of Units
@@ -79,17 +69,15 @@ Six Estimation Assignments on following Projects:
 
 ### Evaluation Scheme:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 4 | 6 |
-| 3 | 3 | 4 |
-| 4 | 4 | 6 |
-| 5 | 6 | 12 |
-| 6 | 18 | 32 |
-| 7 | 5 | 16 |
-| **Total** | **42** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 4      | 6                   |
+| 3         | 3      | 4                   |
+| 4         | 4      | 6                   |
+| 5         | 6      | 12                  |
+| 6         | 18     | 32                  |
+| 7         | 5      | 16                  |
+| **Total** | **42** | **80**              |
 
-* Minor deviation on mark distribution can be made.
 
-***Copyright&copy; 2021*** 

@@ -1,12 +1,3 @@
-## CLIMATE CHANGE  AND ADAPTATION MEASURES
-
-**Course Objective:**
-
-1. To familiarize students with global warming, climate change and causes of climate change, and its impact on agriculture. 
-2. To acquaint and equip the students with adaptation and mitigation options in the context of climate change and global warming activities. 
-
-### Course Outline:
-
 1. **Climate and climate change science overview [2 hours]** 
 2. **Climate and weather, their parameters and global warming [3 hours]**
     - Definition, present scenario of global warming in global and Nepalese context, causes of global warming
@@ -79,17 +70,16 @@
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 8 |
-| 2 | 3 | 8 |
-| 3 | 2 | 16 |
-| 4 | 4 | 16 |
-| 5 | 8 | 16 |
-| 6 | 4 | 16 |
-| 7 | 4 | 16 |
-| 8 | 12 | 16 |
-| 9 | 6 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 8                   |
+| 2         | 3      | 8                   |
+| 3         | 2      | 16                  |
+| 4         | 4      | 16                  |
+| 5         | 8      | 16                  |
+| 6         | 4      | 16                  |
+| 7         | 4      | 16                  |
+| 8         | 12     | 16                  |
+| 9         | 6      | 8                   |
+| **Total** | **45** | **80**              |
 
-*Minor deviation on mark distribution can be made. 

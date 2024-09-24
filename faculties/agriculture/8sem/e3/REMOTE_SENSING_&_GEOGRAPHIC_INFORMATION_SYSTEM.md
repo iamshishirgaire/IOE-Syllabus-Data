@@ -1,14 +1,3 @@
-# Syllabus
-
-## REMOTE SENSING & GEOGRAPHIC INFORMATION SYSTEM
-**AE 785 02**
-
-**Course Objective:** 
-To acquaint and provide the students with detailed information about the modern technologies of remote sensing and geographic information system for watershed management and planning.
-
-
-##  Course Content
-
 1. **Introduction (2 hours)**
     * Necessity and importance
     * Application and scope
@@ -121,22 +110,19 @@ To acquaint and provide the students with detailed information about the modern 
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 16 |
-| 2 | 4 | 16 |
-| 3 | 4 | 16 |
-| 4 | 5 | 16 |
-| 5 | 7 | 16 |
-| 6 | 4 | 16 |
-| 7 | 5 | 16 |
-| 8 | 5 | 16 |
-| 9 | 7 | 16 |
-| 10 | 2 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 16                  |
+| 2         | 4      | 16                  |
+| 3         | 4      | 16                  |
+| 4         | 5      | 16                  |
+| 5         | 7      | 16                  |
+| 6         | 4      | 16                  |
+| 7         | 5      | 16                  |
+| 8         | 5      | 16                  |
+| 9         | 7      | 16                  |
+| 10        | 2      | 16                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distributions
 
-## Copyright
 
-Copyright &copy; 2021 

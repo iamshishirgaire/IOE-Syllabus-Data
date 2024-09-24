@@ -1,11 +1,3 @@
-## Syllabus: Fluid Mechanics
-
-**Course Objective:**
-
-A proper understanding of fluid mechanics is extremely important in many areas of civil engineering. This course has been designed to provide basic knowledge of fluid mechanics to the students of civil engineering so that it would be helpful them to understand the basic phenomena of this science. This course shall be considered as an introduction: common for all civil engineering faculties of Tribhuvan University in the second year first part of undergraduate.
-
-**Course Content:**
-
 1. **Fluid and its physical properties (3 hours)**
     - Basic concept and definition of fluid. Application in civil engineering
     - Shear stress in a moving fluid, Difference between solids and fluids
@@ -132,20 +124,17 @@ There shall be related tutorials exercised in class and given as regular homewor
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below: 
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 4 | 6 |
-| 3 | 10 | 15 |
-| 4 | 4 | 6 |
-| 5 | 2 | 4 |
-| 6 | 7 | 12 |
-| 7 | 6 | 8 |
-| 8 | 3 | 7 |
-| 9 | 3 | 8 |
-| 10 | 3 | 8 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 4      | 6                   |
+| 3         | 10     | 15                  |
+| 4         | 4      | 6                   |
+| 5         | 2      | 4                   |
+| 6         | 7      | 12                  |
+| 7         | 6      | 8                   |
+| 8         | 3      | 7                   |
+| 9         | 3      | 8                   |
+| 10        | 3      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution
-
-**Copyright © 2021** 

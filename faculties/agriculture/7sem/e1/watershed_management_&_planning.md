@@ -1,11 +1,3 @@
-## WATERSHED MANAGEMENT AND PLANNING  AE 725 02
-
-**Course Objective:** 
-
-To familiarize and orient students in planning, management, and development of engineering problem-solving technology related to watershed management.
-
-### Syllabus:
-
 1. **Introduction and Concept of Watershed Management (7 hours)**
    * Definition and Classification of Watershed
    * Delineation of Watershed Boundary
@@ -110,16 +102,15 @@ To familiarize and orient students in planning, management, and development of e
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 7 | 12 |
-| 2 | 5 | 8 |
-| 3 | 6 | 12 |
-| 4 | 6 | 12 |
-| 5 | 4 | 8 |
-| 6 | 5 | 8 |
-| 7 | 7 | 12 |
-| 8 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 7      | 12                  |
+| 2         | 5      | 8                   |
+| 3         | 6      | 12                  |
+| 4         | 6      | 12                  |
+| 5         | 4      | 8                   |
+| 6         | 5      | 8                   |
+| 7         | 7      | 12                  |
+| 8         | 5      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variations in marks distribution. 

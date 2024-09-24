@@ -1,14 +1,3 @@
-# Syllabus
-
-## DESIGN OF SOIL & WATER CONSERVATION STRUCTURES
-**AE 765 02**
-
-**Course Objective:**
-
-The primary objective of this course is to familiarize the students with the various soil and water conservation structures and their design that exercises in Agricultural Engineering. Secondly, this course emphasizes the design and development of simple and effective technologies and structures that conserve soil and water.
-
-## Course Outline
-
 1. **Introduction (3 hours)**
     - Importance of structural means in soil and water conservation
     - Functional requirements of soil and water conservation structures
@@ -114,16 +103,15 @@ The primary objective of this course is to familiarize the students with the var
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 4 | 8 |
-| 3 | 4 | 8 |
-| 4 | 12 | 20 |
-| 5 | 6 | 10 |
-| 6 | 6 | 10 |
-| 7 | 4 | 8 |
-| 8 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 4      | 8                   |
+| 3         | 4      | 8                   |
+| 4         | 12     | 20                  |
+| 5         | 6      | 10                  |
+| 6         | 6      | 10                  |
+| 7         | 4      | 8                   |
+| 8         | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor variations in marks distribution. 

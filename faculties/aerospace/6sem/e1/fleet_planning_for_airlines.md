@@ -92,4 +92,3 @@ There will be questions covering all the chapters in the syllabus. The evaluatio
 | 7 & 8 | 16 |
 | **Total** | **80** |
 
-**Copyright &copy; 2021**
