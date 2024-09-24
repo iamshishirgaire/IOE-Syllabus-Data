@@ -1,17 +1,3 @@
-# Syllabus
-
-## **ENGINEERING  ECONOMICS**
-
-<p align="center"><strong>ENGINEERING  ECONOMICS</strong><br>
-		  </p><p><strong>Course  Objective:</strong> <br>
-  After  completion of this course the students will be able to:</p>
-
-1. Understand the basic terms, concepts  and principles of economics required for management decisions.
-2. Prepare simple farm planning and  budgeting to modify existing tools and equipment for better crop production or  repair and maintenance work of them. 
-3. Carryout the simple economic and  financial analysis in the field of agricultural engineering.
-
-## **Course Outline**
-
 1. **Basic Terms and Concepts in Economics [10 hours]**
     * Definition and Scope
     * Basic Concepts of Goods, Utility,  Value, Wealth, Equilibrium and Margin
@@ -28,7 +14,7 @@
         * Characteristics of Monopoly Market
         * Characteristics of Monopolistic Market 
 
-<br>
+
 
 2. **Production  Economics Related to Management Decision [10 hours]**
     * Production Economics and its objectives
@@ -45,7 +31,7 @@
         * Principle of Comparative Advantage
         * Principle of Time Comparison
 
-<br>
+
 
 3. **Tools of Farm  Management [9 hours]**
     * Farm Planning
@@ -60,7 +46,7 @@
         * Farm Prices and Production Efficiency
         * Factors Affecting Farm Costs and Income 
 
-<br>
+
 
 4. **Economic and  Financial Analysis [8 hours]**
     * Definition of Cash Flow
@@ -79,7 +65,7 @@
     * Financial Analysis
     * Risk and Sensitivity Analysis 
 
-<br>
+
 
 5. **Investment  Decisions [8 hours]**
     * Comparison of Alternatives having same  useful life
@@ -102,19 +88,12 @@ Tutorial  shall be used in problem solving on such farm management decisions as-
 
 The questions will cover the entire  chapter of the syllabus. The evaluation scheme will be as indicated in the  table below:       
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 15 |
-| 2 | 10 | 20 |
-| 3 | 9 | 15 |
-| 4 | 8 | 15 |
-| 5 | 8 | 15 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 15                  |
+| 2         | 10     | 20                  |
+| 3         | 9      | 15                  |
+| 4         | 8      | 15                  |
+| 5         | 8      | 15                  |
+| **Total** | **45** | **80**              |
 
-**\*There may be  mirror deviation in marks distribution.**  
-
-**\*The questions  setting should be in the multiplication of either 8 or 10.**
-
-## **Copyright**
-
-Copyright&copy; 2021 

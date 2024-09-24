@@ -133,5 +133,3 @@ The questions will cover all the chapters of the syllabus. The evaluation scheme
 | 4         | 7 & 9    | All    | 16     |
 | 5         | 10       | All    | 16     |
 | **Total** |          |        | **80** |
-
-021

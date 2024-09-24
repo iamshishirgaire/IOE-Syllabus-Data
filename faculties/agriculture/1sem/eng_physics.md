@@ -1,9 +1,3 @@
-## Syllabus - Engineering Physics
-
-**Course objectives:** To provide the concept and knowledge of physics with the emphasis of present day application. The background of physics corresponding to Proficiency Certificate Level is assumed.
-
-### Topics:
-
 1. **Oscillation (7 hours)**
    - Mechanical Oscillation: Introduction
    - Free oscillation
@@ -111,6 +105,4 @@ There will be questions covering all the chapters in the syllabus. The evaluatio
 | 10 | 5 | 5 |
 | **Total** | **60** | **80** |
 
-*There may be minor deviation in mark distribution.
 
-**Copyright &copy; 2021** 

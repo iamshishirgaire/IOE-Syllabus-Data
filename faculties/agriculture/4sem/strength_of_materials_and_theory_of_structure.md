@@ -1,13 +1,3 @@
-# Syllabus
-
-## **STRENGTH OF MATERIALS AND THEORY OF STRUCTURES**
-
-**Course Objective:**
-
-To provide fundamental knowledge, concept and methods of analysis for solving problems related to different load conditions, stress and strains on structures and components. The students will be able to analyze, calculate and design basic components of structure and other engineering components on the basis of strength, stiffness and stability of the material.
-
-## **Course Outline:**
-
 1. **Introduction (2 hours)** 
     * Types of structure based on material used
     * Statically determinate and indeterminate structures
@@ -88,18 +78,15 @@ To provide fundamental knowledge, concept and methods of analysis for solving pr
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1,2 | 5 | 6 |
-| 3,4 | 6 | 8 |
-| 5,6 | 9 | 15 |
-| 7 | 8 | 10 |
-| 8 | 6 | 8 |
-| 9 | 6 | 8 |
-| 10 | 12 | 15 |
-| 11 | 8 | 10 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1,2       | 5      | 6                   |
+| 3,4       | 6      | 8                   |
+| 5,6       | 9      | 15                  |
+| 7         | 8      | 10                  |
+| 8         | 6      | 8                   |
+| 9         | 6      | 8                   |
+| 10        | 12     | 15                  |
+| 11        | 8      | 10                  |
+| **Total** | **60** | **80**              |
 
-*There may be minor variation in marks distribution. 
-
-## **Copyright &copy; 2021** 

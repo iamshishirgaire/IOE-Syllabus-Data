@@ -1,12 +1,3 @@
-## DESIGN OF PRESSURIZED AND MICRO IRRIGATION SYSTEM
-**AE 765 01**
-
-**Course Objective:**
-
-To familiarize and orient students in theory, planning, technological development and management in engineering problem solving in the area of pressurized and micro-irrigation system.
-
-### **Syllabus**
-
 1. **Introduction (7 hours)**
     * Concept and Importance of pressurized and micro irrigation
     * Types of pressurized and micro irrigation system
@@ -66,16 +57,11 @@ To familiarize and orient students in theory, planning, technological developmen
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 7 | 16 |
-| 2 | 15 | 24 |
-| 3 | 15 | 24 |
-| 4 | 8 | 16 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 7      | 16                  |
+| 2         | 15     | 24                  |
+| 3         | 15     | 24                  |
+| 4         | 8      | 16                  |
+| **Total** | **45** | **80**              |
 
-* Minor deviation on mark distribution can be made.
-
----
-
-**Copyright © 2021** 

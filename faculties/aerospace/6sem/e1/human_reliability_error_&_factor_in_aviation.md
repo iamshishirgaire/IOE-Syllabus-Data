@@ -92,4 +92,3 @@ There will be questions covering all the chapters in the syllabus. The evaluatio
 
 ***
 
-Copyright © 2021 

@@ -1,11 +1,3 @@
-# Syllabus: Electric Systems and Machines
-
-## Course Objective
-
-After completing this course, students will understand the fundamentals of electrical supply, measurement, safety, protection, and machines.
-
-## Course Content
-
 1. **Introduction to Supply and Distribution (6 hours)**
     * Introduction to electrical supply & distribution
     * Introduction to electrical installation
@@ -117,20 +109,16 @@ After completing this course, students will understand the fundamentals of elect
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme is as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 6 | 12 |
-| 2 & 3 | 6 | 12 |
-| 4 & 5 | 7 | 12 |
-| 6 | 7 | 12 |
-| 7 | 6 | 8 |
-| 8 | 4 | 8 |
-| 9 | 5 | 8 |
-| 10 & 11 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 12                  |
+| 2 & 3     | 6      | 12                  |
+| 4 & 5     | 7      | 12                  |
+| 6         | 7      | 12                  |
+| 7         | 6      | 8                   |
+| 8         | 4      | 8                   |
+| 9         | 5      | 8                   |
+| 10 & 11   | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
 
-## Copyright
-
-Copyright © 2021

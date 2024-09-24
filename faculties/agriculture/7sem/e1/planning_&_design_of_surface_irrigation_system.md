@@ -1,11 +1,3 @@
-# Syllabus
-
-## PLANNING AND DESIGN OF SURFACE IRRIGATION SYSTEM<br>
-AE 725 01
-
-**Course Objective:**<br>
-To familiarize and orient the students in theory, planning, technological development and management in engineering problem solving in the area of surface irrigation system.
-
 ### 1. Introduction (2 hours)
 
 * Classification of Irrigation System
@@ -125,20 +117,15 @@ To familiarize and orient the students in theory, planning, technological develo
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 5 | 8 |
-| 3 | 3 | 4 |
-| 4 | 7 | 12 |
-| 5 | 7 | 12 |
-| 6 | 12 | 24 |
-| 7 | 7 | 12 |
-| 8 | 2 | 4 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 5      | 8                   |
+| 3         | 3      | 4                   |
+| 4         | 7      | 12                  |
+| 5         | 7      | 12                  |
+| 6         | 12     | 24                  |
+| 7         | 7      | 12                  |
+| 8         | 2      | 4                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
-
-## Copyright
-
-Copyright &copy; 2021

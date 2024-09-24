@@ -1,11 +1,3 @@
-## ENGINEERING DRAWING I
-
-**Course Objective:**
-
-To develop basic projection concepts with reference to points, lines, planes and geometrical solids. Also to develop sketching and drafting skills to facilitate communication.
-
-**Syllabus:**
-
 1. **Instrumental Drawing, Technical Lettering Practices and Techniques (2 hours)**
     * Equipment and materials
     * Description of drawing instruments, auxiliary equipment and drawing materials
@@ -92,6 +84,3 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 | 6 | 18 | 14 |
 | Total | 60 | 40 |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 

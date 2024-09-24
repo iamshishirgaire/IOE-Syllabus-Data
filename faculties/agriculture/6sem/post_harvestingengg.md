@@ -1,12 +1,3 @@
-## Syllabus - POST HARVEST ENGINEERING 
-
-**Course Objective:**
-
-1. To acquaint and equip the students with different unit operations of food process industries.
-2. To acquaint and equip the students with the post harvest technology of cereals, pulses and oilseeds with special emphasis on their equipments. 
-
-**Course Outline:**
-
 1. **Food Processing** [6 Hours]
     * Scope and importance of food processing
     * Principles and methods of food processing
@@ -79,20 +70,20 @@
 
 **Practical:**
 
-| S.N | Name of the experiment | Hours |
-|---|---|---|
-| 1 | Preparation of flow and layout charts of a food processing plant | 2 |
-| 2 | Determination of fineness modulus and uniformity index | 2 |
-| 3 | Performance evaluation of hammer mill | 3 |
-| 4 | Performance evaluation of attrition mill | 3 |
-| 5 | Study of cleaning equipments | 2 |
-| 6 | Separation behaviour in pneumatic separation | 2 |
-| 7 | Mixing index and study of mixers | 2 |
-| 8 | Study of conveying equipments | 2 |
-| 9 | Performance evaluation of bucket elevator | 3 |
-| 10 | Drying characteristic and determination of drying constant | 3 |
-| 11 | Determination of EMC and ERH | 2 |
-| **Total** | **26** |
+| S.N       | Name of the experiment                                           | Hours |
+| --------- | ---------------------------------------------------------------- | ----- |
+| 1         | Preparation of flow and layout charts of a food processing plant | 2     |
+| 2         | Determination of fineness modulus and uniformity index           | 2     |
+| 3         | Performance evaluation of hammer mill                            | 3     |
+| 4         | Performance evaluation of attrition mill                         | 3     |
+| 5         | Study of cleaning equipments                                     | 2     |
+| 6         | Separation behaviour in pneumatic separation                     | 2     |
+| 7         | Mixing index and study of mixers                                 | 2     |
+| 8         | Study of conveying equipments                                    | 2     |
+| 9         | Performance evaluation of bucket elevator                        | 3     |
+| 10        | Drying characteristic and determination of drying constant       | 3     |
+| 11        | Determination of EMC and ERH                                     | 2     |
+| **Total** | **26**                                                           |
 
 **Reference:**
 
@@ -107,19 +98,16 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 16 |
-| 2 | 5 | 16 |
-| 3 | 5 | 8 |
-| 4 | 5 | 8 |
-| 5 | 4 | 8 |
-| 6 | 8 | 16 |
-| 7 | 4 | 8 |
-| 8 | 8 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 16                  |
+| 2         | 5      | 16                  |
+| 3         | 5      | 8                   |
+| 4         | 5      | 8                   |
+| 5         | 4      | 8                   |
+| 6         | 8      | 16                  |
+| 7         | 4      | 8                   |
+| 8         | 8      | 16                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution. 
-* The questions setting should be in multiplication of either 8 or 10.
 
-**Copyright&copy; 2019** 

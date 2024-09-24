@@ -1,14 +1,3 @@
-## Syllabus
-
-**BIO‐ENERGY TECHNOLOGIES<br>
-AE 725 04**
-
-**Course Objective:** 
-
-The primary objective of this course is to introduce bio‐energy sources and their conversion methods used to fulfill the energy requirements of Agricultural Engineering activities in rural areas. Secondly, the course emphasizes the design and development of rural technologies that convert rural bio‐energy sources into usable forms and supply it to operate tools, equipment, and machinery used in agricultural works. 
-
-### Course Content:
-
 1. **Bio‐mass Energy (4 hours)**
     * Introduction to bio‐mass energy
     * Characteristics of Bio‐energy Resource
@@ -120,19 +109,13 @@ The primary objective of this course is to introduce bio‐energy sources and th
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 15 |
-| 2 | 5 | 15 |
-| 3 | 8 | 15 |
-| 4 | 8 | 15 |
-| 5 | 8 | 15 |
-| 6 | 8 | 15 |
-| 7 | 4 | 5 |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution.
-
----
-
-**Copyright&copy; 2021** 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 15                  |
+| 2         | 5      | 15                  |
+| 3         | 8      | 15                  |
+| 4         | 8      | 15                  |
+| 5         | 8      | 15                  |
+| 6         | 8      | 15                  |
+| 7         | 4      | 5                   |
+| **Total** | **45** | **80**              |

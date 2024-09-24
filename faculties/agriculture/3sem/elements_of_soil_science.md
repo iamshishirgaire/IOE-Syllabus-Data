@@ -1,9 +1,3 @@
-## Elements of Soil Science
-
-**Course Objective:**
-
-To develop understanding about soil forming processes and soil as a natural body/medium for storage and movement of water, gases, heat, nutrients and physical and chemical properties of soil.
-
 ### 1. Definition, Concept and Use of Soil (2 hours)
 
 * Soils in relation to agricultural production
@@ -118,17 +112,12 @@ To develop understanding about soil forming processes and soil as a natural body
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 12 | 20 |
-| 3 | 8 | 14 |
-| 4 | 8 | 14 |
-| 5 | 15 | 28 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 12     | 20                  |
+| 3         | 8      | 14                  |
+| 4         | 8      | 14                  |
+| 5         | 15     | 28                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
-
-***
-
-This is the converted Markdown version of your HTML. I have preserved the structure and content of the original while removing the HTML tags and attributes. I've also made some formatting adjustments to ensure readability. 

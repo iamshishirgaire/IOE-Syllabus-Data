@@ -1,11 +1,3 @@
-## Rural Engineering and Infrastructure
-
-**Course Objective**
-
-This course provides students with a basic knowledge of rural roads, rural water supply, and sanitation. The first and second topics focus on road planning, including green road concepts, cross drainage structures, retaining structures, geometric design, bio-engineering techniques, and highway maintenance. The third topic covers suspended bridges. The fourth and fifth topics address rural water supply, while the sixth topic focuses on solid waste management and septic tank design.
-
-**Syllabus**
-
 1. **Introduction [1 hour]**
     * Definition and Scope of the Subject
     * Transportation System Classification
@@ -155,16 +147,13 @@ This course provides students with a basic knowledge of rural roads, rural water
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 1 | 32 |
-| 2 | 16 | 32 |
-| 3 | 4 | 8 |
-| 4 | 16 | 24 |
-| 5 | 4 | 8 |
-| 6 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 1      | 32                  |
+| 2         | 16     | 32                  |
+| 3         | 4      | 8                   |
+| 4         | 16     | 24                  |
+| 5         | 4      | 8                   |
+| 6         | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*Minor deviation on mark distribution can be made.
-
-**Note:** The original HTML content contains several formatting issues, particularly with respect to line breaks and nesting. This Markdown version addresses those inconsistencies for better readability. 

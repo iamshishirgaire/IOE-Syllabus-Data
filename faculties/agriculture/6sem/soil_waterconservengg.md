@@ -1,4 +1,3 @@
-## SOIL AND WATER CONSERVATION ENGINEERING
 
 **Introduction [2 hours]**
 * Importance of Soil and Its Conservation
@@ -98,19 +97,19 @@
 
 **Practical:**
 
-| S.N. | Practical | Periods |
-|---|---|---|
-| 1 | Calculation of Rainfall Erosivity Index | 2 |
-| 2 | Use of Weismeir'sNomograph for Soil Erodibility Estimation | 2 |
-| 3 | Use of USLE for Calculation of Soil Loss | 2 |
-| 4 | Design of Vegetated Waterways | 3 |
-| 5 | Design Problem Solving on Bench and Broad Base Terraces | 3 |
-| 6 | Design Problem Solving on Contour and Graded Bunds | 3 |
-| 7 | Design Problem Solving on Check Dams | 3 |
-| 8 | Design of Farm Ponds | 2 |
-| 9 | Field Observation of Check Dams and Other Soil Conservation Structures | 2 |
-| 10 | Field Observation on Bio-Engineering Practices of Soil Conservation | 2 |
-| &nbsp; | **Total** | **24** |
+| S.N.   | Practical                                                              | Periods |
+| ------ | ---------------------------------------------------------------------- | ------- |
+| 1      | Calculation of Rainfall Erosivity Index                                | 2       |
+| 2      | Use of Weismeir'sNomograph for Soil Erodibility Estimation             | 2       |
+| 3      | Use of USLE for Calculation of Soil Loss                               | 2       |
+| 4      | Design of Vegetated Waterways                                          | 3       |
+| 5      | Design Problem Solving on Bench and Broad Base Terraces                | 3       |
+| 6      | Design Problem Solving on Contour and Graded Bunds                     | 3       |
+| 7      | Design Problem Solving on Check Dams                                   | 3       |
+| 8      | Design of Farm Ponds                                                   | 2       |
+| 9      | Field Observation of Check Dams and Other Soil Conservation Structures | 2       |
+| 10     | Field Observation on Bio-Engineering Practices of Soil Conservation    | 2       |
+| &nbsp; | **Total**                                                              | **24**  |
 
 **Field Visit to a Watershed Management Site**
 
@@ -130,26 +129,21 @@
 
 The questions will cover the entire chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 5 | 8 |
-| 3 | 2 | 4 |
-| 4 | 2 | 4 |
-| 5 | 3 | 4 |
-| 6.1 | 1 | 8 |
-| 6.2 | 2 | 8 |
-| 6.3 | 3 | 4 |
-| 6.4 | 6 | 12 |
-| 6.5 | 10 | 16 |
-| 6.6 | 2 | 4 |
-| 7 | 3 | 4 |
-| 8 | 2 | 4 |
-| 9 | 2 | 4 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 5      | 8                   |
+| 3         | 2      | 4                   |
+| 4         | 2      | 4                   |
+| 5         | 3      | 4                   |
+| 6.1       | 1      | 8                   |
+| 6.2       | 2      | 8                   |
+| 6.3       | 3      | 4                   |
+| 6.4       | 6      | 12                  |
+| 6.5       | 10     | 16                  |
+| 6.6       | 2      | 4                   |
+| 7         | 3      | 4                   |
+| 8         | 2      | 4                   |
+| 9         | 2      | 4                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variations in marks distribution.
-
-*The questions setting should be in the multiplication of either 8 or 10.
-
-**Copyright&copy; 2021** 

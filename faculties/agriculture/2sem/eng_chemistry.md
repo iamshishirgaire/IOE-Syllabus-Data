@@ -1,12 +1,3 @@
-## Syllabus
-
-<p align="center"><strong>ENGINEERING CHEMISTRY</strong></p>
-
-**Course objectives:**<br>
-To develop the basic concepts of Physical Chemistry, Inorganic Chemistry and Organic Chemistry relevant to problems in engineering.
-
-### Topics:
-
 1. **Electro-chemistry and Buffer (6 hours)**
     * Electro-Chemical cells
     * Electrode Potential and Standard Electrode Potential
@@ -147,21 +138,17 @@ To develop the basic concepts of Physical Chemistry, Inorganic Chemistry and Org
 * The evaluation scheme for the question will be as indicated in the table below:
 
 | Chapter | Hours | Marks distribution\* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 4 | 5 or 10 |
-| 3 | 5 | 10 |
-| 4 | 6 | 10 |
-| 5 | 5 | 10 |
-| 6 | 5 | 10 |
-| 7 | 3 | 5 |
-| 8 | 3 | 5 |
-| 9 | 4 | 5 or 10 |
-| 10 | 4 | 5 or 10 |
-| Total | 45 | 80 |
+| ------- | ----- | -------------------- |
+| 1       | 6     | 10                   |
+| 2       | 4     | 5 or 10              |
+| 3       | 5     | 10                   |
+| 4       | 6     | 10                   |
+| 5       | 5     | 10                   |
+| 6       | 5     | 10                   |
+| 7       | 3     | 5                    |
+| 8       | 3     | 5                    |
+| 9       | 4     | 5 or 10              |
+| 10      | 4     | 5 or 10              |
+| Total   | 45    | 80                   |
 
-\*There may be minor deviation in marks distribution.
 
-### Copyright
-
-Copyright&copy; 2021 

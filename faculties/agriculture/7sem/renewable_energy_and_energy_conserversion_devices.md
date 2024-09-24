@@ -1,11 +1,3 @@
-## Renewable Energy and Energy Conversion Devices
-
-**Course Objective:**
-
-The main objective of this course is to provide fundamental knowledge to detect potential renewable energy sources near to firm and development of skills on their conversion devices. After completion of this course, the students will be able to use locally available energy sources to fulfill the requirement of farm power devices using appropriate tools and methodology.
-
-### Course Outline:
-
 1. **Introduction [2 hours]**
     * Energy Sources and Their Classification
     * Earth Energy Cycle and Human Interference
@@ -146,27 +138,25 @@ The main objective of this course is to provide fundamental knowledge to detect 
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2.1 | 2 | 16 |
-| 2.2 | 2 |  |
-| 2.3 | 2 |  |
-| 2.4 | 2 |  |
-| 2.5 | 2 | 8 |
-| 2.6 | 2 |  |
-| 2.7 | 1 | 4 |
-| 2.8 | 2 | 8 |
-| 2.9 | 4 |  |
-| 2.10 | 3 | 8 |
-| 3.1 | 2 | 16 |
-| 3.2 | 3 |  |
-| 3.3 | 4 |  |
-| 3.4 | 2 |  |
-| 4.0 | 4 | 8 |
-| 5.0 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2.1       | 2      | 16                  |
+| 2.2       | 2      |                     |
+| 2.3       | 2      |                     |
+| 2.4       | 2      |                     |
+| 2.5       | 2      | 8                   |
+| 2.6       | 2      |                     |
+| 2.7       | 1      | 4                   |
+| 2.8       | 2      | 8                   |
+| 2.9       | 4      |                     |
+| 2.10      | 3      | 8                   |
+| 3.1       | 2      | 16                  |
+| 3.2       | 3      |                     |
+| 3.3       | 4      |                     |
+| 3.4       | 2      |                     |
+| 4.0       | 4      | 8                   |
+| 5.0       | 5      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution. 
 
-**Copyright © 2021** 

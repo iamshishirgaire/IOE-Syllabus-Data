@@ -1,11 +1,3 @@
-## Syllabus: ENGINEERING PROPERTIES OF BIO-MATERIALS
-
-**Course objective:**
-
-1. To acquaint and equip the students with different techniques of measurement of engineering properties and their importance in the design of processing and material handling equipments.
-2. To acquaint and equip the students with the latest standards to maintain food quality as well as to study Hazard Analysis Critical Control Point (HACCP) protocol.
-
-### Course Content:
 
 1. **Importance of Engineering Properties of Bio-materials [2 Hours]**
     * Physical Properties, Mechanical Properties, Optical Properties
@@ -63,19 +55,19 @@
 
 ### Practical:
 
-| S. N. | Name of the experiment | Hours |
-|---|---|---|
-| 1 | Determination of shape and size of Grains, fruits and vegetables | 2 |
-| 2 | Determination of Particle density/True density, Bulk Density porosity and Specific Gravity of Food Grains | 2 |
-| 3 | Determination of Angle of Repose and Coefficient of Internal and External Friction for Food Grains | 2 |
-| 4 | To study the separation behavior of a grain sample in a vertical wind tunnel (Aspirator column) | 2 |
-| 5 | Determination of Stress-Strain Behavior of Different Food Grains | 2 |
-| 6 | Determination of Thermal Conductivity of Different Food Grains | 2 |
-| 7 | Determination of Thermal Diffusivity of Different Food Grains | 2 |
-| 8 | Determination of Specific Heat of Food Grains | 2 |
-| 9 | Determination of Electrical Conductivity of Liquid Food Materials | 2 |
-| 10 | Detection of adulteration in food products viz. milk, ghee, honey etc. | 2 |
-| **Total** |  | **20** |
+| S. N.     | Name of the experiment                                                                                    | Hours  |
+| --------- | --------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | Determination of shape and size of Grains, fruits and vegetables                                          | 2      |
+| 2         | Determination of Particle density/True density, Bulk Density porosity and Specific Gravity of Food Grains | 2      |
+| 3         | Determination of Angle of Repose and Coefficient of Internal and External Friction for Food Grains        | 2      |
+| 4         | To study the separation behavior of a grain sample in a vertical wind tunnel (Aspirator column)           | 2      |
+| 5         | Determination of Stress-Strain Behavior of Different Food Grains                                          | 2      |
+| 6         | Determination of Thermal Conductivity of Different Food Grains                                            | 2      |
+| 7         | Determination of Thermal Diffusivity of Different Food Grains                                             | 2      |
+| 8         | Determination of Specific Heat of Food Grains                                                             | 2      |
+| 9         | Determination of Electrical Conductivity of Liquid Food Materials                                         | 2      |
+| 10        | Detection of adulteration in food products viz. milk, ghee, honey etc.                                    | 2      |
+| **Total** |                                                                                                           | **20** |
 
 ### Reference:
 
@@ -91,21 +83,17 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 8 |
-| 2 | 4 | 8 |
-| 3 | 3 | 8 |
-| 4 | 2 | 4 |
-| 5 | 3 | 4 |
-| 6 | 3 | 4 |
-| 7 | 3 | 4 |
-| 8 | 5 | 12 |
-| 9 | 5 | 12 |
-| **Total** | **30** | **40** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 3      | 8                   |
+| 4         | 2      | 4                   |
+| 5         | 3      | 4                   |
+| 6         | 3      | 4                   |
+| 7         | 3      | 4                   |
+| 8         | 5      | 12                  |
+| 9         | 5      | 12                  |
+| **Total** | **30** | **40**              |
 
-*The questions setting should be in the multiplication of either 8 or 10.
 
-### Copyright:
-
-Copyright&copy; 2021

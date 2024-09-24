@@ -1,8 +1,3 @@
-## Syllabus
-
-**FIELD OPERATION AND MAINTENANCE OF TRACTOR AND FARM MACHINES**
-
-**Course Objective:**
 
 After completion of this course, the students will be able to:
 

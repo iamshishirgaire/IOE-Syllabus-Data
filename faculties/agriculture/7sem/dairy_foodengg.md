@@ -1,13 +1,3 @@
-# Syllabus: Dairy and Food Engineering
-
-## Course Objectives:
-
-1. To equip students with knowledge of various unit operations employed in the dairy industry.
-2. To familiarize students with different forms of moisture, water activity, and their relationship to food safety.
-3. To provide students with an understanding of different preservation techniques used in the dairy and food industries.
-
-## Course Outline:
-
 ### 1. Dairy Development in Nepal (5 hours)
 
 * Engineering, thermal, and chemical properties of milk and milk products
@@ -121,21 +111,18 @@
 
 Questions will cover all chapters in the syllabus. The evaluation scheme is as follows:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 8 |
-| 2 | 5 | 8 |
-| 3 | 5 | 8 |
-| 4 | 7 | 12 |
-| 5 | 7 | 12 |
-| 6 | 7 | 12 |
-| 7 | 5 | 8 |
-| 8 | 2 | 8 |
-| 9 | 2 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 8                   |
+| 2         | 5      | 8                   |
+| 3         | 5      | 8                   |
+| 4         | 7      | 12                  |
+| 5         | 7      | 12                  |
+| 6         | 7      | 12                  |
+| 7         | 5      | 8                   |
+| 8         | 2      | 8                   |
+| 9         | 2      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variations in marks distribution.
 
-## Copyright:
 
-Copyright © 2021

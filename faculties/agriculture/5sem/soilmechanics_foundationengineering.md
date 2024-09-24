@@ -1,11 +1,3 @@
-## SOIL MECHANICS AND FOUNDATION ENGINEERING
-
-**Course Objective:** 
-
-After completion of this course, the students will be familiar about the fundamental properties, behaviour of soil under different load conditions and environment around and nature of soil.
-
-### Syllabus
-
 1. **Introduction (2 hours)**
    * Definition of soil and Rock
    * Importance of Soil Mechanics and soil Problems
@@ -139,24 +131,19 @@ After completion of this course, the students will be familiar about the fundame
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 2 | 16 |
-| 2 | 6 | 16 |
-| 3 | 3 | 16 |
-| 4 | 4 | 16 |
-| 5 | 3 | 8 |
-| 6 | 5 | 8 |
-| 7 | 5 | 8 |
-| 8 | 4 | 8 |
-| 9 | 5 | 8 |
-| 10 | 3 | 16 |
-| 11 | 5 | 16 |
-| **Total** | **45** | **80** |
-
-*There could be a minor deviation in the marks distribution.
-
-*The question setting should be in the multiplication of either 8 or 10.
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 2      | 16                 |
+| 2         | 6      | 16                 |
+| 3         | 3      | 16                 |
+| 4         | 4      | 16                 |
+| 5         | 3      | 8                  |
+| 6         | 5      | 8                  |
+| 7         | 5      | 8                  |
+| 8         | 4      | 8                  |
+| 9         | 5      | 8                  |
+| 10        | 3      | 16                 |
+| 11        | 5      | 16                 |
+| **Total** | **45** | **80**             |
 
 
-**Copyright © 2021** 

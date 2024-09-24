@@ -1,13 +1,3 @@
-## Syllabus
-
-**ENGINEERING PROFESSIONAL PRACTICE**
-
-**Course Objective:** 
-
-To familiarize the students with their roles in society, the ethical and legal environment in which engineering is practiced, contract administration, regulatory environment, and contemporary issues in Engineering.
-
-### Topics
-
 1. **History of Engineering Practices [3 hours]**
     * Man and Society
     * Technology and Society
@@ -62,17 +52,13 @@ To familiarize the students with their roles in society, the ethical and legal e
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 6 | 8 |
-| 3 | 3 | 4 |
-| 4 | 6 | 8 |
-| 5 | 5 | 6 |
-| 6 | 3 | 4 |
-| 7 | 4 | 6 |
-| **Total** | **30** | **40** |
-
-* Minor deviation on mark distribution can be made.
-
-***Copyright&copy; 2021***
+| Chapter   | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 6      | 8                   |
+| 3         | 3      | 4                   |
+| 4         | 6      | 8                   |
+| 5         | 5      | 6                   |
+| 6         | 3      | 4                   |
+| 7         | 4      | 6                   |
+| **Total** | **30** | **40**              |

@@ -1,11 +1,3 @@
-## Hydrology and Agricultural Meteorology
-
-**Course Objective:**
-
-The objective of this course is to provide students with an understanding of the complex interactions between the waters of the land and atmosphere, the science of hydrology, and the role that hydrology plays in agricultural and urban systems.
-
-### Syllabus
-
 1. **Introduction to Hydrology and Hydrologic Cycle [2 hours]**
     - Hydrology as the Science of Water
     - Scope and Application to Agricultural Engineering
@@ -80,20 +72,20 @@ The objective of this course is to provide students with an understanding of the
 
 ### Practical
 
-| S.N. | Practical | Hours |
-|---|---|---|
-| 1 | Areal Averaging of Rainfall by Different Methods | 2 |
-| 2 | Problems Related to Estimation of Missing Precipitation Data | 2 |
-| 3 | Problems Related to Mass Curve Analysis | 2 |
-| 4 | Problems Related to Intensity-Duration Analysis and Preparation of Intensity-Duration Curves | 2 |
-| 5 | Problems related to DAD curves | 2 |
-| 6 | Frequency Analysis of Rainfall and Determination of Return Period | 3 |
-| 7 | Measurement of Infiltration and Percolation Rates by Double Ring Infiltrometer and Determination of Infiltration Indices | 2 |
-| 8 | Estimation of Runoff Using Empirical Methods | 3 |
-| 9 | Estimation of runoff using empirical methods | 2 |
-| 10 | Hydrograph Analysis and Derivation of Unit Hydrograph | 3 |
-| 11 | Use of Current Meter for the Determination of Flow Velocity | 2 |
-| 12 | Stream Flow Measurement by Float Method | 2 |
+| S.N. | Practical                                                                                                                | Hours |
+| ---- | ------------------------------------------------------------------------------------------------------------------------ | ----- |
+| 1    | Areal Averaging of Rainfall by Different Methods                                                                         | 2     |
+| 2    | Problems Related to Estimation of Missing Precipitation Data                                                             | 2     |
+| 3    | Problems Related to Mass Curve Analysis                                                                                  | 2     |
+| 4    | Problems Related to Intensity-Duration Analysis and Preparation of Intensity-Duration Curves                             | 2     |
+| 5    | Problems related to DAD curves                                                                                           | 2     |
+| 6    | Frequency Analysis of Rainfall and Determination of Return Period                                                        | 3     |
+| 7    | Measurement of Infiltration and Percolation Rates by Double Ring Infiltrometer and Determination of Infiltration Indices | 2     |
+| 8    | Estimation of Runoff Using Empirical Methods                                                                             | 3     |
+| 9    | Estimation of runoff using empirical methods                                                                             | 2     |
+| 10   | Hydrograph Analysis and Derivation of Unit Hydrograph                                                                    | 3     |
+| 11   | Use of Current Meter for the Determination of Flow Velocity                                                              | 2     |
+| 12   | Stream Flow Measurement by Float Method                                                                                  | 2     |
 
 **Total:** 27 hours
 
@@ -112,19 +104,16 @@ The objective of this course is to provide students with an understanding of the
 The questions will cover the entire chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
 | Chapter | Period | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 05 |
-| 2 | 6 | 10 |
-| 3 | 6 | 10 |
-| 4 | 3 | 05 |
-| 5 | 5 | 10 |
-| 6 | 5 | 10 |
-| 7 | 7 | 12 |
-| 8 | 6 | 10 |
-| 9 | 5 | 08 |
+| ------- | ------ | ------------------- |
+| 1       | 2      | 05                  |
+| 2       | 6      | 10                  |
+| 3       | 6      | 10                  |
+| 4       | 3      | 05                  |
+| 5       | 5      | 10                  |
+| 6       | 5      | 10                  |
+| 7       | 7      | 12                  |
+| 8       | 6      | 10                  |
+| 9       | 5      | 08                  |
 
 **Total:** 45 | 80
 
-*There may be minor variation in marks distribution.
-
-**The questions setting should be in the multiplication of either 8 or 10.** 

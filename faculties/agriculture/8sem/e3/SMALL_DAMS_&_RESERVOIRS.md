@@ -1,11 +1,3 @@
-## Syllabus: SMALL DAMS & RESERVOIRS (AE 785 01)
-
-**Course Objective:**
-
-To familiarize and orient students in the theory, planning, technological development, and management of engineering problem solving in the area of small dams and reservoirs.
-
-### Topics:
-
 1. **Introduction (2 hours)**
     - Physical Characteristics of Reservoir
     - Types of reservoir
@@ -64,17 +56,11 @@ To familiarize and orient students in the theory, planning, technological develo
 
 Questions will cover all chapters in the Syllabus. 
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 32 |
-| 2 | 16 | 32 |
-| 3 | 18 | 32 |
-| 4 | 3 | 16 |
-| 5 | 6 | 16 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in mark distribution. 
-
-### Copyright:
-
-© 2020 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 32                  |
+| 2         | 16     | 32                  |
+| 3         | 18     | 32                  |
+| 4         | 3      | 16                  |
+| 5         | 6      | 16                  |
+| **Total** | **45** | **80**              |

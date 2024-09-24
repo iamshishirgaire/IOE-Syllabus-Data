@@ -1,10 +1,3 @@
-## SURVEYING & LEVELING
-
-**Course Objective:**
-
-This course has been designed to develop sound knowledge in surveying for students related to BE Agri. Engineering.
-
-### Syllabus
 
 1. **Introduction (2 hours)**
    - History of surveying
@@ -119,18 +112,17 @@ This course has been designed to develop sound knowledge in surveying for studen
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 6 |
-| 2 | 4 | 6 |
-| 3 | 2 | 6 |
-| 4 | 8 | 12 |
-| 5 | 6 | 12 |
-| 6 | 8 | 14 |
-| 7 | 4 | 6 |
-| 8 | 4 | 6 |
-| 9, 10, 11 | 4 | 6 |
-| 12, 13 | 3 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 6                   |
+| 2         | 4      | 6                   |
+| 3         | 2      | 6                   |
+| 4         | 8      | 12                  |
+| 5         | 6      | 12                  |
+| 6         | 8      | 14                  |
+| 7         | 4      | 6                   |
+| 8         | 4      | 6                   |
+| 9, 10, 11 | 4      | 6                   |
+| 12, 13    | 3      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution. 

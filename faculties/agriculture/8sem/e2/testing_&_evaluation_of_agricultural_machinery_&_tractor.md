@@ -1,12 +1,3 @@
-## Syllabus: TESTING & EVALUATION OF AGRICULTURAL MACHINERY & TRACTOR (AE 765 03)
-
-**Course Objective:**
-
-1. To familiarize students with testing and evaluation of agricultural machinery and tractor.
-2. To acquaint and equip the students with tractor testing and tractor testing equipment with their constraints and evaluation techniques with procedure.
-
-### Course Outline:
-
 1. **Objectives and Importance of Testing and Evaluation (2 hours)**
     * Concept of testing and evaluation
     * Testing and evaluation procedures
@@ -98,21 +89,17 @@
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 8 |
-| 2 | 3 | 8 |
-| 3 | 6 | 8 |
-| 4 | 8 | 16 |
-| 5 | 2 | 8 |
-| 6 | 4 | 8 |
-| 7 | 5 | 8 |
-| 8 | 4 | 8 |
-| 9 | 2 | 8 |
-| 10 | 2 | 8 |
-| 11 | 7 | 16 |
-| **Total** | **45** | **80** |
-
-* Minor deviation on mark distribution can be made.
-
-### Copyright &copy; 2021 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 8                   |
+| 2         | 3      | 8                   |
+| 3         | 6      | 8                   |
+| 4         | 8      | 16                  |
+| 5         | 2      | 8                   |
+| 6         | 4      | 8                   |
+| 7         | 5      | 8                   |
+| 8         | 4      | 8                   |
+| 9         | 2      | 8                   |
+| 10        | 2      | 8                   |
+| 11        | 7      | 16                  |
+| **Total** | **45** | **80**              |

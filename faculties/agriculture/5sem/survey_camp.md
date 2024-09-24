@@ -1,5 +1,3 @@
-## Syllabus
-
 ### SURVEY CAMP
 
 **Practical: 10 days**
@@ -33,6 +31,3 @@ The Survey Camp shall be implemented jointly by the Department of Civil and Agri
 * 50 marks - Internal Assignment i.e. field work and viva-voce
 * 50 marks - Field report and viva voce
 
-***
-
-**Copyright © 2021** 

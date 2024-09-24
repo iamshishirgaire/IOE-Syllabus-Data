@@ -1,13 +1,3 @@
-# Syllabus
-
-## **SOLAR PHOTO‐VOLTAIC SYSTEM AND APPLICATION**
-**AE 765 04**
-
-**Course Objective:**
-The primary objective of this course is to introduce solar photo‐voltaic systems and their conversion technology used to fulfil the requirement of energy in Agricultural Engineering activities in rural areas. Secondly, this course emphasizes the design and development of such simple and effective technologies that convert solar energy into usable form and supply it to operate tools, equipment, and machinery used in agricultural works.
-
-### **Course Outline:**
-
 1. **Fundamentals of Solar Photo‐Voltaic System (10 hours)**
     * Principle of Photo‐Voltaic Energy Conversion:
         * Review of Electrical Power System
@@ -106,17 +96,11 @@ The primary objective of this course is to introduce solar photo‐voltaic syste
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 10 |
-| 2 | 10 | 20 |
-| 3 | 10 | 20 |
-| 4 | 10 | 20 |
-| 5 | 5 | 10 |
-| **Total** | **45** | **80** |
-
-* Minor deviation on mark distribution can be made
-
----
-
-**Copyright© 2021**
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 10                  |
+| 2         | 10     | 20                  |
+| 3         | 10     | 20                  |
+| 4         | 10     | 20                  |
+| 5         | 5      | 10                  |
+| **Total** | **45** | **80**              |

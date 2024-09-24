@@ -1,14 +1,3 @@
-# Syllabus
-
-## Tillage, Traction & Land Development Machinery
-### AE 785 03
-
-**Course Objective:**
-
-The primary objective of this course is to introduce tillage, traction devices, and land development machinery used in Agricultural Engineering activities in farms. Secondly, this course introduces soil properties, soil-tillage-tool mechanics, and traction theory associated with such technologies used in agricultural works.
-
-## Course Outline:
-
 1. **Introduction (4 hours)**
    * Soil physical conditions required for plant growth
    * Role of cultivation in producing favorable tilth
@@ -101,22 +90,18 @@ The primary objective of this course is to introduce tillage, traction devices, 
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 12 |
-| 2 | 5 | 12 |
-| 3 | 7 | 12 |
-| 4 | 4 | 8 |
-| 5 | 4 | 8 |
-| 6 | 4 | 8 |
-| 7 | 8 | 16 |
-| 8 | 3 | 16 |
-| 9 | 3 | 16 |
-| 10 | 3 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 12                  |
+| 2         | 5      | 12                  |
+| 3         | 7      | 12                  |
+| 4         | 4      | 8                   |
+| 5         | 4      | 8                   |
+| 6         | 4      | 8                   |
+| 7         | 8      | 16                  |
+| 8         | 3      | 16                  |
+| 9         | 3      | 16                  |
+| 10        | 3      | 16                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviations on mark distribution.
 
-## Copyright
-
-Copyright © 2021 

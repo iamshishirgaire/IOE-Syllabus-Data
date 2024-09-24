@@ -1,11 +1,3 @@
-## Syllabus: FARM MACHINERY DESIGN (AE 725 03)
-
-**Course Objective:**
-
-To familiarize and orient students in theory, planning, designing, technological development, modification, and exploitation of small and medium-scale farm machinery.
-
-**Course Content:**
-
 1. **Introduction to Design Parameters and Procedure (3 hours)**
    - Principles of Agricultural Machine Design
    - Design Parameters: Force, Stress, Reliability, Factor of Safety, Limit, Fit and Tolerances
@@ -116,22 +108,20 @@ To familiarize and orient students in theory, planning, designing, technological
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 8 |
-| 2 | 2 | 8 |
-| 3 | 6 | 8 |
-| 4 | 4 | 8 |
-| 5 | 2 | 8 |
-| 6 | 5 | 8 |
-| 7 | 4 | 8 |
-| 8 | 3 | 8 |
-| 9 | 4 | 8 |
-| 10 | 4 | 8 |
-| 11 | 3 | 8 |
-| 12 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 8                   |
+| 2         | 2      | 8                   |
+| 3         | 6      | 8                   |
+| 4         | 4      | 8                   |
+| 5         | 2      | 8                   |
+| 6         | 5      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 3      | 8                   |
+| 9         | 4      | 8                   |
+| 10        | 4      | 8                   |
+| 11        | 3      | 8                   |
+| 12        | 5      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
 
-**Copyright&copy; 2021**

@@ -1,9 +1,3 @@
-## PRINCIPLES OF CROP SCIENCE AND MANAGEMENT
-
-**Course Objective:**
-
-To develop basic understanding about efficient crop management and skills about crop cultivation practices with diseases and pest management.
-
 **Part-I Agronomy**
 
 1. **Definition, Scope and Importance (2 hours)**
@@ -166,22 +160,20 @@ To develop basic understanding about efficient crop management and skills about 
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| **Part-I Agronomy** | | |
-| 1 & 2 | 6 | 8 |
-| 3 & 4 | 6 | 8 |
-| 5 | 4 | 5 |
-| 6 | 6 | 8 |
-| 7 & 8 | 4 | 5 |
-| 9 | 6 | 8 |
-| **Part-II Horticulture** | | |
-| 1 & 2 | 6 | 8 |
-| 3 | 6 | 8 |
-| 4 | 6 | 8 |
-| **Part-III: Insect/Pest and Disease Management** | | |
-| 1 | 5 | 7 |
-| 2 | 5 | 7 |
-| **Total** | 60 | 80 |
-
-*There may be minor variation in marks distribution.
+| Chapters                                         | Hours | Marks distribution* |
+| ------------------------------------------------ | ----- | ------------------- |
+| **Part-I Agronomy**                              |       |                     |
+| 1 & 2                                            | 6     | 8                   |
+| 3 & 4                                            | 6     | 8                   |
+| 5                                                | 4     | 5                   |
+| 6                                                | 6     | 8                   |
+| 7 & 8                                            | 4     | 5                   |
+| 9                                                | 6     | 8                   |
+| **Part-II Horticulture**                         |       |                     |
+| 1 & 2                                            | 6     | 8                   |
+| 3                                                | 6     | 8                   |
+| 4                                                | 6     | 8                   |
+| **Part-III: Insect/Pest and Disease Management** |       |                     |
+| 1                                                | 5     | 7                   |
+| 2                                                | 5     | 7                   |
+| **Total**                                        | 60    | 80                  |

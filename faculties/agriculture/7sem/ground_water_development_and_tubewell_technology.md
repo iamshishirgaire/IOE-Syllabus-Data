@@ -1,12 +1,3 @@
-## Syllabus
-
-**GROUND WATER DEVELOPMENT AND TUBEWELL TECHNOLOGY**
-
-**Course Objective:** 
-To acquaint and familiarize the students with the concept, technological development and problem solving in the area of groundwater, tube well technology and water lifting devices.
-
-### **Course Outline:**
-
 1. **Occurrence and Movement of Ground Water [4 hours]**
     * Occurrence of Ground Water
     * Types of Water Bearing Formation and their Characteristics
@@ -15,7 +6,7 @@ To acquaint and familiarize the students with the concept, technological develop
     * Permeability and Factors Affecting Permeability
     * Measurement of Permeability
     
-<br>
+
 
 2. **Well Hydraulics [5 hours]**
     * Classification of Wells
@@ -25,7 +16,7 @@ To acquaint and familiarize the students with the concept, technological develop
     * Interference of Wells
     * Pumping Test and Determination of Aquifer Parameters by: Theis Method, Cooper-Jacob Method, Chow's Method
 
-<br>
+
 
 3. **Ground Water Exploration [3 hours]**
     * Objectives of Ground Water Exploration
@@ -36,7 +27,7 @@ To acquaint and familiarize the students with the concept, technological develop
         * Seismic Refraction Method
         * Water Winching
 
-<br>
+
 
 4. **Well Classification and Design [5 hours]**
     * Classification of Wells and Tube wells
@@ -53,7 +44,7 @@ To acquaint and familiarize the students with the concept, technological develop
     * Well Development
     * Multiple Well System
 
-<br>
+
 
 5. **Tube-well Construction [4 hours]**
     * Methods of Drilling
@@ -64,18 +55,18 @@ To acquaint and familiarize the students with the concept, technological develop
     * Choice of Well Drilling Method
     * Installation of Well Casing and Screens
 
-<br>
+
 
 6. **Operation and Maintenance of Tube wells [1 hour]**
 
-<br>
+
 
 7. **Environmental impacts on groundwater: groundwater pollution [2 hours]**
     * Temporal variation of groundwater, stream flows groundwater levels
     * Evapotranspirative and tidal fluctuations, urbanization, earthquakes
     * External loads, land subsidence
 
-<br>
+
 
 8. **Water Lifting Devices and Pumps [17 hours]**
     * Classification of pumps and traditional water lifting devices
@@ -111,11 +102,11 @@ To acquaint and familiarize the students with the concept, technological develop
         * Hydraulic Ram
         * Treadle Pump
 
-<br>
+
 
 9. **Design Considerations in Pumping Plant [2 hours]**
 
-<br>
+
 
 10. **Economics of Pumping and Ground Water Utilization [2 hours]**
 
@@ -145,17 +136,15 @@ To acquaint and familiarize the students with the concept, technological develop
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 6 | 16 |
-| 3 | 3 | 16 |
-| 4 | 5 | 16 |
-| 5 | 4 | 6 |
-| 6 | 3 | 6 |
-| 7 | 17 | 32 |
-| 8 | 2 | 6 |
-| 9 | 2 | **Total** |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution*
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 6      | 16                  |
+| 3         | 3      | 16                  |
+| 4         | 5      | 16                  |
+| 5         | 4      | 6                   |
+| 6         | 3      | 6                   |
+| 7         | 17     | 32                  |
+| 8         | 2      | 6                   |
+| 9         | 2      | **Total**           |
+| **Total** | **45** | **80**              |
