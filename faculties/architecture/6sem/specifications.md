@@ -1,13 +1,3 @@
-## Syllabus
-
-### **SPECIFICATIONS**
-
-**Course Objective:** 
-* To understand the purpose, type, and importance of specifications.
-* To learn typical specification writing for material, workmanship, and performance.
-
-**Course Topics:**
-
 1. **Introduction [6 hours]**
     * Definitions
     * Purpose of Specifications
@@ -28,15 +18,12 @@
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1. | 6 | 12 |
-| 2. | 4 | 8 |
-| 3. | 20 | 20 |
-| **Total** | 30 | 40 |
+| Chapters  | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 1.        | 6     | 12                  |
+| 2.        | 4     | 8                   |
+| 3.        | 20    | 20                  |
+| **Total** | 30    | 40                  |
 
-**\*There may be minor deviation in marks distribution**
 
----
 
-**Copyright © 2021** 

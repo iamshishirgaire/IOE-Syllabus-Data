@@ -1,13 +1,3 @@
-## Syllabus - Professional Practice
-
-**Course Objective:**
-
-Familiarize students with the legal, economic and social issues related to professional practice. Focus will be on the role of the architect in a developing society and the emerging influence of economic liberalization. Emphasis will be on the ethical dimension governing professional conduct in serving the client/society. 
-
-The architect and his/her office, job organization, presentations, business management, sales promotion, human relations and personnel management, Design Audit procedures, Efficiency studies and performance appraisal, billing, accounting, business correspondence, information storage and retrieval are major focus areas.
-
-### Course Content:
-
 1. **Professional Ethics (12 hours)**
     - Definition of Ethics and the Professional
     - Codes of Conduct – RIBA / AIA / IIA / SCAEF / SONA
@@ -89,14 +79,12 @@ The architect and his/her office, job organization, presentations, business mana
 
 ### Evaluation Scheme:
 
-| Units | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 2 | 20 | 18 |
-| 3, 6 | 8 | 10 |
-| 4 | 8 | 12 |
-| 5 | 8 | 16 |
-| 7 | 10 | 14 |
-| 8 | 6 | 12 |
-| **Total** | **60** | **80** |
-
-**\*There may be minor deviation in marks distribution**
+| Units     | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1, 2      | 20     | 18                  |
+| 3, 6      | 8      | 10                  |
+| 4         | 8      | 12                  |
+| 5         | 8      | 16                  |
+| 7         | 10     | 14                  |
+| 8         | 6      | 12                  |
+| **Total** | **60** | **80**              |

@@ -1,13 +1,3 @@
-# Syllabus
-
-## Vulnerability Assessment and Retrofitting Techniques<br>CE 76504
-
-**Course Objectives:** 
-
-The course provides practical information on vulnerability assessment of existing buildings and retrofitting techniques. This course deals with vulnerability assessment of existing buildings and in this part students will learn qualitative and quantitative assessment process and will be able to carry out the qualitative assessment and concept on detail structural assessment method and analysis. The students will also learn the testing methods to estimate the properties of material on existing structures- nondestructive, semi destructive and destructive. The course deals with design technique on retrofitting and in these part students will learn design principles and various types of retrofitting technique along with construction detail. The students will be able to carry out the qualitative assessment, concept on detail analysis, testing methods and retrofitting technique.
-
-## Topics
-
 1. **Introduction** *(3 hours)*
     * Earthquake and cause
     * Seismic Risk
@@ -77,19 +67,14 @@ The course provides practical information on vulnerability assessment of existin
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 10 | 20 |
-| 3 | 4 | 5 |
-| 4 | 6 | 10 |
-| 5 | 8 | 15 |
-| 6 | 6 | 10 |
-| 7 | 8 | 15 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 10     | 20                  |
+| 3         | 4      | 5                   |
+| 4         | 6      | 10                  |
+| 5         | 8      | 15                  |
+| 6         | 6      | 10                  |
+| 7         | 8      | 15                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
----
-
-Copyright &copy; 2021 

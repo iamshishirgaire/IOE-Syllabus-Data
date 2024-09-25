@@ -1,11 +1,3 @@
-## Foundation Engineering Syllabus
-
-**Course Objective:**
-
-The objective of this course is to provide students with the basic concepts and tools to determine the structure/ foundation/ soil interactions. The courses include a review of soil mechanics principles and deal with a variety of foundations and retaining walls.
-
-**Course Outline:**
-
 1. **Introduction [1 hour]**
     * Foundation Engineering, Importance and Purpose
     * Classification and General Requirements
@@ -143,18 +135,16 @@ Related tutorials will be exercised in class and given as regular homework exerc
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 1 | 2 |
-| 2 | 6 | 12 |
-| 3 | 10 | 16 |
-| 4 | 3 | 4 |
-| 5 | 3 | 4 |
-| 6 | 6 | 12 |
-| 7 | 3 | 6 |
-| 8 | 6 | 12 |
-| 9 | 4 | 8 |
-| 10 | 3 | 4 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviations in mark distribution. 
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 1      | 2                  |
+| 2         | 6      | 12                 |
+| 3         | 10     | 16                 |
+| 4         | 3      | 4                  |
+| 5         | 3      | 4                  |
+| 6         | 6      | 12                 |
+| 7         | 3      | 6                  |
+| 8         | 6      | 12                 |
+| 9         | 4      | 8                  |
+| 10        | 3      | 4                  |
+| **Total** | **45** | **80**             |

@@ -1,27 +1,16 @@
-## Syllabus
-
-**ENGINEERING MATHEMATICS II**
-
-**Course Objectives:**
-
-1. To develop the skill of solving differential equations and to provide knowledge of vector algebra and calculus
-2. To make students familiar with calculus of several variables and infinite series
-
-### Course Content:
-
 1. **Calculus of Two or more variables (6 hours)**
     * Introduction: Limit and Continuity
     * Partial Derivatives
         * Homogeneous function, Euler's theorem for the function of two and three variables
         * Total Derivatives
     * Extrema of functions of two and three variables: Lagrange's Multiplier
-<br>
+
 2. **Multiple Integrals (6 hours)**
     * Introduction
     * Double Integrals in Cartesian and Polar form: Change of order of integration
     * Triple Integrals in Cartesian, Cylindrical and Spherical coordinates
     * Area and Volume by Double and Triple Integrals
-<br>
+
 3. **Three Dimensional Solid Geometry (11 hours)**
     * The Straight Line; Symmetric and General form
     * Coplanar Lines
@@ -31,14 +20,14 @@
     * Tangent Planes and Lines to the Spheres
     * Right Circular Cone
     * Right Circular Cylinder
-<br>
+
 4. **Solution of Differential Equations in Series and Special Functions (9 hours)**
     * Solution of Differential Equation by Power Series Method
     * Legendre's Equation
     * Legendre's Polynomial function: Properties and Applications.
     * Bessel's Equation
     * Bessel's Function of First and Second kind: Properties and Applications
-<br>
+
 5. **Vector Algebra and Calculus (8 hours)**
     * Introduction
     * Two and Three dimensional vectors
@@ -48,7 +37,7 @@
     * Scalar and Vector fields
     * Derivatives - Velocity and Acceleration
     * Directional Derivatives
-<br>
+
 6. **Infinite Series (5 hours)**
     * Introduction
     * Series with Positives terms
@@ -72,18 +61,13 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 06 | 10 |
-| 2 | 06 | 10 |
-| 3 | 11 | 20 |
-| 4 | 09 | 15 |
-| 5 | 08 | 15 |
-| 6 | 05 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 06     | 10                 |
+| 2         | 06     | 10                 |
+| 3         | 11     | 20                 |
+| 4         | 09     | 15                 |
+| 5         | 08     | 15                 |
+| 6         | 05     | 10                 |
+| **Total** | **45** | **80**             |
 
-\* There may be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright © 2021

@@ -1,13 +1,3 @@
-## DATABASE MANAGEMENT SYSTEMS
-
-**EX 765 06**
-
-**Course Objectives:**
-
-The course objective is to provide fundamental concepts, theory and practices in design and implementation of Database Management System.
-
-### Syllabus
-
 1. **Introduction [3 hours]**
    * Concepts and Applications
    * Objective and Evolution
@@ -93,21 +83,16 @@ The course objective is to provide fundamental concepts, theory and practices in
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 7 | 12 |
-| 3 | 7 | 12 |
-| 4 | 6 | 12 |
-| 5 | 4 | 8 |
-| 6 | 4 | 8 |
-| 7 | 6 | 12 |
-| 8 | 4 | 6 |
-| 9 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 7      | 12                  |
+| 3         | 7      | 12                  |
+| 4         | 6      | 12                  |
+| 5         | 4      | 8                   |
+| 6         | 4      | 8                   |
+| 7         | 6      | 12                  |
+| 8         | 4      | 6                   |
+| 9         | 4      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There can be minor deviations in the numbers.
-
-### Copyright
-
-Copyright © 2021 

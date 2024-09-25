@@ -1,15 +1,3 @@
-# Syllabus
-
-## GREEN BUILDING DESIGN 
-## AR 825 03
-
-**Course Objective:**
-
-* To introduce the basic concepts of Green building in relation to architectural design.
-* To deal with the use of the Green concept in design and construction to produce healthy, economical, comfortable, energy efficient and environment friendly green buildings.
-
-## Course Contents:
-
 1. **Concept of Green Building** [4 hours]
     * Introduction and Objectives
     * History of Green Building
@@ -96,28 +84,22 @@
 
 ### Evaluation Schedule for Practical Works:
 
-| S.No | Time | Stage | Marks |
-|---|---|---|---|
-| 1 | 10 hrs | Case Studies / Assignments on:  * Different GREEN buildings  * Observation of different GREEN building rating system LEED, GRIHA, CASBEE, etc.  * Observation of climate, site, material, technology and energy for GREEN building  * Presentation | 15 |
-| 2 | 15 hrs | Assignments on:  * Design or renovation of a building with GREEN concept  * Presentation | 15 |
-| 3 | 5 hrs | Report Submission / Attendance | 20 |
-| **Total** | **30 hrs** |  | **50** |
+| S.No      | Time       | Stage                                                                                                                                                                                                                                              | Marks  |
+| --------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | 10 hrs     | Case Studies / Assignments on:  * Different GREEN buildings  * Observation of different GREEN building rating system LEED, GRIHA, CASBEE, etc.  * Observation of climate, site, material, technology and energy for GREEN building  * Presentation | 15     |
+| 2         | 15 hrs     | Assignments on:  * Design or renovation of a building with GREEN concept  * Presentation                                                                                                                                                           | 15     |
+| 3         | 5 hrs      | Report Submission / Attendance                                                                                                                                                                                                                     | 20     |
+| **Total** | **30 hrs** |                                                                                                                                                                                                                                                    | **50** |
 
 ## Evaluation Scheme
 
 The questions shall cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Hours | Total Marks |
-|---|---|---|---|
-| 1 | 1,2 | 6 | 8 |
-| 2 | 3, 4 | 6 | 8 |
-| 3 | 5,6 | 6 | 8 |
-| 4 | 7,8 | 6 | 8 |
-| 5 | 9,10 | 6 | 8 |
-| **Total** | **30** | **40** |
-
-*There may be minor deviation in marks distribution*
-
-***
-
-Copyright © 2021 
+| Unit      | Chapter | Hours  | Total Marks |
+| --------- | ------- | ------ | ----------- |
+| 1         | 1,2     | 6      | 8           |
+| 2         | 3, 4    | 6      | 8           |
+| 3         | 5,6     | 6      | 8           |
+| 4         | 7,8     | 6      | 8           |
+| 5         | 9,10    | 6      | 8           |
+| **Total** | **30**  | **40** |

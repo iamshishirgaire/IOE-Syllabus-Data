@@ -1,14 +1,3 @@
-# Syllabus
-
-## SOLID WASTE MANAGEMENT 
-## CE 72511
-
-**Course Objectives:**
-
-To provide knowledge regarding technological, organizational and legislative developments and practices of handling solid wastes by covering engineering and scientific concepts and principles applied to the management of municipal solid waste (MSW) to protect human health and the environment and the conservation of limited resources through resource recovery and recycling of waste material.
-
-## Course Content
-
 ### 1. Introduction (4 hours)
 * Definitions of Terminology
 * Concept of Waste Management
@@ -103,18 +92,13 @@ One day field observation visit to observe collection, transfer station, transpo
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 7 | 13 |
-| 3 | 9 | 16 |
-| 4 | 13 | 22 |
-| 5 | 10 | 16 |
-| 6 | 2 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 7      | 13                  |
+| 3         | 9      | 16                  |
+| 4         | 13     | 22                  |
+| 5         | 10     | 16                  |
+| 6         | 2      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-## Copyright
-
-Copyright © 2021 

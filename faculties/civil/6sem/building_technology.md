@@ -1,20 +1,3 @@
-# Syllabus
-
-## Building Technology 
-
-**Course Objective:**
-
-To introduce: 
-
-* Functional requirements of buildings
-* Factors affecting comfort to the occupant in the building
-* Elements of building
-* Construction details of building components
-* Services in building 
-* Causes & Prevention of cracks in buildings
-
-## Syllabus
-
 1. **Functional Requirements of Buildings (7 hours)**
     * Buildings and their types
     * Heat phenomena in Building (thermal performance of building components, thermal comfort, thermal design)
@@ -23,61 +6,61 @@ To introduce:
     * Sound and Acoustics (sound & noise, acoustic defects, sound insulation)
     * Orientation & planning of buildings (principles, site-selection, economy, setting-out)
     * Moisture & its movement through building components and damp proofing
-    <br>
+    
 2. **Foundations (5 hours)**
     * Soil exploration (methods, improving bearing capacity, load test)
     * Foundation and its types (deep, shallow) 
     * Earthwork excavation of foundations (soft soil, hard rock, wet excavation)
     * Excavation of trenches for pipes, cables etc. and refilling works
     * Some common problems with existing foundations
-    <br>
+    
 3. **Mortars & Masonry works (4 hours)**
     * Mortars (Types, properties, preparation process, Estimating mortar requirement)
     * Brick masonry (types, specifications)
     * Stone masonry (random rubble, course rubble, ashlar)
     * Walls: retaining walls, cavity walls, parapet walls
-    <br>
+    
 4. **Roofs (4 hours)**
     * Roofs & their types
     * Timber roofs (Single/double/ multiple timber roofs)
     * Steel trusses and their components (Angle & tubular truss)
     * Roof coverings
-    <br>
+    
 5. **Stair, lifts and escalators (3 hours)**
     * Stair and its Elements
     * Essential requirements & Types of stair
     * Ladders, ramps, Lifts & Escalators
-    <br>
+    
 6. **Doors and windows (2 hours)**
     * Doors: frames, shutters and their fixing details
     * Windows & ventilators: types and their fixing details
-    <br>
+    
 7. **Flooring (3 hours)**
     * Flooring and its types
     * Special types of floor finishing
     * Floor and wall ties
-    <br>
+    
 8. **Temporary construction (4 hours)**
     * Scaffolding and its types
     * Formwork for excavations & trenches and Formworks for RCC construction
     * Shoring and its types
     * Underpinning and its procedures
-    <br>
+    
 9. **Finishing works (4 hours)**
     * Cladding (types, fixing process)
     * Partitions & Suspended ceilings 
     * Plastering & Pointing (types and process of application)
     * Painting works in wooden, metal and masonry surfaces
-    <br>
+    
 10. **Causes and prevention of cracks in buildings (2 hours)**
     * Cracks in different components of buildings (walls, roofs, floors, plasters, windows, RCC, joints etc.) 
     * Causes of cracks and Remedial measures to cracks
-    <br>
+    
 11. **Earthquake protection & Retrofitting in building (3 hours)**
     * Earthquake Protection of Buildings
     * Techniques of Retrofitting & Retrofitting materials
     * Destructive and non-destructive tests in buildings
-    <br>
+    
 12. **Other services in building (4 hours)**
     * Water supply & sanitation
     * Electrification, CCTV and Telephone network
@@ -118,19 +101,13 @@ Student will be allowed to prepare a building plan to work out detailed drawings
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 7 | 16 |
-| 2 | 5 | 8 |
-| 3-4 | 8 | 16 |
-| 5-6 | 5 | 8 |
-| 7-8 | 7 | 12 |
-| 9-10 | 6 | 8 |
-| 11-12 | 7 | 12 |
-| **Total** | **45** | **80** |
-
-* There may be minor variation in marks distribution
-
-## Copyright
-
-Copyright &copy; 2021 
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 7      | 16                  |
+| 2         | 5      | 8                   |
+| 3-4       | 8      | 16                  |
+| 5-6       | 5      | 8                   |
+| 7-8       | 7      | 12                  |
+| 9-10      | 6      | 8                   |
+| 11-12     | 7      | 12                  |
+| **Total** | **45** | **80**              |

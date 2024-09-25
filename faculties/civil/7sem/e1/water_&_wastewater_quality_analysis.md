@@ -1,14 +1,3 @@
-# Syllabus
-
-## WATER AND WASTEWATER QUALITY ANALYSIS
-**CE 72512**
-
-**Course Objective:** 
-
-To provide knowledge of field oriented water and wastewater sampling techniques, water quality analysis, and their utilization.
-
-## Topics
-
 1. **Introduction (2 hours)**
     - Water quality
     - WHO guidelines and national standard
@@ -87,18 +76,14 @@ To provide knowledge of field oriented water and wastewater sampling techniques,
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 6 |
-| 2 | 6 | 8 |
-| 3 | 12 | 14 |
-| 4 | 12 | 20 |
-| 5 | 10 | 20 |
-| 6 | 3 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 6                   |
+| 2         | 6      | 8                   |
+| 3         | 12     | 14                  |
+| 4         | 12     | 20                  |
+| 5         | 10     | 20                  |
+| 6         | 3      | 12                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
 
-***
-
-**Copyright&copy; 2021** 

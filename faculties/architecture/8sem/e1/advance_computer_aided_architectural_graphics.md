@@ -1,16 +1,3 @@
-## Syllabus - Advance Computer Aided Architectural Graphics
-
-**AR 765 04**
-
-**Course Objective:**
-
-* To introduce the study of Computer Aided Drafting (CAD) in relation to Architecture.
-* To foster belief in the feasibility of design through CAD.
-* To familiarize students with the range of graphic tools for conveying architectural concepts.
-* To equip students with tools used in the AEC industry for professional life.
-
-**Course Outline:**
-
 1. **Basic Modelling [6 Hours]**
    * A fundamental class in three-dimensional (3-D) computer aided design for Architecture.
    * Uses modeling technology with SketchUp as the primary software.
@@ -70,12 +57,12 @@
 
 **Practical Evaluation Scheme:**
 
-| S. No. | Stages                                     | Hours to perform | Mark Distribution |
-| ------ | -------------------------------------------- | --------------- | ---------------- |
-| 1      | Literature studies (report submission)        | 12              | 5                |
-| 2      | Conceptual design (presentation)              | 10              | 5                |
-| 3      | Final design (report and presentation)       | 8               | 40               |
-|        | **Total**                                    | **30**           | **50**            |
+| S. No. | Stages                                 | Hours to perform | Mark Distribution |
+| ------ | -------------------------------------- | ---------------- | ----------------- |
+| 1      | Literature studies (report submission) | 12               | 5                 |
+| 2      | Conceptual design (presentation)       | 10               | 5                 |
+| 3      | Final design (report and presentation) | 8                | 40                |
+|        | **Total**                              | **30**           | **50**            |
 
 **Note:** Deviations in hours and mark distribution are possible with negotiation.
 
@@ -92,11 +79,11 @@
 * Questions will cover all chapters of the syllabus.
 * Evaluation scheme is as follows:
 
-| Units | Chapter | Hours | Mark Distribution |
-| ----- | ------- | ----- | ---------------- |
-| 1     | 2       | 6     | 8                |
-| 2     | 2       | 6     | 8                |
-| 3     | 1       | 6     | 8                |
-| 4     | 3       | 6     | 8                |
-| 5     | 3 & 4   | 2+4   | 8                |
+| Units | Chapter   | Hours  | Mark Distribution |
+| ----- | --------- | ------ | ----------------- |
+| 1     | 2         | 6      | 8                 |
+| 2     | 2         | 6      | 8                 |
+| 3     | 1         | 6      | 8                 |
+| 4     | 3         | 6      | 8                 |
+| 5     | 3 & 4     | 2+4    | 8                 |
 |       | **Total** | **30** | **40**            |

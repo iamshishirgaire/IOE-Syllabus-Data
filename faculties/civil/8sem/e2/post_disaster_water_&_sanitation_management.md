@@ -1,17 +1,3 @@
-## Syllabus
-
-### POST DISASTER WATER AND SANITATION MANAGEMENT
-### CE 76519
-
-**Course Objectives:**
-
-To provide students with a comprehensive theoretical and practical understanding of water, sanitation, and hygiene promotion in different emergency phases, including disease prevention and preparedness. By the end of the course, students will be able to:
-
-* Assess and prioritize water and sanitation needs for a population in an emergency with foresight.
-* Take appropriate measures to prevent and control disease outbreaks.
-
-### Course Content:
-
 1. **Introduction (10 hours)**
     * Types of disasters and their consequences
     * Different stages in an emergency
@@ -78,17 +64,11 @@ To provide students with a comprehensive theoretical and practical understanding
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 12 |
-| 2 | 5 | 6 |
-| 3 | 14 | 28 |
-| 4 | 6 | 10 |
-| 5 | 10 | 24 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviations in mark distribution.
-
-***
-
-Copyright &copy; 2021
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 12                  |
+| 2         | 5      | 6                   |
+| 3         | 14     | 28                  |
+| 4         | 6      | 10                  |
+| 5         | 10     | 24                  |
+| **Total** | **45** | **80**              |

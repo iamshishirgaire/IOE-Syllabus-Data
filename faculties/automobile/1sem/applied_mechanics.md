@@ -1,13 +1,3 @@
-# Syllabus
-
-## Applied Mechanics
-
-**Course Objective:** 
-
-This course provides foundational knowledge of engineering mechanics for all engineering students. It will be helpful for understanding structural engineering stress analysis principles in later courses and applying fundamental mechanics concepts in different engineering fields. This course serves as an introduction to mechanics for all engineering faculties at Tribhuvan University in the first year of undergraduate studies. Emphasis is placed on Statics.
-
-## Course Outline
-
 1. **Introduction (2 hours)**
     * Definitions and scope of Applied Mechanics
     * Concept of Rigid and Deformed Bodies
@@ -92,21 +82,15 @@ There will be related tutorials exercised in class and given as regular homework
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 2 | 3 |
-| 2 | 4 | 8 |
-| 3 | 6 | 12 |
-| 4 | 6 | 12 |
-| 5 | 2 | 4 |
-| 6 | 9 | 13 |
-| 7 | 4 | 8 |
-| 8 | 7 | 10 |
-| 9 | 5 | 10 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-## Copyright
-
-Copyright © 2021
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 2      | 3                  |
+| 2         | 4      | 8                  |
+| 3         | 6      | 12                 |
+| 4         | 6      | 12                 |
+| 5         | 2      | 4                  |
+| 6         | 9      | 13                 |
+| 7         | 4      | 8                  |
+| 8         | 7      | 10                 |
+| 9         | 5      | 10                 |
+| **Total** | **45** | **80**             |

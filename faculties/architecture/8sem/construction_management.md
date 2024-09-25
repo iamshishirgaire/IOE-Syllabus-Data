@@ -1,13 +1,3 @@
-## Syllabus
-
-**CONSTRUCTION MANAGEMENT**
-
-**Course Objective:**
-
-The lessons in this course will address pertinent issues and approaches to be considered during construction. At the same time, the Architect is expected to realize his/her responsibility in undertaking and in the implementation of a construction project.
-
-### Topics
-
 1. **Introduction to Construction Management (2 hours)**
     * Management: need and necessity
     * Role of Architects in Construction Management
@@ -79,15 +69,13 @@ The lessons in this course will address pertinent issues and approaches to be co
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme is indicated in the table below:
 
-| Units | Chapters | Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 2, 1 | 10 + 2 | 16 |
-| 2 | 3, 10 | 10 + 2 | 16 |
-| 3 | 4, 9, 10 | 6 + 4 + 2 | 16 |
-| 4 | 5, 6, 10 | 6 + 4 + 2 | 16 |
-| 5 | 7, 8, 10 | 4 + 6 + 2 | 16 |
-| **Total** |  | **60** | **80** |
+| Units     | Chapters | Hours     | Marks Distribution* |
+| --------- | -------- | --------- | ------------------- |
+| 1         | 2, 1     | 10 + 2    | 16                  |
+| 2         | 3, 10    | 10 + 2    | 16                  |
+| 3         | 4, 9, 10 | 6 + 4 + 2 | 16                  |
+| 4         | 5, 6, 10 | 6 + 4 + 2 | 16                  |
+| 5         | 7, 8, 10 | 4 + 6 + 2 | 16                  |
+| **Total** |          | **60**    | **80**              |
 
-*There may be minor deviation in marks distribution.
 
-**Copyright © 2021** 

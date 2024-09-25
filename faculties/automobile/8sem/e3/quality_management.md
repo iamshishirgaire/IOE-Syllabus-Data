@@ -1,11 +1,3 @@
-## Syllabus: Quality Management - AM 78502
-
-**Course Objective:** 
-
-To equip engineering students with the management principles and practices necessary for modern engineering fields.
-
-**Course Content:**
-
 1. **Quality Management In Modern Business Organization (1 hour)**
    - Definition, importance and improvement of quality
    - History, qualitative transformation and quality development in manufacturing
@@ -102,15 +94,12 @@ To equip engineering students with the management principles and practices neces
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Marks* |
-|---|---|
-| 1, 2 & 3 | 16 |
-| 4 & 5 | 16 |
-| 6 & 7 | 16 |
-| 8 | 16 |
-| 9 | 16 |
+| Chapters  | Marks* |
+| --------- | ------ |
+| 1, 2 & 3  | 16     |
+| 4 & 5     | 16     |
+| 6 & 7     | 16     |
+| 8         | 16     |
+| 9         | 16     |
 | **Total** | **80** |
 
-*There may be minor deviation in mark distribution.
-
-**Copyright © 2021**

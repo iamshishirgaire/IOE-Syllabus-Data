@@ -1,14 +1,3 @@
-# Syllabus
-
-## **RURAL ROAD ENGINEERING**
-### **CE 76514**
-
-**Course Objectives:**
-
-The objective of the course is to provide the student with the concept and the tools that can be used to incorporate in the field planning, design, construction, and maintenance of rural roads. The course includes the details of practical considerations based on the socioeconomic and technical aspects of rural areas of Nepal.
-
-## **Course Content:**
-
 1. **Introduction (2 hours)**
     * General Background
     * Introduction to Green Road
@@ -108,17 +97,17 @@ The objective of the course is to provide the student with the concept and the t
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 4 | 8 |
-| 3 | 12 | 20 |
-| 4 | 6 | 10 |
-| 5 | 6 | 10 |
-| 6 | 5 | 8 |
-| 7 | 5 | 10 |
-| 8 | 5 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 4      | 8                   |
+| 3         | 12     | 20                  |
+| 4         | 6      | 10                  |
+| 5         | 6      | 10                  |
+| 6         | 5      | 8                   |
+| 7         | 5      | 10                  |
+| 8         | 5      | 10                  |
+| **Total** | **45** | **80**              |
 
 *There could be minor deviation in mark distribution.
 
@@ -132,7 +121,3 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 1. B. C. Huchinson, "Principles of Urban Transport Planning", McGraw Hill publishing company.
 2. E. K. Morlok, "lntroduction to transportation engineering and planning", International Student Edition, McGraw Hill publishing company.
 3. V. N. Vazirani and S.P.Chandola, "Transportation Engineering Volume I and II", Khanna Publishers, Delhi, India
-
-## **Copyright**
-
-&copy; 2021

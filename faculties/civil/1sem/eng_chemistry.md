@@ -1,13 +1,3 @@
-## Syllabus
-
-### **ENGINEERING CHEMISTRY**
-
-**Course objectives:** 
-
-To develop the basic concepts of Physical Chemistry, Inorganic Chemistry, and Organic Chemistry relevant to problems in engineering.
-
-### **Course Outline**
-
 1. **Electro-chemistry and Buffer (6 hours)**
    * Electro-Chemical cells
    * Electrode Potential and Standard Electrode Potential
@@ -152,21 +142,17 @@ To develop the basic concepts of Physical Chemistry, Inorganic Chemistry, and Or
 
 * There will be questions covering all the chapters in the syllabus. 
 * **Marks Distribution:** 
-   | Chapter | Hours | Marks Distribution* |
-   |---|---|---|
-   | 1 | 6 | 10 |
-   | 2 | 4 | 5 or 10 |
-   | 3 | 5 | 10 |
-   | 4 | 6 | 10 |
-   | 5 | 5 | 10 |
-   | 6 | 5 | 10 |
-   | 7 | 3 | 5 |
-   | 8 | 3 | 5 |
-   | 9 | 4 | 5 or 10 |
-   | 10 | 4 | 5 or 10 |
-   | **Total** | **45** | **80** | 
+   | Chapter   | Hours  | Marks Distribution* |
+   | --------- | ------ | ------------------- |
+   | 1         | 6      | 10                  |
+   | 2         | 4      | 5 or 10             |
+   | 3         | 5      | 10                  |
+   | 4         | 6      | 10                  |
+   | 5         | 5      | 10                  |
+   | 6         | 5      | 10                  |
+   | 7         | 3      | 5                   |
+   | 8         | 3      | 5                   |
+   | 9         | 4      | 5 or 10             |
+   | 10        | 4      | 5 or 10             |
+   | **Total** | **45** | **80**              |
    * There may be minor deviation in marks distribution.
-
-***
-
-### **Copyright &copy; 2021** 

@@ -1,7 +1,3 @@
-## Syllabus: ROAD TRANSPORT MANAGEMENT
-
-**Course Outline**
-
 1. **Transportation System (4 hours)**
    * System classification
    * History of transportation
@@ -84,15 +80,12 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Marks* |
-|---|---|
-| 1 & 8 | 16 |
-| 2 & 4 | 16 |
-| 3 & 7 | 16 |
-| 5 | 16 |
-| 6 | 16 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1 & 8     | 16     |
+| 2 & 4     | 16     |
+| 3 & 7     | 16     |
+| 5         | 16     |
+| 6         | 16     |
 | **Total** | **80** |
 
-*There may be minor deviation in mark distribution.
-
-**Copyright © 2021**

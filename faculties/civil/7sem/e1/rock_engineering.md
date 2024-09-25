@@ -1,14 +1,3 @@
-## Syllabus
-
-**ROCK ENGINEERING**
-**CE 72505**
-
-**Course Objectives:**
-
-The objective of the course is to equip with skills & tools required for analysis and design of underground opening and related structures applicable to Hydropower development.
-
-### Course Outline
-
 1. **Background** (1 hour)
     - The role of rock engineering in hydropower development
     - Main elements of hydropower plants
@@ -97,22 +86,16 @@ Field visit to hydropower project in the vicinity. Field report and group presen
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 1 | 0 |
-| 2 | 4 | 8 |
-| 3 | 6 | 12 |
-| 4 | 4 | 8 |
-| 5 | 6 | 12 |
-| 6 | 6 | 12 |
-| 7 | 4 | 12 |
-| 8 | 2 | 4 |
-| 9 | 10 | 8 |
-| 10 | 2 | 4 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-### Copyright
-
-Copyright © 2021
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 1      | 0                   |
+| 2         | 4      | 8                   |
+| 3         | 6      | 12                  |
+| 4         | 4      | 8                   |
+| 5         | 6      | 12                  |
+| 6         | 6      | 12                  |
+| 7         | 4      | 12                  |
+| 8         | 2      | 4                   |
+| 9         | 10     | 8                   |
+| 10        | 2      | 4                   |
+| **Total** | **45** | **80**              |

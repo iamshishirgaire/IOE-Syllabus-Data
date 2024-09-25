@@ -1,18 +1,3 @@
-## Syllabus - Environmental Impact Assessment (EIA)
-
-**CE 78504**
-
-**Course Objectives:**
-
-The objective of this course is to teach civil engineering students about the functions of various components of natural and man-made environments, and their interactions with development activities. The course focuses on imparting knowledge of Environmental Impact Assessment (EIA) as relevant to different development projects. Students will gain an understanding of the prevalent practices of conducting IEE/EIA studies for various governmental and non-governmental organizations, and international donor agencies.
-
-By the end of this course, students should be able to:
-
-- **Fully understand the IEE and EIA regulatory framework as specified in EPA and EPR, and the steps and process involved in IEE and EIA.**
-- **Conduct IEE/EIA in a team and be familiar with the principles and procedures of EIA, tools and techniques used in identifying and analyzing impacts, suggest appropriate mitigation measures, and prepare environmental management plans.**
-
-**Course Outline:**
-
 1. **Introduction to Environmental Impact Assessment (EIA) (5 hours)**
    - Emergence of EIA
    - History of EIA in Nepal
@@ -77,17 +62,14 @@ By the end of this course, students should be able to:
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 10 |
-| 2 | 5 | 8 |
-| 3 | 5 | 8 |
-| 4 | 5 | 8 |
-| 5 | 10 | 21 |
-| 6 | 6 | 9 |
-| 7 | 9 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 10                  |
+| 2         | 5      | 8                   |
+| 3         | 5      | 8                   |
+| 4         | 5      | 8                   |
+| 5         | 10     | 21                  |
+| 6         | 6      | 9                   |
+| 7         | 9      | 16                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021** 

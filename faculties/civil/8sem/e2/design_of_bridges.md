@@ -1,16 +1,3 @@
-# Syllabus
-
-## DESIGN OF BRIDGES
-### CE 76502
-
-**Course Objectives:**
-
-* Introduce bridge structures & their types and make capable to select appropriate bridge type
-* Make capable to analyze and design simple reinforced concrete and steel bridge deck, bridge bearing and substructure of bridge
-* Familiarize with the method of construction and maintenance of bridges
-
-### Course Content
-
 * **Introduction to Bridge Structures and Fundamentals of Bridge Design (6 hours)**
     * Bridge and its components
     * Types of bridges and their characteristics
@@ -80,20 +67,15 @@ Practical of the course consists of a minor project work and field work.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 4 | 6 |
-| 3 | 6 | 12 |
-| 4 | 5 | 12 |
-| 5 | 5 | 12 |
-| 6 | 10 | 14 |
-| 7 | 5 | 10 |
-| 8 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 6      | 8                    |
+| 2         | 4      | 6                    |
+| 3         | 6      | 12                   |
+| 4         | 5      | 12                   |
+| 5         | 5      | 12                   |
+| 6         | 10     | 14                   |
+| 7         | 5      | 10                   |
+| 8         | 4      | 6                    |
+| **Total** | **45** | **80**               |
 
-\*There could be minor deviation in mark distribution.
-
----
-
-**Copyright &copy; 2021** 

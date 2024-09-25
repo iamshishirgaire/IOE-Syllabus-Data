@@ -1,15 +1,3 @@
-# Syllabus
-
-## **HISTORY OF ARCHITECTURE I**
-
-**Course Objective:**
-
-From ancient time to the present, Architecture has been the major means of defining the human physical environment. The course briefly attempts to convey Architecture Knowledge as a contextual and constructive narration of western/Eastern society up to the French Revolution.
-
-1. To have knowledge of the paradigmatic buildings in relation to the Artistic, Intellectual and Socio-Political originated and Aesthetic of the Historical Period and how difference in these conditions influenced the Architectural production.
-2. To compare the different stages of development of Architecture and their influences as related to social, culture, religious, technological and climate of different periods.
-3. To understand buildings as an expression of formal or ideological opinions within their historical contest.
-
 ## **Part A**
 
 1. **Prehistoric period of Europe with emphasis on different types of structures built during the Stone Age period (2 hours)**
@@ -50,19 +38,16 @@ From ancient time to the present, Architecture has been the major means of defin
 ## **Evaluation Scheme**
 
 | **Chapters** | **Hours** | **Marks Distribution* ** |
-|---|---|---|
-| **Part A** | | |
-| 1,2 | 10 | 12 |
-| 3 | 8 | 12 |
-| 4 | 8 | 12 |
-| 5,6,7 | 8 | 12 |
-| **Part B** | | |
-| 1,2 | 6 | 8 |
-| 3,4 | 10 | 12 |
-| 5 | 6 | 8 |
-| 6 | 4 | 4 |
-| **Total** | **60** | **80** |
+| ------------ | --------- | ------------------------ |
+| **Part A**   |           |                          |
+| 1,2          | 10        | 12                       |
+| 3            | 8         | 12                       |
+| 4            | 8         | 12                       |
+| 5,6,7        | 8         | 12                       |
+| **Part B**   |           |                          |
+| 1,2          | 6         | 8                        |
+| 3,4          | 10        | 12                       |
+| 5            | 6         | 8                        |
+| 6            | 4         | 4                        |
+| **Total**    | **60**    | **80**                   |
 
-**\*There may be minor deviation in marks distribution.**
-
-## **Copyright© 2021** 

@@ -1,11 +1,3 @@
-# Syllabus
-
-## Automobile Engines
-
-**Course Objective:** To enable students to understand the construction and operation of IC engines, fuels and combustion of fuels in SI and CI engines, performance test procedures, and the formation of exhaust emissions and their controlling measures.
-
-### Topics
-
 1. **Introduction to Automobiles (2 hours)**
     - History of development
     - Classification of motor vehicles
@@ -100,15 +92,12 @@
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Chapter | Marks |
-|---|---|
-| 2 & 3 | 16 |
-| 4 & 5 | 16 |
-| 6 & 7 | 16 |
-| 8 & 9 | 16 |
-| 1 & 10 | 16 |
+| Chapter   | Marks  |
+| --------- | ------ |
+| 2 & 3     | 16     |
+| 4 & 5     | 16     |
+| 6 & 7     | 16     |
+| 8 & 9     | 16     |
+| 1 & 10    | 16     |
 | **Total** | **80** |
 
----
-
-**Copyright © 2021**

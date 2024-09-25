@@ -1,15 +1,3 @@
-## Syllabus
-
-### **COMPUTER GRAPHICS**
-
-**Course Objectives:**
-
-* To familiarize with graphics hardware, line and curve drawing techniques.
-* To understand techniques for representing and manipulating geometric objects.
-* To gain knowledge of illumination and lighting models.
-
-### **Course Content**
-
 1. **Introduction and application [2 hours]**
 
     * History of computer graphics
@@ -81,21 +69,16 @@
 * The question will cover all the chapters of the syllabus.
 * The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 6 | 10 |
-| 3 | 6 | 10 |
-| 4 | 6 | 10 |
-| 5 | 4 | 8 |
-| 6 | 4 | 8 |
-| 7 | 6 | 10 |
-| 8 | 8 | 14 |
-| 9 | 3 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 2      | 4                  |
+| 2         | 6      | 10                 |
+| 3         | 6      | 10                 |
+| 4         | 6      | 10                 |
+| 5         | 4      | 8                  |
+| 6         | 4      | 8                  |
+| 7         | 6      | 10                 |
+| 8         | 8      | 14                 |
+| 9         | 3      | 6                  |
+| **Total** | **45** | **80**             |
 
-* There may be minor variations in the marks distribution.
-
-### **Copyright**
-
-&copy; 2021

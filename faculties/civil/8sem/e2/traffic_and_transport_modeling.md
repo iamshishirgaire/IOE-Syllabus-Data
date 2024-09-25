@@ -1,17 +1,3 @@
-## Syllabus: TRAFFIC AND TRANSPORT MODELING (CE 76510)
-
-**Course Objectives:**
-
-The objective of this course is to provide an in-depth understanding of mathematical models used for estimating transport demand in the context of transportation planning. This course covers the following contemporary concepts:
-
-* Conceptual knowledge of transportation systems
-* Functions of models in transportation system analysis
-* Types of models and their applications
-* Aggregated models for trip generation, trip distribution, modal split, and network assignment
-* Estimation of model parameters and calibration
-
-**Course Outline:**
-
 1. **Introduction (5 hours)**
     * Background: Traffic and Transportation Engineering
     * Introduction to Transportation Planning
@@ -81,19 +67,15 @@ The objective of this course is to provide an in-depth understanding of mathemat
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 8 |
-| 2 | 6 | 8 |
-| 3 | 4 | 8 |
-| 4 | 4 | 8 |
-| 5 | 6 | 8 |
-| 6 | 5 | 12 |
-| 7 | 5 | 12 |
-| 8 | 5 | 12 |
-| 9 | 5 | 12 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021** 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 8                   |
+| 2         | 6      | 8                   |
+| 3         | 4      | 8                   |
+| 4         | 4      | 8                   |
+| 5         | 6      | 8                   |
+| 6         | 5      | 12                  |
+| 7         | 5      | 12                  |
+| 8         | 5      | 12                  |
+| 9         | 5      | 12                  |
+| **Total** | **45** | **80**              |

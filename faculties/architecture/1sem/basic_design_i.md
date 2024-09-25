@@ -1,7 +1,3 @@
-## Syllabus - BASIC DESIGN- 1
-
-**Course Objective:**  To explore fundamental principles and elements of design: form, space, composition and context.  The course will address solutions to architectonic design projects through freehand sketch, drawings and models.  Students will understand and use basic equipment, media, and techniques for communication.  This course introduces the process of architectural design and presentation.
-
 ### 1. Introduction (4 hours)
 
 * **Understand the subject and its contents for the semester.**
@@ -58,12 +54,12 @@
 
 ### Internal Evaluation Scheme:
 
-| Chapter | Hours | No of Exercises | Full Marks |
-|---|---|---|---|
-| 1 | 12 | 3 | 25 |
-| 2 | 30 | 4 | 75 |
-| 3 | 48 | 3 | 100 |
-| **Total** | **90** | **10** | **200** |
+| Chapter   | Hours  | No of Exercises | Full Marks |
+| --------- | ------ | --------------- | ---------- |
+| 1         | 12     | 3               | 25         |
+| 2         | 30     | 4               | 75         |
+| 3         | 48     | 3               | 100        |
+| **Total** | **90** | **10**          | **200**    |
 
 ### References:
 
@@ -74,6 +70,3 @@
 5. Sommer, Robert - *Personal Space*
 6. Gibson, James - *The Senses Considered as Perceptual Systems*
 
-***
-
-**Copyright &copy; 2021** 

@@ -1,11 +1,3 @@
-## BUILDING SERVICES II
-
-**Course Objective:**
-
-On completion of this course, students will be able to understand the basic concept of electrical systems and design illumination, power circuits, safety, and protection as per standard requirements.
-
-### **Course Content:**
-
 1. **Basic Concept of Electric System and Its Terminology [8 hours]**
     * Concept of Electric Current and Voltage
     * Electric Circuits
@@ -58,14 +50,11 @@ On completion of this course, students will be able to understand the basic conc
 
 ### **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 12 |
-| 2 | 8 | 12 |
-| 3 | 8 | 8 |
-| 4 | 6 | 8 |
-| **Total** | **30** | **40** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 12                  |
+| 2         | 8      | 12                  |
+| 3         | 8      | 8                   |
+| 4         | 6      | 8                   |
+| **Total** | **30** | **40**              |
 
-***There may be minor deviation in marks distribution.***
-
-**Copyright © 2021**

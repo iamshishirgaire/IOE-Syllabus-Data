@@ -1,13 +1,3 @@
-## Syllabus
-
-**METROLOGY**
-
-**Course Objective:**
-
-To make students understand the concept, principles and purposes of Metrology in Engineering Production. To make them familiar with the principles, construction, application of various measuring instruments, basic concept on principles, methods of various measurements, standards, standardization and standardizing organizations, fundamentals of quality control.
-
-### Topics
-
 1. **Introduction to Metrology (1 hour)** 
     - Concept and Scope of Metrology
     - Objectives of Metrology
@@ -163,13 +153,12 @@ To make students understand the concept, principles and purposes of Metrology in
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter        | Marks* |
-|----------------|-------|
-| 1, 2, 3, 4    | 16     |
-| 5, 6, 7, 8    | 16     |
-| 9             | 16     |
-| 10, 11, 12   | 16     |
-| 13, 14, 15   | 16     |
-| **Total**      | **80**  |
+| Chapter    | Marks* |
+| ---------- | ------ |
+| 1, 2, 3, 4 | 16     |
+| 5, 6, 7, 8 | 16     |
+| 9          | 16     |
+| 10, 11, 12 | 16     |
+| 13, 14, 15 | 16     |
+| **Total**  | **80** |
 
-*There could be minor deviation in mark distribution. 

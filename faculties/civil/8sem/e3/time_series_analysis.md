@@ -1,11 +1,3 @@
-## Syllabus: Time Series Analysis (CE 78505)
-
-**Course Objectives:**
-
-To enhance the students understanding and the possibilities and limitation of different types of time series models through lectures and practical model application.
-
-### Topics:
-
 1. **Introduction (2 hours)**
     * Stochastic processes and time series
     * Time series modeling
@@ -88,17 +80,14 @@ To enhance the students understanding and the possibilities and limitation of di
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 8 |
-| 2 | 2 | 8 |
-| 3 | 8 | 12 |
-| 4 | 8 | 12 |
-| 5 | 12 | 20 |
-| 6 | 8 | 12 |
-| 7 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 8                   |
+| 2         | 2      | 8                   |
+| 3         | 8      | 12                  |
+| 4         | 8      | 12                  |
+| 5         | 12     | 20                  |
+| 6         | 8      | 12                  |
+| 7         | 5      | 8                   |
+| **Total** | **45** | **80**              |
 
-* There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

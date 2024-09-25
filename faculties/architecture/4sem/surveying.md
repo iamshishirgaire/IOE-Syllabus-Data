@@ -1,13 +1,3 @@
-## Syllabus
-
-### **SURVEYING**
-
-**Course Objective:**
-
-The objectives of this course are to introduce architectural engineering students with the fundamental knowledge of land measurement and surveying techniques. Overall, the course is designed to make the students able to learn and apply suitable survey procedures and equipment for producing maps.
-
-**Course Outline:**
-
 1. **Introduction (3 hours)**
     * Definition and historical background of surveying
     * Principle of surveying
@@ -116,19 +106,16 @@ The objectives of this course are to introduce architectural engineering student
 
 ### **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 2 | 10 | 16 |
-| 3, 4 | 10 | 14 |
-| 5 | 8 | 12 |
-| 6 & 7 | 10 | 10 |
-| 8 | 4 | 6 |
-| 9 | 6 | 10 |
-| 10, 11 & 12 | 12 | 12 |
-| **Total** | **60** | **80** |
+| Chapters    | Hours  | Marks Distribution* |
+| ----------- | ------ | ------------------- |
+| 1, 2        | 10     | 16                  |
+| 3, 4        | 10     | 14                  |
+| 5           | 8      | 12                  |
+| 6 & 7       | 10     | 10                  |
+| 8           | 4      | 6                   |
+| 9           | 6      | 10                  |
+| 10, 11 & 12 | 12     | 12                  |
+| **Total**   | **60** | **80**              |
 
-*There may be minor deviation in marks distribution.
 
-*50 marks: from field performance, viva, instrumentation and report
 
-### **Copyright © 2021** 

@@ -1,15 +1,3 @@
-# Syllabus
-
-## **BASIC ELECTRONICS ENGINEERING**
-
-**Course Objectives:**
-
-1. To understand the language of electronics, elements and their functionality
-2. Basic understanding of analog systems and their applications
-3. Basic understanding of digital systems and their applications
-
-## **Course Content:**
-
 1. **Basic Circuits Concepts(4 hours)**
     * Passive components: Resistance, Inductance, Capacitance; series, parallel combinations; Kirchhoff's law: Voltage, Current; Linearity
     * Signal sources: Voltage and Current sources; Non-ideal sources; Representation under assumption of Linearity; controlled sources: VCVS, CCVS, VCCS, CCCS; concept of Gain, Transconductance, Transimpedance
@@ -88,20 +76,15 @@
 
 The questions will cover all the chapters  of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 7 | 12 |
-| 3 | 7 | 10 |
-| 4 | 7 | 10 |
-| 5 | 4 | 10 |
-| 6 | 11 | 12 |
-| 7 | 5 | 10 |
-| 2, 3, 4, 5, 7 |  | 8 |
-| **Total** | **45** | **80** |
+| Chapter       | Hour   | Mark Distribution* |
+| ------------- | ------ | ------------------ |
+| 1             | 4      | 8                  |
+| 2             | 7      | 12                 |
+| 3             | 7      | 10                 |
+| 4             | 7      | 10                 |
+| 5             | 4      | 10                 |
+| 6             | 11     | 12                 |
+| 7             | 5      | 10                 |
+| 2, 3, 4, 5, 7 |        | 8                  |
+| **Total**     | **45** | **80**             |
 
-***
-
-**\*There  may be minor deviation in marks distribution.**
-
-## **Copyright&copy; 2021** 

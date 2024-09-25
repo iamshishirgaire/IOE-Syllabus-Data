@@ -1,9 +1,3 @@
-## BUILDING MATERIALS II
-
-**Course Objective:** To gain knowledge of different building materials, understand their properties, quality, uses, and testing methods to determine their qualities.
-
-### Topics:
-
 1. **Timber and Wood (9 hours)**
     * Introduction
     * Classification of Timber Trees & Types available in Nepal
@@ -85,13 +79,12 @@
 
 ### Evaluation Scheme:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 9 | 15 |
-| 2 | 9 | 15 |
-| 3 | 9 | 15 |
-| 4, 5, 6 | 9 | 20 |
-| 7, 8 | 9 | 15 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 9      | 15                  |
+| 2         | 9      | 15                  |
+| 3         | 9      | 15                  |
+| 4, 5, 6   | 9      | 20                  |
+| 7, 8      | 9      | 15                  |
+| **Total** | **45** | **80**              |
 
-**\* There may be minor deviation in marks distribution.** 

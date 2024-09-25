@@ -1,13 +1,3 @@
-# Syllabus
-
-## DATA COMMUNICATION
-
-**Course Objective:** 
-
-The objective of the course is to familiarize students with the concept of data communication, communication signals and their characteristics, transmission media and their characteristics, basics of multiplexing and switching.
-
-## Course Outline:
-
 1. **Introduction [4 hours]**
     * Data and Signal
     * Analog and Digital Signal
@@ -88,19 +78,15 @@ The objective of the course is to familiarize students with the concept of data 
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 6 | 10 |
-| 4 | 4 | 8 |
-| 5 | 10 | 18 |
-| 6 | 6 | 10 |
-| 7 | 3 | 5 |
-| 8 | 8 | 15 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 6      | 10                  |
+| 4         | 4      | 8                   |
+| 5         | 10     | 18                  |
+| 6         | 6      | 10                  |
+| 7         | 3      | 5                   |
+| 8         | 8      | 15                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
-
-
-## Copyright © 2021 

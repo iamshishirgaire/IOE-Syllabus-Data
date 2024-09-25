@@ -1,16 +1,3 @@
-# Syllabus
-
-## PASSIVE SOLAR ARCHITECTURE
-
-**AR 765 03**
-
-**Course Objective:**
-
-* To introduce the concept of Passive Solar Architecture in relation to architectural design.
-* To deal with the use of specific Passive Solar Architecture in design and construction to produce comfortable, energy-efficient, and environment-friendly buildings.
-
-## Course Content
-
 1. **Concept of Passive Solar Architecture** [4 hours]
     * Introduction, Objectives & Importance
     * History of passive solar architecture
@@ -85,12 +72,12 @@
 
 ### Evaluation Schedule for Practical Works
 
-| S.No | Duration | Stage | Marks |
-|---|---|---|---|
-| 1 | 10 hrs | Case Studies / Assignments on: <ul><li>Observation of different Passive building - Traditional & Modern</li><li>Observation of climate, microclimate, site, material, technology and Solar energy for Passive Solar system</li><li>Presentation</li></ul> | 15 |
-| 2 | 15 hrs | Assignments on: <ul><li>Design or renovation of a building with Passive Solar system</li><li>Presentation</li></ul> | 15 |
-| 3 | 5 hrs | Report Submission / Attendance | 20 |
-| **Total** | **30 hrs** |  | **50** |
+| S.No      | Duration   | Stage                                                                                                                                                                                                                                                     | Marks  |
+| --------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | 10 hrs     | Case Studies / Assignments on: <ul><li>Observation of different Passive building - Traditional & Modern</li><li>Observation of climate, microclimate, site, material, technology and Solar energy for Passive Solar system</li><li>Presentation</li></ul> | 15     |
+| 2         | 15 hrs     | Assignments on: <ul><li>Design or renovation of a building with Passive Solar system</li><li>Presentation</li></ul>                                                                                                                                       | 15     |
+| 3         | 5 hrs      | Report Submission / Attendance                                                                                                                                                                                                                            | 20     |
+| **Total** | **30 hrs** |                                                                                                                                                                                                                                                           | **50** |
 
 ## References
 
@@ -109,15 +96,12 @@
 
 The questions shall cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Hours | Total Marks |
-|---|---|---|---|
-| 1. | 1,2 | 6 | 8 |
-| 2. | 3,4,7 | 6 | 8 |
-| 3. | 5,6 | 6 | 8 |
-| 4. | 6,8 | 6 | 8 |
-| 5. | 9,10 | 6 | 8 |
-| **Total** |  | **30** | **40** |
+| Unit      | Chapter | Hours  | Total Marks |
+| --------- | ------- | ------ | ----------- |
+| 1.        | 1,2     | 6      | 8           |
+| 2.        | 3,4,7   | 6      | 8           |
+| 3.        | 5,6     | 6      | 8           |
+| 4.        | 6,8     | 6      | 8           |
+| 5.        | 9,10    | 6      | 8           |
+| **Total** |         | **30** | **40**      |
 
-* There may be minor deviation in marks distribution
-
-**Copyright © 2021** 

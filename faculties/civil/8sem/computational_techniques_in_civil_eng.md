@@ -1,11 +1,3 @@
-## Computational Techniques in Civil Engineering
-
-**Course Objective:**
-
-The knowledge of numerical solutions of various civil engineering problems is essential to the analysis and design of structures. This course includes the fundamentals of computational techniques required for those problems which cannot be solved by manual and ordinary methods. It teaches the steps required to solve the equations using algorithms and computer programs.
-
-### Syllabus
-
 1. **Introduction (4 hours)**
     - History of numerical computations of civil engineering problems
     - Brief description of solution techniques:
@@ -120,17 +112,13 @@ The knowledge of numerical solutions of various civil engineering problems is es
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 6 | 8 |
-| 3 | 6 | 10 |
-| 4 | 14 | 16 |
-| 5 | 7 | 12 |
-| 6 | 4 | 8 |
-| 7 | 4 | 8 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution. 
-
-**Copyright &copy; 2021**
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 6      | 8                   |
+| 3         | 6      | 10                  |
+| 4         | 14     | 16                  |
+| 5         | 7      | 12                  |
+| 6         | 4      | 8                   |
+| 7         | 4      | 8                   |
+| **Total** | **45** | **80**              |

@@ -1,9 +1,3 @@
-## Syllabus - Engineering Economics
-
-**Course Objective:**
-
-After completing this course, students will be able to conduct simple economic studies. They will also be able to evaluate engineering projects and make decisions related to investment. 
-
 ### 1. Introduction [3 hours]
 
 * 1.1. Origin of Engineering Economy
@@ -111,20 +105,15 @@ After completing this course, students will be able to conduct simple economic s
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 8 | 8 |
-| 3 | 12 | 16 |
-| 4 | 8 | 12 |
-| 5 | 8 | 12 |
-| 6 | 8 | 12 |
-| 7 | 8 | 12 |
-| 8 | 4 | 4 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 8      | 8                   |
+| 3         | 12     | 16                  |
+| 4         | 8      | 12                  |
+| 5         | 8      | 12                  |
+| 6         | 8      | 12                  |
+| 7         | 8      | 12                  |
+| 8         | 4      | 4                   |
+| **Total** | **60** | **80**              |
 
-*There may be minor variation in marks distribution. 
-
-### Copyright
-
-Copyright &copy; 2021 

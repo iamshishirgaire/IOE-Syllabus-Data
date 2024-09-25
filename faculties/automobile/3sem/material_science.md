@@ -1,9 +1,3 @@
-## Syllabus: Material Science
-
-**Course Objective:** To analyze the relationship between the structure and properties of ferrous alloys, non-ferrous alloys, polymer, ceramic and composite materials. Students will be able to select suitable material for different applications based on their properties.
-
-### Topics
-
 1. **Introduction to Materials (1 hour)**
     - Types of Materials
     - Relationship among structures, processing and properties
@@ -145,16 +139,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 & 2 | 9 | 10 |
-| 3 | 9 | 10 |
-| 4 | 6 | 8 |
-| 5 | 7 | 8 |
-| 6 | 10 | 12 |
-| 7 & 9 | 6 | 10 |
-| 8 | 1 | 2 |
-| 10 | 12 | 20 |
-| **Total** | **60** | **80** |
-
-*There may be minor deviation in mark distribution.
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1 & 2     | 9      | 10                 |
+| 3         | 9      | 10                 |
+| 4         | 6      | 8                  |
+| 5         | 7      | 8                  |
+| 6         | 10     | 12                 |
+| 7 & 9     | 6      | 10                 |
+| 8         | 1      | 2                  |
+| 10        | 12     | 20                 |
+| **Total** | **60** | **80**             |

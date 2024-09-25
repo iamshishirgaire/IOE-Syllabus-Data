@@ -1,13 +1,3 @@
-## Syllabus
-
-**MECHANICS OF MATERIALS**
-
-**Course objectives:**
-
-To understand the stresses and strains developed in bars, compound bars, beams, shafts, cylinders and spheres and design basic components of machines.
-
-### **Course Content**
-
 1. **Introduction (2 hours)**
     * Classification of mechanics of materials
     * External and internal forces, rigid body and deformable solid
@@ -130,17 +120,12 @@ To understand the stresses and strains developed in bars, compound bars, beams, 
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Marks |
-|---|---|
-| 1, 13, 14 & 15 | 16 |
-| 2, 3 & 4 | 16 |
-| 5 & 6 | 16 |
-| 7, 8 & 9 | 16 |
-| 10, 11 & 12 | 16 |
-| **Total** | **80** |
+| Chapter        | Marks  |
+| -------------- | ------ |
+| 1, 13, 14 & 15 | 16     |
+| 2, 3 & 4       | 16     |
+| 5 & 6          | 16     |
+| 7, 8 & 9       | 16     |
+| 10, 11 & 12    | 16     |
+| **Total**      | **80** |
 
-*There may be minor deviation in mark distribution*
-
-### **Copyright**
-
-Copyright &copy; 2021

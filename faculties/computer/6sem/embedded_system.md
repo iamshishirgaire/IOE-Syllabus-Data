@@ -1,11 +1,3 @@
-# Syllabus
-
-## **EMBEDDED SYSTEM**
-
-**Course Objective:**
-
-To introduce students to understand and familiarize them with applied computing principles in emerging technologies and applications for embedded systems.
-
 ### 1. Introduction to Embedded System [3 Hours]
 
 * Embedded Systems overview
@@ -93,20 +85,17 @@ Students should complete project work related to this subject.
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 4 | 8 |
-| 3 | 6 | 8 |
-| 4 | 5 | 8 |
-| 5 | 6 | 8 |
-| 6 | 8 | 12 |
-| 7 | 3 | 8 |
-| 8 | 3 | 8 |
-| 9 | 3 | 8 |
-| 10 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 3      | 4                  |
+| 2         | 4      | 8                  |
+| 3         | 6      | 8                  |
+| 4         | 5      | 8                  |
+| 5         | 6      | 8                  |
+| 6         | 8      | 12                 |
+| 7         | 3      | 8                  |
+| 8         | 3      | 8                  |
+| 9         | 3      | 8                  |
+| 10        | 4      | 8                  |
+| **Total** | **45** | **80**             |
 
-**\*There may be minor variation in marks distribution.**
-
-## Copyright © 2021 

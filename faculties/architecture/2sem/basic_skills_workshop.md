@@ -1,17 +1,3 @@
-## Syllabus
-
-**BASIC SKILLS WORKSHOP**
-
-**Course Objective:**
-
-1. To gain basic knowledge in woodwork technology.
-2. To develop skills in using hand tools and equipment.
-3. To develop basic skills for model making and structural systems in architectural design.
-4. To identify joinery works and different types of joints used in structural components of a structure.
-5. To gain basic manipulated skills and achieve carpentry techniques in carpentry/joinery work trade.
-
-### Course Outline:
-
 1. **Shop Exercises (8 hours)**
     * Sharpening a plane iron using and oil stone.
     * Dismantling, assembling and adjusting a plane.
@@ -27,18 +13,13 @@
 
 ### Evaluation Scheme:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 10 |
-| 2 | 12 | 10 |
-| 3 | 8 | 10 |
-| 4 | 8 | 10 |
-| 5 | 12 | 10 |
-| 6 | 12 |  |
-| **Total** |  | **50** |
+| Chapter   | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 1         | 8     | 10                  |
+| 2         | 12    | 10                  |
+| 3         | 8     | 10                  |
+| 4         | 8     | 10                  |
+| 5         | 12    | 10                  |
+| 6         | 12    |                     |
+| **Total** |       | **50**              |
 
-*There may be minor deviation in marks distribution.
-
----
-
-Copyright © 2021 

@@ -1,11 +1,3 @@
-# Syllabus: Internet and Intranet
-
-## Course Objectives:
-
-The focus of this course is on the practical application of internetworking technologies to private intranets for information management and public internets for electronic commerce. Students will learn theoretical details, strategies for designing sites, techniques for creating their technical infrastructure, methods for developing content, and techniques for site deployment and management. Students will develop various intranet and internet applications and setup servers as part of practical sessions.
-
-## Course Outline:
-
 1. **Introduction [5 hours]**
    - History and Development of Internets and Intranets 
    - IANA, RIR/NIR/LIR and ISPs for internet number management
@@ -82,19 +74,13 @@ The focus of this course is on the practical application of internetworking tech
 
 The questions will cover all the units of the syllabus. The evaluation scheme will be as indicated below:
 
-| Chapter | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 10 |
-| 2 | 6 | 10 |
-| 3 | 6 | 10 |
-| 4 | 8 | 15 |
-| 5 | 8 | 15 |
-| 6 | 6 | 10 |
-| 7 | 6 | 10 |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution. 
-
-## Copyright:
-
-Copyright © 2021 
+| Chapter   | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 10                  |
+| 2         | 6      | 10                  |
+| 3         | 6      | 10                  |
+| 4         | 8      | 15                  |
+| 5         | 8      | 15                  |
+| 6         | 6      | 10                  |
+| 7         | 6      | 10                  |
+| **Total** | **45** | **80**              |

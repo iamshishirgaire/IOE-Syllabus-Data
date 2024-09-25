@@ -1,14 +1,3 @@
-## Syllabus
-
-**INTRODUCTION TO PRESTRESSED CONCRETE ANALYSIS AND DESIGN<br>
-CE 76521**
-
-**Course Objectives:** 
-
-To introduce the fundamental principles of the structural behavior and design criteria of Prestressed Concrete structures with special focus on Limit State Methods of Design. The Students will learn to use output of structural analysis to design different elements of prestressed Concrete Structures according to Codal Provisions and detailing of Tendons. Finally, the students will be able to analyze and design of prestressed Concrete structures for Gravity Loads and lateral loads. The Course also includes key features of Codal provisions and Detailing of Prestressed Concrete using National and international Building Codes of Prestressed Concrete.
-
-### Course Content
-
 1. **Introduction** *(3 hours)*
     * Historical development
     * Basic principles of prestressed Concrete
@@ -77,6 +66,3 @@ To introduce the fundamental principles of the structural behavior and design cr
 4. Kong F. K. & Evans R. H., "Reinforced and Prestressed Concrete"
 5. Relevant Professional codes of Practice for prestressed concrete
 
----
-
-**Copyright&copy; 2021** 

@@ -1,11 +1,3 @@
-## Networking with IPv6 - CT 765 03
-
-**Course Objective:**
-
-The students will gain knowledge about fundamental issues in network protocol design and implementation, including the principles underlying TCP/IP protocol design, the historical development of Internet Protocol Version-6, IPv6 and QoS, IP network migrations, and applications.
-
-### Syllabus
-
 1. **Internet and the Networking Protocols [3 hours]**
     * Historical Development
     * OSI Model
@@ -83,18 +75,12 @@ For practical exercises, one PC per student will be provided, either in a virtua
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 2 | 14 | 20 |
-| 3 | 5 | 10 |
-| 4 | 6 | 12 |
-| 5 | 8 | 14 |
-| 6 | 6 | 12 |
-| 1, 7 | 6 | 12 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright © 2021 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 2         | 14     | 20                  |
+| 3         | 5      | 10                  |
+| 4         | 6      | 12                  |
+| 5         | 8      | 14                  |
+| 6         | 6      | 12                  |
+| 1, 7      | 6      | 12                  |
+| **Total** | **45** | **80**              |

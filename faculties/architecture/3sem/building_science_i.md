@@ -1,12 +1,3 @@
-## BUILDING SCIENCE I
-
-**Course Objective:**
-
-1. To introduce the concept of architectural Climatology and Thermal Aspects in relation to architectural design.
-2. To deal with the use of Climatology and Thermal Aspects for comfort and security in building and built-up environment.
-
-**Course Content:**
-
 1. **Climatology (16 hours)**
     * **Climatology**
         * Introduction and Objectives of Climatology
@@ -92,12 +83,10 @@ Observation and study of table with weather records of various places
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 16 | 30 |
-| 2 | 14 | 24 |
-| 3 | 5 | 8 |
-| 4 | 10 | 18 |
-| **Total** | **&nbsp;** | **80** |
-
-*There may be minor deviation in marks distribution.
+| Chapters  | Hours      | Marks Distribution* |
+| --------- | ---------- | ------------------- |
+| 1         | 16         | 30                  |
+| 2         | 14         | 24                  |
+| 3         | 5          | 8                   |
+| 4         | 10         | 18                  |
+| **Total** | **&nbsp;** | **80**              |

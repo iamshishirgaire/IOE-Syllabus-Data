@@ -1,9 +1,3 @@
-## Syllabus: BASIC DESIGN - II
-
-**Course Objective:**
-
-To explore further from understanding the fundamental principles and elements of design to the development of skill in solving composite problems which include different functions, circulation and construction systems related to building design. To understand the development of design with respect to natural light, ventilation and service systems. To introduce the use of perception in creative design. To employ the above process for the solution of architectural design and to present through freehand sketches, drawings, and models.
-
 **1. Understanding of Design Standards. (6 hours)**
 
 The students will be able to:
@@ -63,12 +57,12 @@ Building design of a similar building to their case study in a given site.
 
 **Internal Evaluation Scheme**
 
-| Chapter | Hours | No. of Exercises | Full Marks |
-|---|---|---|---|
-| 1 | 18 | 2 | 40 |
-| 2 | 30 | 2 | 60 |
-| 3 | 42 | 2 | 100 |
-| **Total** | **90** | **6** | **200** |
+| Chapter   | Hours  | No. of Exercises | Full Marks |
+| --------- | ------ | ---------------- | ---------- |
+| 1         | 18     | 2                | 40         |
+| 2         | 30     | 2                | 60         |
+| 3         | 42     | 2                | 100        |
+| **Total** | **90** | **6**            | **200**    |
 
 **References:**
 
@@ -79,7 +73,3 @@ Building design of a similar building to their case study in a given site.
 5. Sommer, Robert- *Personal Space.*
 6. Gibson, James. - *The senses considered as Perceptual systems.*
 7. Chiara J. De and Callender J- *Time Savers Standards, Building Types*. 
-
-***
-
-This syllabus is presented in a more concise and readable format, using Markdown headings and lists to better organize the content. It also includes minor improvements in phrasing and punctuation.

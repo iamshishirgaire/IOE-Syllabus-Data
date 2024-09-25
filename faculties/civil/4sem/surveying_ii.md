@@ -1,11 +1,3 @@
-## Syllabus
-
-**SURVEYING  II**
-
-**Objectives:**
-
-The objectives of this course is to introduce fundamental knowledge of land measurement and modern survey application. After completion of this course students will be able to implement modern survey technique in map making and application in relevant to civil engineering projects.
-
 **1. Traversing  (7 Hours)**
 
 * 1.1   Needs and significance of traversing
@@ -130,19 +122,15 @@ The objectives of this course is to introduce fundamental knowledge of land meas
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 7 | 16 |
-| 2 | 5 | 10 |
-| 3 | 4 | 6 |
-| 4 | 4 | 8 |
-| 5 | 4 | 8 |
-| 6 | 8 | 12 |
-| 7 | 5 | 6 |
-| 8 | 3 | 8 |
-| 9 | 3 | 6 |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution 
-
-**Copyright&copy; 2021** 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 7      | 16                  |
+| 2         | 5      | 10                  |
+| 3         | 4      | 6                   |
+| 4         | 4      | 8                   |
+| 5         | 4      | 8                   |
+| 6         | 8      | 12                  |
+| 7         | 5      | 6                   |
+| 8         | 3      | 8                   |
+| 9         | 3      | 6                   |
+| **Total** | **45** | **80**              |

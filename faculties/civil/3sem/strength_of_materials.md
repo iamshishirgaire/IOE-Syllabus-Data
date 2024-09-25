@@ -1,13 +1,3 @@
-# Syllabus
-
-## STRENGTH OF MATERIALS
-
-**Course Objectives:**
-
-The purpose of the course is to provide the students with basic knowledge in material behavior, stress-strain relations and their analysis. During the course, students will review on mechanics first and obtain knowledge in stress-strain relations, their types. At the end students will have basic concept on theory of flexure and column buckling.
-
-## **Course Content:**
-
 1. **Axial Forces, Shearing Forces and Bending Moments (8 hours)**
     * Plotting shearing force, bending moment and axial force diagrams for determinate structures (beams and frames)
     * Concept of superposition for shear forces, bending moments and axial forces due to various combinations of loads
@@ -98,20 +88,15 @@ The purpose of the course is to provide the students with basic knowledge in mat
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 16 |
-| 2 | 7 | 12 |
-| 3 | 8 | 16 |
-| 4 | 6 | 8 |
-| 5 | 3 | 6 |
-| 6 | 4 | 6 |
-| 7 | 5 | 8 |
-| 8 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 16                  |
+| 2         | 7      | 12                  |
+| 3         | 8      | 16                  |
+| 4         | 6      | 8                   |
+| 5         | 3      | 6                   |
+| 6         | 4      | 6                   |
+| 7         | 5      | 8                   |
+| 8         | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
-## Copyright
-
-Copyright&copy; 2021 

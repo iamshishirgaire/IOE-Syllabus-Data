@@ -1,11 +1,3 @@
-## BUILDING SERVICES I
-
-**Course Objective:**
-
-Provide fundamental knowledge of water supply and sanitary service (including solid waste collection) with particular reference to building and conceptual design technique and drawing.
-
-**Course Detail:**
-
 1. **Water Supply System [1 hour]**
     * Introduction
     * Objective of Water Supply
@@ -73,17 +65,17 @@ Provide fundamental knowledge of water supply and sanitary service (including so
 
 **Practical Assignments:**
 
-| S. No | Units | No. of Sheets | Marks Distribution |
-|---|---|---|---|
-| 1 | 1 | 2 | 6 |
-| 2 | 2 | 2 | 6 |
-| 3 | 3 | 2 | 6 |
-| 4 | 4 | 2 | 6 |
-| 5 | 5 | 2 | 6 |
-| 6 | 6 | 2 | 6 |
-| 7 | 7 | 1 | 3 |
-| 8 | 8 | 2 | 6 |
-| **Total** |  | **15** | **45 + 5** |
+| S. No     | Units | No. of Sheets | Marks Distribution |
+| --------- | ----- | ------------- | ------------------ |
+| 1         | 1     | 2             | 6                  |
+| 2         | 2     | 2             | 6                  |
+| 3         | 3     | 2             | 6                  |
+| 4         | 4     | 2             | 6                  |
+| 5         | 5     | 2             | 6                  |
+| 6         | 6     | 2             | 6                  |
+| 7         | 7     | 1             | 3                  |
+| 8         | 8     | 2             | 6                  |
+| **Total** |       | **15**        | **45 + 5**         |
 
 **Refrences:**
 
@@ -93,20 +85,17 @@ Provide fundamental knowledge of water supply and sanitary service (including so
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 1 | 2 |
-| 2 | 2 | 4 |
-| 3 | 5 | 6 |
-| 4 | 4 | 6 |
-| 5 | 3 | 4 |
-| 6 | 2 | 3 |
-| 7 | 4 | 6 |
-| 8 | 3 | 4 |
-| 9 | 4 | 3 |
-| 10 | 2 | 2 |
-| **Total** |  | **40** |
+| Chapters  | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 1         | 1     | 2                   |
+| 2         | 2     | 4                   |
+| 3         | 5     | 6                   |
+| 4         | 4     | 6                   |
+| 5         | 3     | 4                   |
+| 6         | 2     | 3                   |
+| 7         | 4     | 6                   |
+| 8         | 3     | 4                   |
+| 9         | 4     | 3                   |
+| 10        | 2     | 2                   |
+| **Total** |       | **40**              |
 
-*There may be minor deviation in marks distribution
-
-**Copyright© 2021** 

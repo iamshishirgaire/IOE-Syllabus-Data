@@ -1,13 +1,3 @@
-# Syllabus
-
-## ENGINEERING MECHANICS
-
-**Course Objective:**
-
-This course provides students with the fundamental knowledge of the principles, concepts and application of mechanics for solving engineering problems. The students will become familiar with the analytical/graphical methods for solving problems of mechanics, mainly of dynamics. 
-
-### Topics Covered:
-
 1. **Virtual Work (2 hours)**
     * Definition of Work and Virtual Work 
     * Principal of Virtual Work for a Particle and a Rigid Body 
@@ -86,21 +76,16 @@ There should be at least one assignment from each chapter and 2 assessment tests
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 6 | 10 |
-| 3 | 4 | 8 |
-| 4 | 6 | 10 |
-| 5 | 7 | 12 |
-| 6 | 8 | 15 |
-| 7 | 4 | 8 |
-| 8 | 4 | 8 |
-| 9 | 4 | 5 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 2      | 4                  |
+| 2         | 6      | 10                 |
+| 3         | 4      | 8                  |
+| 4         | 6      | 10                 |
+| 5         | 7      | 12                 |
+| 6         | 8      | 15                 |
+| 7         | 4      | 8                  |
+| 8         | 4      | 8                  |
+| 9         | 4      | 5                  |
+| **Total** | **45** | **80**             |
 
-*There may be minor deviation in marks distribution. 
-
-### Copyright
-
-Copyright © 2021

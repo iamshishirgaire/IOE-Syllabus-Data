@@ -1,11 +1,3 @@
-## Syllabus: Urban and Settlement Planning
-
-**Course Objectives:**
-
-This course aims to familiarize students with the social, economic, and organizational perspectives at national, regional, and local levels as a context for architectural products. It provides the necessary background for making informed choices for further studies in related disciplines. Special reference will be made to the problems of urbanization in Nepal. Specifically, it aims to study various planning concepts and get exposed to the various aspects of the planning process.
-
-**Course Topics:**
-
 1. **Introduction (4 hours)**
     * Definition and concept of Planning, elements of human settlement - role of man and society in the growth and decay of human settlements, planning objectives, benefits.
     * Planning as an interdisciplinary subject.
@@ -56,16 +48,12 @@ This course aims to familiarize students with the social, economic, and organiza
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 28 | 40 |
-| 5 | 8 | 8 |
-| 6 | 6 | 10 |
-| 7 | 8 | 10 |
-| 8 | 6 | 8 |
-| **Total** | **60** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 28     | 40                  |
+| 5         | 8      | 8                   |
+| 6         | 6      | 10                  |
+| 7         | 8      | 10                  |
+| 8         | 6      | 8                   |
+| **Total** | **60** | **80**              |

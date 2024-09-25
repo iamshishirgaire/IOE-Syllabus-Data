@@ -1,18 +1,3 @@
-# Syllabus
-
-## Organization and Management
-
-**Course Objectives:**
-
-1. To acquire knowledge in the field of organizational management and internal organization of companies required for managing an enterprise.
-2. To acquire knowledge in the field of personnel management, motivation and leadership for developing managerial skills.
-3. To gain knowledge for starting a small scale unit independently.
-4. To gain knowledge on case study and management information system.
-
-## Syllabus
-
-### Introduction
-
 1. **Organization (2 hours)**
     * System approach applied to Organization
     * Necessity of Organization
@@ -122,20 +107,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Units | Chapters | Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 1.1 & 1.2 | 6 | 8 or 16 |
-| 1 | 1.6 | 4 | 8 |
-| 2 | 1.3 | 6 | 8 |
-| 2 | 1.4 & 1.5 | 4 | 8 |
-| 3 | 2 | 8 | 16 |
-| 4 | 3.1 | 6 | 8 |
-| 4 | 3.2 & 3.3 | 4 | 8 |
-| 5 | 4 & 5 | 7 | 8 or 16 |
-| **Total** | **-** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-## Copyright
-
-Copyright&copy; 2021 
+| Units     | Chapters  | Hours  | Marks Distribution* |
+| --------- | --------- | ------ | ------------------- |
+| 1         | 1.1 & 1.2 | 6      | 8 or 16             |
+| 1         | 1.6       | 4      | 8                   |
+| 2         | 1.3       | 6      | 8                   |
+| 2         | 1.4 & 1.5 | 4      | 8                   |
+| 3         | 2         | 8      | 16                  |
+| 4         | 3.1       | 6      | 8                   |
+| 4         | 3.2 & 3.3 | 4      | 8                   |
+| 5         | 4 & 5     | 7      | 8 or 16             |
+| **Total** | **-**     | **45** | **80**              |

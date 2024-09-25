@@ -1,13 +1,3 @@
-# Syllabus
-
-## **SIMULATION AND MODELING**
-
-**Course objectives:** 
-
-To provide the knowledge of discrete and continuous system, random numbers generation, queuing system and computer system simulation.
-
-## **Course Content:**
-
 1. **Introduction to Simulation (4 hours)**
    - system, model and simulation
    - Discrete and continuous systems
@@ -101,22 +91,16 @@ To provide the knowledge of discrete and continuous system, random numbers gener
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution * |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 6 |
-| 3 | 5 | 10 |
-| 4 | 6 | 10 |
-| 5 | 3 | 6 |
-| 6 | 10 | 18 |
-| 7 | 3 | 5 |
-| 8 | 4 | 5 |
-| 9 | 3 | 6 |
-| 10 | 3 | 6 |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution.
-
-## **Copyright**
-
-Copyright &copy; 2021 
+| Chapters  | Hours  | Marks Distribution * |
+| --------- | ------ | -------------------- |
+| 1         | 4      | 8                    |
+| 2         | 4      | 6                    |
+| 3         | 5      | 10                   |
+| 4         | 6      | 10                   |
+| 5         | 3      | 6                    |
+| 6         | 10     | 18                   |
+| 7         | 3      | 5                    |
+| 8         | 4      | 5                    |
+| 9         | 3      | 6                    |
+| 10        | 3      | 6                    |
+| **Total** | **45** | **80**               |

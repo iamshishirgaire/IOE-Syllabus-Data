@@ -1,20 +1,3 @@
-## Syllabus
-
-**GEOGRAPHIC INFORMATION SYSTEM**
-
-**AR 825 04**
-
-**Course Objective:**
-
-On completion, a student will be able to:
-
-1. Understand the principle and the use of GIS vocabulary
-2. Carry out basic GIS operations
-3. Use the knowledge of GIS for settlement study & planning/ urban diversity and infrastructure planning & inventory assessments 
-4. Understand fundamentals of Remote Sensing, Global Positioning System (GPS)
-
-### **Course Content:**
-
 1. **Overview of GIS [6 hours]**
     * Introduction and background of GIS
     * GIS sub-systems
@@ -91,12 +74,12 @@ On completion, a student will be able to:
 
 ### **Practical:**
 
-| S.No | Duration | Stage | Marks |
-|---|---|---|---|
-| 1 | 10 hrs | Preliminary exercises: <br> * Usage of GIS software package – Arc-Catalog & ArcMap. <br> * Various Exercises for understanding GIS Concepts | 10 |
-| 2 | 20 hrs | Case Studies / Assignments on: <br> * Problem Identification <br> * Data collection <br> * Data analysis <br> * Cartography & map presentation <br> * Presentation on findings <br> Possible Topics: Settlement Planning, Infrastructure, Transport, Disaster related etc. | 40 |
-| 3 |  | Report Submission |  |
-| **Total** | **30** |  | **50** |
+| S.No      | Duration | Stage                                                                                                                                                                                                                                                                      | Marks  |
+| --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | 10 hrs   | Preliminary exercises: <br> * Usage of GIS software package – Arc-Catalog & ArcMap. <br> * Various Exercises for understanding GIS Concepts                                                                                                                                | 10     |
+| 2         | 20 hrs   | Case Studies / Assignments on: <br> * Problem Identification <br> * Data collection <br> * Data analysis <br> * Cartography & map presentation <br> * Presentation on findings <br> Possible Topics: Settlement Planning, Infrastructure, Transport, Disaster related etc. | 40     |
+| 3         |          | Report Submission                                                                                                                                                                                                                                                          |        |
+| **Total** | **30**   |                                                                                                                                                                                                                                                                            | **50** |
 
 ### **References:**
 
@@ -109,15 +92,13 @@ On completion, a student will be able to:
 
 The questions shall cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Hours | Marks Distribution * |
-|---|---|---|---|
-| 1. | 1 | 6 | 8 |
-| 2. | 2, 3 | 2+4 = 6 | 8 |
-| 3. | 4 | 6 | 8 |
-| 4. | 5, 6 | 4+2 = 6 | 8 |
-| 5. | 6 | 6 | 8 |
-| **Total** |  | **30** | **40** |
+| Unit      | Chapter | Hours   | Marks Distribution * |
+| --------- | ------- | ------- | -------------------- |
+| 1.        | 1       | 6       | 8                    |
+| 2.        | 2, 3    | 2+4 = 6 | 8                    |
+| 3.        | 4       | 6       | 8                    |
+| 4.        | 5, 6    | 4+2 = 6 | 8                    |
+| 5.        | 6       | 6       | 8                    |
+| **Total** |         | **30**  | **40**               |
 
-* There may be minor deviation in marks distribution
 
-### **Copyright © 2021** 

@@ -1,11 +1,3 @@
-## Syllabus: Construction Equipment
-
-**Course Objectives:**
-
-* To gain familiarity with the types, repair, maintenance, and management of heavy equipment.
-
-**Course Outline:**
-
 1. **Hydraulic System (6 hours)**
     * Basic principles of hydraulics
     * Elements of a hydraulic system: hydraulic power pack, control valve, and actuators
@@ -80,15 +72,11 @@
 
 **Evaluation Scheme:**
 
-| Chapter | Marks* |
-|---|---|
-| 1 & 2 | 16 |
-| 3 | 16 |
-| 4 | 16 |
-| 5 & 6 | 16 |
-| 7 | 16 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1 & 2     | 16     |
+| 3         | 16     |
+| 4         | 16     |
+| 5 & 6     | 16     |
+| 7         | 16     |
 | **Total** | **80** |
-
-*There may be minor deviations in mark distribution.
-
-**Copyright © 2021** 

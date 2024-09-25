@@ -1,13 +1,3 @@
-## RF AND MICROWAVE ENGINEERING
-
-**EX 725 05**
-
-**Course Objectives:** 
-
-The course deals with the basic understanding of the fundamentals of Radio Frequency (RF) and Microwave (M/W) theory and applications, design and analysis practices, and measurement techniques.
-
-### **Syllabus:**
-
 1. **Introduction (3 hours)**
     * Standard frequency bands
     * Behaviour of circuits at conventional and RF/microwave bands
@@ -96,20 +86,15 @@ The course deals with the basic understanding of the fundamentals of Radio Frequ
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 8 |
-| 2 | 6 | 8 |
-| 3 | 4 | 8 |
-| 4 | 8 | 10 |
-| 5 | 5 | 8 |
-| 6 | 10 | 20 |
-| 7 | 3 | 8 |
-| 8 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 8                   |
+| 2         | 6      | 8                   |
+| 3         | 4      | 8                   |
+| 4         | 8      | 10                  |
+| 5         | 5      | 8                   |
+| 6         | 10     | 20                  |
+| 7         | 3      | 8                   |
+| 8         | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in the marks distribution. 
-
----
-
-**Copyright &copy; 2021** 

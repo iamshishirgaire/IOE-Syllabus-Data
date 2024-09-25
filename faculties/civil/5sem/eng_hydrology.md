@@ -1,11 +1,3 @@
-## ENGINEERING HYDROLOGY
-
-**Course Objectives:**
-
-This course is aimed at teaching students the concept of hydrology and computational analysis for the design and management of water resources projects. It gives a practical approach to the various facets of the subject and emphasizes the application of hydrological knowledges to solve engineering problems.
-
-###  Course Content
-
 1. **Introduction [2 hours]**
     * Definition and Uses of Engineering hydrology
     * Hydrologic cycle and water balance equations
@@ -105,17 +97,11 @@ This course is aimed at teaching students the concept of hydrology and computati
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
 | Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 8 | 12 |
-| 3 | 8 | 14 |
-| 4 | 8 | 14 |
-| 5 | 7 | 14 |
-| 6 | 7 | 14 |
-| 7 | 5 | 8 |
-
-**\* There may be minor variation in marks distribution**
-
-***
-
-**Copyright &copy; 2021** 
+| ------- | ----- | ------------------- |
+| 1       | 2     | 4                   |
+| 2       | 8     | 12                  |
+| 3       | 8     | 14                  |
+| 4       | 8     | 14                  |
+| 5       | 7     | 14                  |
+| 6       | 7     | 14                  |
+| 7       | 5     | 8                   |

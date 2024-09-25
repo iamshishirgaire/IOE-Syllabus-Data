@@ -1,13 +1,3 @@
-## Syllabus: Automobile Electrical and Electronics
-
-**Course objectives:**
-
-1. Knowledge in vehicle electrical and electronics components for engine operation.
-2. Enhancing the knowledge of sensor and microprocessor applications in vehicle control systems.
-3. Gaining information on modern safety systems in vehicle braking.
-
-**Syllabus:**
-
 1. **Introduction to automobile electrical and electronics system (2 hours)**
     * Electrical system: purpose, functions
     * Electronics system: purpose, functions
@@ -77,15 +67,11 @@
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below.
 
-| Chapter | Marks* |
-|---|---|
-| 2 & 3 | 16 |
-| 4 & 5 | 16 |
-| 6 & 7 | 16 |
-| 8 & 9 | 16 |
-| 1 & 10 | 16 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 2 & 3     | 16     |
+| 4 & 5     | 16     |
+| 6 & 7     | 16     |
+| 8 & 9     | 16     |
+| 1 & 10    | 16     |
 | **Total** | **80** |
-
-*There might be minor deviation in marks distribution.
-
-**Copyright © 2021**

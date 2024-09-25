@@ -1,11 +1,3 @@
-## Syllabus - GIS Application and Remote Sensing (CE 78501)
-
-**Course Objectives:**
-
-This course introduces the principles, concepts, and applications of Geographic Information Systems (GIS). GIS is a powerful decision support tool for planners and managers working with spatial information. This course focuses on database development, manipulation, and spatial analysis techniques for information generation. Students will explore the application of GIS in their respective fields, including natural resource management, environmental studies, civil engineering, agriculture, and information systems, through mini-projects and laboratory exercises.
-
-**Course Outline:**
-
 1. **Introduction and Overview of GIS and Software (3 hours)** 
     - Definition of GIS, its features and functions.
     - Importance of GIS and its various applications.
@@ -116,22 +108,19 @@ This course introduces the principles, concepts, and applications of Geographic 
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 3 | 6 |
-| 3 | 3 | 6 |
-| 4 | 3 | 6 |
-| 5 | 3 | 6 |
-| 6 | 6 | 10 |
-| 7 | 6 | 10 |
-| 8 | 3 | 6 |
-| 9 | 4 | 6 |
-| 10 | 4 | 6 |
-| 11 | 4 | 6 |
-| 12 | 3 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 3      | 6                   |
+| 3         | 3      | 6                   |
+| 4         | 3      | 6                   |
+| 5         | 3      | 6                   |
+| 6         | 6      | 10                  |
+| 7         | 6      | 10                  |
+| 8         | 3      | 6                   |
+| 9         | 4      | 6                   |
+| 10        | 4      | 6                   |
+| 11        | 4      | 6                   |
+| 12        | 3      | 6                   |
+| **Total** | **45** | **80**              |
 
-* There could be minor deviations in the mark distribution.
-
-**Copyright &copy; 2021** 

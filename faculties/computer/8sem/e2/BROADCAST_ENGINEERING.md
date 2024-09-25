@@ -1,16 +1,3 @@
-## Syllabus
-
-### **BROADCAST ENGINEERING**
-### **EX 765 03**
-
-**Course Objectives:**
-
-1. To familiarize students with applications in different areas of broadcasting such as television, AM, FM, cable television, telecommunications, data communications, studio acoustics etc. through experiments and field researches.
-2. To present a complete perspective of basic equipments or devices used for transmission of signals such as filters and oscillators, radio frequency power amplifiers and mixers, basic circuits of modulation and demodulation, transmitters and studio equipments.
-3. To study and understand the basic concepts of broadcasting and obtain the knowledge of designing a simple AM/FM transmitter.
-
-**Syllabus:**
-
 1. **Audio Principles (2 hours)**
     * Decibel scale and units
     * Balanced lines
@@ -62,19 +49,16 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 10 | 18 |
-| 3 | 9 | 16 |
-| 4 | 4 | 7 |
-| 5 | 3 | 5 |
-| 6 | 4 | 7 |
-| 7 | 4 | 7 |
-| 8 | 4 | 7 |
-| 9 | 5 | 9 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 10     | 18                  |
+| 3         | 9      | 16                  |
+| 4         | 4      | 7                   |
+| 5         | 3      | 5                   |
+| 6         | 4      | 7                   |
+| 7         | 4      | 7                   |
+| 8         | 4      | 7                   |
+| 9         | 5      | 9                   |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-**Copyright &copy; 2021** 

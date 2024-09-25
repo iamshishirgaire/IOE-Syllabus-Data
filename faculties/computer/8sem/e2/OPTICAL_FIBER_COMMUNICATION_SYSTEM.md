@@ -1,10 +1,3 @@
-## Syllabus
-
-**OPTICAL FIBER COMMUNICATION SYSTEM**
-**EX 765  01**
-
-###  Topics
-
 1. **Introduction to Optical Fiber Communication (2 hours)**
     * Evolution of optical fiber  communication
     * Optical fiber communication system
@@ -126,23 +119,19 @@ Demonstration of the concept of light  propagation in optical waveguide with the
 
 The questions will cover all the  chapters of the syllabus. The evaluation scheme will be as indicated in the  table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 2 | 4 |
-| 3 | 2 | 4 |
-| 4 | 3 | 5 |
-| 5 | 5 | 9 |
-| 6 | 4 | 7 |
-| 7 | 4 | 7 |
-| 8 | 3 | 5 |
-| 9 | 6 | 11 |
-| 10 | 4 | 7 |
-| 11 | 10 | 17 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 2      | 4                   |
+| 3         | 2      | 4                   |
+| 4         | 3      | 5                   |
+| 5         | 5      | 9                   |
+| 6         | 4      | 7                   |
+| 7         | 4      | 7                   |
+| 8         | 3      | 5                   |
+| 9         | 6      | 11                  |
+| 10        | 4      | 7                   |
+| 11        | 10     | 17                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in  Marks distribution.
 
-### Copyright
-
-Copyright &copy; 2021

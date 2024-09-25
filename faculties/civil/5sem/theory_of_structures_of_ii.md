@@ -1,15 +1,3 @@
-## Syllabus: Theory of Structures II
-
-**Course Objective:**
-
-The objective of this course is threefold:
-
-1. To familiarize students with the terminologies and concepts of displacements, stresses, strains, stiffness etc., and their parameters in the context of indeterminate systems.
-2. To provide practical examples illustrating the basic concepts and theorems on static (equilibrium), geometrical (compatibility), and physical (Force, stiffness, and displacements) conditions in the context of indeterminate systems.
-3. To prepare students for advanced courses in structural mechanics by introducing them to necessary tools like matrix method, force method, displacement method, plastic analysis etc.
-
-**Course Outline:**
-
 1. **Introduction (8 hours)**
     * Formulation of problems in theory of structure: functions of structural systems and corresponding requirements/conditions to be fulfilled, strength, stiffness, and stability of a system.
     * Conditions and equations: static, compatibility, and physical.
@@ -102,15 +90,11 @@ Determination of redundant reaction components and their comparative studies in 
 
 The questions will cover all the chapters of the syllabus as far as practicable. The approximate mark allocation to the questions is proposed to be as indicated in the table below:
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 8 | 15 |
-| 2 | 12 | 25 |
-| 3 | 15 | 25 |
-| 4 | 4 | 5 |
-| 5 | 6 | 10 |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution.
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 8      | 15                 |
+| 2         | 12     | 25                 |
+| 3         | 15     | 25                 |
+| 4         | 4      | 5                  |
+| 5         | 6      | 10                 |
+| **Total** | **45** | **80**             |

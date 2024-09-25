@@ -1,13 +1,3 @@
-## Syllabus
-
-**ESTIMATING AND COSTING**
-
-**Course Objective:**
-
-To provide basic knowledge of estimating and costing of civil engineering works; to analyze the rates and estimate the cost of various construction works.
-
-### Topics:
-
 1. **Introduction (3 hours)**
    - Definition
    - Estimated Cost and Actual Cost
@@ -83,16 +73,12 @@ To provide basic knowledge of estimating and costing of civil engineering works;
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 5 | 10 |
-| 3 | 3 | 5 |
-| 4 | 9 | 20 |
-| 5 | 5 | 5 |
-| 6 | 20 | 35 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-### Copyright &copy; 2021
+| Chapter   | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 5      | 10                  |
+| 3         | 3      | 5                   |
+| 4         | 9      | 20                  |
+| 5         | 5      | 5                   |
+| 6         | 20     | 35                  |
+| **Total** | **45** | **80**              |

@@ -1,12 +1,3 @@
-## Syllabus: DESIGN THEORY II
-
-**Course Objective**
-
-1. To develop an understanding of architectural theory, including thematic/ 'positive' theories, 'normative' theories, and procedural propositions in design thinking for the environmental aspects of building design and site planning. To develop an understanding of the theory of decisions. 
-2. To enable students to study and analyze a design, design problem, and design process through the application of associated positive, normative, and procedural theories regarding building and site environment, and to develop an ability of criticism and opinion.
-
-**Course Content:**
-
 1. **Doctrinal theories of architecture and design thinking with reference to works of the masters - Frank L Wright, Mies Van der Rohe, Le Corbusier, Louis I Kahn. (5 hours)**
 2. **Orientation and Memory, Enclosure, Territory, Defensible spaces, and private/public space. Concept of territory inherent in a built environment system, Territorial concepts in exploring design possibilities for architectural programs, Hierarchy of spaces. Social factors affecting behavior in the built environment. (5 hours)**
 3. **Space and Place: visual and spatial structure for a range of scales. Theories of Figure/Ground. Linkage and place. (5 hours)**
@@ -36,14 +27,12 @@
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 2, 3 | 15 | 30 |
-| 4, 5 | 8 | 14 |
-| 6 | 10 | 16 |
-| 7 | 12 | 20 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1, 2, 3   | 15     | 30                  |
+| 4, 5      | 8      | 14                  |
+| 6         | 10     | 16                  |
+| 7         | 12     | 20                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution. 
 
-**Copyright © 2021** 

@@ -1,11 +1,3 @@
-## Syllabus: Hydropower Engineering
-
-**Course Objectives:**
-
-The objective of this course is to familiarize students with hydropower development issues, from the initial stages to final design. Upon completion, students will be able to independently design various components of a hydropower system utilizing hydraulics. The course will also cover hydro-mechanical equipment and electro-mechanical installations.
-
-**Course Outline:**
-
 1. **Introduction [4 hours]**
    * Historical Background of Power development in Nepal
    * Power Potential in Nepal and World, Gross, technical and economic potentials
@@ -98,16 +90,12 @@ One day observation trip to a hydropower plant in the vicinity followed by a bri
 
 Questions will cover all chapters in the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 and 2 | 4, 6 | 10 |
-| 3 | 6 | 12 |
-| 4 | 18 | 24 |
-| 5 | 10 | 12 |
-| 6 | 8 | 12 |
-| 7 and 8 | 6, 2 | 10 |
-| **Total** | **60** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-**Copyright &copy; 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 and 2   | 4, 6   | 10                  |
+| 3         | 6      | 12                  |
+| 4         | 18     | 24                  |
+| 5         | 10     | 12                  |
+| 6         | 8      | 12                  |
+| 7 and 8   | 6, 2   | 10                  |
+| **Total** | **60** | **80**              |

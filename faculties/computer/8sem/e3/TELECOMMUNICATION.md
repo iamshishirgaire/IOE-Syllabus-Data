@@ -1,13 +1,3 @@
-## Syllabus
-
-**TELECOMMUNICATION** <br>
-**EX 785 03** <br>
-<br>
-
-**Course Objectives:** To continue the study of modern communication systems, their characteristics and design.
-
-### Topics
-
 1. **Telecommunication Networks: [4 hours]**
     * Evolution of telecommunications
     * Classification of switching systems
@@ -68,18 +58,15 @@ Six laboratories to illustrate course principles
 
 The questions will cover all the units of the syllabus. The evaluation scheme will be as indicated below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 4 | 7 |
-| 3 | 4 | 7 |
-| 4 | 8 | 14 |
-| 5 | 4 | 7 |
-| 6 | 9 | 16 |
-| 7 | 2 | 4 |
-| 8 | 10 | 18 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 4      | 7                   |
+| 3         | 4      | 7                   |
+| 4         | 8      | 14                  |
+| 5         | 4      | 7                   |
+| 6         | 9      | 16                  |
+| 7         | 2      | 4                   |
+| 8         | 10     | 18                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
-
-***Copyright © 2021*** 

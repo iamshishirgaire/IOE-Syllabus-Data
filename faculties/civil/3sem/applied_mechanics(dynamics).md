@@ -1,11 +1,3 @@
-## APPLIED MECHANICS (DYNAMICS)
-
-**Course Objectives:**
-
-The purpose of the course is to provide basic knowledge of engineering mechanics dynamics portion to the students such that they can understand the basics of kinematics and kinetics for both particles and rigid bodies and their motion.
-
-### **Syllabus:**
-
 1. **Curvilinear Motion of Particles (4 hours)**
     * Position vector, velocity and acceleration
     * Derivatives of vector functions
@@ -81,16 +73,13 @@ The purpose of the course is to provide basic knowledge of engineering mechanics
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 5 | 8 |
-| 3 | 5 | 8 |
-| 4 | 6 | 8 |
-| 5 | 4 | 4 |
-| 6 | 6 | 8 |
-| **Total** | **30** | **40** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 5      | 8                   |
+| 3         | 5      | 8                   |
+| 4         | 6      | 8                   |
+| 5         | 4      | 4                   |
+| 6         | 6      | 8                   |
+| **Total** | **30** | **40**              |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright© 2021**

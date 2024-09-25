@@ -1,13 +1,3 @@
-## Syllabus - Building Drawing
-
-**BUILDING DRAWING**
-
-**Course Objective:**
-
-The objective of this course is to introduce students to the basic terminology, components, and elements of building drawing. This course is designed to familiarize students with the fundamentals of building drawing and drafting skills. Emphasis is placed on drafting floor plans, elevations, sections, and details of buildings. 
-
-### Course Outline
-
 1. **Introduction to Building and Building Drawing (1 hour)**
     * Structural system of building
     * Anatomy of building
@@ -39,16 +29,16 @@ The objective of this course is to introduce students to the basic terminology, 
 
 ### Drawing Sheet Requirements
 
-| S.N | Description | Sheets | Hours |
-|---|---|---|---|
-| 1 | Load bearing and frame structure building, scale conversion, symbols and conventional signs | 2 | 6 |
-| 2 | Floor plans | 1 | 6 |
-| 3 | Elevations, cross sections | 1 | 6 |
-| 4 | Details of building | 2 | 6 |
-| 5 | Municipality drawing | 1 | 6 |
-| 6 | Measured drawing | 1 | 3 |
-| 7 | Working drawings (Architect’s, structural, electrical, sanitary drawings etc) | 4 | 12 |
-| **Total** | **12** | **45** |
+| S.N       | Description                                                                                 | Sheets | Hours |
+| --------- | ------------------------------------------------------------------------------------------- | ------ | ----- |
+| 1         | Load bearing and frame structure building, scale conversion, symbols and conventional signs | 2      | 6     |
+| 2         | Floor plans                                                                                 | 1      | 6     |
+| 3         | Elevations, cross sections                                                                  | 1      | 6     |
+| 4         | Details of building                                                                         | 2      | 6     |
+| 5         | Municipality drawing                                                                        | 1      | 6     |
+| 6         | Measured drawing                                                                            | 1      | 3     |
+| 7         | Working drawings (Architect’s, structural, electrical, sanitary drawings etc)               | 4      | 12    |
+| **Total** | **12**                                                                                      | **45** |
 
 ### References
 
@@ -65,16 +55,10 @@ The objective of this course is to introduce students to the basic terminology, 
 
 The questions will cover the entire chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 & 2 | 2 | 4 |
-| 3 | 5 | 10 |
-| 4 | 7 | 14 |
-| 5 | 1 | 2 |
-| **Total** | **15** | **30** |
-
-*There may be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright © 2021
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1 & 2     | 2      | 4                  |
+| 3         | 5      | 10                 |
+| 4         | 7      | 14                 |
+| 5         | 1      | 2                  |
+| **Total** | **15** | **30**             |

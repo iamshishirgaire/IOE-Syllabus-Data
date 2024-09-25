@@ -1,14 +1,3 @@
-## Syllabus
-
-### **EARTHQUAKE RESISTANT DESIGN OF STRUCTURES**  
-**CE 76501**
-
-**Course Objectives:**
-
-To understand the nature of earthquakes, behavior of structures under the ground motion, and learn the analysis and design of structures subjected to earthquake ground motions.
-
-### **Topics:**
-
 1. **Seismological Aspects (4 hours)**
     * Causes of earthquakes
     * Theory of plate tectonics
@@ -89,18 +78,12 @@ To understand the nature of earthquakes, behavior of structures under the ground
 
 ### **Evaluation Scheme:**
 
-| Chapter | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 10 | 16 |
-| 3 | 8 | 16 |
-| 4 | 10 | 16 |
-| 5 | 7 | 14 |
-| 6 | 6 | 10 |
-| **Total** | **45** | **80** |
-
-\*There could be minor deviation in mark distribution.
-
-### **Copyright:**
-
-Copyright © 2021
+| Chapter   | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 4      | 8                    |
+| 2         | 10     | 16                   |
+| 3         | 8      | 16                   |
+| 4         | 10     | 16                   |
+| 5         | 7      | 14                   |
+| 6         | 6      | 10                   |
+| **Total** | **45** | **80**               |

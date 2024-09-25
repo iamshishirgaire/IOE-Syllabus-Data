@@ -1,7 +1,3 @@
-# Syllabus
-
-## Applied Thermodynamics and Heat Transfer
-
 ### Unit I: Applied Thermodynamics
 
 1. **Boilers and Condenser (6 hours)**
@@ -101,17 +97,11 @@
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Units | Chapters | Marks distribution* |
-|---|---|---|
-| Unit I | 1, 2 | 16 |
-| Unit I | 3, 4 | 16 |
-| Unit I | 5, 6 | 16 |
-| Unit II | 1 & 3 | 16 |
-| Unit II | 2 | 16 |
-| **Total** | **-** | **80** |
-
-*There might be minor deviation in marks distribution.
-
-## Copyright
-
-Copyright © 2021
+| Units     | Chapters | Marks distribution* |
+| --------- | -------- | ------------------- |
+| Unit I    | 1, 2     | 16                  |
+| Unit I    | 3, 4     | 16                  |
+| Unit I    | 5, 6     | 16                  |
+| Unit II   | 1 & 3    | 16                  |
+| Unit II   | 2        | 16                  |
+| **Total** | **-**    | **80**              |

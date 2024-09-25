@@ -1,11 +1,3 @@
-## Syllabus
-
-### **INDUSTRIAL ATTACHMENT**
-
-**Course Objective:**
-
-To visit and work in different kinds of automobile enterprises (industries, service centers, and workshops) within or outside the country. To study the existing technology, organizational behavior, structure, and management system of the enterprises. The main purpose of this attachment is to boost up practical knowledge, skills, and develop professionalism within the students.
-
 **Duration:** One month
 
 **General Procedures:**
@@ -20,13 +12,11 @@ The report should be as per the guidelines provided by the department and should
 
 The evaluation scheme will be indicated in the table below:
 
-| **Topics** | **Marks** |
-|---|---|
-| Evaluation by supervisor from enterprises | 50 |
-| Evaluation of written report | 20 |
-| Presentation | 30 |
-| **Total** | **100** |
+| **Topics**                                | **Marks** |
+| ----------------------------------------- | --------- |
+| Evaluation by supervisor from enterprises | 50        |
+| Evaluation of written report              | 20        |
+| Presentation                              | 30        |
+| **Total**                                 | **100**   |
 
----
 
-**Copyright &copy; 2021** 

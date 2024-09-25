@@ -1,18 +1,3 @@
-## Syllabus: HISTORY OF ARCHITECTURE II
-
-**Course Objective:**
-
-This course provides a brief survey of architectural knowledge in Nepal, offering a contextual and constructed narration of Nepalese architecture.
-
-**Learning Objectives:**
-
-1. To gain knowledge of paradigmatic buildings in relation to the artistic, intellectual, and socio-political conditions that influenced their aesthetic during historical periods.
-2. To compare the different stages of architectural development, planning, and their influences related to social, cultural, religious, technological, climatic, and economic factors of different periods.
-3. To understand buildings and structures as expressions of formal ideological opinions within their historical contexts.
-4. To understand the relationship between old and new buildings, buildings and their environments, and to develop skills for conservation, adaptation, and transformation.
-
-**Course Outline:**
-
 1. **Chronology Study of Different Stages of Development of Nepalese Architecture and Their Influencing Factors:** Social, Cultural, Religious, Technology, Climate, Material, and Economy. Study of Form, Function, and Symbolism.
     * Early Civilization Kirat and Lichhavi (10 hours)
     * Malla Period (12-18th Century) (20 hours)
@@ -42,15 +27,13 @@ This course provides a brief survey of architectural knowledge in Nepal, offerin
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1.1 | 10 | 15 |
-| 1.2 | 20 | 30 |
-| 1.3 | 10 | 15 |
-| 1.4 | 10 | 10 |
-| 2,3,4 | 10 | 10 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1.1       | 10     | 15                  |
+| 1.2       | 20     | 30                  |
+| 1.3       | 10     | 15                  |
+| 1.4       | 10     | 10                  |
+| 2,3,4     | 10     | 10                  |
+| **Total** | **60** | **80**              |
 
-*There may be minor deviations in marks distribution.
 
-**Copyright &copy; 2021**

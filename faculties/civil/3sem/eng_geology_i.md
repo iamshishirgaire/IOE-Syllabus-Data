@@ -1,13 +1,3 @@
-# Syllabus
-
-## **ENGINEERING GEOLOGY I**
-
-### **Course Objective:**
-
-This course has been designed to provide basic knowledge of geology to the students of civil engineering. It would be helpful for them to understand how to identify the different types of rocks, minerals, geological structures, geological processes and their impacts on engineering structures etc. Furthermore, the course will help students to know about the geological setting of Himalaya, geological structures for development of infrastructures.
-
-### **Course Content**
-
 1. **Geology and Civil Engineering** (2 hours)
     * Geology and different branches of science: Introduction and their interrelationships, geology, geography, geophysics, geochemistry, geodetic, climatology, and meteorology, oceanography and astronomical aspects of the earth- moon system.
     * Different branches of geology and their interrelations
@@ -82,15 +72,13 @@ Demonstration of the use of Geological Compass for the dip/ strike and trend/ pl
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 2 | 2 |
-| 2 | 3 | 2 |
-| 3 | 4 | 3 |
-| 4 | 6 | 10 |
-| 5 | 5 | 10 |
-| 6 | 8 | 8 |
-| 7 | 2 | 5 |
-| **Total** | **30** | **40** |
-
-*There may be minor deviation in marks distribution. 
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 2                   |
+| 2         | 3      | 2                   |
+| 3         | 4      | 3                   |
+| 4         | 6      | 10                  |
+| 5         | 5      | 10                  |
+| 6         | 8      | 8                   |
+| 7         | 2      | 5                   |
+| **Total** | **30** | **40**              |

@@ -1,11 +1,3 @@
-# Syllabus
-
-## **INSTRUMENTATION I**
-
-**Course Objectives:**
-
-Comprehensive treatment of methods and instruments for a wide range of measurement problems.
-
 ### 1. Instrumentation Systems (2 hours)
 
 * Functions of components of instrumentation system introduction, signal processing, Signal Transmission, Output Indication
@@ -94,19 +86,14 @@ Comprehensive treatment of methods and instruments for a wide range of measureme
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 6 |
-| 2 | 10 | 16 |
-| 3 | 8 | 16 |
-| 4 | 6 | 10 |
-| 5 | 6 | 10 |
-| 6 | 5 | 10 |
-| 7 | 8 | 12 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 6                   |
+| 2         | 10     | 16                  |
+| 3         | 8      | 16                  |
+| 4         | 6      | 10                  |
+| 5         | 6      | 10                  |
+| 6         | 5      | 10                  |
+| 7         | 8      | 12                  |
+| **Total** | **45** | **80**              |
 
-* There could be a minor deviation in the marks distribution.
-
-***
-
-Copyright © 2021 

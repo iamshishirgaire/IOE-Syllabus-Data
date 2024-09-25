@@ -1,11 +1,3 @@
-## Syllabus: CIVIL ENGINEERING MATERIALS
-
-**Course objectives:**
-
-The Course in Civil Engineering Material aims to introduce students to a wide range of materials used in the construction and maintenance of civil engineering projects. The course emphasizes the properties and uses of construction materials, aiding in selecting suitable materials for each project. This will allow for adequate consideration and precautions during design and construction phases.
-
-### Course Content:
-
 1. **Introduction to Civil Engineering Material (2 hours)**
     * Scope of the Subject
     * Selection Criteria of Construction Material
@@ -102,22 +94,16 @@ The Course in Civil Engineering Material aims to introduce students to a wide ra
 
 There will be questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 3 |
-| 2 | 3 | 4 |
-| 3 | 3 | 4 |
-| 4 | 2 | 3 |
-| 5 | 4 | 5 |
-| 6 | 2 | 3 |
-| 7 | 3 | 4 |
-| 8 | 4 | 5 |
-| 9 | 3 | 4 |
-| 10 | 4 | 5 |
-| **Total** | **30** | **40** |
-
-*There may be minor deviations in marks distribution.
-
-### Copyright:
-
-Copyright © 2021 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 3                   |
+| 2         | 3      | 4                   |
+| 3         | 3      | 4                   |
+| 4         | 2      | 3                   |
+| 5         | 4      | 5                   |
+| 6         | 2      | 3                   |
+| 7         | 3      | 4                   |
+| 8         | 4      | 5                   |
+| 9         | 3      | 4                   |
+| 10        | 4      | 5                   |
+| **Total** | **30** | **40**              |

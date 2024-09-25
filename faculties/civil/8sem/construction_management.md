@@ -1,18 +1,3 @@
-# Syllabus
-
-## **CONSTRUCTION MANAGEMENT**
-
-<p align="center"><strong>CONSTRUCTION MANAGEMENT</strong><br>
-</p>
-
-**Course Objective:**
-
-1. To provide basic knowledge on management of construction works
-2. To make able to plan and schedule of resources required in construction project.
-3. To provide basic knowledge of procurement/contract management
-4. To make able to monitor and evaluate construction projects.
-5. To provide basic knowledge on maintenance, specification and valuation. 
-
 1. **Construction Management Framework [3 hours]**
     1. Construction Landmarks
     2. Scope of Construction Management
@@ -128,23 +113,19 @@
 
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution * |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 5 | 8 |
-| 3 | 5 | 6 |
-| 4 | 7 | 12 |
-| 5 | 6 | 8 |
-| 6 | 3 | 3 |
-| 7 | 5 | 4 |
-| 8 | 3 | 4 |
-| 9 | 4 | 8 |
-| 10 | 4 | 8 |
-| 11 | 2 | 2 |
-| 12 | 6 | 6 |
-| 13 | 7 | 6 |
-| **Total** | **60** | **80** |
-
-* There may be minor deviation in marks distribution.
-
-## Copyright © 2021 
+| Chapter   | Hours  | Mark Distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 5      | 8                   |
+| 3         | 5      | 6                   |
+| 4         | 7      | 12                  |
+| 5         | 6      | 8                   |
+| 6         | 3      | 3                   |
+| 7         | 5      | 4                   |
+| 8         | 3      | 4                   |
+| 9         | 4      | 8                   |
+| 10        | 4      | 8                   |
+| 11        | 2      | 2                   |
+| 12        | 6      | 6                   |
+| 13        | 7      | 6                   |
+| **Total** | **60** | **80**              |

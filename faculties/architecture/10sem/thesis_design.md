@@ -1,7 +1,3 @@
-## THESIS DESIGN
-
-**Course Objective:**
-
 A thesis in architecture is expected to be a solution of a creative design problem (of a building complex, a building or elements of a building) that may have differing focus as seen from the perspective of different support courses such as environment, ecology, energy, design theory, climatology, planning, materials and technology of construction, services and the like. **The thesis aims to demonstrate the students’ ability and development to pursue analytical investigations related to the design of a building and/or its cultural, social, economic, material, climatic, technological, etc. dimensions.** It should balance research and design application components. It should respond to contemporary issues in architecture and design.
 
 The thesis design will be as per the proposal approved in the earlier semester and will be approached on the basis of research outcomes thereof. The students will undertake any additional research and study as needed. It will lead to the following final output:
@@ -41,20 +37,19 @@ The studio works will be reviewed in the following stages of design exercise:
 
 **Assessments Marks Distribution:**
 
-| S. No. | Title                                               | Hour  | Total Marks |
-|--------|-----------------------------------------------------|-------|------------|
-| 1       | Conceptual Design. Review of presentations on Drawing Paper | 28 hrs | 100         |
-| 2       | Preliminary Design. Review of presentations on Drawing Paper | 28 hrs | 100         |
-| 3       | Design Development. Review of presentations on Drawing Paper | 28 hrs | 100         |
+| S. No. | Title                                                        | Hour   | Total Marks |
+| ------ | ------------------------------------------------------------ | ------ | ----------- |
+| 1      | Conceptual Design. Review of presentations on Drawing Paper  | 28 hrs | 100         |
+| 2      | Preliminary Design. Review of presentations on Drawing Paper | 28 hrs | 100         |
+| 3      | Design Development. Review of presentations on Drawing Paper | 28 hrs | 100         |
 
 **Examination Marks:**
 
-| S. No. | Title             | Hour | Total Marks |
-|--------|--------------------|------|------------|
-| 1       | Jury Examination | -     | 300         |
+| S. No. | Title            | Hour | Total Marks |
+| ------ | ---------------- | ---- | ----------- |
+| 1      | Jury Examination | -    | 300         |
 
 **Reference:**
 
 All references as identified for supporting courses. 
 
-**Copyright &copy; 2021**

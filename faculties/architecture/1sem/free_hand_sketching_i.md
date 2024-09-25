@@ -1,9 +1,3 @@
-## Syllabus: FREE HAND SKETCHING-I
-
-**Course Objective:** To impart knowledge & skill of freehand sketching with freehand perspective, basic exercises in color, pencil, pen, brush, etc. 
-
-### Topics:
-
 1. **Introduction (4 hours)**
    * History of Free Hand sketching (Drawing) with preference to Architecture. 
    * Relevance of Free Hand sketching in Architectural design.
@@ -32,14 +26,14 @@
 
 ### Internal Evaluation Scheme:
 
-| Chapters | Hours | Marks Distribution |
-|---|---|---|
-| 2 | 4 | 10 |
-| 3 | 8 | 20 |
-| 4 | 12 | 30 |
-| 5 | 12 | 30 |
-| Class Test | 4 | 10 |
-| **Total** | **40** | **100** |
+| Chapters   | Hours  | Marks Distribution |
+| ---------- | ------ | ------------------ |
+| 2          | 4      | 10                 |
+| 3          | 8      | 20                 |
+| 4          | 12     | 30                 |
+| 5          | 12     | 30                 |
+| Class Test | 4      | 10                 |
+| **Total**  | **40** | **100**            |
 
 ### References:
 
@@ -49,6 +43,4 @@
 4. Herbert Parrish - Flower and Still Life
 5. Ray Smith - The Artists Handbook
 
-***
 
-**Copyright © 2021** 

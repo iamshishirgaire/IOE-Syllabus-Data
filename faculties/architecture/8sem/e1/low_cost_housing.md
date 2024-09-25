@@ -1,15 +1,3 @@
-## Syllabus
-
-**LOW COST HOUSING**
-
-**Course Objectives**
-
-1. To sensitize student with the issue pertaining to low cost housing for the urban and rural low income group.
-2. To deal with the specific local materials in design and construction of low cost housing.
-3. To impart the knowledge of low cost construction technology from the perspective of efficient uses of building construction materials.
-
-**Course Contents**
-
 1. **Introduction (2 hours)** 
     * Introduction /Background & Definition
     * Present housing condition in Nepal
@@ -120,27 +108,23 @@
 
 **Evaluation Schedule for Practical Works**
 
-| S.No | Time | Description | Marks | Remarks |
-|---|---|---|---|---|
-| 1 | 10 hrs. | Literature Study <br> Case Study /Inventory of existing low cost housing (Urban/Rural) | 10 | Discussion & Site (Field Visit) |
-| 2 | 4 hrs. | Conceptual Design (Urban /Rural) Site Planning & Building Design) | 10 | Presentation |
-| 3 | 4 hrs. | Preliminary Deign Work | 10 | Desk Presentation |
-| 4 | 12 hrs. | Final Design Work Report & Drawing Preparation | 20 | Submission/Presentation /VIVA or Oral Examination |
-| **Total** | **30 hr** | | **50** | |
+| S.No      | Time      | Description                                                                            | Marks  | Remarks                                           |
+| --------- | --------- | -------------------------------------------------------------------------------------- | ------ | ------------------------------------------------- |
+| 1         | 10 hrs.   | Literature Study <br> Case Study /Inventory of existing low cost housing (Urban/Rural) | 10     | Discussion & Site (Field Visit)                   |
+| 2         | 4 hrs.    | Conceptual Design (Urban /Rural) Site Planning & Building Design)                      | 10     | Presentation                                      |
+| 3         | 4 hrs.    | Preliminary Deign Work                                                                 | 10     | Desk Presentation                                 |
+| 4         | 12 hrs.   | Final Design Work Report & Drawing Preparation                                         | 20     | Submission/Presentation /VIVA or Oral Examination |
+| **Total** | **30 hr** |                                                                                        | **50** |                                                   |
 
 **Evaluation Scheme**
 
 The question shall cover all the chapters of syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Unit | Chapters | Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 1, 2 & 3 | 6 | 8 |
-| 2 | 4 | 6 | 8 |
-| 3 | 5 | 6 | 8 |
-| 4 | 6 | 6 | 8 |
-| 5 | 4, 5 | 4+2 | 8 |
-| **Total** | | **30** | **40** |
-
-*There may be minor deviation in mark distribution
-
-**Copyright © 2021** 
+| Unit      | Chapters | Hours  | Marks Distribution* |
+| --------- | -------- | ------ | ------------------- |
+| 1         | 1, 2 & 3 | 6      | 8                   |
+| 2         | 4        | 6      | 8                   |
+| 3         | 5        | 6      | 8                   |
+| 4         | 6        | 6      | 8                   |
+| 5         | 4, 5     | 4+2    | 8                   |
+| **Total** |          | **30** | **40**              |

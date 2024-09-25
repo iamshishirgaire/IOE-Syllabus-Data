@@ -1,9 +1,3 @@
-## Syllabus: Building Services III
-
-**Course Objective:** To familiarize students with the basics of service requirements in building construction, including HVAC Systems, Fire Protection Systems, Vertical Transportation, and other mechanical equipment.
-
-### Course Content
-
 1. **Energy:** Energy planning and auditing (1 hour)
 2. **HVAC Systems (6 hours)**
     * Psychometric Chart, Thermal comfort, Ventilation standards
@@ -39,17 +33,14 @@
 
 The questions will cover all chapters in the syllabus. The evaluation scheme is as indicated in the table below:
 
-| S. No. | Chapters | Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 1, 2 | 2 + 5 | 8 |
-| 2 | 2 | 6 | 8 |
-| 3 | 3 | 5 | 8 |
-| 4 | 4, 2 | 4 + 2 | 8 |
-| 5 | 5, 2 | 4 + 2 | 8 |
-| **Total** |  | **30** | **40** |
+| S. No.    | Chapters | Hours  | Marks Distribution* |
+| --------- | -------- | ------ | ------------------- |
+| 1         | 1, 2     | 2 + 5  | 8                   |
+| 2         | 2        | 6      | 8                   |
+| 3         | 3        | 5      | 8                   |
+| 4         | 4, 2     | 4 + 2  | 8                   |
+| 5         | 5, 2     | 4 + 2  | 8                   |
+| **Total** |          | **30** | **40**              |
 
-*There may be minor deviation in marks distribution.
 
----
 
-**Copyright © 2021** 

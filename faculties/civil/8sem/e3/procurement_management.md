@@ -1,15 +1,3 @@
-## Syllabus - Procurement Management (CE 78503)
-
-**Course Objectives:**
-
-1. To introduce the concept of Procurement, Procurement Planning, Methods, and Types of Procurement.
-2. To provide an understanding of the current procurement rules followed in Nepal.
-3. To provide knowledge on dispute resolution that arises during contracts.
-4. To introduce procurement guidelines followed by different Agencies working in Nepal.
-5. To provide awareness of the Technical Audit Process followed in Nepal.
-
-**Syllabus:**
-
 1. **Concept of Procurement (4 hours)**
    * Definition
    * Difference between Public and Private Procurement
@@ -85,19 +73,16 @@ At least five case studies on Procurement will be discussed in classes.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 6 | 10 |
-| 4 | 6 | 10 |
-| 5 | 4 | 8 |
-| 6 | 6 | 10 |
-| 7 | 6 | 10 |
-| 8 | 4 | 8 |
-| 9 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 6      | 10                  |
+| 4         | 6      | 10                  |
+| 5         | 4      | 8                   |
+| 6         | 6      | 10                  |
+| 7         | 6      | 10                  |
+| 8         | 4      | 8                   |
+| 9         | 5      | 8                   |
+| **Total** | **45** | **80**              |
 
-* There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

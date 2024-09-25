@@ -1,11 +1,3 @@
-## Syllabus: Estimating and Costing
-
-**Course Objective:**
-
-To appreciate the need for estimating and costing, to understand and practice the methods of doing both approximate and detailed estimates, to learn the procedure of rate analysis and method of valuation.
-
-**Course Topics:**
-
 1. **Introduction [3 hours]**
    - General
    - Units of Measurement and Payments for Various Items of Building 
@@ -66,16 +58,13 @@ To appreciate the need for estimating and costing, to understand and practice th
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 3 | 4 |
-| 3 | 5 | 8 |
-| 4 | 5 | 8 |
-| 5 | 8 | 12 |
-| 6 | 4 | 4 |
-| **Total** | 28 | 40 |
+| Chapters  | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 1         | 3     | 4                   |
+| 2         | 3     | 4                   |
+| 3         | 5     | 8                   |
+| 4         | 5     | 8                   |
+| 5         | 8     | 12                  |
+| 6         | 4     | 4                   |
+| **Total** | 28    | 40                  |
 
-***\*There may be minor deviation in marks distribution***
-
-**Copyright &copy; 2021** 

@@ -1,14 +1,3 @@
-## Syllabus
-
-**ENVIRONMENTAL MANAGEMENT SYSTEM**  
-**CE 76517**
-
-**Course Objectives:**
-
-The objective of the course is aimed at teaching the students the functions of the various aspects of environmental pollution, wastewater management, air pollution, solid waste management, different environmental management tools and techniques, Environmental Management System (EMS) and ISO 14001. The assignment and class work are expected to give students an in-depth analysis of the environmental management system.
-
-### Course Outline:
-
 1. **Introduction (3 hours)**
     * Concept of environment
     * Classification of environment
@@ -173,20 +162,19 @@ The objective of the course is aimed at teaching the students the functions of t
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 4 | 4 |
-| 3 | 3 | 8 |
-| 4 | 3 | 8 |
-| 5 | 3 | 8 |
-| 6 | 4 | 14 |
-| 7 | 2 | 10 |
-| 8 | 2 | 4 |
-| 9 | 2 | 4 |
-| 10 | 12 | 12 |
-| 11 | 3 | 2 |
-| 12 | 4 | 2 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 4      | 4                   |
+| 3         | 3      | 8                   |
+| 4         | 3      | 8                   |
+| 5         | 3      | 8                   |
+| 6         | 4      | 14                  |
+| 7         | 2      | 10                  |
+| 8         | 2      | 4                   |
+| 9         | 2      | 4                   |
+| 10        | 12     | 12                  |
+| 11        | 3      | 2                   |
+| 12        | 4      | 2                   |
+| **Total** | **45** | **80**              |
 
-* There could be minor deviation in mark distribution. 

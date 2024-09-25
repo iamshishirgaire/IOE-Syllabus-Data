@@ -1,11 +1,3 @@
-## Syllabus - GEOGRAPHICAL INFORMATION SYSTEM (CT 785 07)
-
-**Course Objective:**
-
-The student will gain the knowledge about basics of GIS with spatial data modelling and database design, capturing the real world, spatial analysis and visualization.
-
-### Course Content
-
 1. **Introduction [4 hours]**
    * Overview, History and concepts of GIS
    * Scope and application areas of GIS
@@ -72,16 +64,13 @@ The lab should cover chapters 3, 4, 5 and 6 by using the GIS tools like ArchView
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 10 |
-| 2 | 10 | 18 |
-| 3 | 12 | 18 |
-| 4 | 10 | 18 |
-| 5 | 5 | 10 |
-| 6 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 10                  |
+| 2         | 10     | 18                  |
+| 3         | 12     | 18                  |
+| 4         | 10     | 18                  |
+| 5         | 5      | 10                  |
+| 6         | 4      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright &copy; 2021** 

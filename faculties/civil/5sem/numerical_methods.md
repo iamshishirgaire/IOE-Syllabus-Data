@@ -1,11 +1,3 @@
-## NUMERICAL METHODS
-
-**Course Objective:**
-
-The course aims to introduce numerical methods used for the solution of engineering problems. The course emphasizes algorithm development and programming and application to realistic engineering problems.
-
-### Syllabus
-
 1. **Introduction, Approximation and errors of computation (4 hours)**
     * Introduction, Importance of Numerical Methods
     * Approximation and Errors in computation
@@ -65,7 +57,12 @@ Algorithm and program development in C programming language of following:
 4. Lagrange interpolation. Curve fitting by Least square method.
 5. Differentiation by Newton's finite difference method. Integration using Simpson's 3/8 rule
 6. Solution of 1st order differential equation using RK-4 method
-7. Partial differential equation (Laplace equation)
+7. Partial differential equation (Laplace equation)*There could be a minor deviation in the marks distribution
+
+---
+
+**Copyright © 2021** 
+
 8. Numerical solutions using Matlab.
 
 ### References
@@ -80,18 +77,12 @@ Algorithm and program development in C programming language of following:
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 & 2 | 9 | 16 |
-| 3 | 8 | 16 |
-| 4 | 8 | 16 |
-| 5 | 6 | 10 |
-| 6 | 6 | 10 |
-| 7 | 8 | 12 |
-| **Total** | **45** | **80** |
-
-*There could be a minor deviation in the marks distribution
-
----
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 9      | 16                  |
+| 3         | 8      | 16                  |
+| 4         | 8      | 16                  |
+| 5         | 6      | 10                  |
+| 6         | 6      | 10                  |
+| 7         | 8      | 12                  |
+| **Total** | **45** | **80**              |

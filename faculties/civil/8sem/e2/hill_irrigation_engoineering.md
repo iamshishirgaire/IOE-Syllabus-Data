@@ -1,14 +1,3 @@
-## Syllabus
-
-**HILL IRRIGATION ENGINEERING**
-**CE 76508**
-
-**Course Objectives:**
-
-This course is aimed at training the students specific engineering design considerations for canal irrigation, their operation, maintenance and management with environmental balance and farmer's participation in the hills of Nepal. The course is emphasized with the design of non-conventional micro irrigation technology such as sprinkler and drip in the remote hills of Nepal. After the completion of this elective course the students will confidently design the canal and micro irrigation projects in the remote hilly areas of Nepal.
-
-**Course Outline:**
-
 1. **Introduction (4 hours)**
     * Physiographic Regions and Farming Systems of Nepal
     * Characteristics of Hill Irrigation Systems (HIS)
@@ -97,18 +86,15 @@ Individual assignment on design of Sprinkler and Drip irrigation systems.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 10 |
-| 2 | 6 | 10 |
-| 3 | 3 | 5 |
-| 4 | 8 | 10 |
-| 5 | 12 | 20 |
-| 6 | 5 | 10 |
-| 7 | 5 | 10 |
-| 8 | 2 | 5 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 10                  |
+| 2         | 6      | 10                  |
+| 3         | 3      | 5                   |
+| 4         | 8      | 10                  |
+| 5         | 12     | 20                  |
+| 6         | 5      | 10                  |
+| 7         | 5      | 10                  |
+| 8         | 2      | 5                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021**

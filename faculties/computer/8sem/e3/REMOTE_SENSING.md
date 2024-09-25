@@ -1,11 +1,3 @@
-# Syllabus: Remote Sensing
-
-## Course Objective
-
-To provide an introduction to the technological and scientific aspects of remote sensing (RS) of the Earth and its atmosphere.
-
-## Course Outline
-
 ### 1. Introduction (7 hours)
 
 * General concepts of remote sensing
@@ -83,17 +75,12 @@ To provide an introduction to the technological and scientific aspects of remote
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 7 | 10 |
-| 2 | 10 | 20 |
-| 3 | 12 | 20 |
-| 4 | 10 | 20 |
-| 5 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 7      | 10                  |
+| 2         | 10     | 20                  |
+| 3         | 12     | 20                  |
+| 4         | 10     | 20                  |
+| 5         | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in the Mark Distribution.
-
-## Copyright
-
-Copyright © 2021

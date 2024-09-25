@@ -1,9 +1,3 @@
-## ENGINEERING MATHEMATICS I
-
-**Course Objectives:**
-
-To provide students a sound knowledge of calculus and analytic geometry to apply them in their relevant fields.
-
 ### 1. Derivatives and their Applications (14 hours)
 
 * Introduction
@@ -61,13 +55,10 @@ To provide students a sound knowledge of calculus and analytic geometry to apply
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
 | Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 14 | 25 |
-| 2 | 11 | 20 |
-| 3 | 8 | 15 |
-| 4 | 12 | 20 |
-| Total | 45 | 80 |
+| -------- | ----- | ------------------- |
+| 1        | 14    | 25                  |
+| 2        | 11    | 20                  |
+| 3        | 8     | 15                  |
+| 4        | 12    | 20                  |
+| Total    | 45    | 80                  |
 
-**\*There may be minor deviation in marks distribution.**
-
-**Copyright © 2021** 

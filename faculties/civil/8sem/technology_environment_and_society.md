@@ -1,9 +1,3 @@
-## Syllabus: Technology Environment and Society
-
-**Course Objectives:** This course aims to provide knowledge about the environment, technology, and their impact on society. It will help students understand global, national, and local environmental issues and challenges in the information society.
-
-### Topics:
-
 1. **Technology (8 hours)**
    - Definition
    - Impact of technology on environment & society
@@ -77,18 +71,12 @@
 
 The questions will cover all chapters in the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 10 |
-| 2 | 6 | 8 |
-| 3 | 4 | 4 |
-| 4 | 3 | 4 |
-| 5 | 6 | 10 |
-| 6 | 3 | 4 |
-| **Total** | **30** | **40** |
-
-*There may be minor deviation in marks distribution.
-
-### Copyright:
-
-Copyright © 2021
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 10                  |
+| 2         | 6      | 8                   |
+| 3         | 4      | 4                   |
+| 4         | 3      | 4                   |
+| 5         | 6      | 10                  |
+| 6         | 3      | 4                   |
+| **Total** | **30** | **40**              |

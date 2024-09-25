@@ -1,13 +1,3 @@
-# Syllabus
-
-## Transportation Engineering II
-
-**Course Objective:**
-
-After completing this course, students will be able to design, construct, supervise, repair, and maintain roads. They will be familiar with traffic design, control, and operation. The course provides an overview of bridges and tunnels as well.
-
-## Topics Covered:
-
 1. **Traffic Engineering (16 hours)**
 
    * Introduction and Scope of Traffic Engineering
@@ -88,14 +78,14 @@ After completing this course, students will be able to design, construct, superv
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 16 | 28 |
-| 2 | 8 | 16 |
-| 3 | 10 | 20 |
-| 4 | 6 | 8 |
-| 5 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 16     | 28                 |
+| 2         | 8      | 16                 |
+| 3         | 10     | 20                 |
+| 4         | 6      | 8                  |
+| 5         | 5      | 8                  |
+| **Total** | **45** | **80**             |
 
 *There may be minor deviation in mark distribution.
 
@@ -119,6 +109,3 @@ The questions will cover all the chapters in the Syllabus. The evaluation scheme
 4. "Highway Engineering" C.A. Flaherty, Edward Arnold (Publishers ) Ltd.
 5. "Course Manual on Transportation Engineering" P.M. Parajuli, Department of Civil Engineering, Pulchowk Campus
 
----
-
-**Copyright &copy; 2021** 

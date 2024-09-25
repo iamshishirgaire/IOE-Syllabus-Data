@@ -1,13 +1,3 @@
-## Syllabus
-
-**THEORY OF STRUCTURES I**
-
-**Course Objectives:**
-
-The purpose of this course is to provide concepts and knowledge of structural analysis with an emphasis on statically determinate structures. By the end of this course, it is expected that students will be able to perform analysis of determinate structures both by manual calculation as well as matrix methods of analysis using computer applications.
-
-### Course Outline
-
 1. **Introduction (4 hours)**
     * Types of Structures Based on Material Used
     * Structural Mechanics
@@ -99,19 +89,13 @@ The purpose of this course is to provide concepts and knowledge of structural an
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 4 | 5 |
-| 2 | 4 | 5 |
-| 3 | 6 | 10 |
-| 4 | 7 | 15 |
-| 5 | 10 | 20 |
-| 6 | 7 | 15 |
-| 7 | 7 | 10 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright © 2021
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 4      | 5                  |
+| 2         | 4      | 5                  |
+| 3         | 6      | 10                 |
+| 4         | 7      | 15                 |
+| 5         | 10     | 20                 |
+| 6         | 7      | 15                 |
+| 7         | 7      | 10                 |
+| **Total** | **45** | **80**             |

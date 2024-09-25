@@ -1,7 +1,3 @@
-## Syllabus - AUTOMOBILE MAINTENANCE AND REPAIR (AM 751)
-
-**Course Outline:**
-
 1. **Hygiene and Safety (6 hours)**
     * Introduction to hygiene and safety
     * Workshop environment: health hazards and prevention, sanitation, ventilation, heating system and instrumentation
@@ -90,15 +86,11 @@
 
 **Evaluation Scheme:**
 
-| Chapter | Marks* |
-|---|---|
-| 1 | 8 |
-| 2 | 8 |
-| 3 & 6 | 8 |
-| 4 | 8 |
-| 5 | 8 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1         | 8      |
+| 2         | 8      |
+| 3 & 6     | 8      |
+| 4         | 8      |
+| 5         | 8      |
 | **Total** | **40** |
-
-*There might be minor deviation in marks distribution.
-
-**Copyright&copy; 2021** 

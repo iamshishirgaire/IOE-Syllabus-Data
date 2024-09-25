@@ -1,11 +1,3 @@
-## Syllabus: Automobile Component Design II
-
-**Course Objective:**
-
-To provide fundamental knowledge and skills to students for designing commonly used automobile components.
-
-**Course Outline:**
-
 1. **Design Considerations (12 hours)**
    - Modeling and Simulation
      - Models: types, role in engineering design, mathematical modeling
@@ -114,15 +106,12 @@ To provide fundamental knowledge and skills to students for designing commonly u
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Topics | Marks* |
-|---|---|---|
-| 1 | All | 16 |
-| 2 | 2.1 & 2.2 | 16 |
-| 2 | 2.3 to 2.6 | 16 |
-| 3 & 4 | All | 16 |
-| 5 & 6 | All | 16 |
-| **Total** |  | **80** |
+| Chapter   | Topics     | Marks* |
+| --------- | ---------- | ------ |
+| 1         | All        | 16     |
+| 2         | 2.1 & 2.2  | 16     |
+| 2         | 2.3 to 2.6 | 16     |
+| 3 & 4     | All        | 16     |
+| 5 & 6     | All        | 16     |
+| **Total** |            | **80** |
 
-*There may be minor deviation in mark distribution.
-
-**Copyright © 2021**

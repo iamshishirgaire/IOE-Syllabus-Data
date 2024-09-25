@@ -1,13 +1,3 @@
-# Syllabus
-
-## **SANITARY ENGINEERING**
-
-**Course Objective:**
-
-Sanitary Engineering course aims at providing the students with a complete knowledge on wastewater collection, conveyance, treatment, disposal methods and design. The course will provide the knowledge of sludge and solid waste management. After completing the course, the students are expected to solve the problems of wastewater and solid waste management.
-
-## **Course Content:**
-
 1. **Introduction     [2 hours]**
     * Difinitions of common terms - Sewage/Wastewater, Domestic sewage, Industrial sewage, Sanitary sewage, Storm water, Sullage, Sewer, Sewerage, Rubbish, Garbage, Refuse/Solid waste
     * Importance of Wastewater and Solid Waste Managements
@@ -222,22 +212,16 @@ Sanitary Engineering course aims at providing the students with a complete knowl
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below
 
-| Chapters | Lecture Hours | Tutorial Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 2 | 0 | 4 |
-| 2 | 4 | 2 | 4 |
-| 3 | 4 | 2 | 8 |
-| 4 | 3 | 0 | 4 |
-| 5 | 5 | 2 | 8 |
-| 6 | 6 | 2 | 8 |
-| 7 | 12 | 3 | 24 |
-| 8 | 4 | 2 | 8 |
-| 9 | 3 | 2 | 8 |
-| 10 | 2 | 0 | 4 |
-| **Total** | **45** | **15** | **80** |
-
-**\* There may be minor variation in marks distribution**
-
-## **Copyright:**
-
-Copyright © 2021
+| Chapters  | Lecture Hours | Tutorial Hours | Marks Distribution* |
+| --------- | ------------- | -------------- | ------------------- |
+| 1         | 2             | 0              | 4                   |
+| 2         | 4             | 2              | 4                   |
+| 3         | 4             | 2              | 8                   |
+| 4         | 3             | 0              | 4                   |
+| 5         | 5             | 2              | 8                   |
+| 6         | 6             | 2              | 8                   |
+| 7         | 12            | 3              | 24                  |
+| 8         | 4             | 2              | 8                   |
+| 9         | 3             | 2              | 8                   |
+| 10        | 2             | 0              | 4                   |
+| **Total** | **45**        | **15**         | **80**              |

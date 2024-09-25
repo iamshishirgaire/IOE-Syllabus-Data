@@ -1,14 +1,3 @@
-## Syllabus - Satellite Communication (EX 725 02)
-
-**Course Objectives:**
-
-1. To enable the student to become familiar with satellites and satellite services
-2. To get an overview of satellite systems in relation to other terrestrial systems
-3. To study about satellite orbits, launching, link design, multiple access techniques, propagation effects and their impact on satellite-earth links
-4. To study about VSAT systems, Satellite TV, radio and GPS 
-
-**Course Outline:**
-
 1. **Overview of satellite communication (2 hours)**
     * Introduction
     * Frequency Allocations for Satellite Services 
@@ -106,4 +95,3 @@
 5. M.Richharia, “Satellite Communication Systems-Design Principles”,Macmillan.
 6. Emanuel Fthenakis, “Manual of Satellite Communications”, McGraw Hill Book Co. 
 
-**Copyright © 2021** 

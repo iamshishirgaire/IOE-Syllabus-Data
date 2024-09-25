@@ -1,18 +1,3 @@
-## Syllabus
-
-**OBJECT ORIENTED ANALYSIS AND DESIGN**
-
-**Course Objectives:** 
-
-1. Explain and illustrate the fundamental concepts of object orientation
-2. To introduce basic concepts of object-oriented analysis and design.
-3. To study the main features of the software development process in an object-oriented framework.
-4. To provide exposure to Visual Object Oriented Modeling languages, specifically UML (Unified Modeling Language).
-5. Read, verify, and validate a given specification presented in UML
-6. Given a system requirements description, produce a specification and implementation using UML
-
-**Course Outline:**
-
 1. **Object Oriented Fundamentals (10 hours)**
     * Introduction 
     * Object Oriented Analysis and Design
@@ -58,16 +43,11 @@ Laboratory Exercise will include handling a object oriented design and modeling 
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 18 |
-| 2 | 8 | 14 |
-| 3 | 12 | 21 |
-| 4 | 15 | 27 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 18                  |
+| 2         | 8      | 14                  |
+| 3         | 12     | 21                  |
+| 4         | 15     | 27                  |
+| **Total** | **45** | **80**              |
 
-*There can be minor deviations in the numbers
-
-***
-
-**Copyright © 2021** 

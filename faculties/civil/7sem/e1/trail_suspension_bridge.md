@@ -1,15 +1,3 @@
-## Syllabus
-
-**TRAIL SUSPENSION BRIDGE**
-**CE 72503**
-
-**Course Objectives:**
-
-* To introduce trail suspension bridge.
-* To make capable to plan, analyse, design and construct trail suspension bridge.
-
-**Course Content:**
-
 * **Introduction (2 hours)**
     * Historical Background
     * Trail Bridge in Nepal
@@ -73,17 +61,13 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 6 |
-| 2 | 6 | 12 |
-| 3 | 26 | 40 |
-| 4 | 2 | 6 |
-| 5 | 9 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 6                   |
+| 2         | 6      | 12                  |
+| 3         | 26     | 40                  |
+| 4         | 2      | 6                   |
+| 5         | 9      | 16                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
 
-***
-
-**Copyright&copy; 2021**

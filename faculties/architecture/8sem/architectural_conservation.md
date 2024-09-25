@@ -1,14 +1,3 @@
-# Architectural Conservation
-
-## Course Objective:
-
-1. To highlight the theory and practice of conservation.
-2. To sensitize the students with the issues pertaining the conservation of cultural property.
-3. To familiarize with their problems and the approaches in conservation.
-4. To focus on limitations of maintenance, repair and restoration.
-
-## Course Outline:
-
 1. **Conservation (12 hours)**
     - Definition
     - History
@@ -54,15 +43,12 @@
 
 ## Evaluation Scheme
 
-| Unit | Chapters | Hours | Marks Distribution * |
-|---|---|---|---|
-| 1 | 1 | 12 | 16 |
-| 2 | 2, 4 | 8+4 | 16 |
-| 3 | 3 | 12 | 16 |
-| 4 | 5, 4 | 8+4 | 16 |
-| 5 | 6 | 12 | 16 |
-| **Total** |  | 60 | 80 |
+| Unit      | Chapters | Hours | Marks Distribution * |
+| --------- | -------- | ----- | -------------------- |
+| 1         | 1        | 12    | 16                   |
+| 2         | 2, 4     | 8+4   | 16                   |
+| 3         | 3        | 12    | 16                   |
+| 4         | 5, 4     | 8+4   | 16                   |
+| 5         | 6        | 12    | 16                   |
+| **Total** |          | 60    | 80                   |
 
-* There may be minor deviation in marks distribution.
-
-## Copyright © 2021 

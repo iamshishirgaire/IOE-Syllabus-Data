@@ -1,11 +1,3 @@
-## Syllabus - Building Materials I
-
-**Course Objective:** 
-
-To gain knowledge of different building materials, develop an understanding of their properties, quality, uses, and testing methods to determine their characteristics.
-
-### Topics:
-
 1. **Introduction (1 hour)**
     - Building Materials & their importance in architecture and engineering.
     - Objective of Building material study.
@@ -109,23 +101,15 @@ To gain knowledge of different building materials, develop an understanding of t
 
 ### Evaluation Scheme
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 1 | 0 |
-| 2 | 10 | 12 |
-| 3 | 6 | 8 |
-| 4 | 2 | 4 |
-| 5 | 12 | 16 |
-| 6 | 3 | 4 |
-| 7 | 12 | 16 |
-| 8 | 14 | - |
-| **Total** | **60** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 1      | 0                  |
+| 2         | 10     | 12                 |
+| 3         | 6      | 8                  |
+| 4         | 2      | 4                  |
+| 5         | 12     | 16                 |
+| 6         | 3      | 4                  |
+| 7         | 12     | 16                 |
+| 8         | 14     | -                  |
+| **Total** | **60** | **80**             |
 
-**\*There may be minor deviation in marks distribution.**
-
-### References
-
-1. Building Materials, Gurucharan
-2. Building Materials, Sushil Kumar
-
-**Copyright © 2021** 
