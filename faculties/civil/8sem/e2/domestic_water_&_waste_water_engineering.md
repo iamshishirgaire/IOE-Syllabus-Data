@@ -1,14 +1,3 @@
-## Syllabus
-
-**DOMESTIC WATER & WASTE WATER ENGINEERING AND MANAGEMENT**
-**CE 76515**
-
-**Course Objectives:**
-
-To provide knowledge of domestic water and wastewater management, household tank capacity design, water treatment for domestic use and waste water management.
-
-### Course Content:
-
 1. **Introduction** (4 hours)
     * Water sources and use of water in domestic purposes (drinking, cooking, bathing, washing, watering of lawns and gardens, heating and air condition systems)
     * Impact of using polluted and contaminated water in domestic use
@@ -101,16 +90,13 @@ To provide knowledge of domestic water and wastewater management, household tank
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 4 | 8 |
-| 3 | 8 | 12 |
-| 4 | 16 | 24 |
-| 5 | 10 | 20 |
-| 6 | 3 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 4      | 8                   |
+| 3         | 8      | 12                  |
+| 4         | 16     | 24                  |
+| 5         | 10     | 20                  |
+| 6         | 3      | 12                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

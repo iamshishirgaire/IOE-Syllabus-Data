@@ -1,11 +1,3 @@
-## Syllabus
-
-### Project-II
-
-**Course Objective:**
-
-To complete an electrical engineering project planned in Project-I under the supervision of an instructor. During the project, students have to come up with a final output.
-
 **Tasks:**
 
 In the development of the project, each group of students will be expected to:
@@ -17,6 +9,3 @@ In the development of the project, each group of students will be expected to:
 5. Prepare a formal written report in good engineering style at the conclusion of the project.
 6. Present an oral report to faculty and peers on the results of the project exercise.
 
-***
-
-Copyright © 2021 

@@ -1,12 +1,3 @@
-## Building Science II
-
-**Course Objective:**
-
-1. To introduce the concept of architectural lighting, acoustics and Energy in relation to architectural design.
-2. To deal with the use of architectural lighting, acoustics and Energy for comfort and security in building and built-up environments.
-
-**Course Detail:**
-
 1. **Architectural Lighting**
    * **Introduction of Architectural lighting [2 hours]**
       * History of architectural lighting
@@ -119,13 +110,10 @@
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 16 | 30 |
-| 2 | 20 | 34 |
-| 3 | 9 | 16 |
-| **Total** | 45 | 80 |
+| Chapters  | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 1         | 16    | 30                  |
+| 2         | 20    | 34                  |
+| 3         | 9     | 16                  |
+| **Total** | 45    | 80                  |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright &copy; 2021**

@@ -1,11 +1,3 @@
-## Building Economics
-
-**Course Objectives:**
-
-To acquaint the students with some of the basic concepts and tools used to carry economic and financial analysis of building/engineering projects. To provide students with a more interdisciplinary approach to project planning, management and evaluation techniques.
-
-**Course Topics:**
-
 1. **Economic Principle [8 hours]**
     * Economic equilibrium, demand, supply, production
     * Welfare economics
@@ -56,15 +48,12 @@ To acquaint the students with some of the basic concepts and tools used to carry
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 8 |
-| 2 | 4 | 6 |
-| 3 | 14 | 18 |
-| 4 | 2 | 4 |
-| 5 | 2 | 4 |
-| **Total** | **30** | **40 Marks** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 8                   |
+| 2         | 4      | 6                   |
+| 3         | 14     | 18                  |
+| 4         | 2      | 4                   |
+| 5         | 2      | 4                   |
+| **Total** | **30** | **40 Marks**        |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 

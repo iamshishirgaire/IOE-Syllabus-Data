@@ -1,14 +1,3 @@
-## Syllabus
-
-**SOCIOLOGY**
-
-**Course Objectives**
-
-1. To familiarize students with basic concepts of sociology
-2. To understand the social dimension of architecture
-
-**Course Topics:**
-
 1. **Introduction (2 hours)**
    * Definition and scope of sociology
    * Sociology and architecture - Interdisciplinary Relation
@@ -67,14 +56,11 @@
 **Evaluation Scheme:**
 
 | Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 4, 6 | 6 | 10 |
-| 2 | 4 | 5 |
-| 3 | 8 | 10 |
-| 5 | 4 | 5 |
-| 7 | 8 | 10 |
-| Total | 30 | 40 Marks |
+| -------- | ----- | ------------------- |
+| 1, 4, 6  | 6     | 10                  |
+| 2        | 4     | 5                   |
+| 3        | 8     | 10                  |
+| 5        | 4     | 5                   |
+| 7        | 8     | 10                  |
+| Total    | 30    | 40 Marks            |
 
-*There may be minor deviation in marks distribution
-
-**Copyright&copy; 2021** 

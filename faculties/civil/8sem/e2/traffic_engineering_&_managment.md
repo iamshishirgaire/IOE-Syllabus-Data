@@ -1,14 +1,3 @@
-# Syllabus
-
-## TRAFFIC ENGINEERING AND MANAGEMENT
-**CE 76513**
-
-**Course Objectives:** 
-
-The main objective of this course is to introduce the concepts of characterizing traffic, various modeling approaches, and design of facilities to control and manage traffic. The course mainly focuses on urban vehicular movement.
-
-## Topics
-
 1. **Traffic Stream Characteristics (4 hours)**
     * Introduction
     * Fundamental parameters and relations of traffic flow
@@ -88,17 +77,14 @@ The main objective of this course is to introduce the concepts of characterizing
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 4 | 8 |
-| 4 | 8 | 16 |
-| 5 | 8 | 12 |
-| 6 | 10 | 16 |
-| 7 | 7 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 4      | 8                    |
+| 2         | 4      | 8                    |
+| 3         | 4      | 8                    |
+| 4         | 8      | 16                   |
+| 5         | 8      | 12                   |
+| 6         | 10     | 16                   |
+| 7         | 7      | 12                   |
+| **Total** | **45** | **80**               |
 
-\* There could be minor deviation in mark distribution.
-
-***Copyright&copy; 2021*** 

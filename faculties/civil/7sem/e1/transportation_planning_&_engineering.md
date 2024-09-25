@@ -1,14 +1,3 @@
-## Syllabus
-
-**TRANSPORTATION PLANNING AND ENGINEERING**
-**CE 72509**
-
-**Course Objectives:** 
-
-The course is aimed at teaching the students the planning type, process analysis and different transportation systems. 
-
-### Topics
-
 1. **Introduction (6 hours)**
     * Scope of transportation planning and transportation system engineering
     * Organizational structure of Ministry of Works and Transport and its departments
@@ -83,17 +72,15 @@ Students will prepare a report regarding the current state of affairs on subject
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 4 | 8 |
-| 3 | 8 | 16 |
-| 4 | 2 | 4 |
-| 5 | 10 | 16 |
-| 6 | 10 | 16 |
-| 7 | 5 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 8      | 16                  |
+| 4         | 2      | 4                   |
+| 5         | 10     | 16                  |
+| 6         | 10     | 16                  |
+| 7         | 5      | 12                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
 
-**Copyright © 2021** 

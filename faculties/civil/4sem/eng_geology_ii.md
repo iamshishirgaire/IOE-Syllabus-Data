@@ -1,9 +1,3 @@
-## Syllabus - ENGINEERING GEOLOGY II
-
-**Course Objective:** This course provides knowledge of Engineering Geology to civil engineering students. It helps students understand how to measure geological data in the field, analyze and interpret it for civil infrastructure development, ensure stability, and provide input for design parameters.
-
-### Course Outline:
-
 1. **Introduction to Engineering Geology (3 hours)**
     * Engineering geological system (EGS): Rocks, soils, geological structures, geomorphology, hydrogeology, weathering, earthquakes & seismicity, geotechnical categorization of projects, and EGS evaluation for infrastructure development (planning, design, construction, maintenance).
     * Important rock-forming minerals and their engineering significance.
@@ -77,19 +71,13 @@
 
 ### Evaluation Scheme:
 
-| Chapters | Hours | Mark Distribution * |
-|---|---|---|
-| 1 | 3 | 3 |
-| 2 | 3 | 3 |
-| 3 | 2 | 2 |
-| 4 | 5 | 9 |
-| 5 | 6 | 10 |
-| 6 | 8 | 10 |
-| 7 | 3 | 3 |
-| **Total** | **30** | **40** |
-
-* There may be minor deviations in the marks distribution.
-
----
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Mark Distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 3                   |
+| 2         | 3      | 3                   |
+| 3         | 2      | 2                   |
+| 4         | 5      | 9                   |
+| 5         | 6      | 10                  |
+| 6         | 8      | 10                  |
+| 7         | 3      | 3                   |
+| **Total** | **30** | **40**              |

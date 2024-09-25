@@ -1,9 +1,3 @@
-## Syllabus
-
-### Project II
-
-**Course Objective:**
-
 1. To develop the ability of solving a specific problem right from its identification and literature review till the successful solution of the same based on theoretical and practical knowledge/skills.
 2. To train the students in preparing project proposals, reports, and to face reviews and viva voce examination.
 
@@ -20,7 +14,3 @@ The project course will involve working on an engineering project under the supe
 
 * A final written report (in the format provided by the department) will be submitted before the end of the 12th week of the term (4th year, Part II). This report will be evaluated by the supervisor, members of the examination committee, and an external examiner. This will account for 50 marks.
 * An oral examination of the final report will be conducted during the 15th week of the term (4th year, Part II) at a time convenient to the examination committee, supervisor, and the student. The final oral examination will account for 50 marks.
-
----
-
-**Copyright &copy; 2021** 

@@ -1,11 +1,3 @@
-## Syllabus
-
-**STRUCTURES IV**
-
-**Course Objectives:**
-
-To understand various structural systems for buildings and their structural performance.
-
 ### 1. Lateral Load Resisting Systems (14 hours)
 
 1. Lateral loads due to earthquake, wind, water, and earth pressure.
@@ -69,15 +61,12 @@ To understand various structural systems for buildings and their structural perf
 
 **Evaluation Scheme:**
 
-| Units. | Chapters | Hours | Marks Distribution |
-|---|---|---|---|
-| 1 | 1 | 10 | 16 |
-| 2 | 1, 2 | 8 | 16 |
-| 3 | 1, 3 | 8 | 16 |
-| 4 | 4 | 8 | 16 |
-| 5 | 5 | 10 | 16 |
-| **Total** |  | **44** | **80** |
+| Units.    | Chapters | Hours  | Marks Distribution |
+| --------- | -------- | ------ | ------------------ |
+| 1         | 1        | 10     | 16                 |
+| 2         | 1, 2     | 8      | 16                 |
+| 3         | 1, 3     | 8      | 16                 |
+| 4         | 4        | 8      | 16                 |
+| 5         | 5        | 10     | 16                 |
+| **Total** |          | **44** | **80**             |
 
-*There may be minor deviation in marks distribution*
-
-**Copyright © 2021** 

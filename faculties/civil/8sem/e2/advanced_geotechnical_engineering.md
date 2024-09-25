@@ -1,15 +1,3 @@
-# Syllabus
-
-## ADVANCED GEOTECHNICAL ENGINEERING
-
-**CE 76512**
-
-**Course Objectives:**
-
-The objective of the course is to provide the student with the concept and the tools that can be used to incorporate in the field of geotechnical engineering. The course includes the advanced techniques that are not dealt in the courses of soil mechanics and foundation engineering.
-
-### Topics Covered:
-
 1. **Scope of Advanced Geotechnical Engineering (2 hours)**
     * Field of application of advanced geotechnical engineering
     * Different sectors of geotechnical engineering
@@ -57,15 +45,15 @@ The objective of the course is to provide the student with the concept and the t
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 12 | 20 |
-| 3 | 9 | 16 |
-| 4 | 9 | 16 |
-| 5 | 4 | 8 |
-| 6 | 9 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 12     | 20                  |
+| 3         | 9      | 16                  |
+| 4         | 9      | 16                  |
+| 5         | 4      | 8                   |
+| 6         | 9      | 16                  |
+| **Total** | **45** | **80**              |
 
 *There could be minor deviation in mark distribution.
 
@@ -80,6 +68,3 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 2. M. R. Housmann, "Engineering Principles of Ground Modifications", McGraw-Hill Co.
 3. R. Bowen, "Grouting in Engineering Practice", Allied Science Pub., London.
 
----
-
-**Copyright &copy; 2021** 

@@ -1,11 +1,3 @@
-## BUILDING CONSTRUCTION II
-
-**Course Objective:**
-
-Provide knowledge to the students about temporary construction works, different components of buildings, R.C.C. constructions and retaining walls and basements with respect to damp proofing, doors and window types and details, timber stairs and roofs and their types and details. 
-
-### Syllabus
-
 1. **Temporary Works (6 hours)**
     * Introduction to temporary construction works
     * Shoring types, need of shoring, underpinning
@@ -62,30 +54,27 @@ Provide knowledge to the students about temporary construction works, different 
 
 ### Evaluation Scheme:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 & 3 | 8 | 4 |
-| 4 | 4 | 4 |
-| 5 | 4 | 8 |
-| 6 | 4 | 8 |
-| 7 | 4 | 6 |
-| **Total** | **30** | **40** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 10                  |
+| 2 & 3     | 8      | 4                   |
+| 4         | 4      | 4                   |
+| 5         | 4      | 8                   |
+| 6         | 4      | 8                   |
+| 7         | 4      | 6                   |
+| **Total** | **30** | **40**              |
 
 *There may be minor deviation in marks distribution.
 
 ### Practical Assignments:
 
-| Units | Hours | No. of Sheets | Marks Distribution |
-|---|---|---|---|
-| 1 | 6 | 3 | 9 |
-| 2, 3 | 6 | 3 | 9 |
-| 4 | 4 | 2 | 6 |
-| 5 | 6 | 3 | 9 |
-| 6 | 4 | 2 | 6 |
-| 7 | 4 | 2 | 6 |
-| **Total** | **30** | **15** | **45 + 5** |
+| Units     | Hours  | No. of Sheets | Marks Distribution |
+| --------- | ------ | ------------- | ------------------ |
+| 1         | 6      | 3             | 9                  |
+| 2, 3      | 6      | 3             | 9                  |
+| 4         | 4      | 2             | 6                  |
+| 5         | 6      | 3             | 9                  |
+| 6         | 4      | 2             | 6                  |
+| 7         | 4      | 2             | 6                  |
+| **Total** | **30** | **15**        | **45 + 5**         |
 
-### Copyright
-
-Copyright © 2021

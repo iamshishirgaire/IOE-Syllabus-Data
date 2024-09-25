@@ -1,13 +1,3 @@
-## Syllabus
-
-**THEORY OF COMPUTATION**
-
-**Course Objectives:**
-
-To provide basic understanding of theory of automata, formal languages, turing machines and computational complexity.
-
-### Syllabus
-
 1. **Introduction (4 hours)**
     * Set, relation, function, Proof techniques.
     * Alphabets, language, regular expression.
@@ -50,18 +40,13 @@ To provide basic understanding of theory of automata, formal languages, turing m
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 12 | 21 |
-| 3 | 12 | 21 |
-| 4 | 10 | 17 |
-| 5 | 5 | 9 |
-| 6 | 2 | 5 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 12     | 21                  |
+| 3         | 12     | 21                  |
+| 4         | 10     | 17                  |
+| 5         | 5      | 9                   |
+| 6         | 2      | 5                   |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in the marks distribution.
-
----
-
-**Copyright &copy; 2021**

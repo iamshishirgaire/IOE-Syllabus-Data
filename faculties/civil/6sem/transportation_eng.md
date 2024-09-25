@@ -1,11 +1,3 @@
-## Transportation Engineering I
-
-**Objective:**
-
-After the completion of the course, students will be able to plan, survey and design road projects. They will attain the knowledge of road development and its planning. They will gain the knowledge based on the Nepalese context.
-
-**Syllabus:**
-
 1. **Introduction to Transportation Planning and Engineering [4 hours]**
     * Introduction
     * Modes of Transportation
@@ -102,16 +94,12 @@ There shall be related tutorials exercised in class and given as regular homewor
 
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 18 | 32 |
-| 4 | 4 | 8 |
-| 5 | 5 | 8 |
-| 6 | 10 | 16 |
-| **Total** | **45** | **80** |
-
-* There may be minor variation in marks distribution
-
-**Copyright © 2021** 
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 4      | 8                  |
+| 2         | 4      | 8                  |
+| 3         | 18     | 32                 |
+| 4         | 4      | 8                  |
+| 5         | 5      | 8                  |
+| 6         | 10     | 16                 |
+| **Total** | **45** | **80**             |

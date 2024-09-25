@@ -1,11 +1,3 @@
-# Syllabus
-
-## Concrete Technology and Masonry Structures
-
-**Course Rationale:**
-
-The course provides practical information on concrete technology and masonry structures. The first part of the course deals with concrete technology and in this part students will learn properties of concrete ingredients and will be able to design concrete mix of different grades using commonly used methodologies. The students will also learn properties of green and hardened concrete and will learn the tools and techniques of quality control in different stages of use of concrete. The second part deals with Masonry structures and in this part students will learn classification, construction technologies and behavior of masonry structures. The students will be able to analyze and design masonry structures for gravity loads and lateral loads.
-
 ### Part I: Concrete Technology
 
 1. **Introduction to concrete and concrete materials [4 hours]**
@@ -111,18 +103,16 @@ The course provides practical information on concrete technology and masonry str
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 6 |
-| 2 | 3 | 6 |
-| 3 | 6 | 12 |
-| 4 | 3 | 6 |
-| 5 | 6 | 12 |
-| 6 | 3 | 6 |
-| 7 | 4 | 6 |
-| 8 | 8 | 12 |
-| 9 | 5 | 8 |
-| 10 | 3 | 6 |
-| **Total** | **45** | **80** |
-
-*There may be minor variation in marks distribution. 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 6                   |
+| 2         | 3      | 6                   |
+| 3         | 6      | 12                  |
+| 4         | 3      | 6                   |
+| 5         | 6      | 12                  |
+| 6         | 3      | 6                   |
+| 7         | 4      | 6                   |
+| 8         | 8      | 12                  |
+| 9         | 5      | 8                   |
+| 10        | 3      | 6                   |
+| **Total** | **45** | **80**              |

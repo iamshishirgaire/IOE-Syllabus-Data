@@ -1,15 +1,3 @@
-## Syllabus - BIO-ENGINEERING (CE 72504)
-
-**Course Objectives:**
-
-This course aims to provide an alternative approach to slope stabilization techniques using living vegetation. Upon completion, students will be able to:
-
-* Analyze slope stability based on various parameters.
-* Utilize soil bioengineering techniques for erosion control and shallow-seated instability stabilization.
-* Gain knowledge of appropriate technology and its significance in rural infrastructure development in Nepal, specifically in hill road construction.
-
-**Course Content:**
-
 1. **Introduction to Bio-engineering (4 hours)**
     * Glimpses of landslides and soil erosion in Nepal
     * Identification of problems on slopes
@@ -110,20 +98,17 @@ This course aims to provide an alternative approach to slope stabilization techn
 * Questions will cover all chapters in the syllabus.
 * Marks will be distributed as shown in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 10 | 16 |
-| 3 | 4 | 8 |
-| 4 | 6 | 8 |
-| 5 | 4 | 8 |
-| 6 | 6 | 8 |
-| 7 | 4 | 8 |
-| 8 | 2 | 4 |
-| 9 | 4 | 8 |
-| 10 | 1 | 4 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 10     | 16                  |
+| 3         | 4      | 8                   |
+| 4         | 6      | 8                   |
+| 5         | 4      | 8                   |
+| 6         | 6      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 2      | 4                   |
+| 9         | 4      | 8                   |
+| 10        | 1      | 4                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviations in mark distribution.
-
-**Copyright&copy; 2021** 

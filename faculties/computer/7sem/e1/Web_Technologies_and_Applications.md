@@ -1,14 +1,3 @@
-## Syllabus
-
-**Web Technologies and Applications**
-**CT 725 05**
-
-**Course Objectives:** 
-
-The Web is undoubtedly the most successful application on the Internet and has brought revolutionary changes. The course attempts to cover the key foundations of the Web, essential technologies and knowledge needed for web application development. The course also highlights recent developments on the dynamic area of the Web. 
-
-### Course Content:
-
 1. **Introduction (3 hours)**
     * History
     * Internet and the Web
@@ -71,21 +60,16 @@ A number of practical assignments can be given for hands-on experience on web ap
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 5 | 9 |
-| 3 | 7 | 12 |
-| 4 | 4 | 7 |
-| 5 | 6 | 11 |
-| 6 | 6 | 11 |
-| 7 | 5 | 9 |
-| 8 | 4 | 7 |
-| 9 | 5 | 9 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 5      | 9                   |
+| 3         | 7      | 12                  |
+| 4         | 4      | 7                   |
+| 5         | 6      | 11                  |
+| 6         | 6      | 11                  |
+| 7         | 5      | 9                   |
+| 8         | 4      | 7                   |
+| 9         | 5      | 9                   |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-### Copyright:
-
-Copyright © 2021 

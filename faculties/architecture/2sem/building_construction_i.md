@@ -1,11 +1,3 @@
-## BUILDING CONSTRUCTION I
-
-**Course Objectives:**
-
-To familiarize with Building Construction techniques, building components - Foundation, Superstructure and roofs. Field examples are often made and students are encouraged to make field visits.
-
-**Course Details:**
-
 1. **Introduction (1 hour)**
 
    Introduction to course, why construction techniques are important vis a vis building designing and working drawings. How it relates to others subjects in structure drawings. How does building construction assist in implementation of design outputs. Why are guidelines adopted in construction. Run the outlines of the course time.
@@ -68,29 +60,29 @@ To familiarize with Building Construction techniques, building components - Foun
 
 **Evaluation Scheme**
 
-| Units | Hours | Marks Distribution* |
-|---|---|---|
-| 2,3,4 | 5 | 6 |
-| 5,6 | 10 | 10 |
-| 7 | 4 | 6 |
-| 8 | 4 | 8 |
-| 9,10 | 7 | 10 |
-| **Total** |  | **40** |
+| Units     | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 2,3,4     | 5     | 6                   |
+| 5,6       | 10    | 10                  |
+| 7         | 4     | 6                   |
+| 8         | 4     | 8                   |
+| 9,10      | 7     | 10                  |
+| **Total** |       | **40**              |
 
 *There may be minor deviation in marks distribution.
 
 **Practical Assignments**
 
-| S. No | Units | Hours | No. of Sheets | Marks Distribution |
-|---|---|---|---|---|
-| 1 | 2, | 2 | 1 |  |
-| 2 | 4 | 4 | 2 |  |
-| 3 | 5 | 4 | 2 |  |
-| 4 | 7 | 2 | 1 |  |
-| 5 | 8 | 8 | 4 |  |
-| 6 | 9 | 4 | 2 |  |
-| 7 | 10 | 4 | 2 |  |
-| **Total** |  | **28** | **14** | **50** |
+| S. No     | Units | Hours  | No. of Sheets | Marks Distribution |
+| --------- | ----- | ------ | ------------- | ------------------ |
+| 1         | 2,    | 2      | 1             |                    |
+| 2         | 4     | 4      | 2             |                    |
+| 3         | 5     | 4      | 2             |                    |
+| 4         | 7     | 2      | 1             |                    |
+| 5         | 8     | 8      | 4             |                    |
+| 6         | 9     | 4      | 2             |                    |
+| 7         | 10    | 4      | 2             |                    |
+| **Total** |       | **28** | **14**        | **50**             |
 
 **References:**
 
@@ -105,4 +97,3 @@ To familiarize with Building Construction techniques, building components - Foun
 9. Building Construction, WB Mackay
 10. Building Construction, Mitchell.
 
-**Copyright © 2021** 

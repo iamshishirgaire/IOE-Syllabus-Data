@@ -1,13 +1,3 @@
-# Syllabus
-
-## **BUILDING CONSTRUCTION IV**
-
-**Course Objective:** 
-
-Impart knowledge to the students about portal frames, shell roofs and domes; fireplaces and chimneys; traditional timber construction; sound and thermal insulation; prevention of fire effects in buildings; measures to protect building components and finishes; various building service elements and about techniques for sustainable construction in buildings. 
-
-**Course Details:**
-
 1. **Portal Frames, Shell Roofs and Domes:** 
    - Introduction to portal frames and their advantages, types of portal frames. 
    - Introduction to shell and vault roofing systems, their construction and uses. 
@@ -40,15 +30,15 @@ Impart knowledge to the students about portal frames, shell roofs and domes; fir
 
 ## **Practical Assignments:**
 
-| S. No | Units | Hours | No. of Sheets | Marks Distribution |
-|---|---|---|---|---|
-| 1 | 1 | 6 | 3 | 9 |
-| 2 | 2 | 4 | 2 | 6 |
-| 3 | 3 | 6 | 3 | 9 |
-| 4 | 4 | 4 | 2 | 6 |
-| 5 | 5, 6, 7 | 8 | 4 | 12 |
-| 6 | 8 | 2 | 1 | 3 |
-| **Total** |  | **30** | **15** | **45 + 5** |
+| S. No     | Units   | Hours  | No. of Sheets | Marks Distribution |
+| --------- | ------- | ------ | ------------- | ------------------ |
+| 1         | 1       | 6      | 3             | 9                  |
+| 2         | 2       | 4      | 2             | 6                  |
+| 3         | 3       | 6      | 3             | 9                  |
+| 4         | 4       | 4      | 2             | 6                  |
+| 5         | 5, 6, 7 | 8      | 4             | 12                 |
+| 6         | 8       | 2      | 1             | 3                  |
+| **Total** |         | **30** | **15**        | **45 + 5**         |
 
 ## **References:**
 
@@ -62,18 +52,16 @@ Impart knowledge to the students about portal frames, shell roofs and domes; fir
 
 ## **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 6 |
-| 2 | 2 | 4 |
-| 3 | 4 | 4 |
-| 4 | 4 | 6 |
-| 5 | 4 | 6 |
-| 6 | 2 | 2 |
-| 7 | 6 | 8 |
-| 8 | 4 | 4 |
-| **Total** |  | **40** |
+| Chapters  | Hours | Marks Distribution* |
+| --------- | ----- | ------------------- |
+| 1         | 4     | 6                   |
+| 2         | 2     | 4                   |
+| 3         | 4     | 4                   |
+| 4         | 4     | 6                   |
+| 5         | 4     | 6                   |
+| 6         | 2     | 2                   |
+| 7         | 6     | 8                   |
+| 8         | 4     | 4                   |
+| **Total** |       | **40**              |
 
-*There may be minor deviation in marks distribution.
 
-## **Copyright &copy; 2021** 

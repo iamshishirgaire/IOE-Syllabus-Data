@@ -1,13 +1,3 @@
-## Syllabus: Image Processing and Pattern Recognition
-
-**CT 725 04**
-
-**Course Objectives:**
-
-To become familiar with image processing, pattern recognition, and their applications.
-
-### Course Content:
-
 1. **Introduction to digital image processing [4 hours]**
     * Digital image representation
     * Digital image processing: Problems and applications
@@ -70,16 +60,12 @@ Laboratory exercises using image processing and pattern recognition packages.
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 2 | 4, 5 | 16 |
-| 3, 5 | 8, 3 | 16 |
-| 4, 6 | 4, 5 | 16 |
-| 7, 8 | 6, 3 | 16 |
-| 9, 10 | 3, 4 | 16 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1, 2      | 4, 5   | 16                  |
+| 3, 5      | 8, 3   | 16                  |
+| 4, 6      | 4, 5   | 16                  |
+| 7, 8      | 6, 3   | 16                  |
+| 9, 10     | 3, 4   | 16                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-
-### Copyright © 2021 

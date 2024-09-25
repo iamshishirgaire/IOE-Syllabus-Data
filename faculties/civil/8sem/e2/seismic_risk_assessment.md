@@ -1,11 +1,3 @@
-## Syllabus - Seismic Risk Assessment (CE 76505)
-
-**Course Objectives:**
-
-The overall objective of this module is to equip students with the ability to perform probable hazard assessments and estimate the potential consequences of building damage, human casualties, and economic losses.
-
-### Topics Covered:
-
 1. **Seismicity and Earthquakes (4 hours)**
    - Seismic sources
    - Distribution of earthquakes
@@ -56,17 +48,14 @@ The overall objective of this module is to equip students with the ability to pe
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 6 |
-| 2 | 6 | 8 |
-| 3 | 10 | 20 |
-| 4 | 4 | 12 |
-| 5 | 6 | 12 |
-| 6 | 8 | 12 |
-| 7 | 7 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 6                   |
+| 2         | 6      | 8                   |
+| 3         | 10     | 20                  |
+| 4         | 4      | 12                  |
+| 5         | 6      | 12                  |
+| 6         | 8      | 12                  |
+| 7         | 7      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

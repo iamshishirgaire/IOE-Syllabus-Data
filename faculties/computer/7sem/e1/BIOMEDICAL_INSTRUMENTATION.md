@@ -1,11 +1,3 @@
-## Biomedical Instrumentation - EX 725 03
-
-**Course Objectives:**
-
-To provide specific engineering and instrumentation methods and principles to acquire basic knowledge of design, its application and maintenance of different biomedical instruments.
-
-### Syllabus:
-
 1. **Fundamental of Medical Instrumentation (4 hours)**
     * Biomedical Engineering and Areas of Engineering Contribution
     * Biometrics and Design Consideration Factors for Medical Instruments
@@ -86,18 +78,14 @@ To provide specific engineering and instrumentation methods and principles to ac
 
 ### Evaluation Scheme:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1,2 | 4,4 | 16 |
-| 4 | 10 | 16 |
-| 5 | 12 | 16 |
-| 3,6 | 4,4 | 16 |
-| 7,8 | 3,4 | 16 |
-| 8 | 4 | 4 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1,2       | 4,4    | 16                  |
+| 4         | 10     | 16                  |
+| 5         | 12     | 16                  |
+| 3,6       | 4,4    | 16                  |
+| 7,8       | 3,4    | 16                  |
+| 8         | 4      | 4                   |
+| **Total** | **45** | **80**              |
 
-*The questions will cover all the chapters of the syllabus.
 
----
-
-**Copyright &copy; 2021** 

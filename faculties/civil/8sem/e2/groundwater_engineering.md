@@ -1,11 +1,3 @@
-## Syllabus - Groundwater Engineering (CE 76509)
-
-**Course Objectives:**
-
-Groundwater Engineering is the first course in the physics of saturated flow in porous media with engineering applications. The course includes topics such as groundwater occurrence and Darcian flow, well hydraulics, pumping tests for finding aquifer parameters, overview of methods for groundwater explorations, tube-well construction methods and design, pump selection for lifting groundwater and economics of groundwater utilization. Moreover, the course gives an overview of groundwater resources of Nepal.
-
-**Course Outline:**
-
 1. **Occurrence of Groundwater and its Importance (5 hours)**
     * Hydrological cycle and groundwater, Origin and age of groundwater, Groundwater basins, springs, and their types.
     * Characteristics of groundwater, its comparison and relation with surface water.
@@ -73,19 +65,16 @@ Groundwater Engineering is the first course in the physics of saturated flow in 
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 4 |
-| 2 | 8 | 16 |
-| 3 | 8 | 16 |
-| 4 | 4 | 8 |
-| 5 | 5 | 8 |
-| 6 | 2 | 4 |
-| 7 | 6 | 10 |
-| 8 | 4 | 8 |
-| 9 | 3 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 4                   |
+| 2         | 8      | 16                  |
+| 3         | 8      | 16                  |
+| 4         | 4      | 8                   |
+| 5         | 5      | 8                   |
+| 6         | 2      | 4                   |
+| 7         | 6      | 10                  |
+| 8         | 4      | 8                   |
+| 9         | 3      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021**

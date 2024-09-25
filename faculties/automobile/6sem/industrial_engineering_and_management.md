@@ -1,17 +1,3 @@
-## Syllabus
-
-**INDUSTRIAL ENGINEERING AND MANAGEMENT**
-
-**Course Objectives:**
-
-The main objective of this course is to provide fundamental knowledge of industrial engineering. After completion of this course the students will be able to:
-
-1. Describe production systems; loading and scheduling techniques.
-2. Describe forecasting techniques, inventory control and material requirement planning.
-3. Apply knowledge and skills for plant maintenance, quality control and management.
-
-**Course Outline:**
-
 1. **Introduction to Industrial Engineering and Management (1 hour)**
     * Historical Development
     * System Concept 
@@ -84,17 +70,14 @@ The main objective of this course is to provide fundamental knowledge of industr
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 & 2 | 18 | 30 |
-| 3 | 4 | 8 |
-| 4 | 4 | 8 |
-| 5 | 6 | 10 |
-| 6 | 4 | 8 |
-| 7 | 4 | 8 |
-| 8 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 18     | 30                  |
+| 3         | 4      | 8                   |
+| 4         | 4      | 8                   |
+| 5         | 6      | 10                  |
+| 6         | 4      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 

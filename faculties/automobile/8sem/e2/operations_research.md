@@ -1,14 +1,3 @@
-# Syllabus
-
-## OPERATIONS RESEARCH
-AM 76502
-
-### Course Objective
-
-To make capable of managing data, analyzing data such as sorting, pivoting tables, and applying statistical analysis in a spreadsheet environment. To familiarize with forecasting methods, linear programming, and inventory models. To make familiar with simulation in decision-making under risk and uncertainty with the use of risk analysis software such as CRYSTAL BALL. To make capable in applying the knowledge gained during the course for solving real problems in decision-making.
-
-### Topics
-
 1. **Introduction to modelling for decisions & data management and analysis (6 hours)**
    * Historical background
    * Application and benefits of operations research
@@ -76,17 +65,12 @@ Course project on real and practical problems such as forecasting, queuing, inve
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Topics                        | Marks* |
-|----------|---------------------------------|--------|
-| 1 & 3    | 1 all & 3.1 to 3.5              | 16     |
-| 2        | all                            | 16     |
-| 3        | 3.6 to 3.9                     | 16     |
-| 4        | all                            | 16     |
-| 5        | all                            | 16     |
-| **Total** | **Total**                      | **80** |
+| Chapters  | Topics             | Marks* |
+| --------- | ------------------ | ------ |
+| 1 & 3     | 1 all & 3.1 to 3.5 | 16     |
+| 2         | all                | 16     |
+| 3         | 3.6 to 3.9         | 16     |
+| 4         | all                | 16     |
+| 5         | all                | 16     |
+| **Total** | **Total**          | **80** |
 
-*There might be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright &copy; 2021 

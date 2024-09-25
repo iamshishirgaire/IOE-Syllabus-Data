@@ -1,11 +1,3 @@
-## Syllabus - Computer-Aided Design & Drafting
-
-**Course Objective:**
-
-To understand the fundamental concepts of Computer-Aided Design/Drafting. To enable the preparation of Two-Dimensional and Three-Dimensional architectural drawings and modeling them through Computer-Aided Design/Drafting.
-
-**Course Topics:**
-
 1. **Introduction to CADD [2 hours]**
    - Overview
    - Required Equipment
@@ -198,12 +190,8 @@ To understand the fundamental concepts of Computer-Aided Design/Drafting. To ena
 
 **Evaluation Scheme for each stage:**
 
-| Stages                                | Hours | Marks Distribution* |
-|-----------------------------------------|-------|--------------------|
-| Two-dimensional drawing                | 36    | 60                 |
-| Three dimensional drawing and rendering | 20    | 30                 |
-| Plotting / printing                     | 4     | 10                 |
-
-**\*There may be minor deviations in marks distribution.**
-
-**Copyright &copy; 2021**
+| Stages                                  | Hours | Marks Distribution* |
+| --------------------------------------- | ----- | ------------------- |
+| Two-dimensional drawing                 | 36    | 60                  |
+| Three dimensional drawing and rendering | 20    | 30                  |
+| Plotting / printing                     | 4     | 10                  |

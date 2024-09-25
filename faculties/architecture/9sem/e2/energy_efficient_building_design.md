@@ -1,14 +1,3 @@
-## Syllabus: Energy Efficient Building Design (AR 825 05)
-
-**Course Objective:**
-
-* To introduce basic concepts of energy efficient building design in relation to architectural design.
-* To demonstrate the use of energy efficient building design in design and construction to produce comfortable, energy efficient, and environmentally friendly green buildings.
-* To incorporate energy efficiency criteria into building design in different climatic zones.
-* To utilize the concept of energy efficient design for the final thesis project.
-
-**Syllabus:**
-
 1. **Concept of Energy Efficient Building [4 hours]**
     * Introduction and Objectives
     * Importance of Energy Efficiency
@@ -93,12 +82,12 @@
 
 * Evaluation Schedule for Practical Works:
 
-| S.No | Duration | Stage | Marks |
-|---|---|---|---|
-| 1 | 10 hrs | Case Studies / Assignments on: <ul><li>Different energy-efficient buildings</li><li>Observation of different energy efficient building rating system LEED, GRIHA, etc.</li><li>Observation of climate, site, material, technology and energy for energy-efficient system</li><li>Presentation</li></ul> | 15 |
-| 2 | 15 hrs | Assignments on: <ul><li>Design or renovation of a building with energy-efficiency</li><li>Presentation</li></ul> | 15 |
-| 3 | 5 hrs | Report Submission / Attendance | 20 |
-| **Total** | **30 hrs** |  | **50** |
+| S.No      | Duration   | Stage                                                                                                                                                                                                                                                                                                   | Marks  |
+| --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | 10 hrs     | Case Studies / Assignments on: <ul><li>Different energy-efficient buildings</li><li>Observation of different energy efficient building rating system LEED, GRIHA, etc.</li><li>Observation of climate, site, material, technology and energy for energy-efficient system</li><li>Presentation</li></ul> | 15     |
+| 2         | 15 hrs     | Assignments on: <ul><li>Design or renovation of a building with energy-efficiency</li><li>Presentation</li></ul>                                                                                                                                                                                        | 15     |
+| 3         | 5 hrs      | Report Submission / Attendance                                                                                                                                                                                                                                                                          | 20     |
+| **Total** | **30 hrs** |                                                                                                                                                                                                                                                                                                         | **50** |
 
 **References:**
 
@@ -120,15 +109,12 @@
 * The questions shall cover all the chapters of the syllabus. 
 * The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Hours | Total Marks |
-|---|---|---|---|
-| 1. | 1, 2 | 6 | 8 |
-| 2. | 3, 4, 5 | 6 | 8 |
-| 3. | 6, 7, 8 | 6 | 8 |
-| 4. | 9, 10, 11 | 6 | 8 |
-| 5. | 12, 13 | 6 | 8 |
-| **Total** |  | **30** | **40** |
+| Unit      | Chapter   | Hours  | Total Marks |
+| --------- | --------- | ------ | ----------- |
+| 1.        | 1, 2      | 6      | 8           |
+| 2.        | 3, 4, 5   | 6      | 8           |
+| 3.        | 6, 7, 8   | 6      | 8           |
+| 4.        | 9, 10, 11 | 6      | 8           |
+| 5.        | 12, 13    | 6      | 8           |
+| **Total** |           | **30** | **40**      |
 
-* There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 

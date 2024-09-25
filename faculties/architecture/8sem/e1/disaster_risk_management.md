@@ -1,16 +1,3 @@
-# Syllabus
-
-## **DISASTER RISK MANAGEMENT IN TRADITIONAL SETTLEMENT** 
-## **AR 765 02**
-
-**Course objective** 
-
-1. To familiarize the student with the fundamentals of disaster risk management and develop perspective in the area of risk management of cultural heritage  
-2. To sensitize students with the issues pertaining to the conservation of cultural properties, and seeing it from the lens of risk management 
-3. To support the Design Studio VIII by introducing structural and non-structural interventions in order to reduce the risks to historic properties.
-
-## Syllabus
-
 1. **Introduction (2 hours)**
     1. Introduction to disaster in World
     2. Scenario of  disaster in Asia
@@ -48,24 +35,23 @@
 
 ## Practical Assignment (30 hours)
 
-| S. No. | Time | Description | Marks |
-|---|---|---|---|
-| 1 | 10 hrs. | Presentation on Case study of Disaster (National or International) | 15 |
-| 2 | 12 hrs. | Presentation on Case study of traditional settlement and its disaster risk management  in  Nepal | 20 |
-| 3 | 8 hrs. | Report on the study of cultural heritage and disaster risk management  in  Nepal | 15 |
-| **Total** | **30 hrs. ** |  | **50** |
+| S. No.    | Time         | Description                                                                                      | Marks  |
+| --------- | ------------ | ------------------------------------------------------------------------------------------------ | ------ |
+| 1         | 10 hrs.      | Presentation on Case study of Disaster (National or International)                               | 15     |
+| 2         | 12 hrs.      | Presentation on Case study of traditional settlement and its disaster risk management  in  Nepal | 20     |
+| 3         | 8 hrs.       | Report on the study of cultural heritage and disaster risk management  in  Nepal                 | 15     |
+| **Total** | **30 hrs. ** |                                                                                                  | **50** |
 
 ## Evaluation Scheme:
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below. 
 
-| Units | Chapters | Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 1 + 2 | 2 + 4 = 6 | 8 |
-| 2 | 3 | 6 | 8 |
-| 3 | 4+5 | 2+4 = 6 | 8 |
-| 4 | 6 | 6 | 8 |
-| 5 | 7 + 8+9 | 2 + 2 + 2 = 6 | 8 |
-| **Total** |  | **30** | **40** |
+| Units     | Chapters | Hours         | Marks Distribution* |
+| --------- | -------- | ------------- | ------------------- |
+| 1         | 1 + 2    | 2 + 4 = 6     | 8                   |
+| 2         | 3        | 6             | 8                   |
+| 3         | 4+5      | 2+4 = 6       | 8                   |
+| 4         | 6        | 6             | 8                   |
+| 5         | 7 + 8+9  | 2 + 2 + 2 = 6 | 8                   |
+| **Total** |          | **30**        | **40**              |
 
-## Copyright © 2021

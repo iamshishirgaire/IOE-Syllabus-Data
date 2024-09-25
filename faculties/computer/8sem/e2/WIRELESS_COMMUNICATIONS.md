@@ -1,11 +1,3 @@
-## Syllabus: Wireless Communications (EX765 04)
-
-**Course Objectives:**
-
-To introduce the student to the principles and building blocks of wireless communications.
-
-**Course Content:**
-
 1. **Introduction (2 hours)**
     * Evolution of wireless (mobile) communications, worldwide market, examples
     * Comparison of available wireless systems, trends
@@ -79,4 +71,3 @@ To introduce the student to the principles and building blocks of wireless commu
 6. J. Proakis, Digital communication systems, latest edition
 7. D. Sharma, Course manual “Communication Systems II”.
 
-**Copyright © 2021** 

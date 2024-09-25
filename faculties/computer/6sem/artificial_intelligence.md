@@ -1,13 +1,3 @@
-## Syllabus: Artificial Intelligence
-
-**Course Objectives:**
-
-* To provide basic knowledge of Artificial Intelligence
-* To familiarize students with different search techniques
-* To acquaint students with fields related to AI and its applications
-
-### Course Content:
-
 1. **Introduction (4 hrs)**
     * Definition of Artificial Intelligence
     * Importance of Artificial Intelligence
@@ -80,17 +70,14 @@ Laboratory exercises should be conducted in either LISP or PROLOG. Exercises mus
 
 Questions will cover all chapters of the syllabus. The evaluation scheme is as follows:
 
-| Chapter | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 4 | 7 |
-| 3 | 5 | 9 |
-| 4 | 8 | 14 |
-| 5 | 4 | 7 |
-| 6 | 6 | 10 |
-| 7 | 14 | 26 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 4      | 7                   |
+| 3         | 5      | 9                   |
+| 4         | 8      | 14                  |
+| 5         | 4      | 7                   |
+| 6         | 6      | 10                  |
+| 7         | 14     | 26                  |
+| **Total** | **45** | **80**              |
 
-*There can be minor deviations in the numbers.
-
-***Copyright © 2021*** 

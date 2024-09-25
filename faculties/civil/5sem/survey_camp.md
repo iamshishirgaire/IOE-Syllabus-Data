@@ -1,15 +1,3 @@
-## Syllabus
-
-**SURVEY CAMP**
-
-* Practical: 10 days (10 * 13hrs) Field Works
-
-**Objective:**
-
-The main objectives of the survey camp, which is to be scheduled during the third year first part, are as under:
-
-1. To give the students an ample opportunity to consolidate and update their practical and theoretical knowledge in Engineering Surveying, in the actual field conditions and with practical problems.
-2. To provide the students real field based exposure to learn and apply different surveying methods, modern surveying instruments, computational practices and ways of presentation of their final reports.  Following field works are recommended:
 
 ### Field Works
 

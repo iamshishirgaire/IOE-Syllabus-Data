@@ -1,17 +1,3 @@
-# Syllabus: BIG DATA TECHNOLOGIES (CT 765 07)
-
-## Course Objectives:
-
-The growth of information systems has given rise to large amounts of data that don't fit the traditional definition of data. This presents new possibilities but also significant challenges, particularly in effective storage, analysis, and search of such massive datasets. Fortunately, various technologies have been developed to address these challenges. This course introduces this scenario, exploring the technologies involved and how they overcome these challenges.
-
-Specifically, the course aims to:
-
-* Introduce students to the current landscape of big data and its various facets.
-* Familiarize students with technologies playing a key role in big data.
-* Equip students with the necessary knowledge to utilize these technologies for solving big data problems in different domains.
-
-## Course Outline:
-
 1. **Introduction to Big Data [7 hours]**
    * Big Data Overview
    * Background of Data Analytics
@@ -69,18 +55,12 @@ Students will have the opportunity to work with big data technologies using vari
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 7 | 12 |
-| 2 | 7 | 13 |
-| 3 | 10 | 18 |
-| 4 | 6 | 11 |
-| 5 | 7 | 13 |
-| 6 | 8 | 13 |
-| **Total** | **45** | **80** |
-
-\*There could be a minor deviation in the marks distribution.
-
-## Copyright:
-
-Copyright &copy; 2021 
+| Chapters  | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 7      | 12                   |
+| 2         | 7      | 13                   |
+| 3         | 10     | 18                   |
+| 4         | 6      | 11                   |
+| 5         | 7      | 13                   |
+| 6         | 8      | 13                   |
+| **Total** | **45** | **80**               |

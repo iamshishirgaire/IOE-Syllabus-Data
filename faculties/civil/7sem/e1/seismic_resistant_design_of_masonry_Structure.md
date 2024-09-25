@@ -1,17 +1,3 @@
-## Syllabus
-
-**SEISMIC RESISTANT DESIGN OF MASONRY STRUCTURES<br>
-CE 72502**
-
-**Course Objectives:**
-
-* To comprehend the fundamental principles of masonry behavior during earthquake
-* To understand the mechanics of masonry elements subjected to various load effects including bending, shear, and axial forces.
-* To discuss the code principles of masonry structures and apply them in design of masonry structures
-* To design safe and efficient masonry structures from a seismic viewpoint
-
-### Course Outline
-
 * **Fundamentals of Earthquake Engineering (8 hours)**
     * Origin of Earthquake
     * Nature of Earthquake Force
@@ -66,16 +52,13 @@ Design a 2-3 storey masonry building considering seismic load.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 16 |
-| 2 | 4 | 8 |
-| 3 | 5 | 10 |
-| 4 | 12 | 20 |
-| 5 | 10 | 16 |
-| 6 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 16                  |
+| 2         | 4      | 8                   |
+| 3         | 5      | 10                  |
+| 4         | 12     | 20                  |
+| 5         | 10     | 16                  |
+| 6         | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

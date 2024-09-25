@@ -1,13 +1,3 @@
-## Syllabus
-
-**AUTOMOBILE COMPONENT DESIGN I**
-
-**Course Objective:**
-
-To provide fundamental knowledge and skills to students needed to design commonly used automobile components.
-
-**Course Content:**
-
 1. **Design Consideration (12 hours)**
    - Definition and types of design
    - Design process
@@ -108,15 +98,12 @@ To provide fundamental knowledge and skills to students needed to design commonl
 
 The questions will cover all chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Topics                        | Marks |
-| -------- | ------------------------------ | ----- |
-| 1        | All                            | 16    |
-| 2        | All                            | 16    |
-| 3        | All                            | 16    |
-| 4 & 5    | 4 All & 5.2                    | 16    |
-| 5        | 5.1 & 5.3                      | 16    |
-| **Total** | **Total**                   | **80** |
+| Chapter   | Topics      | Marks  |
+| --------- | ----------- | ------ |
+| 1         | All         | 16     |
+| 2         | All         | 16     |
+| 3         | All         | 16     |
+| 4 & 5     | 4 All & 5.2 | 16     |
+| 5         | 5.1 & 5.3   | 16     |
+| **Total** | **Total**   | **80** |
 
-*There may be minor deviation in mark distribution*
-
-**Copyright © 2021** 

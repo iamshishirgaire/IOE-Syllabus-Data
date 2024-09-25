@@ -1,17 +1,3 @@
-# Syllabus: Computer Organization and Architecture
-
-## Course Objectives
-
-To provide an understanding of the organization, architecture, and design concepts of computer systems, including:
-
-* Processor architecture
-* Computer arithmetic
-* Memory system
-* I/O organization
-* Multiprocessors
-
-## Course Outline
-
 1. **Introduction (3 hours)**
     * Computer organization and architecture
     * Structure and function
@@ -107,20 +93,15 @@ To provide an understanding of the organization, architecture, and design concep
 
 The question will cover all the chapters of the syllabus. The evaluation scheme is as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 10 | 18 |
-| 3 | 6 | 10 |
-| 4 | 5 | 10 |
-| 5 | 8 | 14 |
-| 6 | 5 | 8 |
-| 7 | 6 | 10 |
-| 8 | 2 | 4 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 10     | 18                  |
+| 3         | 6      | 10                  |
+| 4         | 5      | 10                  |
+| 5         | 8      | 14                  |
+| 6         | 5      | 8                   |
+| 7         | 6      | 10                  |
+| 8         | 2      | 4                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
-
-## Copyright
-
-Copyright&copy; 2021

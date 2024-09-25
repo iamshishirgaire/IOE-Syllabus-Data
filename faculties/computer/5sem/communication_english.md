@@ -1,12 +1,3 @@
-# Syllabus
-
-## **COMMUNICATION ENGLISH**
-
-**Course Objective:**
-
-1. To make the students capable of producing professional writings such as research articles, technical proposals, reports and project work
-2. To familiarize the students with the native speakers' pronunciation with the use of audio-visual aids
-
 ## **Unit I: Reading (15 hours)**
 
 1. **Intensive Reading (8 hours)**
@@ -135,10 +126,10 @@
 
 ## **Language Lab**
 
-| **Title** | **Testing Items** | **Number of Questions** | **Marks Distribution* ** |
-|---|---|---|---|
-| Language Lab |  * Listening  - Instruction - Description - Conversation * |  3  |  10 |
-| Language Lab |  * Speaking  - Expressing Individual views  -  Group/Round Table discussion  - Talk delivery  - Presenting brief oral report * |  3  |  15 |
+| **Title**    | **Testing Items**                                                                                                             | **Number of Questions** | **Marks Distribution* ** |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| Language Lab | * Listening  - Instruction - Description - Conversation *                                                                     | 3                       | 10                       |
+| Language Lab | * Speaking  - Expressing Individual views  -  Group/Round Table discussion  - Talk delivery  - Presenting brief oral report * | 3                       | 15                       |
 
 * **Total Language Lab Hours: 30 hours** 
 * **Listening Hours: 12 hours**
@@ -148,24 +139,18 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below
 
-| **Unit** | **Testing Items** | **Number of Questions** | **Marks Distribution** |
-|---|---|---|---|
-| I | Reading Passages | 3 | 15 |
-| I | Novel | 1 | 5 |
-| I | Novel | 1 | 5 |
-| I | Grammar | 10 or 5 | 5 |
-| II | Composing &amp; Editing Strategies | 1 | 5 |
-| II | MLA and APA Comparison | 1 | 4 |
-| II | Writing Research Articles | 1 | 10 |
-| II | Writing Notice, Agenda and Minutes | 1 | 5 |
-| II | Writing Proposal | 1 | 8 |
-| II | I Writing Reports (Formal Report) | 1 | 10 |
-| II | II Writing short Reports or Project Report | 1 | 8 |
+| **Unit** | **Testing Items**                          | **Number of Questions** | **Marks Distribution** |
+| -------- | ------------------------------------------ | ----------------------- | ---------------------- |
+| I        | Reading Passages                           | 3                       | 15                     |
+| I        | Novel                                      | 1                       | 5                      |
+| I        | Novel                                      | 1                       | 5                      |
+| I        | Grammar                                    | 10 or 5                 | 5                      |
+| II       | Composing &amp; Editing Strategies         | 1                       | 5                      |
+| II       | MLA and APA Comparison                     | 1                       | 4                      |
+| II       | Writing Research Articles                  | 1                       | 10                     |
+| II       | Writing Notice, Agenda and Minutes         | 1                       | 5                      |
+| II       | Writing Proposal                           | 1                       | 8                      |
+| II       | I Writing Reports (Formal Report)          | 1                       | 10                     |
+| II       | II Writing short Reports or Project Report | 1                       | 8                      |
 
 **Total: 80**
-
-*There may be minor variation in marks distribution. 
-
-***
-
-## **Copyright © 2021**

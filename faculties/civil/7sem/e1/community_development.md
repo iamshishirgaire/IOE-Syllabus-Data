@@ -1,11 +1,3 @@
-## Syllabus: Community Development and Participatory Rural Approach (CE 72513)
-
-**Course Objectives:**
-
-To enable students to understand the concept of community development, participatory rural appraisal (PRA), and communication techniques.
-
-### **Course Content:**
-
 **1. Community Development (10 hours)**
 
 * Participatory approach
@@ -100,16 +92,10 @@ To enable students to understand the concept of community development, participa
 
 The questions will cover all chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 15 |
-| 2 | 15 | 25 |
-| 3 | 10 | 15 |
-| 4 | 10 | 25 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-***
-
-**Copyright © 2021** 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 15                  |
+| 2         | 15     | 25                  |
+| 3         | 10     | 15                  |
+| 4         | 10     | 25                  |
+| **Total** | **45** | **80**              |

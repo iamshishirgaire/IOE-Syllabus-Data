@@ -1,16 +1,3 @@
-## Syllabus
-
-**VERNACULAR ARCHITECTURE** <br>
-**AR 825 02**
-
-**Course Objectives:**
-
-1. To familiarize the students with the fundamentals of Vernacular architecture.
-2. To understand the underlying concepts, ordering principles and explore the rapidly disappearing vernacular architectural entities.
-3. To impart the knowledge of conserving and preserving the vernacular architectural building.
-
-**Course Outline:**
-
 1. **Introduction (1 hour)**
     * Introduction to vernacular architecture
         * Society
@@ -127,15 +114,12 @@
 
 The question shall cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Unit | Chapters | Hours | Marks Distribution* |
-|---|---|---|---|
-| 1 | 1, 4, 6 | 6 | 8 |
-| 2 | 2, 8 | 6 | 8 |
-| 3 | 3 | 6 | 8 |
-| 4 | 5 | 6 | 8 |
-| 5 | 7 | 6 | 8 |
-| **Total** |  | **30** | **40** |
+| Unit      | Chapters | Hours  | Marks Distribution* |
+| --------- | -------- | ------ | ------------------- |
+| 1         | 1, 4, 6  | 6      | 8                   |
+| 2         | 2, 8     | 6      | 8                   |
+| 3         | 3        | 6      | 8                   |
+| 4         | 5        | 6      | 8                   |
+| 5         | 7        | 6      | 8                   |
+| **Total** |          | **30** | **40**              |
 
-*There may be minor deviation in mark distribution. 
-
-**Copyright © 2021** 

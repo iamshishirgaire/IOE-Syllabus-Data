@@ -1,13 +1,3 @@
-## Syllabus: FINITE ELEMENT METHOD (AM 72501)
-
-**Course Objectives:**
-
-* Understand the basic steps of finite element methods, its applications and advantages.
-* Develop the finite element model for discrete structural and non-structural problems and continuum problems, specifically heat transfer and plane elasticity.
-* Develop computer programs and use commercial software for the aforementioned problems.
-
-### Course Outline:
-
 1. **Overview (2 hours)**
     * Introduction
     * Brief history
@@ -71,17 +61,12 @@
 
 There will be questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be indicated in the table below:
 
-| Chapter | Marks* |
-|---|---|
-| 1 & 4 | 16 |
-| 2 | 16 |
-| 3 | 16 |
-| 5 | 16 |
-| 6 & 7 | 16 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1 & 4     | 16     |
+| 2         | 16     |
+| 3         | 16     |
+| 5         | 16     |
+| 6 & 7     | 16     |
 | **Total** | **80** |
 
-*There might be minor deviation in marks distribution.
-
-### Copyright:
-
-Copyright © 2021

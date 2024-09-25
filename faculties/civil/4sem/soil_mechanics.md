@@ -1,13 +1,3 @@
-# Syllabus
-
-## **SOIL MECHANICS**
-
-**Course Objective:**
-
-This course is aimed at teaching the students the concepts of soil engineering, including the science and technology of soils and their application to problems in Civil engineering.
-
-The course emphasizes the fundamentals and relevant principles of soil mechanics, gives an overall picture of the behaviour of soils and describes the nature of some of the soil problems encountered in Civil engineering.
-
 ### **1. Introduction (1 hour)**
 
 * Preview of Geotechnical problems in civil Engineering and infrastructure Development.
@@ -160,19 +150,17 @@ The course emphasizes the fundamentals and relevant principles of soil mechanics
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 1 | 2 |
-| 2 | 5 | 8 |
-| 3 | 4 | 8 |
-| 4 | 2 | 4 |
-| 5 | 3 | 6 |
-| 6 | 5 | 10 |
-| 7 | 4 | 8 |
-| 8 | 4 | 8 |
-| 9 | 6 | 10 |
-| 10 | 6 | 10 |
-| 11 | 5 | 6 |
-| **Total** | **45** | **80** |
-
-* There may be minor deviation in marks distribution. 
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 1      | 2                   |
+| 2         | 5      | 8                   |
+| 3         | 4      | 8                   |
+| 4         | 2      | 4                   |
+| 5         | 3      | 6                   |
+| 6         | 5      | 10                  |
+| 7         | 4      | 8                   |
+| 8         | 4      | 8                   |
+| 9         | 6      | 10                  |
+| 10        | 6      | 10                  |
+| 11        | 5      | 6                   |
+| **Total** | **45** | **80**              |

@@ -1,18 +1,3 @@
-# Syllabus
-
-## **ARTIFICIAL INTELLIGENCE** <br>
-**CT 785 06**
-
-## Course Objectives:
-
-The main objectives of this course are:
-
-1. To provide basic knowledge of Artificial Intelligence
-2. To familiarize students with different search techniques
-3. To acquaint students with the fields related to AI and the applications of AI
-
-## Course Content:
-
 1. **Introduction (4 hrs)**
    * Definition of Artificial Intelligence
    * Importance of Artificial Intelligence
@@ -85,19 +70,14 @@ Practical exercises should be conducted in either LISP or PROLOG. Laboratory exe
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 4 | 7 |
-| 3 | 5 | 9 |
-| 4 | 8 | 14 |
-| 5 | 4 | 7 |
-| 6 | 6 | 10 |
-| 7 | 14 | 26 |
-| **Total** | **45** | **80** |
+| Chapters  | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 4      | 7                   |
+| 3         | 5      | 9                   |
+| 4         | 8      | 14                  |
+| 5         | 4      | 7                   |
+| 6         | 6      | 10                  |
+| 7         | 14     | 26                  |
+| **Total** | **45** | **80**              |
 
-*There can be minor deviations in the numbers.
-
-## Copyright
-
-Copyright © 2021

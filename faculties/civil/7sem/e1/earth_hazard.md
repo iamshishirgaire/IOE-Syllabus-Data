@@ -1,19 +1,3 @@
-# Syllabus
-
-## EARTH HAZARD
-### CE 72507
-
-**Course Objectives:**
-
-The main objective of the course is to provide knowledge on various types of Earth Hazard and their process and assessment in order to be capable of appreciating their effects on infrastructures when the students design engineering structures. At the end of the course the students will be able to:
-
-- Differentiate the types of Earth Hazard
-- State geological processes of various types of Earth Hazards
-- Analyse the Causes, Mechanisms and effects of earth hazards
-- Classify and prepare hazard maps for different types of Earth Hazards
-
-### Course Outline:
-
 - **Introduction to Earth Hazards (4 hours)**
     - Concepts on Danger, Hazard, Risk and Disaster: Methods Assessment, Implications in engineering structure and designs, Geomorphological subdivision of the Himalayas, and their specific hazards, Introduction to factors controlling earth hazards: geological, hydrological, land use and groundwater
 - **Geological Factors Controlling Natural Hazards (8 hours)**
@@ -58,18 +42,13 @@ The main objective of the course is to provide knowledge on various types of Ear
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 8 | 12 |
-| 3 | 7 | 12 |
-| 4 | 4 | 8 |
-| 5 | 10 | 20 |
-| 6 | 12 | 20 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 8      | 12                  |
+| 3         | 7      | 12                  |
+| 4         | 4      | 8                   |
+| 5         | 10     | 20                  |
+| 6         | 12     | 20                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
----
-
-**Copyright © 2021**

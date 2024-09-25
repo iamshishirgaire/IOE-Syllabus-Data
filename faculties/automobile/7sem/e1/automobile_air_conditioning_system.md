@@ -1,15 +1,3 @@
-## Syllabus
-
-**AUTOMOBILE  AIR CONDITIONING SYSTEM**
-
-**AM 72502**
-
-### Course Objective
-
-To understand the concept of air conditioning system and its working principle used in automobiles and to apply these concepts for repair and maintenance.
-
-### Topics
-
 1. **Introduction to Air Conditioning & Refrigeration (5 hours)**
     * Introduction to refrigeration
     * Methods of refrigeration
@@ -92,17 +80,11 @@ To understand the concept of air conditioning system and its working principle u
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Marks* |
-|---|---|
-| 1 & 2 | 16 |
-| 3 & 8 | 16 |
-| 4 | 16 |
-| 5 | 16 |
-| 6 & 7 | 16 |
+| Chapters  | Marks* |
+| --------- | ------ |
+| 1 & 2     | 16     |
+| 3 & 8     | 16     |
+| 4         | 16     |
+| 5         | 16     |
+| 6 & 7     | 16     |
 | **Total** | **80** |
-
-* There might be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright © 2021 

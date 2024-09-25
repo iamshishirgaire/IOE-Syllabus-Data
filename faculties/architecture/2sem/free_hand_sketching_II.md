@@ -1,11 +1,3 @@
-## Syllabus
-
-**FREE HAND SKETCHING-II**
-
-**Course Objective:** To impart Knowledge & develop skill of free hand sketching with free hand perspective and basic exercise of color, pencil, pen, brush etc.
-
-### Topics:
-
 1. **Introduction to advanced free hand sketching skill (interior, exterior & landscape) (4 hours)**
     * Exercises of tone, shade & shadow by pencil, color, pen in different objects
 2. **Free hand sketching of interior space (8 hours)**
@@ -39,15 +31,15 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 10 |
-| 3 | 8 | 10 |
-| 4 | 16 | 20 |
-| 5 | 4 | 5 |
-| 6 - 6.1 <br> 6.2 | 8 <br> 4 | 10 <br> 5 |
-| **Assessment** |  | **60** |
-| **Practical Exam** | **3** | **40** |
+| Chapter            | Hours    | Marks Distribution* |
+| ------------------ | -------- | ------------------- |
+| 1                  | 8        | 10                  |
+| 3                  | 8        | 10                  |
+| 4                  | 16       | 20                  |
+| 5                  | 4        | 5                   |
+| 6 - 6.1 <br> 6.2   | 8 <br> 4 | 10 <br> 5           |
+| **Assessment**     |          | **60**              |
+| **Practical Exam** | **3**    | **40**              |
 
 * There may be minor deviation in marks distribution.
 
@@ -61,6 +53,4 @@ The questions will cover all the chapters of the syllabus. The evaluation scheme
 6. Robert Wood - Landscape and Seascapes
 7. John Fernandish - Illustration
 
----
 
-Copyright&copy; 2021 

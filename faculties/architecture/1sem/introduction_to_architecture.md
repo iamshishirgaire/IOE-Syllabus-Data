@@ -1,7 +1,3 @@
-## Syllabus
-
-**Introduction to Architecture**
-
 **Course Objective:** To introduce the field of architecture and its relation with society, culture, religion, technology and build environment. To understand the profession of architecture and its relation with allied professions. To understand the role of architecture in Nepal and the career opportunities scene.
 
 1. The field of architecture - brief Survey from beginning of architecture to present times (2 hours)
@@ -18,15 +14,10 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1, 2 and 3 | 9 | 12 |
-| 4, 5 and 6 | 10 | 16 |
-| 7, 8 and 9 | 10 | 12 |
-| **Total** | **29** | **40** |
+| Chapter    | Hours  | Mark Distribution* |
+| ---------- | ------ | ------------------ |
+| 1, 2 and 3 | 9      | 12                 |
+| 4, 5 and 6 | 10     | 16                 |
+| 7, 8 and 9 | 10     | 12                 |
+| **Total**  | **29** | **40**             |
 
-**\*There may be minor deviation in marks distribution.**
-
-***
-
-**Copyright © 2021** 

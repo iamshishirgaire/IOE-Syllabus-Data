@@ -1,7 +1,3 @@
-## Syllabus: Thesis Proposal and Research
-
-**Course Objective:**
-
 To enable the student to prepare a proposal for design thesis and to plan, undertake, and report on necessary research needed to undertake the proposed design thesis. This course is prerequisite to course AR 851 listed in Year V Part II. This course objective needs to be read in conjunction with the following requirements of Thesis:
 
 A thesis in architecture is expected to be a solution of a creative design problem (of a building complex, a building, or elements of a building) that may have differing focus as seen from the perspective of different support courses such as environment, ecology, energy, climatology, design theory, planning, materials and technology of construction, services, and the like. The thesis aims to demonstrate the students' ability and development to pursue analytical investigations related to the design of a building and/or its cultural, social, economic, material, climatic, technological, etc. dimensions. It should balance research and design application components. It should respond to contemporary issues in architecture and design.
@@ -29,10 +25,9 @@ All references as identified for supporting courses.
 
 **Evaluation Scheme:**
 
-| S. No. | Title | Hour | Total Marks |
-|---|---|---|---|
-| 1. | Thesis Topic and Thesis Proposal – Submitted Hard and Soft copies. | 15 | 50 |
-| 2. | Fundamental Research and Findings. Presentations on Drawing Paper. | 15 | 75 |
-| 3. | Case Study Research and Findings. Presentations on Drawing Paper. | 15 | 75 |
+| S. No. | Title                                                              | Hour | Total Marks |
+| ------ | ------------------------------------------------------------------ | ---- | ----------- |
+| 1.     | Thesis Topic and Thesis Proposal – Submitted Hard and Soft copies. | 15   | 50          |
+| 2.     | Fundamental Research and Findings. Presentations on Drawing Paper. | 15   | 75          |
+| 3.     | Case Study Research and Findings. Presentations on Drawing Paper.  | 15   | 75          |
 
-**Copyright © 2021** 

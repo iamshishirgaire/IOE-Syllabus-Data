@@ -1,14 +1,3 @@
-## Syllabus
-
-**CLIMATE CHANGE**
-**CE 76516**
-
-**Course Objectives:**
-
-This course broadens knowledge on fundamentals of climate change with respect to climate change science; and its causes, effects and uncertainties about climate change. It broadens the idea on technology, technological options for mitigating climate change, adaptation measures, risk analysis, economics, policy options and their impact on outcomes.
-
-### **Topics**
-
 1. **Climate Change Science (10 hours)**
 
     * Introduction to climate change science
@@ -142,13 +131,12 @@ This course broadens knowledge on fundamentals of climate change with respect to
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 16 |
-| 2 | 15 | 24 |
-| 3 | 8 | 15 |
-| 4 | 8 | 15 |
-| 5 | 4 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 16                  |
+| 2         | 15     | 24                  |
+| 3         | 8      | 15                  |
+| 4         | 8      | 15                  |
+| 5         | 4      | 10                  |
+| **Total** | **45** | **80**              |
 
-* There could be minor deviation in mark distribution. 

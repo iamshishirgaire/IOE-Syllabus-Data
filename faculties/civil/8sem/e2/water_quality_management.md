@@ -1,14 +1,3 @@
-## Syllabus
-
-**WATER  QUALITY MANAGEMENT**<br>
-**CE 76518**
-
-**Course Objectives:**
-
-To provide knowledge of aquatic ecology, water pollution, water quality standards, water quality assessment and its management.
-
-### **Course Outline**
-
 1. **Introduction (2 hours)**
    * Water resources and its usage including livelihood
    * Water cycle and water budget
@@ -98,14 +87,12 @@ To provide knowledge of aquatic ecology, water pollution, water quality standard
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 6 |
-| 2 | 4 | 8 |
-| 3 | 6 | 14 |
-| 4 | 14 | 20 |
-| 5 | 14 | 20 |
-| 6 | 5 | 12 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution. 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 6                   |
+| 2         | 4      | 8                   |
+| 3         | 6      | 14                  |
+| 4         | 14     | 20                  |
+| 5         | 14     | 20                  |
+| 6         | 5      | 12                  |
+| **Total** | **45** | **80**              |

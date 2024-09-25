@@ -1,11 +1,3 @@
-## Syllabus: Vehicle Dynamics
-
-**Course objectives:**
-
-To understand a foundation of engineering principles and analytical methods to explain the performance of an automotive vehicle, concerning acceleration performance, braking performance, aerodynamics and rolling resistance, ride, tire dynamics, suspension system, steerability, stability, cross country ability and smoothness running of an automotive vehicle.
-
-### Topics:
-
 1. **Fundamentals of a motor vehicle (4 hours)**
     * History of vehicle dynamics
     * Modeling of a vehicle
@@ -119,17 +111,12 @@ To understand a foundation of engineering principles and analytical methods to e
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Marks* |
-|---|---|
-| 1 & 2 | 16 |
-| 3, 4 & 5 | 16 |
-| 6 & 7 | 16 |
-| 8 & 9 | 16 |
-| 10, 11 & 12 | 16 |
-| **Total** | **80** |
+| Chapter     | Marks* |
+| ----------- | ------ |
+| 1 & 2       | 16     |
+| 3, 4 & 5    | 16     |
+| 6 & 7       | 16     |
+| 8 & 9       | 16     |
+| 10, 11 & 12 | 16     |
+| **Total**   | **80** |
 
-*There may be minor deviation in mark distribution.
-
-### Copyright:
-
-Copyright © 2021

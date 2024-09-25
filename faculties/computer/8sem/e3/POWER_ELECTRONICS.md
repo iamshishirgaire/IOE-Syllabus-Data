@@ -1,17 +1,3 @@
-## Syllabus
-
-**POWER ELECTRONICS**<br>
-**EE 785  07**
-
-**Course Objectives:**
-1. To get an overview of different types of power semi-conductor devices and their switching characteristics.
-2. To understand the operation, characteristics and performance parameters of controlled rectifiers.
-3. To study the operation, switching techniques and basic topologies of Choppers.
-4. To learn the different modulation techniques of pulse width modulated inverters and to understand the harmonic reduction methods.
-5. To study simple applications.
-
-### Syllabus
-
 1. **Power Semi-conductor Devices [9 hours]**
    * Introduction
    * Power Diodes
@@ -79,17 +65,12 @@ There should be experiments on:
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 9 | 16 |
-| 2 | 8 | 14 |
-| 3 | 11 | 20 |
-| 4 | 9 | 16 |
-| 5 | 8 | 14 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 9      | 16                  |
+| 2         | 8      | 14                  |
+| 3         | 11     | 20                  |
+| 4         | 9      | 16                  |
+| 5         | 8      | 14                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-***
-
-**Copyright © 2021** 

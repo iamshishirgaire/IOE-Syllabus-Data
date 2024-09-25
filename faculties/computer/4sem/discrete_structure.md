@@ -1,12 +1,3 @@
-# Syllabus
-
-## **DISCRETE STRUCTURE**
-
-**Course Objectives:**
-
-1. To gain knowledge in discrete mathematics and finite state automata in an algorithmic approach. 
-2. To gain fundamental and conceptual clarity in the area of Logic, Reasoning, Algorithms, Recurrence Relation, Graph Theory, and Theory of Automata.
-
 ### 1. **Logic, Induction and Reasoning (12 hours)**
 
 * Proposition and Truth function
@@ -67,14 +58,11 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 12 | 24 |
-| 2 | 10 | 16 |
-| 3 | 8 | 8 |
-| 4 | 15 | 32 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 12     | 24                  |
+| 2         | 10     | 16                  |
+| 3         | 8      | 8                   |
+| 4         | 15     | 32                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-## **Copyright&copy; 2021** 

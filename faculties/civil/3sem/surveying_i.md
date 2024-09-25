@@ -1,9 +1,3 @@
-## SURVEYING I
-
-**Objectives:**
-
-The objective of this course is to introduce civil engineering students with the basic knowledge of land measurement and surveying techniques. The overall course is designed to make the students able to learn and understand the theory and field procedure by applying suitable surveying methods to produce a map.
-
 **1. Introduction (2 hours)**
   * 1.1 History of Surveying
   * 1.2 Principle of surveying
@@ -100,17 +94,15 @@ The objective of this course is to introduce civil engineering students with the
 
 There will be questions covering all the chapters in the syllabus. The evaluation schemes for the question will be as indicated in the table below
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 6 | 12 |
-| 3 | 3 | 4 |
-| 4 | 7 | 16 |
-| 5 | 8 | 16 |
-| 6 | 3 | 4 |
-| 7 | 5 | 10 |
-| 8 | 4 | 6 |
-| 9 | 6 | 8 |
-| **Total** | **45** | **80** |
-
-* There may be minor deviation in marks distribution 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 6      | 12                  |
+| 3         | 3      | 4                   |
+| 4         | 7      | 16                  |
+| 5         | 8      | 16                  |
+| 6         | 3      | 4                   |
+| 7         | 5      | 10                  |
+| 8         | 4      | 6                   |
+| 9         | 6      | 8                   |
+| **Total** | **45** | **80**              |

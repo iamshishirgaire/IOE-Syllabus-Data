@@ -1,11 +1,3 @@
-## DESIGN OF REINFORCED CONCRETE STRUCTURES
-
-**Course Objective:**
-
-The purpose of this course is to provide students with knowledge and skills for designing various elements of a building structure using reinforced concrete. The course focuses on Limit State Methods of Design, where students will learn to apply the output of structural analysis to design different elements according to codal provisions and detailing of reinforcement. The course also covers key features of Seismic Building Code and provisions of ductile detailing in reinforced concrete structures.
-
-**Course Content:**
-
 1. **Concrete Structures and Design Methods [3 hours]**
     * Introduction to Reinforced Concrete Structures
     * Design methods of Reinforced Concrete Structures
@@ -116,20 +108,16 @@ Individual project to design elements of a low-rise building.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 4 | 4 |
-| 3 | 5 | 6 |
-| 4 | 6 | 12 |
-| 5/6/7 | 10 | 12 |
-| 8 | 6 | 6 |
-| 9 | 6 | 12 |
-| 10 | 8 | 12 |
-| 11 | 6 | 6 |
-| 12 | 6 | 6 |
-| **Total** | **60** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 4      | 4                   |
+| 3         | 5      | 6                   |
+| 4         | 6      | 12                  |
+| 5/6/7     | 10     | 12                  |
+| 8         | 6      | 6                   |
+| 9         | 6      | 12                  |
+| 10        | 8      | 12                  |
+| 11        | 6      | 6                   |
+| 12        | 6      | 6                   |
+| **Total** | **60** | **80**              |

@@ -1,16 +1,3 @@
-## Enterprise Application Design and Development
-
-**CT 785 04**
-
-### Course Objectives:
-
-1. Design and implementation of scalable enterprise applications.
-2. Introduction to problem-solving design patterns.
-3. Development of service-oriented solutions.
-4. Design and implementation of Rich Internet Applications.
-
-### Syllabus:
-
 1. **Introduction [3 hours]**
     * Enterprise Applications trends and Challenges
     * Application Architecture
@@ -53,17 +40,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 6 | 11 |
-| 3 | 4 | 7 |
-| 4 | 5 | 9 |
-| 5 | 9 | 16 |
-| 6 | 6 | 11 |
-| 7 | 12 | 21 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 6      | 11                  |
+| 3         | 4      | 7                   |
+| 4         | 5      | 9                   |
+| 5         | 9      | 16                  |
+| 6         | 6      | 11                  |
+| 7         | 12     | 21                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-### Copyright &copy; 2021

@@ -1,18 +1,3 @@
-## Syllabus
-
-**VEHICLE BODY ENGINEERING AND SAFETY<br>
-AM 76501**
-
-**Course objectives**
-
-At the end of the course, the students will be able to:
-
-1. Be familiar with vehicle body history
-2. Have a sound knowledge for the design of the vehicles body to give maximum comfort for the passengers and be exposed to the methods of streamlining the vehicles body to minimize drag.
-3. Understand safety requirements for vehicle body.
-
-**Course Content**
-
 1. **Introduction (4 hours)**
    - History and development of motor car body
    - Creation of a new design from concept to realization
@@ -101,15 +86,12 @@ At the end of the course, the students will be able to:
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Marks* |
-|---|---|
-| 1 & 7 | 16 |
-| 2 & 3 | 16 |
-| 4 | 16 |
-| 5 | 16 |
-| 6 & 8 | 16 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1 & 7     | 16     |
+| 2 & 3     | 16     |
+| 4         | 16     |
+| 5         | 16     |
+| 6 & 8     | 16     |
 | **Total** | **80** |
 
-*There may be minor deviation in mark distribution
-
-**Copyright © 2021**

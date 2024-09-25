@@ -1,18 +1,3 @@
-## Syllabus
-
-**ENGINE COMBUSTION AND POLLUTION CONTROL**
-
-**Course objective**
-
-At the end of the course, the student shall be able to understand:
-
-1. Actual cycle process and its calculation
-2. Various performance characteristics
-3. Nature of air pollutants produced by automobile vehicles and its effect on health and environment
-4. Methods of emission control, emission control devices
-
-**Syllabus**
-
 1. **Fuels and its chemical reaction in combustion (5 hours)** 
    * Fuel structure and composition
    * Properties of fuel
@@ -116,15 +101,12 @@ At the end of the course, the student shall be able to understand:
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Marks* |
-|---|---|
-| 1 & 2 | 16 |
-| 3 & 4 | 16 |
-| 5 & 6 | 16 |
-| 7 & 8 | 16 |
-| 9 & 10 | 16 |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1 & 2     | 16     |
+| 3 & 4     | 16     |
+| 5 & 6     | 16     |
+| 7 & 8     | 16     |
+| 9 & 10    | 16     |
 | **Total** | **80** |
 
-*There may be minor deviation in mark distribution
-
-**Copyright &copy; 2021**

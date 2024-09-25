@@ -1,16 +1,3 @@
-## Syllabus - Contemporary Architecture
-
-**Course Objective:**
-
-An introductory survey of the history of Architecture and Urbanism in the context of rapidly changing Technologies and Social circumstances of the last 120 years.
-
-* To have a knowledge of the History of Modern Architecture and understanding the formal, philosophical, Social, technical and economic background of the important Architectural directions in a global context.
-* To compare the different stages of Development of Architecture on Related planning by Individual Architects of the 19th to 20th Century.
-* To understand Buildings/Structure as expressions of formal ideological in terms of new materials and technology.
-* To show the interest in the Culture and ideological meaning of Buildings/Structures.
-
-**Course Detail:**
-
 1. **Introductory Looking of Contemporary Architecture after the _Industrial Revolution_ with respect to new Building methods & technology of construction and its influences prevailing Architectural style of the world (2 hours)**
 2. **Romanticism in Architecture and Expressionism in Architecture (4 hours)**
 3. **Expression of Architects of BAUHAUS Movement and International Style - Walter Groupies, Mies Van de Rohe and Hanees Meyer (6 hours)**
@@ -63,15 +50,11 @@ An introductory survey of the history of Architecture and Urbanism in the contex
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 2, 3 | 12 | 16 |
-| 4, 5, 6 | 12 | 16 |
-| 7, 8, 9, 10 | 12 | 16 |
-| 11 | 16 | 16 |
-| 12 | 8 | 16 |
-| **Total** | **60** | **80** |
-
-*There may be minor deviation in marks distribution
-
-**Copyright &copy; 2021** 
+| Chapters    | Hours  | Marks Distribution* |
+| ----------- | ------ | ------------------- |
+| 1, 2, 3     | 12     | 16                  |
+| 4, 5, 6     | 12     | 16                  |
+| 7, 8, 9, 10 | 12     | 16                  |
+| 11          | 16     | 16                  |
+| 12          | 8      | 16                  |
+| **Total**   | **60** | **80**              |

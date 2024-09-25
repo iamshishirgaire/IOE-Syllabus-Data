@@ -1,11 +1,3 @@
-## Syllabus: ROCK MECHANICS (CE 76511)
-
-**Course Objectives:**
-
-The objective of this course is to provide students with the concepts and tools used in geotechnical engineering. This course covers advanced techniques not addressed in soil mechanics and foundation engineering courses.
-
-**Syllabus:**
-
 1. **Scope of Rock Mechanics (2 hours)**
 2. **Nature of Rocks (2 hours)**
 3. **Classification and Index Properties of Rocks (4 hours)**
@@ -87,19 +79,16 @@ The objective of this course is to provide students with the concepts and tools 
 
 **Evaluation Scheme:**
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 2 | 4 |
-| 3 | 4 | 8 |
-| 4 | 7 | 12 |
-| 5 | 7 | 12 |
-| 6 | 4 | 8 |
-| 7 | 5 | 10 |
-| 8 | 8 | 12 |
-| 9 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 2      | 4                   |
+| 3         | 4      | 8                   |
+| 4         | 7      | 12                  |
+| 5         | 7      | 12                  |
+| 6         | 4      | 8                   |
+| 7         | 5      | 10                  |
+| 8         | 8      | 12                  |
+| 9         | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviations in mark distribution.
-
-**Copyright&copy; 2021** 

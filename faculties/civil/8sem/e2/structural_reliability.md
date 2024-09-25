@@ -1,11 +1,3 @@
-## Syllabus - Structural Reliability (CE 76506)
-
-**Course Objectives:**
-
-The objective of this course is to provide knowledge of probabilistic design of civil engineering structures. This course includes the fundamentals of statistics and its application to civil engineering.
-
-### Topics:
-
 1. **Basic Statistics (8 hours)**
    - Introduction
    - Probability theory
@@ -74,16 +66,11 @@ There shall be related practical assignments.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 10 |
-| 2 | 10 | 15 |
-| 3 | 12 | 25 |
-| 4 | 15 | 30 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 10                  |
+| 2         | 10     | 15                  |
+| 3         | 12     | 25                  |
+| 4         | 15     | 30                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-### Copyright:
-
-Copyright © 2021 

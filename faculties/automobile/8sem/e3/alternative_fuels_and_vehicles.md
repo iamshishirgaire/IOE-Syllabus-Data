@@ -1,15 +1,3 @@
-# Syllabus
-
-## Alternative Fuels and Vehicles
-### AM 78501
-
-**Course Objective**
-
-* To update knowledge on various alternate fuels for IC engines.
-* To enable students to understand recent developments in alternative fuel vehicles.
-
-## Syllabus
-
 1. **Conventional Fuels (4 hours)**
     * Comparative properties of fuels: diesel and gasoline
     * Quality rating of SI and CI engine fuels
@@ -87,15 +75,12 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Topics | Marks* |
-|---|---|---|
-| 1 & 2 | All | 16 |
-| 3 | All | 16 |
-| 5 & 6 | All | 16 |
-| 4 & 7 | 4 all & 7.7 to 7.10 | 16 |
-| 7 | 7.1 to 7.6 | 16 |
-| **Total** |  | **80** |
+| Chapter   | Topics              | Marks* |
+| --------- | ------------------- | ------ |
+| 1 & 2     | All                 | 16     |
+| 3         | All                 | 16     |
+| 5 & 6     | All                 | 16     |
+| 4 & 7     | 4 all & 7.7 to 7.10 | 16     |
+| 7         | 7.1 to 7.6          | 16     |
+| **Total** |                     | **80** |
 
-*There may be minor deviation in mark distribution*
-
-Copyright&copy; 2021

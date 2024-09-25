@@ -1,12 +1,3 @@
-## CONSTRUCTION SAFETY MANAGEMENT
-### CE 78502
-
-**Course Objectives:**
-
-To provide basic knowledge on accidents and their impacts on construction; safety legislations and rules to be followed in construction; site safety practices to be followed during construction practices; human factors; ergonomics and cost of accidents and make aware on role of various parties for site safety management.
-
-### Syllabus
-
 1. **Introduction (3 hours)**
     * Accidents
     * Nature and Causes of Accidents
@@ -115,24 +106,19 @@ Minimum of one day Field Visit of Construction Projects to observe site safety p
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 4 | 6 |
-| 3 | 4 | 8 |
-| 4 | 4 | 8 |
-| 5 | 6 | 10 |
-| 6 | 4 | 8 |
-| 7 | 3 | 5 |
-| 8 | 3 | 5 |
-| 9 | 2 | 3 |
-| 10 | 4 | 5 |
-| 11 | 4 | 8 |
-| 12 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 4      | 6                   |
+| 3         | 4      | 8                   |
+| 4         | 4      | 8                   |
+| 5         | 6      | 10                  |
+| 6         | 4      | 8                   |
+| 7         | 3      | 5                   |
+| 8         | 3      | 5                   |
+| 9         | 2      | 3                   |
+| 10        | 4      | 5                   |
+| 11        | 4      | 8                   |
+| 12        | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-### Copyright
-
-Copyright&copy; 2021 

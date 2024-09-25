@@ -1,13 +1,3 @@
-## Syllabus
-
-**DRAFTING – I**
-
-**Course Objective:**
-
-To familiarize with the use of drafting instrument and introduce drawings by the exercises through the concepts and principles of orthographic and parallel projection to develop drafting skill.
-
-### **Course Content:**
-
 1. **Preliminary drawing skill (6 hours)**
     * Introduction of drawing and its classification:
         * Artistic drawing
@@ -67,32 +57,32 @@ To familiarize with the use of drafting instrument and introduce drawings by the
 
 ### **PRACTICAL:**
 
-| S. No. | Title | Qty. | Hour | Total Marks |
-|---|---|---|---|---|
-| 1. | Name plate with border line & hatching line. | 1 |  |  |
-| 2. | Formation of lines. | 1 |  |  |
-| 3. | Different types of lettering on proportional base. | 1 |  |  |
-| 4. | Convection for lines, materials and textures. | 2 |  |  |
-| 5. | Exercises on different scales of geometrical figures and building drawings. | 1 |  |  |
-| 6. | Exercises on different system of dimensions of geometrical figures and building drawings. | 1 |  |  |
-| 7. | Exercises on geometrical construction of point, line bisection, perpendicular line, parallel line, trisection of line, bisection and trisection of angle etc. | 2 |  |  |
-| 8. | Exercises on inscribing and describing of circle about a triangle, square and polygon etc. | 2 |  |  |
-| 9. | Exercises on construction of square, different types of polygons, external and internal tangents, arc tangents, special curves, conical sections and other geometrical constructions if needed. | 2 |  |  |
-| 10. | Exercises on tracing of geometrical and building drawings in pencil and ink medium. | 1 | 18 hours |  |
-| 11. | Exercises on orthographic and pictorial and planes in 1st and 3rd angle projection. | 2 |  |  |
-| 12. | Exercises on orthographic and pictorial projection of solid figures. | 2 |  |  |
-| 13. | Exercises on orthographic projection of point and lines on the surface of solid figures. | 1 | 12 hours |  |
-| 14. | Exercises on orthographic projection of three dimensional figures in 1st and 3rd angle projection. (Conversion of isometric drawing into orthographic projection.) | 1 |  |  |
-| 15. | Exercises on isometric drawing and projection of different types of block models in 1st angle projection and 3rd angle projection if needed. (Conversion of orthographic views into isometric drawings.) | 2 |  |  |
-| 16. | Exercises on axonometric projections (45°- 45°, 30°- 60°) of geometrical and building drawings. | 2 | 6 hours |  |
-| 17. | Exercises on auxiliary types of view. | 1 |  |  |
-| 18. | Exercises on sectional type of view. | 2 |  |  |
-| 19. | Exercises on orthographic projection of different types of section of Geometric solids. | 6 |  |  |
-| 20. | Exercise on orthographic projection of intersection or interpenetration of different solids (prism by prism, cylinder by cylinder, cone by cylinder, cone by prism and others if needed). | 1 |  |  |
-| 21. | Exercises on development of surfaces of different solids. (Cube, prism, cylinder, cone, pyramid, sphere and other if needed.) | 2 | 9 hours |  |
-|  | **Total** | 36 | 45 hours | 80 |
-|  | Internal Assessment (4 hours) | - | - | 20 |
-|  | **Grand Total** | - | - | 100 |
+| S. No. | Title                                                                                                                                                                                                    | Qty. | Hour     | Total Marks |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -------- | ----------- |
+| 1.     | Name plate with border line & hatching line.                                                                                                                                                             | 1    |          |             |
+| 2.     | Formation of lines.                                                                                                                                                                                      | 1    |          |             |
+| 3.     | Different types of lettering on proportional base.                                                                                                                                                       | 1    |          |             |
+| 4.     | Convection for lines, materials and textures.                                                                                                                                                            | 2    |          |             |
+| 5.     | Exercises on different scales of geometrical figures and building drawings.                                                                                                                              | 1    |          |             |
+| 6.     | Exercises on different system of dimensions of geometrical figures and building drawings.                                                                                                                | 1    |          |             |
+| 7.     | Exercises on geometrical construction of point, line bisection, perpendicular line, parallel line, trisection of line, bisection and trisection of angle etc.                                            | 2    |          |             |
+| 8.     | Exercises on inscribing and describing of circle about a triangle, square and polygon etc.                                                                                                               | 2    |          |             |
+| 9.     | Exercises on construction of square, different types of polygons, external and internal tangents, arc tangents, special curves, conical sections and other geometrical constructions if needed.          | 2    |          |             |
+| 10.    | Exercises on tracing of geometrical and building drawings in pencil and ink medium.                                                                                                                      | 1    | 18 hours |             |
+| 11.    | Exercises on orthographic and pictorial and planes in 1st and 3rd angle projection.                                                                                                                      | 2    |          |             |
+| 12.    | Exercises on orthographic and pictorial projection of solid figures.                                                                                                                                     | 2    |          |             |
+| 13.    | Exercises on orthographic projection of point and lines on the surface of solid figures.                                                                                                                 | 1    | 12 hours |             |
+| 14.    | Exercises on orthographic projection of three dimensional figures in 1st and 3rd angle projection. (Conversion of isometric drawing into orthographic projection.)                                       | 1    |          |             |
+| 15.    | Exercises on isometric drawing and projection of different types of block models in 1st angle projection and 3rd angle projection if needed. (Conversion of orthographic views into isometric drawings.) | 2    |          |             |
+| 16.    | Exercises on axonometric projections (45°- 45°, 30°- 60°) of geometrical and building drawings.                                                                                                          | 2    | 6 hours  |             |
+| 17.    | Exercises on auxiliary types of view.                                                                                                                                                                    | 1    |          |             |
+| 18.    | Exercises on sectional type of view.                                                                                                                                                                     | 2    |          |             |
+| 19.    | Exercises on orthographic projection of different types of section of Geometric solids.                                                                                                                  | 6    |          |             |
+| 20.    | Exercise on orthographic projection of intersection or interpenetration of different solids (prism by prism, cylinder by cylinder, cone by cylinder, cone by prism and others if needed).                | 1    |          |             |
+| 21.    | Exercises on development of surfaces of different solids. (Cube, prism, cylinder, cone, pyramid, sphere and other if needed.)                                                                            | 2    | 9 hours  |             |
+|        | **Total**                                                                                                                                                                                                | 36   | 45 hours | 80          |
+|        | Internal Assessment (4 hours)                                                                                                                                                                            | -    | -        | 20          |
+|        | **Grand Total**                                                                                                                                                                                          | -    | -        | 100         |
 
 ### **Reference:**
 
@@ -104,6 +94,3 @@ To familiarize with the use of drafting instrument and introduce drawings by the
 6. F.E. Giescke, A. Mitchell, and others *Technical Drawing*
 7. T.E. French, C.J. Vierck and R.J. Foster *Engineering Drawing Graphic Technology*
 
-### **Copyright:**
-
-Copyright © 2021 

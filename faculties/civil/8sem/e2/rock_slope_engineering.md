@@ -1,12 +1,3 @@
-# Syllabus
-
-## **ROCK SLOPE ENGINEERING<br>CE 76507**
-
-**Course Objectives:** <br>
-The objective of the course is to contribute to the safe and economic designs of excavation and embankments in hilly areas. Other objectives are: to determine the slope sensitivity to different triggering mechanism and to test and compare different support and stabilization options.
-
-## Topics Covered:
-
 1. **Principles for Rock Slope Stability Analysis** **(2 hours)** 
    * Introduction
    * Definitions and Aims of Slope Stability Analysis
@@ -78,21 +69,15 @@ The objective of the course is to contribute to the safe and economic designs of
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 5 | 8 |
-| 3 | 2 | 4 |
-| 4 | 6 | 10 |
-| 5 | 2 | 4 |
-| 6 | 6 | 10 |
-| 7 | 6 | 10 |
-| 8 | 12 | 22 |
-| 9 | 4 | 8 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-## Copyright
-
-Copyright © 2021
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 5      | 8                   |
+| 3         | 2      | 4                   |
+| 4         | 6      | 10                  |
+| 5         | 2      | 4                   |
+| 6         | 6      | 10                  |
+| 7         | 6      | 10                  |
+| 8         | 12     | 22                  |
+| 9         | 4      | 8                   |
+| **Total** | **45** | **80**              |

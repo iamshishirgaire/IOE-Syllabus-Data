@@ -1,9 +1,3 @@
-## Syllabus: Structures III - Design of Structural Components
-
-**Course Objective:** To understand the basic design procedures and calculations for simple structural components in Timber, Steel, and Concrete.
-
-**Course Topics:**
-
 1. **Introduction to Foundation Engineering (6 hours)**
    - Nomenclature of different soil types
    - Basic physical properties of soils
@@ -60,16 +54,13 @@
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 6 | 12 |
-| 2 | 4 | 6 |
-| 3 | 6 | 12 |
-| 4 | 4 | 6 |
-| 5 | 10 | 18 |
-| 6 | 14 | 26 |
-| **Total** | **44** | **80** |
+| Chapters  | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 6      | 12                   |
+| 2         | 4      | 6                    |
+| 3         | 6      | 12                   |
+| 4         | 4      | 6                    |
+| 5         | 10     | 18                   |
+| 6         | 14     | 26                   |
+| **Total** | **44** | **80**               |
 
-\*There may be minor deviations in marks distribution.
-
-**Copyright © 2021**

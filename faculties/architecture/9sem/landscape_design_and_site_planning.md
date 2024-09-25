@@ -1,11 +1,3 @@
-## LANDSCAPE DESIGN & SITE PLANNING
-
-**Course Objective:** 
-
-To familiarize the subject of Landscape design and site planning and make students capable of applying the knowledge of the subject in their project works.
-
-### Course Content
-
 1. **Introduction to Landscape Architecture. [6 hours]**
     * Landscape Elements
         * Hard Landscape Elements
@@ -70,15 +62,11 @@ To familiarize the subject of Landscape design and site planning and make studen
 
 ### Evaluation Scheme
 
-| Units | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 6 | 8 |
-| 3 | 6 | 8 |
-| 4 | 6 | 8 |
-| 5, 6 | 6 | 8 |
-| **Total** | **30** | **40** |
-
-**\*There may be minor deviation in marks distribution**
-
-**Copyright © 2021** 
+| Units     | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 8                   |
+| 2         | 6      | 8                   |
+| 3         | 6      | 8                   |
+| 4         | 6      | 8                   |
+| 5, 6      | 6      | 8                   |
+| **Total** | **30** | **40**              |

@@ -1,7 +1,3 @@
-## Syllabus
-
-**AUTOMOBILE CHASSIS AND BODY SYSTEM**
-
 **Introduction (2 hours)**
 
 * General introduction of chassis and body system
@@ -100,13 +96,12 @@
 
 There will be questions covering the chapters of the syllabus. The evaluation scheme is as indicated in the table below.
 
-| Chapter | Topics | Marks |
-|---|---|---|
-| 1 & 4 | All | 16 |
-| 2 | 2.1, 2.2 & 2.3 | 16 |
-| 2 | 2.4, 2.5 & 2.6 | 16 |
-| 3 | All | 16 |
-| 5 & 6 | All | 16 |
-| **Total** | | **80** | 
+| Chapter   | Topics         | Marks  |
+| --------- | -------------- | ------ |
+| 1 & 4     | All            | 16     |
+| 2         | 2.1, 2.2 & 2.3 | 16     |
+| 2         | 2.4, 2.5 & 2.6 | 16     |
+| 3         | All            | 16     |
+| 5 & 6     | All            | 16     |
+| **Total** |                | **80** |
 
-**Copyright © 2021** 

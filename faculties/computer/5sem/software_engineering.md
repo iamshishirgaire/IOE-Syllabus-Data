@@ -1,13 +1,3 @@
-## Syllabus
-
-**SOFTWARE ENGINEERING**
-
-**Course Objectives:** 
-
-This course provides a systematic approach towards planning, development, implementation, and maintenance of systems. It also helps in developing software projects.
-
-### Topics Covered
-
 1. **Software Process and Requirements (12 hours)**
     * Software crisis
     * Software characteristics
@@ -107,22 +97,17 @@ Guest lectures from software industry professionals will be included in the prac
 
 The questions will cover all chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 12 | 20 |
-| 2 | 3 | 5 |
-| 3 | 6 | 10 |
-| 4 | 3 | 5 |
-| 5 | 3 | 5 |
-| 6 | 2 | 3 |
-| 7 | 5 | 10 |
-| 8 | 4 | 8 |
-| 9 | 5 | 10 |
-| 10 | 2 | 4 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 12     | 20                  |
+| 2         | 3      | 5                   |
+| 3         | 6      | 10                  |
+| 4         | 3      | 5                   |
+| 5         | 3      | 5                   |
+| 6         | 2      | 3                   |
+| 7         | 5      | 10                  |
+| 8         | 4      | 8                   |
+| 9         | 5      | 10                  |
+| 10        | 2      | 4                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
----
-
-#### Copyright © 2021 

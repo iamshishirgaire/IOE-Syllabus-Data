@@ -1,11 +1,3 @@
-## Syllabus: Structural Dynamics (CE 72501)
-
-**Course Objectives:**
-
-To provide fundamental concepts of structural dynamics, the dynamic behavior of structures, and the underlying principles needed to address dynamic problems in structures.
-
-### Course Outline:
-
 1. **Introduction (4 hours)**
     * Time Dependent Problems
     * Types of Dynamic Loading
@@ -84,16 +76,11 @@ To provide fundamental concepts of structural dynamics, the dynamic behavior of 
 * Questions will cover all chapters in the syllabus.
 * The evaluation scheme is as follows:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 12 | 24 |
-| 3 | 14 | 28 |
-| 4 | 7 | 12 |
-| 5 | 8 | 12 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviations in mark distribution.
-
----
-Copyright © 2021
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 12     | 24                  |
+| 3         | 14     | 28                  |
+| 4         | 7      | 12                  |
+| 5         | 8      | 12                  |
+| **Total** | **45** | **80**              |

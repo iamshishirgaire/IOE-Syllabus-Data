@@ -1,11 +1,3 @@
-## Syllabus: System Design and Simulation (AM 78503)
-
-**Course Objective:** 
-
-To integrate knowledge of Statics, Dynamics, Strength of Materials, Mechanics of Solids, Engineering Materials, and Machine Component Design into the system design of machines, mechanisms, and structures. To familiarize students with the fundamentals of the system design and simulation process, with a focus on the design of common machine and structure elements.
-
-**Course Outline:**
-
 1. **Review of Matrix Algebra and Finite Element Method (1 hour)**
     * Basic operations, solution methods, eigenvalues and eigenvectors
     * Nodes & elements, modelling fundamentals, computational steps, and Formulation of Finite Element Equations
@@ -110,15 +102,12 @@ To integrate knowledge of Statics, Dynamics, Strength of Materials, Mechanics of
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter  | Marks*  |
-|---------|---------|
-| 1, 2 & 7 | 16      |
-| 3, 4 & 5 | 16      |
-| 6, 8 & 13| 16      |
-| 9 & 10   | 16      |
-| 11 & 12  | 16      |
-| **Total** | **80**   |
+| Chapter   | Marks* |
+| --------- | ------ |
+| 1, 2 & 7  | 16     |
+| 3, 4 & 5  | 16     |
+| 6, 8 & 13 | 16     |
+| 9 & 10    | 16     |
+| 11 & 12   | 16     |
+| **Total** | **80** |
 
-*There might be minor deviation in marks distribution.
-
-**Copyright © 2021** 

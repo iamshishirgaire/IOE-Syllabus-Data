@@ -1,17 +1,3 @@
-# Syllabus
-
-## ROPEWAY ENGINEERING
-### CE 72510
-
-**Course Objectives:**
-
-* To introduce ropeway transport, types of ropeway and their components.
-* To make acquainted with the planning, analysis, design and construction of aerial and surface ropeway for passengers.
-* To make capable to plan, analyse, design and construct gravity ropeway for goods.
-
-
-### Course Outline
-
 * **Introduction (2 hours)**
     * Historical Background of Ropeway Transport
     * Ropeway in Nepal
@@ -81,15 +67,14 @@ Two days visit to ropeway sites, fabricators' workshops, implementing agencies o
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 6 |
-| 2 | 3 | 6 |
-| 3 | 5 | 8 |
-| 4 | 20 | 40 |
-| 5 | 2 | 6 |
-| 6 | 9 | 14 |
-| 7 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 6                   |
+| 2         | 3      | 6                   |
+| 3         | 5      | 8                   |
+| 4         | 20     | 40                  |
+| 5         | 2      | 6                   |
+| 6         | 9      | 14                  |
+| 7         | 4      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution. 

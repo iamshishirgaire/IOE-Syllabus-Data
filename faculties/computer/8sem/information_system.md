@@ -1,9 +1,3 @@
-## Syllabus - INFORMATION SYSTEMS
-
-**Course Objectives:**
-
-To introduce and apply the knowledge of computer based information systems. It also provides the concept to the student in designing and setting up complex information systems.
-
 ### 1. Information System (3 hours)
 
 * Classification and evolution of IS
@@ -100,20 +94,15 @@ The practical exercise shall include following three types of projects on design
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 8 | 14 |
-| 3 | 4 | 8 |
-| 4 | 7 | 12 |
-| 5 | 3 | 5 |
-| 6 | 3 | 5 |
-| 7 | 8 | 14 |
-| 8 | 8 | 14 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 8      | 14                  |
+| 3         | 4      | 8                   |
+| 4         | 7      | 12                  |
+| 5         | 3      | 5                   |
+| 6         | 3      | 5                   |
+| 7         | 8      | 14                  |
+| 8         | 8      | 14                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
-
-***
-
-**Copyright © 2021** 

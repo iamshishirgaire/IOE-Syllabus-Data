@@ -1,11 +1,3 @@
-## Instrumentation and Measurement
-
-**Course Objective:**
-
-To be familiar with mechanical Measurement System. To model and analyze the response of different sensors and systems. 
-
-### Syllabus
-
 1. **Fundamentals of Measurement (3 hours)**
    - Fundamental Methods of Measurements 
    - The Generalized Measurement System
@@ -76,19 +68,15 @@ To be familiar with mechanical Measurement System. To model and analyze the resp
 
 The questions will cover all the chapters of the syllabus. 
 
-| Chapters | Hours | Mark distribution * |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 3 | 5 |
-| 3 | 4 | 8 |
-| 4 | 10 | 18 |
-| 5 | 8 | 14 |
-| 6 | 8 | 14 |
-| 7 | 9 | 16 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Mark distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 3      | 5                   |
+| 3         | 4      | 8                   |
+| 4         | 10     | 18                  |
+| 5         | 8      | 14                  |
+| 6         | 8      | 14                  |
+| 7         | 9      | 16                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution. 
 
-### Copyright 
-
-Copyright © 2021

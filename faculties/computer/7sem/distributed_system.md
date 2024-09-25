@@ -1,11 +1,3 @@
-# Syllabus
-
-## Distributed System
-
-**Course Objective:**
-
-The objective of the course is to be familiar with different aspects of the distributed system, middleware, system-level support, and different issues in designing distributed algorithms.
-
 **Description:**
 
 A Distributed System is often described as a collection of logically related data distributed over different processing nodes of a computer network. It's a collection of independent computers that appear to the users of the system as a single computer. A distributed system is one in which hardware or software components located at networked computers communicate and coordinate their actions only by message passing.
@@ -142,20 +134,14 @@ A Distributed System is often described as a collection of logically related dat
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 7 | 16 |
-| 5 | 5 | 8 |
-| 6 | 4 | 8 |
-| 7 | 4 | 8 |
-| 8 | 6 | 8 |
-| 9 | 4 | 8 |
-| 3,4,10 | 11 | 16 |
-| **Total** | **45** | **80** |
-
-***There may be minor deviation in marks distribution***
-
-## Copyright
-
-Copyright&copy; 2021
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 7      | 16                  |
+| 5         | 5      | 8                   |
+| 6         | 4      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 6      | 8                   |
+| 9         | 4      | 8                   |
+| 3,4,10    | 11     | 16                  |
+| **Total** | **45** | **80**              |

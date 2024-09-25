@@ -1,14 +1,3 @@
-# Syllabus
-
-## **MULTIMEDIA SYSTEM**
-**CT 785  03**
-
-### **Course Objectives:**
-
-This course covers three main objectives on multimedia systems: devices, systems, and applications. 
-
-### **Syllabus:**
-
 1. **Introduction (5 hours)**
     * Global Structure of Multimedia
     * Medium
@@ -71,18 +60,14 @@ This course covers three main objectives on multimedia systems: devices, systems
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 9 |
-| 2 | 6 | 10 |
-| 3 | 5 | 9 |
-| 4 | 6 | 11 |
-| 5 | 8 | 14 |
-| 6 | 5 | 9 |
-| 7 | 5 | 9 |
-| 8 | 5 | 9 |
-| **Total** | **45** | **80** |
-
-*There could be a minor deviation in Marks distribution.
-
-### **Copyright &copy; 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 9                   |
+| 2         | 6      | 10                  |
+| 3         | 5      | 9                   |
+| 4         | 6      | 11                  |
+| 5         | 8      | 14                  |
+| 6         | 5      | 9                   |
+| 7         | 5      | 9                   |
+| 8         | 5      | 9                   |
+| **Total** | **45** | **80**              |

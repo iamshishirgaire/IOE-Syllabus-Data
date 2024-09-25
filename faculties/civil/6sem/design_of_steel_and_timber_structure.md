@@ -1,10 +1,3 @@
-## Syllabus: Design of Steel and Timber Structures
-
-**Course Objective:**
-
-1. To enable students to design ordinary steel and timber structures.
-2. To prepare students for advanced knowledge on the design of complex steel and timber structures.
-
 **PART A: STEEL STRUCTURES**
 
 1. **Steel Structures and their Analysis and Design [4 hours]**
@@ -107,22 +100,19 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 4 |
-| 2 | 2 | 4 |
-| 3 | 3 | 4 |
-| 4 | 10 | 12 |
-| 5 | 4 | 6 |
-| 6 | 10 | 12 |
-| 7 | 13 | 14 |
-| 8 | 4 | 6 |
-| 9 | 2 | 4 |
-| 10 | 2 | 4 |
-| 11 | 3 | 6 |
-| 12 | 3 | 4 |
-| **Total** | **60** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 4                   |
+| 2         | 2      | 4                   |
+| 3         | 3      | 4                   |
+| 4         | 10     | 12                  |
+| 5         | 4      | 6                   |
+| 6         | 10     | 12                  |
+| 7         | 13     | 14                  |
+| 8         | 4      | 6                   |
+| 9         | 2      | 4                   |
+| 10        | 2      | 4                   |
+| 11        | 3      | 6                   |
+| 12        | 3      | 4                   |
+| **Total** | **60** | **80**              |
 
-* There may be minor variation in marks distribution
-
-**Copyright © 2021** 

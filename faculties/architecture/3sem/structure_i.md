@@ -1,11 +1,3 @@
-## Syllabus
-
-**STRUCTURE I**
-
-**Course Objective:** To understand the internal effects of loads and actions, simple stresses and strains. 
-
-###  
-
 1. **Introduction (4 hours)**
    * Rigid bodies and deformable bodies
    * Mechanics of materials - study of deformable bodies
@@ -113,19 +105,13 @@
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 6 | 10 |
-| 3 | 6 | 12 |
-| 4 | 6 | 12 |
-| 5, 6, and 7 | 9 | 15 |
-| 8 | 8 | 15 |
-| 9 | 6 | 8 |
-| **Total** | **44** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-###  
-
-**Copyright &copy; 2021**
+| Chapters    | Hours  | Marks Distribution* |
+| ----------- | ------ | ------------------- |
+| 1           | 4      | 8                   |
+| 2           | 6      | 10                  |
+| 3           | 6      | 12                  |
+| 4           | 6      | 12                  |
+| 5, 6, and 7 | 9      | 15                  |
+| 8           | 8      | 15                  |
+| 9           | 6      | 8                   |
+| **Total**   | **44** | **80**              |

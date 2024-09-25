@@ -1,14 +1,3 @@
-# Syllabus
-
-## GEOTECHNICAL EARTHQUAKE ENGINEERING 
-**CE 76503**
-
-**Course Objective:**
-
-The knowledge of geotechnical aspect of earthquake engineering is very essential of civil engineering structures. Seismic considerations are a significant factor in the design of much of the infrastructure in seismically active countries like Nepal. This course combines the fundamental ideas learned in the previous introductory engineering geology with seismology and design aspect of earthquakes, and applies these ideas in analyzing and understanding the seismic effects on soil structures. Various concepts, theories and practices of modern geotechnical earthquake engineering will be introduced. ln this course, the student will get an overall view of the nature of seismic hazards, the methods used to assess their impacts on society and the techniques available to mitigate their damaging effects.
-
-## Topics:
-
 1. **Introduction (5 hours)** 
     * Mechanics and classification of earthquakes
     * Seismic hazard
@@ -108,19 +97,13 @@ The knowledge of geotechnical aspect of earthquake engineering is very essential
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 8 |
-| 2 | 6 | 10 |
-| 3 | 8 | 15 |
-| 4 | 8 | 15 |
-| 5 | 8 | 15 |
-| 6 | 6 | 10 |
-| 7 | 4 | 7 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-## Copyright
-
-Copyright © 2021 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 8                   |
+| 2         | 6      | 10                  |
+| 3         | 8      | 15                  |
+| 4         | 8      | 15                  |
+| 5         | 8      | 15                  |
+| 6         | 6      | 10                  |
+| 7         | 4      | 7                   |
+| **Total** | **45** | **80**              |

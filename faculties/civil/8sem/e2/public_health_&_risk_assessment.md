@@ -1,14 +1,3 @@
-## Syllabus
-
-### **PUBLIC HEALTH AND RISK ASSESSMENT**
-### **CE 76520**
-
-**Course Objectives:**
-
-This course broadens and deepens the concept of epidemiological studies and methodology, with a focus on environmental transmission. The students will work on cases related to diarrhoeal, parasitic and vector-borne diseases. The students will learn and be able to apply the Quantitative Microbial Risk Assessment (QMRA) concept. The students will be able to apply their knowledge in field projects as well as in system-based management applications.
-
-### **Topics:**
-
 1. **Fundamentals of Epidemiology** (5 hours)
     - Infectious and noninfectious diseases
     - Infectious disease transmission routes
@@ -86,15 +75,11 @@ This course broadens and deepens the concept of epidemiological studies and meth
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 16 |
-| 2 | 15 | 24 |
-| 3 | 8 | 15 |
-| 4 | 8 | 15 |
-| 5 | 4 | 10 |
-| **Total** | **45** | **80** |
-
-*There could be minor deviation in mark distribution.
-
-### **Copyright © 2021** 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 16                  |
+| 2         | 15     | 24                  |
+| 3         | 8      | 15                  |
+| 4         | 8      | 15                  |
+| 5         | 4      | 10                  |
+| **Total** | **45** | **80**              |
