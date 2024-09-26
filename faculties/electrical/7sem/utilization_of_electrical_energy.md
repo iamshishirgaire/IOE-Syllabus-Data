@@ -1,11 +1,3 @@
-# Syllabus: Utilization of Electrical Energy
-
-## Course Objectives:
-
-To present the basic concepts of utilization of electrical energy in various applications.
-
-## Course Content:
-
 1. **Introduction** [4 hours]
    - Common uses of electrical energy: Domestic, commercial, industrial
    - Classification of electrical consumers and their demand
@@ -71,14 +63,13 @@ To present the basic concepts of utilization of electrical energy in various app
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 8 | 16 |
-| 3 | 12 | 16 |
-| 4 | 8 | 16 |
-| 5 | 6 | 8 |
-| 6 | 8 | 16 |
-| **Total** | **46** | **80** |
+| Chapter   | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 4      | 8                    |
+| 2         | 8      | 16                   |
+| 3         | 12     | 16                   |
+| 4         | 8      | 16                   |
+| 5         | 6      | 8                    |
+| 6         | 8      | 16                   |
+| **Total** | **46** | **80**               |
 
-\*There may be minor deviation in marks distribution. 

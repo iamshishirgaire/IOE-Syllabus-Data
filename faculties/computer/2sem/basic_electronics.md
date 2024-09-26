@@ -4,7 +4,7 @@
     * Superposition theorem, Thevenin's theorem, Norton's theorem
     * Introduction to Filter
 
-<br>
+
 
 2. **Diodes(7 hours)**
     * Semiconductor Diode Characteristics
@@ -13,7 +13,7 @@
     * Zener diode, LED, Photodiode, Varacters diode, Tunnel diodes
     * DC power supply: Rectifier; Half wave, Full wave(center-tapped, bridge), Zener-regulated power supply
 
-<br>
+
 
 3. **Transistor(4 hours)**
     * BJT configuration and biasing, small and large signal model
@@ -23,14 +23,14 @@
     * Construction and working principle of MOSFET and CMOS
     * MOSFET as logic circuits
 
-<br>
+
 
 4. **The Operational Amplifier and Oscillator(7 hours)**
     * Basic model; Virtual ground concept; Inverting Amplifier, Non-inverting Amplifier, Integrator, Differentiator,Ssumming Amplifier and their applications
     * Basic feedback theory; positive and negative feedback; concept of stability; Oscillator
     * Waveform generator using Op-Amp for Square Wave, Triangular Wave, Wien Bridge Oscillator for sinusoidal waveform
 
-<br>
+
 
 5. ** Communication System(4 hours)**
     * Introduction
@@ -39,7 +39,7 @@
     * Internet/Intranet
     * Optical fiber
 
-<br>
+
 
 6. **Digital Electronics(11 hours)**
     * Number systems, Binary arithmetic
@@ -50,7 +50,7 @@
     * Latch, flip-flop: S-R flip-flop; JK flip-flop, Master-Slave flip-flop; D-flip flop
     * Sequential circuits: Generic block diagram; Shift registers; Counters
 
-<br>
+
 
 7. **Application of Electronic System(5 hours)**
     * Instrumentation system: Transducer, Strain Gauge, DMM, Oscilloscope
@@ -72,7 +72,7 @@
 2. Thomas  L. Floyd, &ldquo;Electronic Devices&rdquo; 8th Edition, Pearson Education, Inc., 2007
 3. A.S.  Sedra and K.C. Smith, &ldquo;Microelectronic Circuits&rdquo;, 6th Edition,  Oxford University Press, 2006
 
-## **Evaluation Scheme:**<br>
+## **Evaluation Scheme:**
 
 The questions will cover all the chapters  of the syllabus. The evaluation scheme will be as indicated in the table below:
 

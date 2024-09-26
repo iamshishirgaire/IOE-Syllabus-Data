@@ -3,7 +3,7 @@
     * Optical fiber communication system
     * Advantage of optical fiber  communication
     * Applications of optical fiber  communication
-<br>
+
 
 2. **Light Transmission in Optical Fiber (2 hours)**
     * Introduction of optical fiber structure
@@ -11,13 +11,13 @@
     * Acceptance angle
     * Numerical aperture
     * Meridional and skew rays in optical  waveguide
-<br>
+
 
 3. **Electromagnetic Theory for Optical Propagation (2 hours)**
     * Review of Maxwell's equation
     * The wave equation for slab  waveguide   
     * Wave equation for cylindrical waveguide
-<br>
+
 
 4. **Mode Propagation in Optical Waveguide (3  hours)**
     * Modes in a planar optical guide 
@@ -25,7 +25,7 @@
     * Evanescent field
     * Modes in cylindrical optical waveguide
     * Mode coupling
-<br>
+
 
 5. **Optical Fibers (5  hours)**
     * Introduction and types
@@ -36,14 +36,14 @@
     * Fiber attenuation
     * Fiber bend loss
     * Fiber dispersion
-<br>
+
 
 6. **Optical Source for Optical Fiber Communication (4 hours)**
     * Introduction, types and requirements
     * Light emitting diode (LED)
     * Laser diode (LD)
     * Properties of optical sources
-<br>
+
 
 7. **Optical Detectors (4  hours)**
     * Introduction
@@ -52,13 +52,13 @@
     * Avalanche photodiode
     * Comparison of different photodiodes
     * Properties of photodiodes
-<br>
+
 
 8. **Optical Modulation (3  hours)**
     * Introduction and types
     * Analog modulation
     * Digital modulation
-<br>
+
 
 9. **Connectors and Couplers (6  hours)**
     * Introduction to optical connections
@@ -74,7 +74,7 @@
     * Fully bidirectional four port optical  coupler
     * Asymmetrical bidirectional three port  optical coupler (ABC)
     * Comparison between four port full  bidirectional coupler made with traditional three port coupler and ABC
-<br>
+
 
 10. **Fiber Amplifiers and Integrated Optics (4  hours)**
     * Introduction
@@ -82,7 +82,7 @@
     * Raman and Brillouin fiber amplifier
     * Integrated optics
     * Optical switch
-<br>
+
 
 11. **Optical Fiber Network (10  hours)**
     * Introduction to analog and digital  fiber optic transmission
@@ -92,7 +92,7 @@
 ###  Practicals
 
 1. Familiarization with optical fiber  laboratory, safety and precaution. 
-<br>
+
 Demonstration of the concept of light  propagation in optical waveguide with the help of polymer rod and water spout
 
 2. Determination of fiber numerical  aperture and fiber attenuation

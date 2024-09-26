@@ -1,7 +1,3 @@
-# Syllabus
-
-**APPLIED PHYSICS**
-
 1. **Fundamental of radiation detection** **(4 hours)**
 2. **Optics and electro optics** **(7 hours)**
 3. **Physics of imaging** **(7 hours)**
@@ -33,16 +29,13 @@ Three assessments: Mean of three will be final marks
 **Evaluation Scheme**  
 There will be questions covering all the chapters in the syllabus. The evaluation schemes for the question will be as indicated in the table below
 
-|||||
-|---|---|---|---|
-|**SN**|**Chapters**|**Hours**|**Marks distribution\***|
-|1|1,2|11|18|
-|2|3,4|10|18|
-|3|5,6|8|14|
-|4|7,8|10|18|
-|5|9|6|12|
-|**Total**|**45**|**80**|
+|           |              |           |                          |
+| --------- | ------------ | --------- | ------------------------ |
+| **SN**    | **Chapters** | **Hours** | **Marks distribution\*** |
+| 1         | 1,2          | 11        | 18                       |
+| 2         | 3,4          | 10        | 18                       |
+| 3         | 5,6          | 8         | 14                       |
+| 4         | 7,8          | 10        | 18                       |
+| 5         | 9            | 6         | 12                       |
+| **Total** | **45**       | **80**    |
 
-\* There may be minor deviation in marks distribution
-
-#### Copyright&copy; 2021

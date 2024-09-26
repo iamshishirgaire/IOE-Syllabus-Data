@@ -1,13 +1,3 @@
-## Syllabus
-
-**MANUFACTURING TECHNOLOGY**
-
-**Course Objective:**
-
-To make the students knowledgeable and familiar about different aspects of manufacturing technologies and processes. After this, students can perform and choose the adequate process and procedure for the metal process.
-
-### Topics
-
 1. **The Casting Process (8 hours)**
    - Introduction to Manufacturing process, classification, and importance.
    - Introduction to Casting process & steps involved.
@@ -84,16 +74,13 @@ To make the students knowledgeable and familiar about different aspects of manuf
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 8 | 12 |
-| 2 | 10 | 20 |
-| 3 | 6 | 10 |
-| 4 | 10 | 20 |
-| 5 | 5 | 12 |
-| 6 | 6 | 6 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 8      | 12                 |
+| 2         | 10     | 20                 |
+| 3         | 6      | 10                 |
+| 4         | 10     | 20                 |
+| 5         | 5      | 12                 |
+| 6         | 6      | 6                  |
+| **Total** | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021**

@@ -1,17 +1,3 @@
-# Syllabus
-
-## **FINITE ELEMENT METHOD** 
-
-## **Course Objectives:** 
-
-1. Understand the basic steps of finite element methods, its applications and advantages. 
-2. Develop the finite element model for discrete structural and non-structural problems. 
-3. Develop the finite element model for continuum problems: heat transfer, plane elasticity. 
-4. Develop computer programs for above mentioned problems. 
-5. Use commercial software to simulate above mentioned problems. 
-
-## **Course Outline:** 
-
 1. **Overview [2 hours]** 
     * Introduction 
     * Brief history 
@@ -78,16 +64,13 @@
 
 There will be questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be indicated in the table below: 
 
-| Chapters | Hours | Marks Distributions* |
-|---|---|---|
-| 1 & 2 | 4 | 8 |
-| 3 | 8 | 14 |
-| 4 | 8 | 14 |
-| 5 | 10 | 18 |
-| 6 | 10 | 18 |
-| 7 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distributions* |
+| --------- | ------ | -------------------- |
+| 1 & 2     | 4      | 8                    |
+| 3         | 8      | 14                   |
+| 4         | 8      | 14                   |
+| 5         | 10     | 18                   |
+| 6         | 10     | 18                   |
+| 7         | 5      | 8                    |
+| **Total** | **45** | **80**               |
 
-* There may be minor deviation in marks distribution.
-
-## **Copyright &copy; 2021** 

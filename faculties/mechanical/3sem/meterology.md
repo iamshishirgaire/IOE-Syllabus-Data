@@ -1,13 +1,3 @@
-# Syllabus
-
-## METROLOGY
-
-### Course Objectives
-
-To understand the concept, principles and purposes of Metrology in Engineering Production. The students will become familiar with the principles, construction, application of various measuring instruments, basic concept on principles, methods of various measurements, Standards, Standardization and Standardizing Organizations, fundamentals of quality control. 
-
-### Course Outline
-
 1. **Introduction to Metrology (1 hour)**
     * Concept and Scope of Metrology 
     * Objectives of Metrology 
@@ -149,22 +139,18 @@ To understand the concept, principles and purposes of Metrology in Engineering P
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below: 
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 & 2 | 3 | 5 |
-| 3 | 3 | 5 |
-| 4, 5 & 6 | 7 | 12 |
-| 7 & 8 | 5 | 6 |
-| 9 | 8 | 16 |
-| 10 & 11 | 5 | 12 |
-| 12 | 4 | 6 |
-| 13 | 2 | 4 |
-| 14 | 2 | 4 |
-| 15 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 3      | 5                   |
+| 3         | 3      | 5                   |
+| 4, 5 & 6  | 7      | 12                  |
+| 7 & 8     | 5      | 6                   |
+| 9         | 8      | 16                  |
+| 10 & 11   | 5      | 12                  |
+| 12        | 4      | 6                   |
+| 13        | 2      | 4                   |
+| 14        | 2      | 4                   |
+| 15        | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution. 
 
-### Copyright
-
-Copyright &copy; 2021 

@@ -1,15 +1,3 @@
-# Syllabus
-
-**CARTOGRAPHY AND GEOINFORMATION VISUALIZATION**  
-**Course Objectives:**
-
-1. To understand the various purposes, roles and representation of cartography
-2. To gain and practice the use of cartographic language in the creative design process
-3. To gain and practice skills in cartographic design, representation and production in a GIS environment
-4. To understand effective visual thinking and visual communication
-
-**Course outline:**
-
 1. **Introduction** **(2 hours)**
 2. **Cartographic Design** **(4 hours)**
 3. **Scale and generalization** **(4 hours)**
@@ -44,16 +32,13 @@
 **Evaluation scheme:**  
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as mentioned in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1-3|10|16|
-|2|4,5|7|16|
-|3|7,8|8|16|
-|4|9-10|7|16|
-|5|11-12|8|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 1-3         | 10        | 16                     |
+| 2         | 4,5         | 7         | 16                     |
+| 3         | 7,8         | 8         | 16                     |
+| 4         | 9-10        | 7         | 16                     |
+| 5         | 11-12       | 8         | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

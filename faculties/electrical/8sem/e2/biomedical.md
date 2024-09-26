@@ -1,13 +1,3 @@
-## Syllabus
-
-**BIOMEDICAL INSTRUMENTATION**
-
-**Course Objectives:** 
-
-To provide specific engineering and instrumentation methods and principles to acquire basic knowledge of design, its application and maintenance of different biomedical instruments.
-
-### Topics:
-
 1. **Fundamental of Medical Instrumentation (4 hours)**
     * Biomedical Engineering and Areas of Engineering Contribution
     * Biometrics and Design Consideration Factors for Medical Instruments
@@ -97,17 +87,12 @@ To provide specific engineering and instrumentation methods and principles to ac
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1, 2 | 4, 4 | 16 |
-| 4 | 10 | 16 |
-| 5 | 12 | 16 |
-| 3, 6 | 4, 4 | 16 |
-| 7, 8 | 3, 4 | 16 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1, 2      | 4, 4   | 16                  |
+| 4         | 10     | 16                  |
+| 5         | 12     | 16                  |
+| 3, 6      | 4, 4   | 16                  |
+| 7, 8      | 3, 4   | 16                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-***
-
-**Copyright © 2021** 

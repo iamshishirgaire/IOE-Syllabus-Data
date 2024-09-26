@@ -1,12 +1,3 @@
-# Syllabus
-
-**SIGNALS AND TRANSFORMS**
-
-**Course objectives:**
-
-1. To provide the basic understanding of signals and systems
-2. To provide the knowledge of time- domain and frequency- domain representation of continuous-time & discrete-time periodic & a periodic signals
-
 1. **Signals and systems** **(7 hours)**
 2. **Impulse Reponse and Convolution** **(6 hours)**
 3. **Fourier Series** **(9 hours)**
@@ -33,16 +24,13 @@ Assessments: Mean of three
 **Evaluation Scheme:**  
 Marks distribution for all the chapters in the syllabus in shown in the table below.
 
-||||
-|:---:|---|---|
-|**Unit**|**Hours**|**Marks distribution\***|
-|1,5.1-5.3|7+2|16|
-|2,5.4,5.6|6+3|16|
-|3|9|16|
-|4|9|16|
-|6|9|16|
-|**Total**|**45**|**80**|
+|           |           |                          |
+| :-------: | --------- | ------------------------ |
+| **Unit**  | **Hours** | **Marks distribution\*** |
+| 1,5.1-5.3 | 7+2       | 16                       |
+| 2,5.4,5.6 | 6+3       | 16                       |
+|     3     | 9         | 16                       |
+|     4     | 9         | 16                       |
+|     6     | 9         | 16                       |
+| **Total** | **45**    | **80**                   |
 
-\*There may be minor variation in marks distribution.
-
-#### Copyright&copy; 2021

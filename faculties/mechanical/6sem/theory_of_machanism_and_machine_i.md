@@ -1,13 +1,3 @@
-## Syllabus
-
-**THEORY OF MECHANISM AND MACHINE I**
-
-**Course Objectives:**
-
-To make students understand about different mechanisms used in devices or machines and make them able to do complete analysis of mechanisms (including linkages, gears, gear trains, cams and followers).
-
-**Course Outlines:**
-
 1. **Introduction (2 hours)**
     * Introduction to the study of mechanisms
     * Basic definitions & descriptions
@@ -91,16 +81,13 @@ To make students understand about different mechanisms used in devices or machin
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution * |
-|---|---|---|
-| 1 & 2 | 6 | 10 |
-| 3 | 6 | 10 |
-| 4 & 5 | 11 | 20 |
-| 6 | 5 | 10 |
-| 7 | 9 | 15 |
-| 8 | 8 | 15 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution * |
+| --------- | ------ | -------------------- |
+| 1 & 2     | 6      | 10                   |
+| 3         | 6      | 10                   |
+| 4 & 5     | 11     | 20                   |
+| 6         | 5      | 10                   |
+| 7         | 9      | 15                   |
+| 8         | 8      | 15                   |
+| **Total** | **45** | **80**               |
 
-* There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 

@@ -1,1 +1,100 @@
-<head> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="stylesheet" type="text/css" href="../../../css/jquery.mobile-1.4.5.min.css" /> <script src="../../../js/jquery-1.11.1.min.js"></script> <script src="../../../js/jquery.mobile-1.4.5.min.js"></script> </head><body> <div data-role="page" id="page" data-theme="b"> <div data-role="header"><h1>Syllabus</h1> <div data-role="content"><p align="center"><strong>COMPUTER PROGRAMMING <br> CT 401 </strong><br> <strong> Course Objective:</strong> <br> To familiarize the student with computer software and high level programming languages and to develop the programming skill using C language </p><ol> <li><strong>Overview of computer software & programming languages (3 hours) </strong></li> <ol> <li>System software </li> <li>Application software </li> <li>General software features and recent trends </li> <li>Generation of programming languages </li> <li>Categorization of high level languages </li> </ol> <li><strong>Problem solving using Computer (3 hours)</strong></li> <ol> <li>Problem analysis </li> <li>Algorithm development and Flowchart </li> <li>Compilation and Execution </li> <li>Debugging and Testing </li> <li>Programming Documentation </li> </ol> <li><strong>Introduction to &lsquo;C&rsquo; programming (4 hours)</strong></li> <ol> <li>Character set, Keywords, and Data types </li> <li>Preprocessor Directives </li> <li>Constants and Variables </li> <li>Operators and statements </li> </ol> <li><strong>Input and Output (3 hours) </strong></li> <ol> <li>Formatted input/output </li> <li>Character input/output </li> <li>Programs using input/output statements </li> </ol> <li><strong>Control statements (6 hours)</strong></li> <ol> <li>Introduction </li> <li>The goto, if, if … … else, switch statements</li> <li>The while, do … while, for statements</li> </ol> <li><strong>User-Defined Function (4 hours)</strong></li> <ol> <li>Introduction </li> <li>Function definition and return statement </li> <li>Function Prototypes </li> <li>Function invocation, call by value and call by reference, Recursive Functions </li> </ol> <li><strong>Arrays and Strings (5 hours) </strong></li> <ol> <li>Defining an Array </li> <li>One-dimensional Arrays </li> <li>Multi-dimensional Arrays </li> <li>Strings and string manipulation </li> <li>Passing Array and String to function </li> </ol> <li><strong>Structures (4 hours) </strong></li> <ol> <li>Introduction </li> <li>Processing a Structure </li> <li>Arrays of Structures </li> <li>Arrays within Structures </li> <li>Structures and Function </li> </ol> <li><strong>Pointers (4 hours) </strong></li> <ol> <li>Introduction </li> <li>Pointer declaration </li> <li>Pointer arithmetic </li> <li>Pointer and Array </li> <li>Passing Pointers to a Function </li> <li>Pointers and Structures </li> </ol> <li><strong>Data Files (5 hours) </strong></li> <ol> <li>Defining opening and closing a file </li> <li>Input/Output operations on Files </li> <li>Error handling during input/output operations </li> </ol> <li>Introduction to other Programming Languages (4 hours) </li> <ol> <li>FORTRAN </li> <li>2. C++ </li> <li>Java </li> <li>C# </li> </ol></ol><ol> </ol> <p><strong>Practical: </strong><br> Minimum 7 lab works on programming with C should be done individually which should include at least followings: (30 marks out of 50 marks) </p> <ol> <li>Input/output operations </li> <li>Control statements </li> <li>User defined functions </li> <li>Arrays & strings </li> <li>Pointers </li> <li>Structure and union </li> <li>Data files </li> </ol> <p>Student (maximum 4 persons in a group) should submit a mini project at the end of course. (20 marks out of 50 marks) </p> <p><strong>References:</strong> </p> <ol> <li>Kelly & Pohl, “A Book on C”, Benjamin/Cumming</li> <li>Brian W. Keringhan& Dennis M. Ritchie, “The &lsquo;C&rsquo; Programming Language”, PHI</li> <li>DayaSagarBaral, DiwakarBaral and Sharad Kumar Ghimire “The Secrets of C Programming Language”, Bhundipuran Publication</li> <li>Bryons S. Gotterfried, “Programming with C”, TMH</li> <li>YashavantKanetkar, “Let Us C”, BPB</li> <li>Alexis Leon, Mathews Leon, “Fundamentals of Information Technology”, Leon Press and Vikas Publishing House</li> </ol> <p><strong>Evaluation Scheme </strong><br>There will be questions covering all the chapters in the syllabus. The evaluation scheme for the course is as indicated in the table below: </p><table border="1" cellspacing="0" cellpadding="0"> <tr> <td width="54" valign="top"><p><strong>Unit</strong></p></td> <td width="222" valign="top"><p><strong>Chapter</strong></p></td> <td width="192" valign="top"><p><strong>Topics</strong></p></td> <td width="156" valign="top"><p><strong>Marks</strong></p></td> </tr> <tr> <td width="54" valign="top"><p align="center">1 </p></td> <td width="222" valign="top"><p>1, 2 & 3 </p></td> <td width="192" valign="top"><p>All </p></td> <td width="156" valign="top"><p>16 </p></td> </tr> <tr> <td width="54" valign="top"><p align="center">2 </p></td> <td width="222" valign="top"><p>4 & 5 </p></td> <td width="192" valign="top"><p>All </p></td> <td width="156" valign="top"><p>16 </p></td> </tr> <tr> <td width="54" valign="top"><p align="center">3 </p></td> <td width="222" valign="top"><p>6 & 7 </p></td> <td width="192" valign="top"><p>All </p></td> <td width="156" valign="top"><p>16 </p></td> </tr> <tr> <td width="54" valign="top"><p align="center">4 </p></td> <td width="222" valign="top"><p>8 & 9 </p></td> <td width="192" valign="top"><p>All </p></td> <td width="156" valign="top"><p>16 </p></td> </tr> <tr> <td width="54" valign="top"><p align="center">5 </p></td> <td width="222" valign="top"><p>10 & 11 </p></td> <td width="192" valign="top"><p>All </p></td> <td width="156" valign="top"><p>16 </p></td> </tr> <tr> <td width="468" colspan="3" valign="top"><p align="center">Total </p></td> <td width="156" valign="top"><p>80 </p></td> </tr> </table></div><div data-role="footer"> <h4>Copyright&copy; 2021</h4> </div></div>
+1. **Overview of computer software & programming languages (3 hours)**
+   1. System software
+   2. Application software
+   3. General software features and recent trends
+   4. Generation of programming languages
+   5. Categorization of high level languages
+
+2. **Problem solving using Computer (3 hours)**
+   1. Problem analysis
+   2. Algorithm development and Flowchart
+   3. Compilation and Execution
+   4. Debugging and Testing
+   5. Programming Documentation
+
+3. **Introduction to 'C' programming (4 hours)**
+   1. Character set, Keywords, and Data types
+   2. Preprocessor Directives
+   3. Constants and Variables
+   4. Operators and statements
+
+4. **Input and Output (3 hours)**
+   1. Formatted input/output
+   2. Character input/output
+   3. Programs using input/output statements
+
+5. **Control statements (6 hours)**
+   1. Introduction
+   2. The goto, if, if … … else, switch statements
+   3. The while, do … while, for statements
+
+6. **User-Defined Function (4 hours)**
+   1. Introduction
+   2. Function definition and return statement
+   3. Function Prototypes
+   4. Function invocation, call by value and call by reference, Recursive Functions
+
+7. **Arrays and Strings (5 hours)**
+   1. Defining an Array
+   2. One-dimensional Arrays
+   3. Multi-dimensional Arrays
+   4. Strings and string manipulation
+   5. Passing Array and String to function
+
+8. **Structures (4 hours)**
+   1. Introduction
+   2. Processing a Structure
+   3. Arrays of Structures
+   4. Arrays within Structures
+   5. Structures and Function
+
+9. **Pointers (4 hours)**
+   1. Introduction
+   2. Pointer declaration
+   3. Pointer arithmetic
+   4. Pointer and Array
+   5. Passing Pointers to a Function
+   6. Pointers and Structures
+
+10. **Data Files (5 hours)**
+    1. Defining opening and closing a file
+    2. Input/Output operations on Files
+    3. Error handling during input/output operations
+
+11. **Introduction to other Programming Languages (4 hours)**
+    1. FORTRAN
+    2. C++
+    3. Java
+    4. C#
+
+## Practical:
+Minimum 7 lab works on programming with C should be done individually which should include at least followings: (30 marks out of 50 marks)
+1. Input/output operations
+2. Control statements
+3. User defined functions
+4. Arrays & strings
+5. Pointers
+6. Structure and union
+7. Data files
+
+Student (maximum 4 persons in a group) should submit a mini project at the end of course. (20 marks out of 50 marks)
+
+## References:
+1. Kelly & Pohl, "A Book on C", Benjamin/Cumming
+2. Brian W. Keringhan & Dennis M. Ritchie, "The 'C' Programming Language", PHI
+3. Daya Sagar Baral, Diwakar Baral and Sharad Kumar Ghimire "The Secrets of C Programming Language", Bhundipuran Publication
+4. Bryons S. Gotterfried, "Programming with C", TMH
+5. Yashavant Kanetkar, "Let Us C", BPB
+6. Alexis Leon, Mathews Leon, "Fundamentals of Information Technology", Leon Press and Vikas Publishing House
+
+## Evaluation Scheme
+There will be questions covering all the chapters in the syllabus. The evaluation scheme for the course is as indicated in the table below:
+
+| Unit  | Chapter  | Topics | Marks |
+| ----- | -------- | ------ | ----- |
+| 1     | 1, 2 & 3 | All    | 16    |
+| 2     | 4 & 5    | All    | 16    |
+| 3     | 6 & 7    | All    | 16    |
+| 4     | 8 & 9    | All    | 16    |
+| 5     | 10 & 11  | All    | 16    |
+| Total |          |        | 80    |

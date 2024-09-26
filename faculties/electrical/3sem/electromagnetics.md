@@ -1,17 +1,9 @@
-## Syllabus: ELECTROMAGNETICS
-
-**Course Objectives:**
-
-To provide basic understanding of the fundamentals of Electromagnetics.
-
-### Topics:
-
 1. **Introduction (3 hours)**
    * Co-ordinate system
    * Scalar and vector fields
    * Operations on scalar and vector fields
    
-   <br>
+   
 
 2. **Electric Field (11 hours)**
    * Coulomb's law
@@ -28,7 +20,7 @@ To provide basic understanding of the fundamentals of Electromagnetics.
    * Boundary value problems, Laplace and Poisson equations and their solutions, Uniqueness theorem
    * Graphical field plotting, Numerical integration
 
-   <br>
+   
 
 3. **Magnetic Field (9 hours)**
    * Biot-Savart's law
@@ -41,7 +33,7 @@ To provide basic understanding of the fundamentals of Electromagnetics.
    * Magnetic force, Magnetic torque, Magnetic moment, Magnetic dipole, Magnetization
    * Magnetic boundary condition
 
-   <br>
+   
 
 4. **Wave Equation and Wave Propagation (12 hours)**
    * Faraday's law, Transformer emf, Motional emf
@@ -52,20 +44,20 @@ To provide basic understanding of the fundamentals of Electromagnetics.
    * Power and pointing vector
    * Reflection of plane wave at normal and oblique incidence
 
-   <br>
+   
 
 5. **Transmission Lines (5 hours)**
    * Transmission line equations
    * Input impedance, Reflection coefficient, Standing wave ratio
    * Impedance matching, Quarter wave transformer, Single stub matching, Double stub matching
 
-   <br>
+   
 
 6. **Wave Guides (4 hours)**
    * Rectangular wave guide
    * Transverse electric mode, transverse magnetic mode
 
-   <br>
+   
 
 7. **Antennas (1 hour)**
    * Introduction to antenna, antenna types and properties
@@ -91,17 +83,11 @@ To provide basic understanding of the fundamentals of Electromagnetics.
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 11 | 20 |
-| 3 | 9 | 16 |
-| 4 | 12 | 21 |
-| 5, 6, 7 | 10 | 16 |
-| **Total** | **45** | **80** |
-
-* There could be a minor deviation in the marks distribution.
-
-### Copyright:
-
-Copyright © 2021 
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 11     | 20                  |
+| 3         | 9      | 16                  |
+| 4         | 12     | 21                  |
+| 5, 6, 7   | 10     | 16                  |
+| **Total** | **45** | **80**              |

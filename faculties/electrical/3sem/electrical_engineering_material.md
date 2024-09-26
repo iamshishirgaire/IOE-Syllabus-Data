@@ -1,11 +1,3 @@
-## Syllabus: Electrical Engineering Material
-
-**Course Objectives:**
-
-To provide a basic understanding of the different materials used in electrical and electronics engineering.
-
-### Topics:
-
 1. **Theory of Metals (8 hours)**
     * Elementary Quantum mechanical ideas: Wave Particle Duality, Wave function, Schrodinger's equation, operator notation, expected value
     * Infinite Potential Well: A confined electron.
@@ -60,18 +52,12 @@ To provide a basic understanding of the different materials used in electrical a
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* | Theory | Numerical |
-|---|---|---|---|---|
-| 1 | 8 | 12 | 8 | 4 |
-| 2 | 6 | 10 | 6 | 4 |
-| 3 | 6 | 10 | 10 | X |
-| 4 | 6 | 10 | 10 | X |
-| 5 | 5 | 8 | 8 | X |
-| 6 | 14 | 30 | 18 | 12 |
-| **Total** | **45** | **80** | **60** | **20** |
-
-*There could be a minor deviation in the marks distribution.
-
-### Copyright
-
-Copyright &copy; 2021
+| Chapters  | Hours  | Marks Distribution* | Theory | Numerical |
+| --------- | ------ | ------------------- | ------ | --------- |
+| 1         | 8      | 12                  | 8      | 4         |
+| 2         | 6      | 10                  | 6      | 4         |
+| 3         | 6      | 10                  | 10     | X         |
+| 4         | 6      | 10                  | 10     | X         |
+| 5         | 5      | 8                   | 8      | X         |
+| 6         | 14     | 30                  | 18     | 12        |
+| **Total** | **45** | **80**              | **60** | **20**    |

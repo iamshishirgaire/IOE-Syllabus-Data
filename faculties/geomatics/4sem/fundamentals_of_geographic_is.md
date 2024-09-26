@@ -1,12 +1,3 @@
-# Syllabus
-
-**FUNDAMENTALS OF GEOGRAPHIC INFORMATION SYSTEMS**
-
-**Course objective:**  
-The course introduces principles, concepts and applications of Geographic Information systems (GIS): a dicision supports tool for planners and managers of sptial information. Database development, manipulation and spatial analysis techniques for information generation will be taught. Students will have the scope of using GIS for application in their related fields such as natural resource management, environment, civil engineering, agriculture, information system etc will be discussed through mini project and laboratory exercise.
-
-**Course outline:**
-
 1. **Introduction and Overview of GIS and Software** **(4hours)**
 2. **GIS and Map (** **4 hours)**
 3. **Spatial data Modals** **(4 hours)**
@@ -41,16 +32,13 @@ The course introduces principles, concepts and applications of Geographic Inform
 **Evaluation scheme:**  
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below
 
-||||
-|---|---|---|
-|**Chapters**|**Hours**|**Marks distribution\***|
-|1,2|8|16|
-|3, 4|8|16|
-|5, 6.1|11|16|
-|6.2, 9|10|16|
-|7,8|8|16|
-|**Total**|**45**|**80**|
+|              |           |                          |
+| ------------ | --------- | ------------------------ |
+| **Chapters** | **Hours** | **Marks distribution\*** |
+| 1,2          | 8         | 16                       |
+| 3, 4         | 8         | 16                       |
+| 5, 6.1       | 11        | 16                       |
+| 6.2, 9       | 10        | 16                       |
+| 7,8          | 8         | 16                       |
+| **Total**    | **45**    | **80**                   |
 
-\* There may be a minor deviation in the marks distribution
-
-#### Copyright&copy; 2021

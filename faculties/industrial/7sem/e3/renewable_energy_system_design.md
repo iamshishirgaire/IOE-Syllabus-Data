@@ -1,13 +1,3 @@
-# Syllabus
-
-## **RENEWABLE  ENERGY SYSTEM DESIGN**
-
-### **Course Objective** 
-
-After the completion of this course, the students will be  familiar with the basic design, functions and applications of various RE  technologies and their systems.
-
-### **Course Outline**
-
 1. **Introduction (6 hours)** 
    - RE Sources & Their Features
    - Potential and Consumption Trend in National and Global Level
@@ -67,17 +57,13 @@ After the completion of this course, the students will be  familiar with the bas
 
 The Questions will cover all the chapters in the syllabus. The  evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution\* |
-|---|---|---|---|
-| 1 | Introduction | 6 | 8 |
-| 2 | Solar energy | 8 | 16 |
-| 3 | Wind energy | 8 | 16 |
-| 4 | Micro and Mini hydropower | 8 | 16 |
-| 5 | Biomass energy | 6 | 8 |
-| 6 | Bio-fuels | 5 | 8 |
-| 7 | Other renewable energy | 4 | 8 |
-| **Total** |  | **45** | **80** |
-
-\*There could be minor deviation in mark distribution.
-
-## Copyright &copy; 2021
+| Unit      | Chapters                  | Hour   | Mark Distribution\* |
+| --------- | ------------------------- | ------ | ------------------- |
+| 1         | Introduction              | 6      | 8                   |
+| 2         | Solar energy              | 8      | 16                  |
+| 3         | Wind energy               | 8      | 16                  |
+| 4         | Micro and Mini hydropower | 8      | 16                  |
+| 5         | Biomass energy            | 6      | 8                   |
+| 6         | Bio-fuels                 | 5      | 8                   |
+| 7         | Other renewable energy    | 4      | 8                   |
+| **Total** |                           | **45** | **80**              |

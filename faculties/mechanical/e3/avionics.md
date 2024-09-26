@@ -1,14 +1,3 @@
-## Syllabus
-
-### **AVIONICS**
-
-**Course Objectives**
-
-* To familiarize the students on the basic application of electronics & control system in aircraft
-* To introduce the basic concepts of navigation & communication systems of aircraft.
-
-### **Course Content**
-
 1. **Introduction to Avionics (4 hours)**
     * Needs of Avionics
     * Different components of avionics
@@ -72,15 +61,11 @@ Practical means project work and report have to be submitted at the end of the c
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 & 6 | all | 16 |
-| 2 | 2 | all | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 4 | all | 16 |
-| 5 | 5 | all | 16 |
-| **Total** |  |  | **80** |
-
-*There could be minor deviation in mark distribution.
-
-### **Copyright &copy; 2021** 
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1 & 6   | all    | 16     |
+| 2         | 2       | all    | 16     |
+| 3         | 3       | all    | 16     |
+| 4         | 4       | all    | 16     |
+| 5         | 5       | all    | 16     |
+| **Total** |         |        | **80** |

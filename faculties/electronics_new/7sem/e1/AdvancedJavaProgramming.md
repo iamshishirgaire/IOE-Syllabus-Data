@@ -1,13 +1,3 @@
-## Syllabus
-
-**ADVANCED JAVA PROGRAMMING** 
-
-**Course Objective:**
-
-This course covers programming for both single system software distribution and across networks/devices. In particular, the course focus is on the advanced topics that a Java programmer will need to know so that they will be in a position to do commercial Java development both for single services and also for distributed processes across multiple devices. The course provides an in-depth coverage of object serialization, Java Beans, XML, Servlets, JSP's, networking, remote objects (RMI), distributed computing, and Java database Connectivity.
-
-### **Course Outline**
-
 1. **Introduction [2 hours]**
     * Overview
     * Java Programming Review
@@ -105,21 +95,18 @@ There should be substantial program design and implementation assignments relate
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distributions* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 4 | 7 |
-| 3 | 4 | 7 |
-| 4 | 4 | 7 |
-| 5 | 3 | 5 |
-| 6 | 4 | 7 |
-| 7 | 6 | 11 |
-| 8 | 4 | 7 |
-| 9 | 5 | 9 |
-| 10 | 5 | 9 |
-| 11 | 4 | 7 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distributions* |
+| --------- | ------ | -------------------- |
+| 1         | 2      | 4                    |
+| 2         | 4      | 7                    |
+| 3         | 4      | 7                    |
+| 4         | 4      | 7                    |
+| 5         | 3      | 5                    |
+| 6         | 4      | 7                    |
+| 7         | 6      | 11                   |
+| 8         | 4      | 7                    |
+| 9         | 5      | 9                    |
+| 10        | 5      | 9                    |
+| 11        | 4      | 7                    |
+| **Total** | **45** | **80**               |
 
-*There may be minor variation in marks distribution.
-
-**Copyright &copy; 2021** 

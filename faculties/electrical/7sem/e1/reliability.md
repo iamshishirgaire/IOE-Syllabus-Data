@@ -1,13 +1,3 @@
-## Syllabus
-
-**RELIABILITY ENGINEERING**
-
-**Course objective:**
-
-To strengthen the knowledge of probability theory by introducing the concept of reliability engineering applicable to the physical systems, especially at different levels of electric power systems.
-
-### Topics
-
 1. **Review of probability theory (4 hours)**
     * Probability concepts, permutation and combination, practical engineering concepts, Venn diagrams
     * Rules for combining probabilities: independent, mutually exclusive, complementary, conditional events, application of conditional probability
@@ -59,6 +49,3 @@ To strengthen the knowledge of probability theory by introducing the concept of 
 
 * Roy Billinton and Ronald Allan, "Reliability Evaluation of Engineering Systems: Concepts and Techniques", Plenum Publishers, New York, 1992.
 
----
-
-**Copyright &copy; 2021** 

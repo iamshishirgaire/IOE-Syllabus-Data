@@ -72,12 +72,12 @@
 
 ### Evaluation Schedule for Practical Works
 
-| S.No      | Duration   | Stage                                                                                                                                                                                                                                                     | Marks  |
-| --------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1         | 10 hrs     | Case Studies / Assignments on: <ul><li>Observation of different Passive building - Traditional & Modern</li><li>Observation of climate, microclimate, site, material, technology and Solar energy for Passive Solar system</li><li>Presentation</li></ul> | 15     |
-| 2         | 15 hrs     | Assignments on: <ul><li>Design or renovation of a building with Passive Solar system</li><li>Presentation</li></ul>                                                                                                                                       | 15     |
-| 3         | 5 hrs      | Report Submission / Attendance                                                                                                                                                                                                                            | 20     |
-| **Total** | **30 hrs** |                                                                                                                                                                                                                                                           | **50** |
+| S.No      | Duration   | Stage                                                                                                                                                                                                                  | Marks  |
+| --------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | 10 hrs     | Case Studies / Assignments on: Observation of different Passive building - Traditional & ModernObservation of climate, microclimate, site, material, technology and Solar energy for Passive Solar system Presentation | 15     |
+| 2         | 15 hrs     | Assignments on: Design or renovation of a building with Passive Solar system Presentation                                                                                                                              | 15     |
+| 3         | 5 hrs      | Report Submission / Attendance                                                                                                                                                                                         | 20     |
+| **Total** | **30 hrs** |                                                                                                                                                                                                                        | **50** |
 
 ## References
 

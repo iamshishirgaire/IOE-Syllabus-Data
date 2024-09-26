@@ -1,13 +1,3 @@
-# Syllabus
-
-## **PROBABILITY AND STATISTICS**
-
-**Course Objective:** 
-
-To provide the students with practical knowledge of the principles and concepts of probability and statistics and their applications in engineering fields.
-
-## Topics:
-
 1. **Descriptive Statistics and Basic Probability (6 hours)**
     * Introductions in statistics and its importance in engineering
     * Describing data with graphs (bar, pie, line diagram, box plot)
@@ -66,20 +56,15 @@ To provide the students with practical knowledge of the principles and concepts 
 
 The questions will cover the entire chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 12 |
-| 2 | 6 | 10 |
-| 3 | 6 | 10 |
-| 4 | 6 | 10 |
-| 5 | 6 | 10 |
-| 6 | 6 | 10 |
-| 7 | 6 | 10 |
-| 8 | 4 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 12                  |
+| 2         | 6      | 10                  |
+| 3         | 6      | 10                  |
+| 4         | 6      | 10                  |
+| 5         | 6      | 10                  |
+| 6         | 6      | 10                  |
+| 7         | 6      | 10                  |
+| 8         | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
-## Copyright
-
-Copyright &copy; 2021 

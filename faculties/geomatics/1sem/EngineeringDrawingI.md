@@ -1,11 +1,3 @@
-# Syllabus
-
-**ENGINEERING DRAWING I**
-
-**ME 401**  
-**Course Objective:**  
-To develop basic projection concepts with reference to points, lines, planes and geometrical solids. Also to develop sketching and drafting skills to facilitate communication.
-
 1. **Instrumental Drawing, Technical Lettering Practices and Techniques (2 hours)**
 2. **Dimensioning (2 hours)**
 3. **Applied Geometry (6 hours)**
@@ -41,13 +33,11 @@ To develop basic projection concepts with reference to points, lines, planes and
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|3|All|4|
-|2|4|All|8|
-|3|1, 2 and 5|All|14|
-|4|6|All|14|
-|Total|40|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 3           | All        | 4         |
+| 2        | 4           | All        | 8         |
+| 3        | 1, 2 and 5  | All        | 14        |
+| 4        | 6           | All        | 14        |
+| Total    | 40          |

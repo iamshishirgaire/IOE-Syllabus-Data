@@ -31,15 +31,15 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter            | Hours    | Marks Distribution* |
-| ------------------ | -------- | ------------------- |
-| 1                  | 8        | 10                  |
-| 3                  | 8        | 10                  |
-| 4                  | 16       | 20                  |
-| 5                  | 4        | 5                   |
-| 6 - 6.1 <br> 6.2   | 8 <br> 4 | 10 <br> 5           |
-| **Assessment**     |          | **60**              |
-| **Practical Exam** | **3**    | **40**              |
+| Chapter            | Hours | Marks Distribution* |
+| ------------------ | ----- | ------------------- |
+| 1                  | 8     | 10                  |
+| 3                  | 8     | 10                  |
+| 4                  | 16    | 20                  |
+| 5                  | 4     | 5                   |
+| 6 - 6.1  6.2       | 8  4  | 10  5               |
+| **Assessment**     |       | **60**              |
+| **Practical Exam** | **3** | **40**              |
 
 * There may be minor deviation in marks distribution.
 

@@ -1,13 +1,3 @@
-# Syllabus
-
-## Aeronautical Telecommunication 
-**EX725 04**
-
-**Course Objectives:**
-To give the basic understanding of aviation related ground based electronics equipment used for Communication, Navigation and Surveillance and their theory of operation. 
-
-## Course Content
-
 1. **Introduction to Aviation [4 hrs]**
    * History of Aviation
    * Aircraft
@@ -127,17 +117,12 @@ To give the basic understanding of aviation related ground based electronics equ
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution\* |
-|---|---|---|
-| 1, 2 | 4, 5 | 16 |
-| 3 | 9 | 16 |
-| 4 | 9 | 16 |
-| 5 | 8 | 16 |
-| 6, 7 | 4, 6 | 16 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1, 2      | 4, 5   | 16                   |
+| 3         | 9      | 16                   |
+| 4         | 9      | 16                   |
+| 5         | 8      | 16                   |
+| 6, 7      | 4, 6   | 16                   |
+| **Total** | **45** | **80**               |
 
-\*There could be a minor deviation in Marks distribution.
-
-## Copyright
-
-Copyright &copy; 2021 

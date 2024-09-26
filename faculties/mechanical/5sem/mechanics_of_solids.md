@@ -1,13 +1,3 @@
-# Syllabus
-
-## Mechanics of Solids
-
-**Course Objectives:**
-
-The main objective of this course is to provide fundamental knowledge and skills to solid mechanics. After completion of this course the students will be able to know in depth knowledge of general stress and strain. 
-
-**Course Outline:**
-
 1. **Load on Structure and Response of Material (1 hour)**
     * General Load on Structure and its Effects
     * Elastic and Non-elastic Response of Solids 
@@ -142,24 +132,18 @@ The main objective of this course is to provide fundamental knowledge and skills
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 1 | 2 |
-| 2 | 6 | 10 |
-| 3 | 4 | 8 |
-| 4 | 2 | 4 |
-| 5 | 6 | 10 |
-| 6 | 4 | 8 |
-| 7 | 4 | 8 |
-| 8 | 4 | 8 |
-| 9 | 6 | 10 |
-| 10 | 4 | 8 |
-| 11 | 2 | 2 |
-| 12 | 2 | 2 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-***
-
-**Copyright &copy; 2021**
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 1      | 2                   |
+| 2         | 6      | 10                  |
+| 3         | 4      | 8                   |
+| 4         | 2      | 4                   |
+| 5         | 6      | 10                  |
+| 6         | 4      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 4      | 8                   |
+| 9         | 6      | 10                  |
+| 10        | 4      | 8                   |
+| 11        | 2      | 2                   |
+| 12        | 2      | 2                   |
+| **Total** | **45** | **80**              |

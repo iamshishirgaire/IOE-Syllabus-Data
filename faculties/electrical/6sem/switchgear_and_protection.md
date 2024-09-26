@@ -1,13 +1,3 @@
-## Syllabus
-
-**Switchgear and Protection**
-
-**Course Objective:** 
-
-To present fundamental knowledge on protection systems and its associated components in a power system.
-
-**Course Content:**
-
 1. **Principle of Power System Protection (3 hours)**
    * Protection system components and its terminologies
    * Basic requirement of protection scheme
@@ -109,18 +99,15 @@ To present fundamental knowledge on protection systems and its associated compon
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 3 | 4 |
-| 3 | 4 | 6 |
-| 4 | 4 | 6 |
-| 5 | 6 | 8 |
-| 6 | 12 | 16 |
-| 7 | 14 | 20 |
-| 8 | 12 | 16 |
-| **Total** | **58** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 3      | 4                   |
+| 3         | 4      | 6                   |
+| 4         | 4      | 6                   |
+| 5         | 6      | 8                   |
+| 6         | 12     | 16                  |
+| 7         | 14     | 20                  |
+| 8         | 12     | 16                  |
+| **Total** | **58** | **80**              |
 
-*There could be minor deviation in marks distribution.
-
-**Copyright &copy; 2021** 

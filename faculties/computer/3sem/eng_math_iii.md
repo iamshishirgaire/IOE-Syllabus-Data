@@ -11,7 +11,7 @@
     * The Cayley-Hamilton theorem and its uses
     * Diagonalization of matrices and its applications
     
-    <br>
+    
 
 2. **Line, Surface and Volume Integrals (12 hours)**
     * Line integrals
@@ -22,7 +22,7 @@
     * Stoke's theorem (without proof) and its applications
     * Volume integrals; Divergence theorem of Gauss (without proof) and its applications
     
-    <br>
+    
 
 3. **Laplace Transform (8 hours)**
     * Definitions and properties of Laplace Transform
@@ -32,7 +32,7 @@
     * Convolution and related problems
     * Applications of Laplace Transform to ordinary differential equations
     
-    <br>
+    
 
 4. **Fourier Series (5 hours)**
     * Fourier Series
@@ -41,7 +41,7 @@
     * Fourier series for arbitrary range
     * Half range Fourier series
     
-    <br>
+    
 
 5. **Linear Programming (9 hours)**
     * System of Linear Inequalities in two variables
@@ -51,7 +51,7 @@
     * The Dual: Maximization with Problem Constraints of the form "≥"
     * Maximization and Minimization with mixed Constraints. The two-phase method (An alternative to the Big M Method)
     
-    <br>
+    
 
 ### References
 

@@ -1,9 +1,9 @@
 
-| Exercise No./Hours | Suggested Project                                                                                                          | Content of Submission                                                                                   | Marks Distribution |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ |
-| 72 Hours           | High School / College /<br> Community Library/ Club<br> (not exceeding 3 storey)                                           | Master Plan, Plans, Sections, Elevations,<br> Perspective Drawing/s<br> Model                           | 120                |
-| 72 Hours           | College/University facility - as Gymnasium/ Hostel/ Club/<br> Multi purpose Hall/ Auditorium.<br> (not exceeding 3 storey) | Master Plan, Plans, Sections, Elevations,<br> Construction details,<br> Perspective Drawings,<br> Model | 120                |
-| 6 Hours            | Time Problem-Design of any of above facilities ( Project brief provided)                                                   | Conceptual Drawings in Free Hand Sketches                                                               | 60                 |
+| Exercise No./Hours | Suggested Project                                                                                                  | Content of Submission                                                                       | Marks Distribution |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ------------------ |
+| 72 Hours           | High School / College / Community Library/ Club (not exceeding 3 storey)                                           | Master Plan, Plans, Sections, Elevations, Perspective Drawing/s Model                       | 120                |
+| 72 Hours           | College/University facility - as Gymnasium/ Hostel/ Club/ Multi purpose Hall/ Auditorium. (not exceeding 3 storey) | Master Plan, Plans, Sections, Elevations, Construction details, Perspective Drawings, Model | 120                |
+| 6 Hours            | Time Problem-Design of any of above facilities ( Project brief provided)                                           | Conceptual Drawings in Free Hand Sketches                                                   | 60                 |
 
 **Evaluation Schedule for each Exercise:**
 

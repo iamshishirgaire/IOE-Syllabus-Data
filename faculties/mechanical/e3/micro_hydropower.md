@@ -1,12 +1,3 @@
-## Syllabus: Construction of Micro Hydropower System
-
-**Course Objectives:**
-
-1. To provide basic concepts of planning and preparation for Micro Hydropower (MHP) systems, including knowledge of installation planning, preparation, and construction.
-2. To present concepts for commissioning and testing of MHP systems. To explore maintenance, repair, and bill of quantities preparation. The syllabus also covers the future prospects of MHP projects in Nepal and a literature study of potential MHP projects.
-
-### Course Outline
-
 1. **Planning and Preparation (5 hours)**
     * Initial enquiry
     * Licensing and agreements
@@ -127,15 +118,11 @@ Practical work consists of project work and a report to be submitted at the end 
 
 The questions will cover all chapters in the syllabus. The evaluation scheme is as follows:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 & 4 | All | 16 |
-| 2 | 2 | All | 16 |
-| 3 | 3 | All | 16 |
-| 4 | 5 | All | 16 |
-| 5 | 6 & 7 | All | 16 |
-| **Total** | **-** | **-** | **80** |
-
-*There could be minor deviations in mark distribution.
-
-**Copyright © 2021** 
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1 & 4   | All    | 16     |
+| 2         | 2       | All    | 16     |
+| 3         | 3       | All    | 16     |
+| 4         | 5       | All    | 16     |
+| 5         | 6 & 7   | All    | 16     |
+| **Total** | **-**   | **-**  | **80** |

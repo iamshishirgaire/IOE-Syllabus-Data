@@ -1,24 +1,3 @@
-# Syllabus
-
-## **COMMUNICATION ENGLISH**
-
-### Course Introduction
-
-This course is designed for the students of engineering with the objective of developing all four skills of communication applicable in the professional field.
-
-### Course Objectives
-
-To make students able to:
-
-* comprehend reading materials both technical and semi-technical in nature
-* develop grammatical competence
-* write notice, agenda, minutes
-* write proposals
-* write reports
-* write research articles
-* listen and follow instruction, description and conversation in native speakers' accent
-* do discussion in group, deliver talk and present brief oral reports
-
 ## Unit I: Reading (15 hours)
 
 1. **Intensive Reading (8 hours)** 
@@ -115,17 +94,17 @@ To make students able to:
 
 ## Language Lab (30 hours)
 
-| Unit | Activity | Hours |
-|---|---|---|
-| **Unit I: Listening** | **Activity I:** General instruction on effective listening, factors influencing listening, and note-taking to ensure attention. (Equipment Required: Laptop, multimedia, laser pointer, overhead projector, power point, DVD, video set, screen) | 2 |
-|  | **Activity II:** Listening to recorded authentic instruction followed by exercises. (Equipment Required: Cassette player or laptop) | 2 |
-|  | **Activity III:** Listening to recorded authentic description followed by exercises. (Equipment Required: Cassette player or laptop) | 4 |
-|  | **Activity IV:** Listening to recorded authentic conversation followed by exercises (Equipment Required: Cassette player or laptop) | 4 |
-| **Unit II: Speaking** | **Activity I:** General instruction on effective speaking ensuring audience's attention, comprehension and efficient use of Audio-visual aids. (Equipment Required: Laptop, multimedia, laser pointer, DVD, video, overhead projector, power point, screen) | 2 |
-|  | **Activity II:** Making students express their individual views on the assigned topics (Equipment Required: Microphone, movie camera) | 2 |
-|  | **Activity III:** Getting students to participate in group discussion on the assigned topics | 4 |
-|  | **Activity IV:** Making students deliver talk either individually or in group on the assigned topics (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen) | 8 |
-|  | **Activity V:** Getting students to present their brief oral reports individually on the topics of their choice. (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen) | 2 |
+| Unit                  | Activity                                                                                                                                                                                                                                                    | Hours |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| **Unit I: Listening** | **Activity I:** General instruction on effective listening, factors influencing listening, and note-taking to ensure attention. (Equipment Required: Laptop, multimedia, laser pointer, overhead projector, power point, DVD, video set, screen)            | 2     |
+|                       | **Activity II:** Listening to recorded authentic instruction followed by exercises. (Equipment Required: Cassette player or laptop)                                                                                                                         | 2     |
+|                       | **Activity III:** Listening to recorded authentic description followed by exercises. (Equipment Required: Cassette player or laptop)                                                                                                                        | 4     |
+|                       | **Activity IV:** Listening to recorded authentic conversation followed by exercises (Equipment Required: Cassette player or laptop)                                                                                                                         | 4     |
+| **Unit II: Speaking** | **Activity I:** General instruction on effective speaking ensuring audience's attention, comprehension and efficient use of Audio-visual aids. (Equipment Required: Laptop, multimedia, laser pointer, DVD, video, overhead projector, power point, screen) | 2     |
+|                       | **Activity II:** Making students express their individual views on the assigned topics (Equipment Required: Microphone, movie camera)                                                                                                                       | 2     |
+|                       | **Activity III:** Getting students to participate in group discussion on the assigned topics                                                                                                                                                                | 4     |
+|                       | **Activity IV:** Making students deliver talk either individually or in group on the assigned topics (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen)                                      | 8     |
+|                       | **Activity V:** Getting students to present their brief oral reports individually on the topics of their choice. (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen)                          | 2     |
 
 
 ## Prescribed Books:
@@ -149,30 +128,25 @@ To make students able to:
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Testing Items | Number of Questions | Marks Distribution* |
-|---|---|---|---|
-| I | Reading Passages | 3 | 15 |
-|  | Novel | 1 | 5 |
-|  | Novel | 1 | 5 |
-|  | Grammar | 10 or 5 | 5 |
-| II | Composing & Editing strategies | 1 | 5 |
-|  | MLA and APA Comparison | 1 | 4 |
-|  | Writing Research Articles | 1 | 10 |
-|  | Writing notice, Agenda and minutes | 1 | 5 |
-|  | Writing Proposal | 1 | 8 |
-|  | Writing Reports (Formal Report) | 1 | 10 |
-|  | Writing short reports or Project Report | 1 | 8 |
-| **Total** | **|** | **80** |
+| Unit      | Testing Items                           | Number of Questions | Marks Distribution* |
+| --------- | --------------------------------------- | ------------------- | ------------------- |
+| I         | Reading Passages                        | 3                   | 15                  |
+|           | Novel                                   | 1                   | 5                   |
+|           | Novel                                   | 1                   | 5                   |
+|           | Grammar                                 | 10 or 5             | 5                   |
+| II        | Composing & Editing strategies          | 1                   | 5                   |
+|           | MLA and APA Comparison                  | 1                   | 4                   |
+|           | Writing Research Articles               | 1                   | 10                  |
+|           | Writing notice, Agenda and minutes      | 1                   | 5                   |
+|           | Writing Proposal                        | 1                   | 8                   |
+|           | Writing Reports (Formal Report)         | 1                   | 10                  |
+|           | Writing short reports or Project Report | 1                   | 8                   |
+| **Total** | **                                      | **                  | **80**              |
 
 
 ## Language Lab
 
-| Testing Items | Number of Questions | Marks Distribution* |
-|---|---|---|
-| Listening:  <ul type="disc"><li>Instruction</li><li>Description</li><li>Conversation</li></ul> | 3 | 10 |
-| Speaking:  <ul type="disc"><li>Expressing Individual views</li><li>Group / Round Table discussion</li><li>Talk delivery</li><li>Presenting brief oral report</li></ul> | 3 | 15 |
-
-***There could be minor deviation in mark distribution.***
-
-
-## Copyright &copy; 2021 
+| Testing Items                                                                                                      | Number of Questions | Marks Distribution* |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------- |
+| Listening:  Instruction Description Conversation                                                                   | 3                   | 10                  |
+| Speaking: Expressing Individual views Group / Round Table discussionTalk delivery</li>Presenting brief oral report | 3                   | 15                  |

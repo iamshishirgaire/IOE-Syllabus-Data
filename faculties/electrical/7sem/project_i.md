@@ -1,11 +1,3 @@
-## Syllabus
-
-**PROJECT - I**
-
-**Course Objective:**
-
-To plan an electrical engineering project under the supervision of an instructor. During the project, students have to design a functional project.
-
 **Tasks:**
 
 In the development of the project, each group of students will be expected to:
@@ -16,7 +8,3 @@ In the development of the project, each group of students will be expected to:
 4. Initiate and maintain contact through regular progress meetings with the initiator of the project or the immediate faculty supervisor.
 5. At the end of this semester, students will come up with a report with a complete literature review and final methodology to be adopted with sample analysis.
 6. End semester defense.
-
----
-
-**Copyright © 2021** 

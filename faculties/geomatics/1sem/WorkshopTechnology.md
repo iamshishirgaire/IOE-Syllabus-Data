@@ -1,10 +1,3 @@
-# Syllabus
-
-**WORKSHOP TECHNOLOGY  
-ME 403**  
-**Course Objective:**  
-To impart knowledge and skill components in the field of basic workshop technology. To be familiar with different hand and machine tools required for manufacturing simple metal components and articles.
-
 1. **General Safety Considerations (2 hours)**
 2. **Hand Working Operations (1 hours)**
 3. **Measuring and Gauging (1hours)**
@@ -48,5 +41,3 @@ To impart knowledge and skill components in the field of basic workshop technolo
 11. H. S. Bawa, “Workshop Technology - Vol. I”, Tata Mc – Graw Hill publishing company Limited, New Delhi, INDIA,
 12. H. S. Bawa, “Workshop Technology - Vol. II” , Tata Mc – Graw Hill publishing company Limited, New Delhi, INDIA,
 13. R. S. Khurmi and J. K. Gupta, “A text book of Workshop Technology”, S. Chand and Company Ltd, New Delhi. INDIA
-
-#### Copyright&copy; 2021

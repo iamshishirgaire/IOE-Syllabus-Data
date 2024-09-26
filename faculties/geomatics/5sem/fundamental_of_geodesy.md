@@ -1,10 +1,3 @@
-# Syllabus
-
-**FUNDAMENTALS OF GEODESY**
-
-**Objectives:**  
-To impart knowledge on fundamentals of Geodesy and develop skills in computer programming.
-
 1. **Introduction** **(3 hours)**
 2. **The System of Natural Coordinates** **(6 hours)**
 3. **Approximation the Natural System of Coordinates** **(6 hours)**
@@ -47,16 +40,13 @@ Assessment: Averaging of three
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2|9|16|
-|2|3,4.1-4.3|9|16|
-|3|4.4, 4.5,5|9|16|
-|4|6|9|16|
-|5|7|9|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 1,2         | 9         | 16                     |
+| 2         | 3,4.1-4.3   | 9         | 16                     |
+| 3         | 4.4, 4.5,5  | 9         | 16                     |
+| 4         | 6           | 9         | 16                     |
+| 5         | 7           | 9         | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

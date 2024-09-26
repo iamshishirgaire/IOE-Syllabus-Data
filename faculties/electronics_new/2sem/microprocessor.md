@@ -1,13 +1,3 @@
-# Syllabus
-
-## **MICROPROCESSORS**
-
-**Course Objective:**
-
-The objective of the course is to familiarize students with programming, hardware and application of microprocessor.
-
-### **Topics Covered:**
-
 1. **Introduction (4 hours)**
     * Introduction and History of Microprocessors
     * Basic Block Diagram of a Computer
@@ -120,18 +110,14 @@ There will be about 12 lab exercises to program 8085 and 8086 microprocessors.
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 10 | 16 |
-| 3 | 12 | 16 |
-| 4 | 10 | 16 |
-| 5 | 5 | 8 |
-| 6 | 4 | 8 |
-| 1,2,3,4,5,6 | - | 8 |
-| **Total** | **45** | **80** |
+| Chapters    | Hours  | Marks distribution* |
+| ----------- | ------ | ------------------- |
+| 1           | 4      | 8                   |
+| 2           | 10     | 16                  |
+| 3           | 12     | 16                  |
+| 4           | 10     | 16                  |
+| 5           | 5      | 8                   |
+| 6           | 4      | 8                   |
+| 1,2,3,4,5,6 | -      | 8                   |
+| **Total**   | **45** | **80**              |
 
-***There could be a minor deviation in Marks distribution***
-
-
-## **Copyright &copy; 2021**

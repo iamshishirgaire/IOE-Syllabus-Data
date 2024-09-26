@@ -1,9 +1,3 @@
-## Syllabus: ELECTRICAL MACHINES I
-
-**Course Objectives:**
-
-To impart knowledge on constructional details, operating principle and performance of Transformers, DC Machines, and 3-phase Induction Machines.
-
 ### 1. Magnetic Circuits and Induction (4 hours)
 
 * Magnetic Circuits: Series and Parallel Magnetic Circuits
@@ -113,15 +107,11 @@ To impart knowledge on constructional details, operating principle and performan
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicates in the table below.
 
 | Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 12 | 24 |
-| 3 | 7 | 12 |
-| 4 | 7 | 12 |
-| 5 | 12 | 24 |
-| Total | 42 | 80 |
+| ------- | ----- | ------------------- |
+| 1       | 4     | 8                   |
+| 2       | 12    | 24                  |
+| 3       | 7     | 12                  |
+| 4       | 7     | 12                  |
+| 5       | 12    | 24                  |
+| Total   | 42    | 80                  |
 
-**\* There could be a minor deviation in the marks distribution.**
-
-
-**Copyright © 2021** 

@@ -1,11 +1,3 @@
-## Syllabus: Marketing Management
-
-**Course Objectives:**
-
-After completing this course, students will understand the concept and importance of marketing management.
-
-**Course Outline:**
-
 1. **Concept and Framework of Marketing Management (10 hours)**
     * Core concepts of marketing: needs, wants, and demands.
     * Different orientations towards the marketplace: the production concept, the product concept, the selling concept, the marketing concept, and the social marketing concepts.
@@ -38,16 +30,13 @@ After completing this course, students will understand the concept and importanc
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 10 | 20 |
-| 2 | 6 | 15 |
-| 3 | 10 | 20 |
-| 4 | 4 | 5 |
-| 5 | 10 | 15 |
-| 6 | 5 | 5 |
-| **Total** | **45** | **80** |
+| Chapters  | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 10     | 20                 |
+| 2         | 6      | 15                 |
+| 3         | 10     | 20                 |
+| 4         | 4      | 5                  |
+| 5         | 10     | 15                 |
+| 6         | 5      | 5                  |
+| **Total** | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021** 

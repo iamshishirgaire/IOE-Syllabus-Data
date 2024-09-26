@@ -1,11 +1,3 @@
-# Syllabus
-
-## **POWER SYSTEM ANALYSIS-I**
-
-**Course Objective:**  The course aims to deliver the basic principles and fundamental analysis techniques for generation, transmission, and distribution components of a power system as a first course in power systems.
-
-### **Course Content**
-
 1. **General Background (6 hours)**
     - Power System Evolution
     - Generation, Transmission and Distribution Components
@@ -70,18 +62,13 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 8 | 12 |
-| 3 | 8 | 16 |
-| 4 | 10 | 16 |
-| 5 | 4 | 10 |
-| 6 | 8 | 16 |
-| **Total** | **44** | **80** |
+| Chapters  | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 6      | 10                   |
+| 2         | 8      | 12                   |
+| 3         | 8      | 16                   |
+| 4         | 10     | 16                   |
+| 5         | 4      | 10                   |
+| 6         | 8      | 16                   |
+| **Total** | **44** | **80**               |
 
-\* There could be a minor deviation in Marks distribution
-
-***
-
-Copyright&copy; 2021

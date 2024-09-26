@@ -1,13 +1,3 @@
-# Syllabus
-
-## POWER PLANT ENGINEERING
-
-**Course objective**
-
-After completion of the subject student will be able to gain basic knowledge of the design and operation of the power plants of the industrial application.
-
-**Course Outline**
-
 1. **Layout Of Power Plant (3 Hours)**
     - Layouts of Steam, hydel, diesel, MHD, nuclear and gas turbine power plants
     - Combined power cycles
@@ -79,18 +69,13 @@ Students will be divided into different groups and will be guided and supervised
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Layout Of Power Plant | 3 | 6 |
-| 2 | Steam Boiler And Cycles | 10 | 16 |
-| 3 | Fuel and ash handling, combustion chamber, draught, air pollution | 10 | 16 |
-| 4 | Instrumentation, testing of boilers, power plant economics nuclear and mhd power generation | 10 | 16 |
-| 5 | Design, site selection , layout , management, operation and maintenance of large scale renewable energy (wind , solar , bio fuel and biomass ) electric and thermal power generating system | 6 | 14 |
-| 6 | Design, site selection , layout , management, operation and maintenance of large scale co-generation and waste recovery power plants | 6 | 12 |
-| **Total** |  | **45** | **80** |
+| Unit      | Chapters                                                                                                                                                                                    | Hour   | Mark Distribution* |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------ |
+| 1         | Layout Of Power Plant                                                                                                                                                                       | 3      | 6                  |
+| 2         | Steam Boiler And Cycles                                                                                                                                                                     | 10     | 16                 |
+| 3         | Fuel and ash handling, combustion chamber, draught, air pollution                                                                                                                           | 10     | 16                 |
+| 4         | Instrumentation, testing of boilers, power plant economics nuclear and mhd power generation                                                                                                 | 10     | 16                 |
+| 5         | Design, site selection , layout , management, operation and maintenance of large scale renewable energy (wind , solar , bio fuel and biomass ) electric and thermal power generating system | 6      | 14                 |
+| 6         | Design, site selection , layout , management, operation and maintenance of large scale co-generation and waste recovery power plants                                                        | 6      | 12                 |
+| **Total** |                                                                                                                                                                                             | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
----
-
-**Copyright © 2021**

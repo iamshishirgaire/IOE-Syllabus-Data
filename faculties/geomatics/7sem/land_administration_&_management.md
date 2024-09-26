@@ -1,12 +1,3 @@
-# Syllabus
-
-**LAND ADMINISTRATION AND MANAGEMENT**
-
-**Course objective:**  
-The objective of the course is to introduce the Geomatics Engineering students with the basic Knowledge of land registration and management. The overall course is designed to make the students able to learn and understand the theory of Land Administration and acquainted with the real problem in land registration and management.
-
-**Course Content:**
-
 1. **Introduction** **(4 hours)**
 2. **Land Administration & Land policy** **(4 hours)**
 3. **Land Tenure** **(8 hours)**
@@ -44,16 +35,13 @@ The objective of the course is to introduce the Geomatics Engineering students w
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|:---:|---|---|---|
-|**S. No.**|**Chapter**|**Hours**|**Marks Distribution\***|
-|1|1,2|8|16|
-|2|3,4|12|16|
-|3|5|8|16|
-|4|6,7|9|16|
-|5|8|8|16|
-|**Total**|**45**|**80**|
+|            |             |           |                          |
+| :--------: | ----------- | --------- | ------------------------ |
+| **S. No.** | **Chapter** | **Hours** | **Marks Distribution\*** |
+|     1      | 1,2         | 8         | 16                       |
+|     2      | 3,4         | 12        | 16                       |
+|     3      | 5           | 8         | 16                       |
+|     4      | 6,7         | 9         | 16                       |
+|     5      | 8           | 8         | 16                       |
+| **Total**  | **45**      | **80**    |
 
-\* There may be minor variation in marks distribution.
-
-#### Copyright&copy; 2021

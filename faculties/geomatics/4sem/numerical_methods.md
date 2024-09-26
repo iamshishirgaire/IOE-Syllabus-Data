@@ -1,10 +1,3 @@
-# Syllabus
-
-**NUMERICAL METHODS**
-
-**Course objective:**  
-The course aims to introduce numerical methods used for the solution of engineering problems. The course emphasizes algorithm development and programming and application to realistic engineering problems.
-
 1. **Introduction, Approximation and errors of computation(4 hours)**
 2. **Solutions of Nonlinear Equations(5 hours)**
 3. **Solution of system of linear algebraic equations(8 hours)**
@@ -32,17 +25,14 @@ Algorithm and program development in C programming language of following:
 5. JAAN KIUSALAAS , " Numerical Methods in Engineering with MATLAB" , Cambridge Publication
 **Evaluation scheme:**  
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below
-||||
-|---|---|---|
-|**Chapters**|**Hours**|**Marks Distribution\***|
-|1 & 2|9|16|
-|3|8|16|
-|4|8|16|
-|5|6|10|
-|6|6|10|
-|7|8|12|
-|Total|45|80|
+|              |           |                          |
+| ------------ | --------- | ------------------------ |
+| **Chapters** | **Hours** | **Marks Distribution\*** |
+| 1 & 2        | 9         | 16                       |
+| 3            | 8         | 16                       |
+| 4            | 8         | 16                       |
+| 5            | 6         | 10                       |
+| 6            | 6         | 10                       |
+| 7            | 8         | 12                       |
+| Total        | 45        | 80                       |
   
-**\* There could be a minor deviation in the marks distribution**
-
-#### Copyright&copy; 2021

@@ -1,13 +1,3 @@
-## Syllabus
-
-**AUTOMOBILE ENGINEERING ENTERPRISES**
-
-**Course Objectives:**
-
-To prepare students for the automobile engineering enterprises in the country and abroad.
-
-### **Course Content**
-
 1. **Fundamentals of Automobile Overhaul (15 hours)**
     * Introduction. Scope and importance
     * Overhauling of engines. Machines and equipment for overhauling. Lifting and handling equipment, measuring and quality control equipment, their operation. Overhauling by over sizing and under sizing of components. Overhauling by rebuilding of components. Overhauling by replacement of components.
@@ -92,18 +82,13 @@ To prepare students for the automobile engineering enterprises in the country an
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics                                       | Marks* |
-| ----- | -------- | ---------------------------------------------- | ------ |
-| 1     | 1       | 1.1 to 1.3                                    | 16     |
-| 2     | 1       | 1.4 & 1.5                                     | 16     |
-| 2     | 5       | all                                            | 16     |
-| 3     | 2       | all                                            | 16     |
-| 4     | 3 & 4   | all                                            | 16     |
-| 5     | 6       | all                                            | 16     |
-|       |         | **Total**                                       | **80** |
+| Unit | Chapter | Topics     | Marks* |
+| ---- | ------- | ---------- | ------ |
+| 1    | 1       | 1.1 to 1.3 | 16     |
+| 2    | 1       | 1.4 & 1.5  | 16     |
+| 2    | 5       | all        | 16     |
+| 3    | 2       | all        | 16     |
+| 4    | 3 & 4   | all        | 16     |
+| 5    | 6       | all        | 16     |
+|      |         | **Total**  | **80** |
 
-*There could be minor deviation in mark distribution.
-
-### Copyright
-
-Copyright&copy; 2021

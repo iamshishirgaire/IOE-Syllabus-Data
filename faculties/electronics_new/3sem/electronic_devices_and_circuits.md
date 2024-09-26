@@ -1,14 +1,3 @@
-# Syllabus
-
-## Electronic Devices and Circuits
-
-**Course Objectives:**
-
-* To introduce the fundamentals of analysis of electronic circuits
-* To provide basic understanding of semiconductor devices and analog integrated circuits
-
-### **Topics**
-
 1. **Diodes (5 hours)**
    * The Ideal Diode
    * Terminal Characteristics of Junction Diodes
@@ -86,19 +75,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 10 | 16 |
-| 3 | 9 | 16 |
-| 4 | 9 | 14 |
-| 5 | 6 | 8 |
-| 6 | 6 | 8 |
-| 1,2, 3, 4, 5, 6 |  | 10 |
-| **Total** | 45 | 80 |
+| Chapters        | Hours | Marks Distribution* |
+| --------------- | ----- | ------------------- |
+| 1               | 6     | 8                   |
+| 2               | 10    | 16                  |
+| 3               | 9     | 16                  |
+| 4               | 9     | 14                  |
+| 5               | 6     | 8                   |
+| 6               | 6     | 8                   |
+| 1,2, 3, 4, 5, 6 |       | 10                  |
+| **Total**       | 45    | 80                  |
 
-**\* There could be a minor deviation in the marks distribution.**
-
----
-
-**Copyright © 2021** 

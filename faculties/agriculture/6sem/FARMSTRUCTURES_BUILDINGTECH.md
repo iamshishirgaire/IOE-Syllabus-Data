@@ -6,7 +6,7 @@
     * Components of foundation
     * Simple spread footing foundations
     * Common problems with foundations
-<br>
+
 
 2. **Brick and stone masonry [4 hours]**
     * **Brick masonry**
@@ -28,25 +28,25 @@
     * **Partition and cavity wall**
         * Partition wall
         * Cavity wall
-<br>
+
 
 3. **Damp prevention [2 hours]**
     * Source and effect of dampness
     * Prevention of dampness
     * Waterproofing mixtures
     * Waterproof surface treatment
-<br>
+
 
 4. **Lintel and Arches [2 hours]**
     * Types of Lintels and their use
     * Types of Arches
     * Centering of arches
-<br>
+
 
 5. **Floors [2 hours]**
     * Types of floors
     * General principles for the selection of floors and flooring materials
-<br>
+
 
 6. **Roofs and roof coverings [2 hours]**
     * Classification of roofs - Flat and Pitched
@@ -55,21 +55,21 @@
     * Constructional details of flat and pitched roofs
     * Roof coverings - Thatch, Tiles, slates, CGI and AC sheets
     * Selection of roof covering
-<br>
+
 
 7. **Staircases [2 hours]**
     * Elements of staircase
     * Types of stair
     * Relation between rise and tread of stair
     * Simple design of stair
-<br>
+
 
 8. **Doors and windows [2 hours]**
     * Location, size, and materials of Doors and Windows
     * Door parts - Frame, shutter and their detail
     * Fittings of door and windows
     * Ventilators - types and detail
-<br>
+
 
 9. **Plastering and Pointing [2 hours]**
     * Materials for plastering
@@ -77,7 +77,7 @@
     * Defects in Plastering
     * External finishes
     * Pointing - Types and use
-<br>
+
 
 10. **Painting, Distempering and Whitewashing [2 hours]**
     * Types of paints
@@ -85,19 +85,19 @@
     * Surface
     * Distempering
     * White washing and colour washing
-<br>
+
 
 11. **Thermal Insulation [2 hours]**
     * Heat transference
     * Types of insulating materials and their applications
     * Thermal insulation of roofs, walls, and floors
     * Thermal treatment in tropical and subtropical regions
-<br>
+
 
 12. **Ventilation [2 hours]**
     * Types of ventilations - Natural and Mechanical ventilation
     * Requirements of a good ventilation system in Residential and Farm buildings
-<br>
+
 
 13. **Lighting [2 hours]**
     * Requirements of lighting in Residential and Farm buildings
@@ -109,7 +109,7 @@
 1. **Selection and Planning of Structures [2 hours]**
     * Types of farmstead
     * Planning principles and layout of farmstead
-<br>
+
 
 2. **Dairy Cattle Housing [2 hours]**
     * Functional requirements and sizing
@@ -117,7 +117,7 @@
     * Types of dairy cattle housing and their relative merits and demerits
     * Structural details
     * Functional and structural requirements of milking parlor
-<br>
+
 
 3. **Poultry Housing [2 hours]**
     * Functional requirements and sizing
@@ -125,32 +125,32 @@
     * Types of poultry housing and their relative merits and demerits
     * Structural details
     * Structures for poultry feeding and watering
-<br>
+
 
 4. **Swine Housing [2 hours]**
     * Functional requirements and sizing
     * Location and orientations
     * Types of swine housing
     * Structural details
-<br>
+
 
 5. **Goat and Sheep Housing [2 hours]**
     * Functional requirements and sizing
     * Location and orientations
     * Types of Goat and Sheep housing
     * Structural details
-<br>
+
 
 6. **Fish ponds [2 hours]**
     * Functional requirements
     * Constructions and maintenance of Fish ponds
-<br>
+
 
 7. **Feed and Forage structures [2 hours]**
     * Bag and bulk storage structures
     * Silo
     * Sizing and structural details of trench, pit and tower silo
-<br>
+
 
 8. **Green house and Poly house [2 hours]**
     * Purpose of greenhouse and poly house

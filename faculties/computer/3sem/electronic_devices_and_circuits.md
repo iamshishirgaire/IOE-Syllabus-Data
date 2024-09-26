@@ -5,7 +5,7 @@
     4. Analysis of Diode Circuits
     5. Small Signal Model and Its Application
     6. Operation in the Reverse Breakdown Region-Zener Diodes 
-    <br>
+    
 2. **The Bipolar Junction Transistor(10 hours)**
     1. Operation of the npn transistor in the Active Mode
     2. Graphical Representation of Transistor Characteristics
@@ -17,7 +17,7 @@
     8. Basic Single-Stage BJT Amplifier Configurations (C-B, C-E, C-C)
     9. Transistor as a Switch–Cut off and Saturation
     10. A General Large-Signal Model for the BJT: The Ebers-Moll Model
-    <br>
+    
 3. **Field-Effect Transistor(9 hours)**
     1. Structure and Physical Operation of  Enhancement-Type MOSFET 
     2. Current-Voltage Characteristics of  Enhancement-Type MOSFET
@@ -26,7 +26,7 @@
     5. MOSFET as an Amplifier
     6. Biasing in MOS Amplifier Circuits 
     7. Junction Field-Effect Transistor
-    <br>
+    
 4. **Output Stages and Power Amplifiers(9 hours)**
     1. Classification of Output Stages
     2. Class A Output Stage
@@ -36,7 +36,7 @@
     6. Power BJTs 
     7. Transformer-Coupled Push-Pull Stages*
     8. Tuned Amplifiers
-    <br>
+    
 5. **Signal Generator and Waveform-Shaping Circuits(6 hours)**
     1. Basic Principles of Sinusoidal Oscillator
     2. Op Amp-RC Oscillator Circuits
@@ -44,7 +44,7 @@
     4. Generation of Square and Triangular Waveforms  Using Astable Multivibrators
     5. Integrated Circuit Timers
     6. Precision Rectifier Circuits
-    <br>
+    
 6. **Power Supplies, Breakdown Diodes, and Voltage Regulators**<strong>(6 hours)</strong>
     1. Unregulated Power Supply
     2. Bandgap Voltage Reference, A Constant Current  Diodes

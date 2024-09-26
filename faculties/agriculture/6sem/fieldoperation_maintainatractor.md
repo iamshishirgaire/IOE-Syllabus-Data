@@ -34,4 +34,3 @@ After completion of this course, the students will be able to:
 1. Continue assessment system
 2. Viva-voce and practical test at the end of the semester 
 
-**Copyright © 2021** 

@@ -4,14 +4,14 @@
         * Homogeneous  function, Euler&rsquo;s theorem for the function of two and three variables
         * Total Derivatives
     * Extrema of functions of two and three variables: Lagrange&rsquo;s Multiplier
-<br>
+
 
 2. **Multiple Integrals(6 hours)**
     * Introduction
     * Double  Integrals in Cartesian and Polar form: Change of order of integration
     * Triple  Integrals in Cartesian, Cylindrical and Spherical coordinates
     * Area  and Volume by Double and Triple Integrals
-<br>
+
 
 3. **Three Dimensional Solid Geometry(11  hours)**
     * The  Straight Line; Symmetric and General form
@@ -22,7 +22,7 @@
     * Tangent  Planes and Lines to the Spheres
     * Right  Circular Cone 
     * Right  Circular Cylinder
-<br>
+
 
 4. **Solution of  Differential Equations in Series and Special Functions****(9 hours)**
     * Solution  of Differential Equation by Power Series Method
@@ -30,7 +30,7 @@
     * Legendre's  Polynomial function: Properties and Applications.
     * Bessel&rsquo;s  Equation
     * Bessel&rsquo;s  Function of First and Second kind: Properties and Applications
-<br>
+
 
 5. **Vector Algebra and Calculus(8 hours)**
     * Introduction
@@ -41,7 +41,7 @@
     * Scalar  and Vector fields
     * Derivatives– Velocity and Acceleration
     * Directional  Derivatives
-<br>
+
 
 6. **Infinite Series(5 hours)**
     * Introduction

@@ -1,16 +1,3 @@
-# Syllabus
-
-## **PROJECT ENGINEERING**
-
-**Course Objective:**
-
-1. To introduce the basic knowledge on project and project environment
-2. To make the students able to prepare feasibility study report and project proposal. 
-3. To provide the sound knowledge of project planning, implementation and controlling.  
-4. To provide knowledge on risk associated with the project
-5. To provide the knowledge of project finance and 
-6. To provide the concept of modern trends and techniques of project management. 
-
 ### **1. Introduction of Project and Project Management [6 hours]**
 
 * Definition of Project, its characteristics, and example of project.
@@ -90,16 +77,13 @@
 
 The questions will cover all the chapters in the Syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 8 | 12 |
-| 3 | 12 | 24 |
-| 4 | 7 | 12 |
-| 5 | 7 | 12 |
-| 6 | 5 | 10 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 10                  |
+| 2         | 8      | 12                  |
+| 3         | 12     | 24                  |
+| 4         | 7      | 12                  |
+| 5         | 7      | 12                  |
+| 6         | 5      | 10                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
-
-## **Copyright&copy; 2021** 

@@ -1,12 +1,3 @@
-## Syllabus: Economics of Automobile
-
-**Course Objective:**
-
-* To provide a global view of the automobile-related industry.
-* To provide down-to-earth knowledge of economics involving the automobile as the key component.
-
-**Course Outline:**
-
 1. **Economic Management of Road Transport (11 hours)**
     * Introduction: Importance of Road Transport, Scope, Economic Function, Government involvement, Future development in Transport Classification of hydropower and end uses
     * Demand on Road Transport: Factors affecting demand: Land use pattern, Quality of service, Price, Time value, Demand Analysis Introduction of Hydropower plant in Nepal
@@ -98,15 +89,12 @@
 * The questions will cover all the chapters in the syllabus. 
 * The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | all | 16 |
-| 2 | 2 | all | 16 |
-| 3 | 3 & 4 | all | 16 |
-| 4 | 6 | all | 16 |
-| 5 | 5 & 7 | all | 16 |
-| **Total** | | | **80** |
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1       | all    | 16     |
+| 2         | 2       | all    | 16     |
+| 3         | 3 & 4   | all    | 16     |
+| 4         | 6       | all    | 16     |
+| 5         | 5 & 7   | all    | 16     |
+| **Total** |         |        | **80** |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright&copy; 2021** 

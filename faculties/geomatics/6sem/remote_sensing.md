@@ -1,12 +1,3 @@
-# Syllabus
-
-**REMOTE SENSING**
-
-**Course Objectives:**  
-The course objective is to introduce the modern quantitative approach of survey technique. It uses remote sensing techniques in optical, infrared and microwave radiation zones. At the end of the course, the students gain theoretical knowledge and practical approach on information extraction by the use of electromagnetic radiation.
-
-**Course Content:**
-
 1. **Introduction** **(3 hours)**
 2. **Radiation principles** **(6 hours)**
 3. **Remote Sensing Systems** **(6 hours)**
@@ -41,16 +32,13 @@ The course objective is to introduce the modern quantitative approach of survey 
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1-2|9|16|
-|2|3,4.1|9|16|
-|3|4.2, 5|9|16|
-|4|6|6|16|
-|5|7,8|9|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 1-2         | 9         | 16                     |
+| 2         | 3,4.1       | 9         | 16                     |
+| 3         | 4.2, 5      | 9         | 16                     |
+| 4         | 6           | 6         | 16                     |
+| 5         | 7,8         | 9         | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

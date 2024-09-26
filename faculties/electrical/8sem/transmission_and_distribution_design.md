@@ -1,13 +1,3 @@
-## Syllabus
-
-**TRANSMISSION AND DISTRIBUTION DESIGN**
-
-**Course Objectives:**
-
-To address general matters of electrical power and energy demand load characteristics, technical requirements and economic principles related to design of transmission lines and distribution systems.
-
-### Topics
-
 1. **Introduction [4 hours]**
     - Advantages of grid systems
     - Transmission line design & planning
@@ -78,17 +68,14 @@ To address general matters of electrical power and energy demand load characteri
 ### Evaluation Scheme
 
 | Chapter | Hours | Marks Distributions\* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 8 | 16 |
-| 4 | 10 | 16 |
-| 5 | 4 | 8 |
-| 6 | 7 | 16 |
-| 7 | 5 | 8 |
+| ------- | ----- | --------------------- |
+| 1       | 4     | 8                     |
+| 2       | 4     | 8                     |
+| 3       | 8     | 16                    |
+| 4       | 10    | 16                    |
+| 5       | 4     | 8                     |
+| 6       | 7     | 16                    |
+| 7       | 5     | 8                     |
 
 \*There could be a minor deviation in Marks distribution 
 
-### Copyright
-
-Copyright © 2021

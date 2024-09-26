@@ -4,19 +4,19 @@
     - Damped oscillation
     - Forced mechanical oscillation
     - EM Oscillation: Free, Damped and Forced Electromagnetic oscillation
-<br>
+
 
 **2. Wave motion (2 hours)**
     - Waves and particles
     - Progressive wave
     - Energy, power and intensity of progressive wave
-<br>
+
 
 **3. Acoustics (3 hours)**
     - Reverberation
     - Sabine's Law
     - Ultrasound and its applications
-<br>
+
 
 **4. Physical Optics (12 hours)**
     - **Interference**
@@ -24,34 +24,34 @@
         - Interference in thin films
         - Newton's rings
         - Hadinger fringes
-    <br>
+    
     - **Diffraction**
         - Fresnel and Fraunhoffer's diffraction
         - Intensity due to a single slit
         - Diffraction grating
         - X-ray diffraction, X-ray for material test
-    <br>
+    
     - **Polarization**
         - Double refraction
         - Nichol prism, Wave plates
         - Optical activity, Specific rotation
-<br>
+
 
 **5. Geometrical Optics (3 hours)**
     - Lenses, combination of lenses 
     - Cardinal points 
     - Chromatic aberration
-<br>
+
 
 **6. Laser and Fiber Optics (4 hours)**
     - **Laser production**
         - He-Ne laser
         - Uses of laser
-    <br>
+    
     - **Fiber Optics**
         - Self focusing
         - Applications of Optical fiber
-<br>
+
 
 **7. Electrostatics (8 hours)**
     - Electric charge and Force 
@@ -59,13 +59,13 @@
     - Electrostatic potential energy 
     - Capacitors, Capacitor with dielectric 
     - Charging and Discharging of a capacitor
-<br>
+
 
 **8. Electromagnetism (11 hours)**
     - **Direct Current:** Electric current 
         - Ohm's law, Resistance and Resistivity 
         - Semiconductor and Superconductor
-    <br>
+    
     - **Magnetic Fields:**
         - Magnetic force and Torque 
         - Hall effect
@@ -75,7 +75,7 @@
         - Faraday's laws, Induction and Energy transformation, Induced field 
         - LR circuit, Induced Magnetic field
         - Displacement current
-<br>
+
 
 **9. Electromagnetic Waves (5 hours)**
     - Maxwell's equations
@@ -83,7 +83,7 @@
     - E and B fields
     - Continuity equation
     - Energy transfer 
-<br>
+
 
 **10. Photon and Matter Waves (5 hours)**
     - Quantization of energy

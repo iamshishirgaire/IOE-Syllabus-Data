@@ -1,13 +1,3 @@
-# Syllabus
-
-## **PLANT LAYOUT DESIGN AND OHS**
-
-**Course objective** 
-
-After completion of the course, students will have knowledge about plant layout and design, which makes them able to design an optimum plant for production according to manufacturing process, raw material, and other resources.
-
-**Course outline**
-
 1. **Introduction to plant design and plant location (1 hours)** 
     * Definition of Plant Layout
     * Types of Manufacturing Process - Plant Design
@@ -102,23 +92,20 @@ After completion of the course, students will have knowledge about plant layout 
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction to plant design | 1 | 2 |
-| 2 | Plant location | 2 | 4 |
-| 3 | Industrial buildings | 2 | 4 |
-| 4 | Plant layout problem | 4 | 6 |
-| 5 | Data collection | 2 | 4 |
-| 6 | Evaluation of layout | 2 | 4 |
-| 7 | Common problems in plant layout | 2 | 4 |
-| 8 | Material handling | 5 | 6 |
-| 9 | Case Study | 5 | 6 |
-| 10 | Industrial Hygiene and safety | 10 | 20 |
-| 11 | Industrial psychology | 10 | 20 |
-| **Total** |  | **45** | **80** |
+| Unit      | Chapters                        | Hour   | Mark Distribution* |
+| --------- | ------------------------------- | ------ | ------------------ |
+| 1         | Introduction to plant design    | 1      | 2                  |
+| 2         | Plant location                  | 2      | 4                  |
+| 3         | Industrial buildings            | 2      | 4                  |
+| 4         | Plant layout problem            | 4      | 6                  |
+| 5         | Data collection                 | 2      | 4                  |
+| 6         | Evaluation of layout            | 2      | 4                  |
+| 7         | Common problems in plant layout | 2      | 4                  |
+| 8         | Material handling               | 5      | 6                  |
+| 9         | Case Study                      | 5      | 6                  |
+| 10        | Industrial Hygiene and safety   | 10     | 20                 |
+| 11        | Industrial psychology           | 10     | 20                 |
+| **Total** |                                 | **45** | **80**             |
 
-*There could be minor deviation in mark distribution. 
 
-***
 
-Copyright&copy; 2021

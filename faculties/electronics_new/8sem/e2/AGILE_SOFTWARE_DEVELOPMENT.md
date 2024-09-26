@@ -1,19 +1,3 @@
-# Syllabus
-
-## **AGILE  SOFTWARE DEVELOPMENT**<br>
-	**CT 765  02**
-
-**Course Objectives:** 
-
-1. Deliver adaptable software iterations and releases based on Agile  methodologies 
-2. Minimize bugs and maximize productivity with Test-Driven  Development and Unit Testing 
-3. Refractor existing code for easier maintenance and improved  design 
-4. Achieve quality design by adopting established coding  principles 
-5. Provide an illustration on real life Agile Implementation  through a case study in Extreme Programming 
-6. Adopt best practices to successfully manage Agile projects 
-
-## Syllabus Outline
-
 1. **Review of Traditional  Approaches[4 hours]**
     * Overview  of Waterfall Model
     * Overview  of Spiral Model
@@ -95,19 +79,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 4 | 7 |
-| 3 | 6 | 12 |
-| 4 | 5 | 7 |
-| 5 | 12 | 22 |
-| 6 | 4 | 7 |
-| 7 | 10 | 18 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 4      | 7                   |
+| 3         | 6      | 12                  |
+| 4         | 5      | 7                   |
+| 5         | 12     | 22                  |
+| 6         | 4      | 7                   |
+| 7         | 10     | 18                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks  distribution
-
-## Copyright
-
-Copyright © 2021

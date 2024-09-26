@@ -1,12 +1,3 @@
-## Syllabus
-
-**OBJECT ORIENTED PROGRAMMING** 
-
-**Course Objective:** 
-To familiarize students with the C++ programming language and use the language to develop pure object oriented programs.
-
-### Course Contents
-
 1. **Introduction to Object Oriented Programming(3 hours)** 
     - Issues with Procedure Oriented Programming
     - Basic of Object Oriented Programming (OOP)
@@ -153,18 +144,12 @@ There will be about 12 lab exercises covering the course. At the end of the cour
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters  | Hours | Marks Distribution* |
-|----------|-------|--------------------|
-| 1, 2, 4  | 11    | 20                  |
-| 3        | 6     | 10                  |
-| 5        | 5     | 10                  |
-| 6        | 5     | 10                  |
-| 8        | 5     | 10                  |
-| 7, 9, 10 | 13    | 20                  |
-| **Total** | **45** | **80**               |
-
-*There may be minor deviation in marks distribution
-
-### Copyright
-
-Copyright&copy; 2021
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1, 2, 4   | 11     | 20                  |
+| 3         | 6      | 10                  |
+| 5         | 5      | 10                  |
+| 6         | 5      | 10                  |
+| 8         | 5      | 10                  |
+| 7, 9, 10  | 13     | 20                  |
+| **Total** | **45** | **80**              |

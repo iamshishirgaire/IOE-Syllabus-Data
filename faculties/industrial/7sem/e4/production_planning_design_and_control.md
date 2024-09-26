@@ -1,13 +1,3 @@
-## Syllabus
-
-**PRODUCTION PLANNING, DESIGN AND CONTROL**
-
-**Course objective**
-
-After the completion of this course, students will be able to develop awareness and understanding of productivity and its importance for individuals, organizations and society.
-
-**Course outline**
-
 1. **Introduction to productivity and productivity management (4 hours)**
    * What is Productivity?
    * Characteristics of Productivity
@@ -86,19 +76,17 @@ After the completion of this course, students will be able to develop awareness 
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters                                               | Hour | Mark Distribution* |
-| ----- | ------------------------------------------------------ | ---- | ------------------ |
-| 1     | Introduction to productivity and productivity management | 4    | 6                  |
-| 2     | Productivity measures                                 | 4    | 8                  |
-| 3     | Factor affecting productivity                          | 4    | 8                  |
-| 4     | People and technology                                 | 4    | 8                  |
-| 5     | Demand forecasting                                     | 4    | 8                  |
-| 6     | Production-distribution system design                  | 5    | 10                 |
-| 7     | Master production scheduling                          | 6    | 10                 |
-| 8     | Improving productivity                                 | 8    | 12                 |
-| 9     | Project work (Case study)                              | 6    | 10                 |
-|       | **Total**                                             | **45** | **80**               |
+| Unit | Chapters                                                 | Hour   | Mark Distribution* |
+| ---- | -------------------------------------------------------- | ------ | ------------------ |
+| 1    | Introduction to productivity and productivity management | 4      | 6                  |
+| 2    | Productivity measures                                    | 4      | 8                  |
+| 3    | Factor affecting productivity                            | 4      | 8                  |
+| 4    | People and technology                                    | 4      | 8                  |
+| 5    | Demand forecasting                                       | 4      | 8                  |
+| 6    | Production-distribution system design                    | 5      | 10                 |
+| 7    | Master production scheduling                             | 6      | 10                 |
+| 8    | Improving productivity                                   | 8      | 12                 |
+| 9    | Project work (Case study)                                | 6      | 10                 |
+|      | **Total**                                                | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
 
-**Copyright © 2021** 

@@ -1,13 +1,3 @@
-# Syllabus
-
-## **FINITE  ELEMENT ANALYSIS**
-
-### **Course Objective**
-
-Study of Finite Element makes student capable to solve and  analysis structural problems, evaluation of displacement (Strain), Stress and  operating phenomena of body under different boundary conditions.
-
-### **Course Outline**
-
 1. **Introduction to FEM (6 hours)**
     * Need for Sue of FEM – Advantages and Disadvantages of FEM Matrix  Algebra
     * Terminologies Relating to Matrices, Methods of Solution of  Linear Algebraic Equations.
@@ -68,17 +58,15 @@ Use any kind of software for analysis of different types of  material properties
 
 The Questions will cover all the chapters in the syllabus. The  evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction to FEM | 6 | 8 |
-| 2 | Basic of Theory of Elasticity | 6 | 12 |
-| 3 | Continuum Methods | 7 | 12 |
-| 4 | Basic Definitions | 6 | 12 |
-| 5 | Boundary Conditions | 7 | 12 |
-| 6 | Higher Order Elements | 7 | 12 |
-| 7 | Dynamic Analysis | 6 | 12 |
-| **Total** | **|** 45 | 80 |
+| Unit      | Chapters                      | Hour  | Mark Distribution* |
+| --------- | ----------------------------- | ----- | ------------------ |
+| 1         | Introduction to FEM           | 6     | 8                  |
+| 2         | Basic of Theory of Elasticity | 6     | 12                 |
+| 3         | Continuum Methods             | 7     | 12                 |
+| 4         | Basic Definitions             | 6     | 12                 |
+| 5         | Boundary Conditions           | 7     | 12                 |
+| 6         | Higher Order Elements         | 7     | 12                 |
+| 7         | Dynamic Analysis              | 6     | 12                 |
+| **Total** | **                            | ** 45 | 80                 |
 
-*There could be minor deviation in mark distribution.
 
-### **Copyright&copy; 2021**

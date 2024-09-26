@@ -1,11 +1,3 @@
-## Syllabus: Heat Transfer
-
-**Course Objective:**
-
-To introduce the concepts of heat transfer to enable students to design components subjected to thermal loading. 
-
-**Course Outline:**
-
 1. **Review on Basic Concepts of Heat Transfer [1 hour]**
     * Mechanism of Heat Transfer
     * Factors Affecting Heat Transfer
@@ -108,17 +100,13 @@ To introduce the concepts of heat transfer to enable students to design componen
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 1 | 2 |
-| 2 | 12 | 20-22 |
-| 3 | 12 | 20-22 |
-| 4 | 8 | 14-16 |
-| 5 | 2 | 4 |
-| 6 | 6 | 10-12 |
-| 7 | 4 | 6-8 |
-| **Total** | **45** | **80** |
-
-_**\* There may be minor deviation in marks distribution.**_
-
-**Copyright&copy; 2021** 
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 1      | 2                   |
+| 2         | 12     | 20-22               |
+| 3         | 12     | 20-22               |
+| 4         | 8      | 14-16               |
+| 5         | 2      | 4                   |
+| 6         | 6      | 10-12               |
+| 7         | 4      | 6-8                 |
+| **Total** | **45** | **80**              |

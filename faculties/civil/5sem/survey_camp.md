@@ -33,6 +33,4 @@ As far as possible, the number of students for each group should not be more tha
 
 * Standard Reports shall be prepared groupwise.  During compilation of the report, data shall be submitted contentwise and all the reference sketches and standard drawings shall be compiled in **A3** size and all the original data and drawings shall be presented during final viva.
 
----
 
-#### Copyright &copy; 2021 

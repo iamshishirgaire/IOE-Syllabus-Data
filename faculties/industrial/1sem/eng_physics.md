@@ -1,9 +1,3 @@
-## ENGINEERING PHYSICS
-
-**Course objectives:** To provide the concept and knowledge of physics with the emphasis of present day application. The background of physics corresponding to Proficiency Certificate Level is assumed.
-
-### Syllabus:
-
 1. **Oscillation (7 hours)**
     * Mechanical Oscillation: Introduction
     * Free oscillation
@@ -90,18 +84,15 @@
 
 There will be questions covering all the chapters in the syllabus. The evaluation scheme for the question will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 7 | 10 |
-| 2, 3 | 5 | 5 |
-| 4 | 12 | 15 |
-| 5 | 3 | 5 |
-| 6 | 4 | 5 |
-| 7, 8 | 19 | 30 |
-| 9 | 5 | 5 |
-| 10 | 5 | 5 |
-| **Total** | **60** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 7      | 10                 |
+| 2, 3      | 5      | 5                  |
+| 4         | 12     | 15                 |
+| 5         | 3      | 5                  |
+| 6         | 4      | 5                  |
+| 7, 8      | 19     | 30                 |
+| 9         | 5      | 5                  |
+| 10        | 5      | 5                  |
+| **Total** | **60** | **80**             |
 
-*There may be minor deviation in mark distribution.
-
-**Copyright © 2021**

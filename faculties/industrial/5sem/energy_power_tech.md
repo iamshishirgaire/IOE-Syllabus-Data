@@ -1,13 +1,3 @@
-## Syllabus
-
-**ENERGY, POWER, AND TECHNOLOGY**
-
-**Course Objective:**
-
-After the completion of this course, students will have an overview of clean energy technology and outline of the basic principles of solar electricity, solar water heating, wind power, micro hydro, biomass, bio-fuel, bio-diesel etc. and their applications in urban and rural environments. The emphasis is on how things work and what it is practicable to do.
-
-### Course Outline:
-
 1. **An Introduction to Energy and Power (4 hours)**
     * Energy: definition, types of energy
     * National and international scenario
@@ -93,18 +83,15 @@ After the completion of this course, students will have an overview of clean ene
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters                                       | Hour | Mark Distribution* |
-|------------------------------------------------|------|--------------------|
-| An Introduction to Energy and Power           | 4    | 8                 |
-| Nonrenewable Sources and Renewable and Inexhaustible Energy and Impacts | 4    | 10                |
-| Solar Energy                                    | 7    | 10                |
-| Biomass, Biofuel and biogas technologies      | 7    | 10                |
-| Wind Energy                                      | 6    | 10                |
-| Energy from Micro and Mini Hydro              | 8    | 16                |
-| Other Energy Sources and Technologies         | 5    | 8                 |
-| Energy Economics                                | 4    | 8                 |
-| **Total**                                      | **45** | **80**               |
+| Chapters                                                                | Hour   | Mark Distribution* |
+| ----------------------------------------------------------------------- | ------ | ------------------ |
+| An Introduction to Energy and Power                                     | 4      | 8                  |
+| Nonrenewable Sources and Renewable and Inexhaustible Energy and Impacts | 4      | 10                 |
+| Solar Energy                                                            | 7      | 10                 |
+| Biomass, Biofuel and biogas technologies                                | 7      | 10                 |
+| Wind Energy                                                             | 6      | 10                 |
+| Energy from Micro and Mini Hydro                                        | 8      | 16                 |
+| Other Energy Sources and Technologies                                   | 5      | 8                  |
+| Energy Economics                                                        | 4      | 8                  |
+| **Total**                                                               | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021**

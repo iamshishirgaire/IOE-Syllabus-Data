@@ -1,18 +1,3 @@
-## Syllabus
-
-**INTERNAL COMBUSTION ENGINES**
-
-**Course Objectives:**
-
-At the end of the course, the student will be able to understand:
-
-1. Construction and operation of IC engine, 
-2. Fuels and combustion of fuels in SI and CI engine, 
-3. Conduct performance test and carry out calculations, 
-4. Formation of exhaust emissions and their controlling measures. 
-
-**Course Outlines:**
-
 1. **Overview of thermodynamics of fuel-air cycles and real cycles (5 hours)**
     * Otto cycle, Diesel cycle, Atkinson cycle, Stirling cycle, Brayton cycle.
     * Assumptions in fuel air cycle analysis
@@ -87,18 +72,15 @@ At the end of the course, the student will be able to understand:
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below: 
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 5 | 6 |
-| 2 | 4 | 10 |
-| 3 | 6 | 10 |
-| 4 | 6 | 10 |
-| 5 | 6 | 12 |
-| 6 | 4 | 10 |
-| 7 | 6 | 10 |
-| 8 | 8 | 12 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 6                   |
+| 2         | 4      | 10                  |
+| 3         | 6      | 10                  |
+| 4         | 6      | 10                  |
+| 5         | 6      | 12                  |
+| 6         | 4      | 10                  |
+| 7         | 6      | 10                  |
+| 8         | 8      | 12                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution
-
-**Copyright &copy; 2021** 

@@ -1,15 +1,3 @@
-## Syllabus: Speech Processing (CT 785 08)
-
-**Course Objectives:**
-
-1. To introduce the characteristics of Speech signals and the related time and frequency domain methods for speech analysis and speech compression.
-2. To introduce the models for speech production.
-3. To develop time and frequency domain techniques for estimating speech parameters.
-4. To introduce a predictive technique for speech compression.
-5. To understand speech recognition, synthesis and speaker identification.
-
-**Syllabus:**
-
 1. **Nature of speech signal [8 hours]**
     * Speech production: Mechanism of speech production
     * Acoustic phonetics
@@ -104,15 +92,11 @@ All these lab works may be performed in Matlab or similar softwares capable of p
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 14 |
-| 2 | 8 | 14 |
-| 3 | 10 | 18 |
-| 4 | 10 | 18 |
-| 5 | 9 | 16 |
-| **Total** | **45** | **80** |
-
-* There could be a minor deviation in Marks distribution
-
-**Copyright&copy; 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 14                  |
+| 2         | 8      | 14                  |
+| 3         | 10     | 18                  |
+| 4         | 10     | 18                  |
+| 5         | 9      | 16                  |
+| **Total** | **45** | **80**              |

@@ -1,13 +1,3 @@
-## Syllabus
-
-**MECHATRONICS**
-
-**Course Objective**
-
-After the completion of this course, students will be able to understand the working principle of necessary components required for mechatronic systems and their applications in system designing.
-
-**Course Outline**
-
 1. **Introduction (5 hours)** 
     * Evolution, Scope, Components of Mechatronic Systems,
     * Overview of Mechanical, Hydraulic & Pneumatic Actuators.
@@ -119,19 +109,16 @@ After the completion of this course, students will be able to understand the wor
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introductions | 5 | 8 |
-| 2 | Sensors & transducers | 5 | 10 |
-| 3 | Electromagnetic actuators and control | 6 | 10 |
-| 4 | Programmed control | 4 | 8 |
-| 5 | Signal conditioning & interfacing | 5 | 10 |
-| 6 | Microcontroller | 5 | 10 |
-| 7 | Computer numerical control systems | 6 | 8 |
-| 8 | MEMS | 4 | 6 |
-| 9 | Design of mechatronic systems | 5 | 10 |
-| **Total** | **--** | **45** | **80** |
+| Unit      | Chapters                              | Hour   | Mark Distribution* |
+| --------- | ------------------------------------- | ------ | ------------------ |
+| 1         | Introductions                         | 5      | 8                  |
+| 2         | Sensors & transducers                 | 5      | 10                 |
+| 3         | Electromagnetic actuators and control | 6      | 10                 |
+| 4         | Programmed control                    | 4      | 8                  |
+| 5         | Signal conditioning & interfacing     | 5      | 10                 |
+| 6         | Microcontroller                       | 5      | 10                 |
+| 7         | Computer numerical control systems    | 6      | 8                  |
+| 8         | MEMS                                  | 4      | 6                  |
+| 9         | Design of mechatronic systems         | 5      | 10                 |
+| **Total** | **--**                                | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

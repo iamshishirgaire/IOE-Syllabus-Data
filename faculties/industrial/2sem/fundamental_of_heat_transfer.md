@@ -1,9 +1,3 @@
-## FUNDAMENTALS OF THERMODYNAMICS AND HEAT TRANSFER
-
-**Course Objectives:**
-
-After the completion of this course, students will be able to understand basic concepts, laws of thermodynamics and heat transfer and their applications as well.
-
 1. **Introduction (4 hours)**
     * Definition and Scope of Engineering Thermodynamics
     * Value of energy to society
@@ -93,17 +87,14 @@ After the completion of this course, students will be able to understand basic c
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks distribution * |
-|---|---|---|
-| 1 | 4 | 10 |
-| 2 | 4 | 4 |
-| 3 | 6 | 12 |
-| 4 | 8 | 14 |
-| 5 | 9 | 14 |
-| 6 | 8 | 14 |
-| 7 | 6 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks distribution * |
+| --------- | ------ | -------------------- |
+| 1         | 4      | 10                   |
+| 2         | 4      | 4                    |
+| 3         | 6      | 12                   |
+| 4         | 8      | 14                   |
+| 5         | 9      | 14                   |
+| 6         | 8      | 14                   |
+| 7         | 6      | 12                   |
+| **Total** | **45** | **80**               |
 
-***There may be minor deviation in marks distribution.*
-
-**Copyright &copy; 2021** 

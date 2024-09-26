@@ -1,10 +1,3 @@
-# Syllabus
-
-**FUNDAMENTALS OF THERMODYNAMICS AND HEAT TRANSFER  
-ME 402**  
-**Course Objective:**  
-To develop basic concepts, laws of thermodynamics and heat transfer and their applications.
-
 1. **Introduction (3 hours)**
 2. **Energy and Energy Transfer (3 hours)**
 3. **Properties of Common Substances (6 hours)**
@@ -35,14 +28,12 @@ To develop basic concepts, laws of thermodynamics and heat transfer and their ap
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1 & 3|All|16|
-|2|2 & 7|All|16|
-|3|4|All|16|
-|4|5|All|16|
-|5|6|All|16|
-|Total|80|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1 & 3       | All        | 16        |
+| 2        | 2 & 7       | All        | 16        |
+| 3        | 4           | All        | 16        |
+| 4        | 5           | All        | 16        |
+| 5        | 6           | All        | 16        |
+| Total    | 80          |

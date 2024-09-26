@@ -1,12 +1,3 @@
-## Syllabus: MACHINE DESIGN II
-
-**Course Objectives:**
-
-1.  To provide fundamental knowledge and skills necessary for designing commonly used machine elements.
-2.  To enable students to design various machine elements and components.
-
-**Course Content:**
-
 1.  **Modeling and Simulation (4 hours)**
     *   The role of models in Engineering Design
     *   Mathematical Modeling
@@ -95,18 +86,14 @@
 
 Questions will cover all chapters of the syllabus.
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 2 | 4 |
-| 4 | 4 | 8 |
-| 5 | 10 | 16 |
-| 6 | 8 | 14 |
-| 7 | 8 | 14 |
-| 8 | 6 | 8 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviations in marks distribution.
-
-**Copyright&copy; 2021**
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 2      | 4                   |
+| 4         | 4      | 8                   |
+| 5         | 10     | 16                  |
+| 6         | 8      | 14                  |
+| 7         | 8      | 14                  |
+| 8         | 6      | 8                   |
+| **Total** | **45** | **80**              |

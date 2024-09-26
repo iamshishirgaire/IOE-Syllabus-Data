@@ -2,34 +2,34 @@
 1. **Importance of Engineering Properties of Bio-materials [2 Hours]**
     * Physical Properties, Mechanical Properties, Optical Properties
     * Use of Engineering Properties in Processing Equipment Design 
-    *  <br>
+    *  
 2. **Geometrical Properties [4 Hours]**
     * Shape, Size, Volume, Sphericity, Roundness
     * Importance and Measurement of Geometrical Properties
     * Characterization of Shape and Size of Irregular Shaped Materials
-    *  <br>
+    *  
 3. **Gravimetric Properties [3 Hours]**
     * Bulk Density, True density, Specific Gravity, Porosity
     * Importance and Measurement of Gravimetric Properties
-    *  <br>
+    *  
 4. **Optical Properties [2 Hours]**
     * Colour, Gloss, Hue
     * Importance of Optical Properties and their Measurement
-    *  <br>
+    *  
 5. **Electrical Properties [3 Hours]**
     * Dielectric Constant, Dielectric Loss Tangent, Electrical Conductivity
     * Importance of Electrical Properties and their Measurement
-    *  <br>
+    *  
 6. **Thermal Properties [3 Hours]**
     * Thermal Conductivity, Thermal Diffusivity
     * Specific Heat, Heat of Respiration
     * Importance of Thermal Properties and their Measurement
-    *  <br>
+    *  
 7. **Aerodynamic Properties [3 Hours]**
     * Aerodynamic behavior of Grains and their byproducts
     * Terminal Velocity, Drag Coefficient
     * Importance of Aerodynamic Properties and their Measurement
-    *  <br>
+    *  
 8. **Rheological Properties [5 Hours]**
     * Properties of Solid and Liquid Foods
     * Properties of Granular and Powder Foods
@@ -40,7 +40,7 @@
     * Angle of Repose
     * Coefficient of Internal and External Friction
     * Pressure Distribution in Granular Materials
-    *  <br>
+    *  
 9. **Quality Control [5 Hours]**
     * Concept, objectives and need of quality
     * Quality control, methods of quality control
@@ -50,7 +50,7 @@
     * Food grades and standards: BIS, AGMARK, PFA, FPO, CAC
     * Codex Alimantarious Commission
     * Sanitation in food industry, GMP, HACCP and ISO 9000 Series 
-    *  <br>
+    *  
 
 
 ### Practical:

@@ -1,13 +1,3 @@
-## Syllabus
-
-**SUPPLY CHAIN MANAGEMENT**
-
-**Course Objective**
-
-After the completion of this course, students will be able to understand the basis of different industrial management functions like facilities planning, supply chain management, inventory management and control, and business process re-engineering management.
-
-**Course Outline**
-
 1. **Introduction to supply chain Management (6 Hours)**
     * Objective and Benefits
     * Supply chain stages and decision phases process view of a supply chain.
@@ -84,20 +74,15 @@ After the completion of this course, students will be able to understand the bas
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction to supply chain Management | 6 | 8 |
-| 2 | Designing the supply chain network | 4 | 8 |
-| 3 | Facility location and network design | 4 | 8 |
-| 4 | Inventory management and control | 7 | 10 |
-| 5 | Sourcing, transportation and pricing products | 4 | 8 |
-| 6 | Coordination and technology in the supply chain | 6 | 8 |
-| 7 | Emerging concepts in supply chain management: reverse logistics | 4 | 6 |
-| 8 | Production and operation management (POM) | 10 | 24 |
-| **Total** | **-** | **45** | **80** |
+| Unit      | Chapters                                                        | Hour   | Mark Distribution* |
+| --------- | --------------------------------------------------------------- | ------ | ------------------ |
+| 1         | Introduction to supply chain Management                         | 6      | 8                  |
+| 2         | Designing the supply chain network                              | 4      | 8                  |
+| 3         | Facility location and network design                            | 4      | 8                  |
+| 4         | Inventory management and control                                | 7      | 10                 |
+| 5         | Sourcing, transportation and pricing products                   | 4      | 8                  |
+| 6         | Coordination and technology in the supply chain                 | 6      | 8                  |
+| 7         | Emerging concepts in supply chain management: reverse logistics | 4      | 6                  |
+| 8         | Production and operation management (POM)                       | 10     | 24                 |
+| **Total** | **-**                                                           | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-***
-
-Copyright © 2021 

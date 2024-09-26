@@ -1,18 +1,3 @@
-# Syllabus
-
-**DESIGN AND IMPLEMENTATION OF GEOSPATIAL INFORMATION SYSTEMS**
-
-**Course Objective:**  
-The topic covered in this subject will include: the fundamentals of non-spatial and spatial database; spatial data modeling including entity- relationship models; query language and query processing. On successful completion of this subject student will be able to:
-
-1. Describe basic concept of designing geospatial information systems
-2. Describe the need for spatial database, and the difference between spatial and non-spatial database systems.
-3. Describe the design and principle of spatial databases, including techniques for efficiently storing and retrieving spatial data.
-4. Design queries for spatial and non-spatial database systems.
-5. Use and customize specific spatial and non- spatial database system
-
-**Course content:**
-
 1. **Introduction to DBMS** **(4 hours)**
 2. **Data Models, database languages** **(5 hours)**
 3. **Relational data model** **(4 hours)**
@@ -46,16 +31,13 @@ The topic covered in this subject will include: the fundamentals of non-spatial 
 **Evaluation Scheme:**  
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as mentioned in the table below:
 
-|||||
-|---|---|---|---|
-|**S. No.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2|9|16|
-|2|3,4|10|16|
-|3|5,6|9|16|
-|4|7|8|16|
-|5|8, 9|9|16|
-|**Total**|**45**|**80**|
+|            |             |           |                        |
+| ---------- | ----------- | --------- | ---------------------- |
+| **S. No.** | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1          | 1,2         | 9         | 16                     |
+| 2          | 3,4         | 10        | 16                     |
+| 3          | 5,6         | 9         | 16                     |
+| 4          | 7           | 8         | 16                     |
+| 5          | 8, 9        | 9         | 16                     |
+| **Total**  | **45**      | **80**    |
 
-\* There may be minor variation in marks distribution.
-
-#### Copyright&copy; 2021

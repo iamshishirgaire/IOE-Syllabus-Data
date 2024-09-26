@@ -71,6 +71,4 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 | 6         | 5      | 10                  |
 | **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
 
-**Copyright © 2021** 

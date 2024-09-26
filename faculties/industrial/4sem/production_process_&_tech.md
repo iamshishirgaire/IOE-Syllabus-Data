@@ -1,13 +1,3 @@
-## Syllabus
-
-**PRODUCTION PROCESS AND TECHNOLOGY**
-
-**Course Objective:** 
-
-In the engineering production process, all sorts of production needs a finishing touch of forming work. The course deals with both the knowledge and skills involved in Production which enables the student to perform the different production process thereby helping to produce product with standard quality.
-
-### **Theory**
-
 1. **Theory of Metal Cutting (6 hours)**
    - Single point cutting tool nomenclature, geometry
    - Merchants circle diagram and analysis
@@ -108,20 +98,15 @@ In the engineering production process, all sorts of production needs a finishing
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 6 | 10 |
-| 3 | 4 | 8 |
-| 4 | 6 | 12 |
-| 5 | 10 | 16 |
-| 6 | 4 | 8 |
-| 7 | 4 | 8 |
-| 8 | 4 | 8 |
-| **Total** | **44** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 10                  |
+| 2         | 6      | 10                  |
+| 3         | 4      | 8                   |
+| 4         | 6      | 12                  |
+| 5         | 10     | 16                  |
+| 6         | 4      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 4      | 8                   |
+| **Total** | **44** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
----
-
-**Copyright &copy; 2021**

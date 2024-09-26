@@ -67,4 +67,3 @@
 | 7         | 4      | 6                   |
 | **Total** | **30** | **40**              |
 
-**\* There may be minor deviation in marks distribution.**

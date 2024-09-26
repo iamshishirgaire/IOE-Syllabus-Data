@@ -1,13 +1,3 @@
-## Syllabus
-
-**PROPAGATION AND ANTENNA**
-
-**Course Objectives:**
-
-To provide the student with an understanding of antennas, EM wave propagation and optical fibre communications.
-
-### **Course Content:**
-
 1. **Radiation and Antenna Fundamentals (6 hours)**
    - Retarded Potentials: EM wave generation with a conduction current, the short uniform current dipole, the radiated electric and magnetic fields.
    - Radiation patterns and input impedance of the short uniform current dipole, the short dipole and long dipole.
@@ -60,18 +50,14 @@ To provide the student with an understanding of antennas, EM wave propagation an
 
 ### **Evaluation Scheme:**
 
-| Unit | Hours | Questions |
-|---|---|---|
-| 1 | 6 | 1.5 |
-| 2 | 6 | 1.5 |
-| 3 | 10 | 2.5 |
-| 4 | 6 | 1.5 |
-| 5 | 6 | 1.5 |
-| 6 | 11 | 2.5 |
-| **Total** | **45** | **11** |
+| Unit      | Hours  | Questions |
+| --------- | ------ | --------- |
+| 1         | 6      | 1.5       |
+| 2         | 6      | 1.5       |
+| 3         | 10     | 2.5       |
+| 4         | 6      | 1.5       |
+| 5         | 6      | 1.5       |
+| 6         | 11     | 2.5       |
+| **Total** | **45** | **11**    |
 
-**\*There may be minor deviation in marks distribution**
 
----
-
-**Copyright © 2021** 

@@ -1,12 +1,3 @@
-## Syllabus
-
-### **COMMUNICATION ENGLISH**
-
-**Course Objective:**
-
-1. To make the students capable of producing professional writings such as research articles, technical proposals, reports and project work.
-2. To familiarize the students with the native speakers' pronunciation with the use of audio-visual aids.
-
 ### **Unit I: Reading (15 hours)**
 
 1. **Intensive Reading (8 hours)**
@@ -114,10 +105,10 @@
 
 ### **Language Lab**
 
-|   | Title | Testing Items | Number of Questions | Marks Distribution |
-|---|:---|:---|:---|:---|
-| **Listening** | Language Lab | - Instruction<br>- Description<br>- Conversation | 3 | 10 |
-| **Speaking** |  | - Expressing Individual views<br>- Group/Round Table discussion<br>- Talk delivery<br>- Presenting brief oral report | 3 | 15 |
+|               | Title        | Testing Items                                                                                            | Number of Questions | Marks Distribution |
+| ------------- | :----------- | :------------------------------------------------------------------------------------------------------- | :------------------ | :----------------- |
+| **Listening** | Language Lab | - Instruction- Description- Conversation                                                                 | 3                   | 10                 |
+| **Speaking**  |              | - Expressing Individual views- Group/Round Table discussion- Talk delivery- Presenting brief oral report | 3                   | 15                 |
 
 **Equipment Required:**
 
@@ -138,20 +129,17 @@
 * The questions will cover all the chapters of the syllabus.
 * The evaluation scheme will be as indicated in the table below:
 
-| Unit | Testing Items | Number of Questions | Marks Distribution |
-|---|---|---|---|
-| I | - Reading Passages <br>- Novel <br>- Novel <br>- Grammar | 3 <br> 1 <br> 1 <br> 10 or 5 | 15 <br> 5 <br> 5 <br> 5 |
-| II | - Composing &amp; Editing strategies <br>- MLA and APA Comparison <br>- Writing Research Articles <br>- Writing notice, Agenda and minutes <br>- Writing Proposal <br>- I Writing Reports (Formal Report) <br>- II Writing short reports or Project Report | 1 <br> 1 <br> 1 <br> 1 <br> 1 <br> 1 <br> 1 | 5 <br> 4 <br> 10 <br> 5 <br> 8 <br> 10 <br> 8 |
+| Unit | Testing Items                                                                                                                                                                                                                      | Number of Questions | Marks Distribution    |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------- |
+| I    | - Reading Passages - Novel - Novel - Grammar                                                                                                                                                                                       | 3  1  1  10 or 5    | 15  5  5  5           |
+| II   | - Composing &amp; Editing strategies - MLA and APA Comparison - Writing Research Articles - Writing notice, Agenda and minutes - Writing Proposal - I Writing Reports (Formal Report) - II Writing short reports or Project Report | 1  1  1  1  1  1  1 | 5  4  10  5  8  10  8 |
 
 **Total: 80**
 
 **Language Lab:**
 
-| Title | Testing Items | Number of Questions | Marks Distribution |
-|---|---|---|---|
-| Language Lab | - Instruction<br>- Description<br>- Conversation | 3 | 10 |
-|  | - Expressing Individual views<br>- Group/Round Table discussion<br>- Talk delivery<br>- Presenting brief oral report | 3 | 15 |
+| Title        | Testing Items                                                                                            | Number of Questions | Marks Distribution |
+| ------------ | -------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
+| Language Lab | - Instruction- Description- Conversation                                                                 | 3                   | 10                 |
+|              | - Expressing Individual views- Group/Round Table discussion- Talk delivery- Presenting brief oral report | 3                   | 15                 |
 
-**\*There may be minor variation in marks distribution.**
-
-**Copyright © 2021** 

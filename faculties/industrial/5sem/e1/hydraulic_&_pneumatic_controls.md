@@ -1,13 +1,3 @@
-# Syllabus
-
-## HYDRAULIC AND PNEUMATIC CONTROLS
-
-### Course Objective
-
-After completion of the subject student will be able to gain basic knowledge on hydraulic and pneumatic system of the industrial application.
-
-###  Syllabus
-
 1. **Basic Principles (8 Hours)**
     * Hydraulic Principles - Hydraulic pumps - Characteristics - Pump Selection -Pumping Circuits - Hydraulic Actuators - Linear Rotary - Selection -Characteristics - Hydraulic Valves - Pressure - Flow - Direction Controls -Applications - Hydraulic Fluids-Symbols.
 2. **Hydraulic Circuits (10 Hours)**
@@ -34,17 +24,13 @@ Students will be divided into different groups and will be guided and supervised
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution\* |
-|---|---|---|---|
-| 1 | Basic principles | 8 | 12 |
-| 2 | Hydraulic circuits | 10 | 16 |
-| 3 | Design & selection | 10 | 20 |
-| 4 | Pneumatic systems | 7 | 12 |
-| 5 | Design & selection | 10 | 20 |
-| **Total** |  | **45** | **80** |
+| Unit      | Chapters           | Hour   | Mark Distribution\* |
+| --------- | ------------------ | ------ | ------------------- |
+| 1         | Basic principles   | 8      | 12                  |
+| 2         | Hydraulic circuits | 10     | 16                  |
+| 3         | Design & selection | 10     | 20                  |
+| 4         | Pneumatic systems  | 7      | 12                  |
+| 5         | Design & selection | 10     | 20                  |
+| **Total** |                    | **45** | **80**              |
 
-\*There could be minor deviation in mark distribution.
 
-## Copyright
-
-Copyright © 2021 

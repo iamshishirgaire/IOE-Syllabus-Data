@@ -108,13 +108,13 @@
 
 **Evaluation Schedule for Practical Works**
 
-| S.No      | Time      | Description                                                                            | Marks  | Remarks                                           |
-| --------- | --------- | -------------------------------------------------------------------------------------- | ------ | ------------------------------------------------- |
-| 1         | 10 hrs.   | Literature Study <br> Case Study /Inventory of existing low cost housing (Urban/Rural) | 10     | Discussion & Site (Field Visit)                   |
-| 2         | 4 hrs.    | Conceptual Design (Urban /Rural) Site Planning & Building Design)                      | 10     | Presentation                                      |
-| 3         | 4 hrs.    | Preliminary Deign Work                                                                 | 10     | Desk Presentation                                 |
-| 4         | 12 hrs.   | Final Design Work Report & Drawing Preparation                                         | 20     | Submission/Presentation /VIVA or Oral Examination |
-| **Total** | **30 hr** |                                                                                        | **50** |                                                   |
+| S.No      | Time      | Description                                                                        | Marks  | Remarks                                           |
+| --------- | --------- | ---------------------------------------------------------------------------------- | ------ | ------------------------------------------------- |
+| 1         | 10 hrs.   | Literature Study  Case Study /Inventory of existing low cost housing (Urban/Rural) | 10     | Discussion & Site (Field Visit)                   |
+| 2         | 4 hrs.    | Conceptual Design (Urban /Rural) Site Planning & Building Design)                  | 10     | Presentation                                      |
+| 3         | 4 hrs.    | Preliminary Deign Work                                                             | 10     | Desk Presentation                                 |
+| 4         | 12 hrs.   | Final Design Work Report & Drawing Preparation                                     | 20     | Submission/Presentation /VIVA or Oral Examination |
+| **Total** | **30 hr** |                                                                                    | **50** |                                                   |
 
 **Evaluation Scheme**
 

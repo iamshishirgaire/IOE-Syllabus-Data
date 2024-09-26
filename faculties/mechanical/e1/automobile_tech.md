@@ -1,16 +1,3 @@
-## Syllabus
-
-**AUTOMOBILE TECHNOLOGY**
-
-**Course Objectives:**
-
-* To familiarize the main components of an automobile and its classification.
-* To understand the functions of various components.
-* To find possible faults and take necessary action for repair.
-* To carry out regular maintenance of the motor vehicle.
-
-**Course Content:**
-
 1. **Introduction To Automobiles (1 hour)**
     * History of development
     * Classification of motor vehicles
@@ -125,15 +112,12 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks Distribution* |
-|---|---|---|---|
-| 1 | 1 & 2 | all | 16 |
-| 2 | 3, 4 & 5 | all | 16 |
-| 3 | 6 & 7 | all | 16 |
-| 4 | 8 | all | 16 |
-| 5 | 9 & 10 | all | 16 |
-| **Total** | | | **80** |
+| Unit      | Chapter  | Topics | Marks Distribution* |
+| --------- | -------- | ------ | ------------------- |
+| 1         | 1 & 2    | all    | 16                  |
+| 2         | 3, 4 & 5 | all    | 16                  |
+| 3         | 6 & 7    | all    | 16                  |
+| 4         | 8        | all    | 16                  |
+| 5         | 9 & 10   | all    | 16                  |
+| **Total** |          |        | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021**

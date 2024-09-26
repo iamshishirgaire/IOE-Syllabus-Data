@@ -1,13 +1,3 @@
-# Syllabus
-
-## **OPERATION RESEARCH**
-
-### **Course Objective**
-
-After the completion of this course, students will be able to describe the basic components and fundamental principles of operation research and its application to industrial problems.
-
-### **Course Outline**
-
 1. **Introduction to operational research (6 hours)**
     - Introduction to O.R.
         - System Orientation
@@ -108,17 +98,15 @@ After the completion of this course, students will be able to describe the basic
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction to operational research | 6 | 8 |
-| 2 | Linear programming | 8 | 20 |
-| 3 | Duality theory and sensitivity analysis | 8 | 20 |
-| 4 | Transportation models (TP) | 6 | 8 |
-| 5 | Queuing models | 7 | 8 |
-| 6 | Game theory | 5 | 8 |
-| 7 | Simulation | 5 | 8 |
-| **Total** |  | **45** | **80** |
+| Unit      | Chapters                                | Hour   | Mark Distribution* |
+| --------- | --------------------------------------- | ------ | ------------------ |
+| 1         | Introduction to operational research    | 6      | 8                  |
+| 2         | Linear programming                      | 8      | 20                 |
+| 3         | Duality theory and sensitivity analysis | 8      | 20                 |
+| 4         | Transportation models (TP)              | 6      | 8                  |
+| 5         | Queuing models                          | 7      | 8                  |
+| 6         | Game theory                             | 5      | 8                  |
+| 7         | Simulation                              | 5      | 8                  |
+| **Total** |                                         | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.*
 
-## **Copyright&copy; 2021** 

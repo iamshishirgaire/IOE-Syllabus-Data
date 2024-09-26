@@ -1,13 +1,3 @@
-# Syllabus
-
-## Concurrent Engineering and Value Engineering
-
-### Course Objective
-
-Concurrent engineering and value engineering aims to provide fundamental concepts for production improvement utilizing concurrent and value engineering principles.
-
-### Course Outline
-
 1. **Concurrent Engineering (3 hours)**
     * Introduction
     * Basic principles
@@ -68,19 +58,14 @@ Concurrent engineering and value engineering aims to provide fundamental concept
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 6 | 12 |
-| 3 | 3 | 6 |
-| 4 | 4 | 8 |
-| 5 | 8 | 12 |
-| 6 | 9 | 12 |
-| 7 | 12 | 24 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 3      | 6                  |
+| 2         | 6      | 12                 |
+| 3         | 3      | 6                  |
+| 4         | 4      | 8                  |
+| 5         | 8      | 12                 |
+| 6         | 9      | 12                 |
+| 7         | 12     | 24                 |
+| **Total** | **45** | **80**             |
 
-\*There could be minor deviation in mark distribution.
-
-## Copyright
-
-Copyright © 2021

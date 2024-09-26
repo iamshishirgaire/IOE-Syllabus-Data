@@ -1,14 +1,3 @@
-## Syllabus
-
-**ENGINEERING  MATHEMATICS II**
-
-**Course Objectives:**
-
-1. To develop the skill of solving  differential equations and to provide knowledge of vector algebra and calculus
-2. To make students familiar with calculus  of several variables and infinite series
-
-### Course Content:
-
 1. **Calculus of Two or more variables (6 hours)**
     * Introduction: Limit and Continuity
     * Partial Derivatives
@@ -72,15 +61,13 @@
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
 | Chapter | Hours | Mark distribution * |
-|---|---|---|
-| 1 | 06 | 10 |
-| 2 | 06 | 10 |
-| 3 | 11 | 20 |
-| 4 | 09 | 15 |
-| 5 | 08 | 15 |
-| 6 | 05 | 10 |
-| Total | 45 | 80 |
+| ------- | ----- | ------------------- |
+| 1       | 06    | 10                  |
+| 2       | 06    | 10                  |
+| 3       | 11    | 20                  |
+| 4       | 09    | 15                  |
+| 5       | 08    | 15                  |
+| 6       | 05    | 10                  |
+| Total   | 45    | 80                  |
 
-*There may be minor deviation in marks distribution.
 
-**Copyright © 2021** 

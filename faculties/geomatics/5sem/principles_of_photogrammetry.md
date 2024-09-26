@@ -1,12 +1,3 @@
-# Syllabus
-
-**PRINCIPLES OF PHOTOGRAMMETRY**
-
-**Course Objective:**  
-The objective of the photogrammetry course is to gain familiarity with the basic principles of photogrammetric operations. The course emphasizes on mathematical concepts in photogrammetry, the possibility of object space reconstruction from imagery and incorporation of additional sensory data from GPS/INS units in photogrammetric triangulation.
-
-**Course outline:**
-
 1. **Introductory concepts** **(2 hours)**
 2. **Elementary Photogrammetry** **(5 hours)**
 3. **Mathematical concepts in Photogrammetry** **(10 hours)**
@@ -41,16 +32,13 @@ Computer programming in first five exercises using C or C++.
 **Evaluation Scheme:**  
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2|7|16|
-|2|3|10|16|
-|3|4|8|16|
-|4|5|8|16|
-|5|6-8|12|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 1,2         | 7         | 16                     |
+| 2         | 3           | 10        | 16                     |
+| 3         | 4           | 8         | 16                     |
+| 4         | 5           | 8         | 16                     |
+| 5         | 6-8         | 12        | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

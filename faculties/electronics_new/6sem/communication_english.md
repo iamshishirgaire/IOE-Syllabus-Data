@@ -1,12 +1,3 @@
-## Syllabus
-
-**COMMUNICATION ENGLISH**
-
-**Course Objective:**
-
-1. To make the students capable of producing professional writings such as research articles, technical proposals, reports and project work
-2. To familiarize the students with the native speakers' pronunciation with the use of audio-visual aids
-
 **Unit I: Reading (15 hours)**
 
 * **Intensive Reading (8 hours)**
@@ -106,43 +97,39 @@
 12. Sharma, Sangeeta et. al (2010) &quot;Communication skills for Engineers and  Scientists&quot;, PHI Learning Private Limited, New Delhi. 
 13. Taylor, Shirley et. al. (2009), &quot;Model Business letters, E-mails &amp;  other  Business documents&quot;, Pearson  Education.
 
-| **Language lab** | **30 hours** |
-|---|---|
-| **Listening** | **12 hours** |
-| Activity I | General instruction on effective listening, factors influencing listening, and note-taking to ensure attention. (Equipment Required: Laptop, multimedia, laser pointer, overhead projector, power point, DVD, video set, screen) | 2 hours |
-| Activity II | Listening to recorded authentic instruction followed by exercises. (Equipment Required: Cassette player or laptop) | 2 hours |
-| Activity III | Listening to recorded authentic description followed by exercises. (Equipment Required: Cassette player or laptop) | 4 hours |
-| Activity IV | Listening to recorded authentic conversation followed by exercises (Equipment Required: Cassette player or laptop) | 4 hours |
-| **Speaking** | **18 hours** |
-| Activity I | General instruction on effective speaking ensuring audience's attention, comprehension and efficient use of Audio-visual aids. (Equipment Required: Laptop, multimedia, laser pointer, DVD, video, overhead projector, power point, screen) | 2 hours |
-| Activity II | Making students express their individual views on the assigned topics (Equipment Required: Microphone, movie camera) | 2 hours |
-| Activity III | Getting students to participate in group discussion on the assigned topics | 4 hours |
-| Activity IV | Making students deliver talk either individually or in group on the assigned topics (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen) | 8 hours |
-| Activity V | Getting students to present their brief oral reports individually on the topics of their choice. (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen) | 2 hours |
+| **Language lab** | **30 hours**                                                                                                                                                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Listening**    | **12 hours**                                                                                                                                                                                                                                |
+| Activity I       | General instruction on effective listening, factors influencing listening, and note-taking to ensure attention. (Equipment Required: Laptop, multimedia, laser pointer, overhead projector, power point, DVD, video set, screen)            | 2 hours |
+| Activity II      | Listening to recorded authentic instruction followed by exercises. (Equipment Required: Cassette player or laptop)                                                                                                                          | 2 hours |
+| Activity III     | Listening to recorded authentic description followed by exercises. (Equipment Required: Cassette player or laptop)                                                                                                                          | 4 hours |
+| Activity IV      | Listening to recorded authentic conversation followed by exercises (Equipment Required: Cassette player or laptop)                                                                                                                          | 4 hours |
+| **Speaking**     | **18 hours**                                                                                                                                                                                                                                |
+| Activity I       | General instruction on effective speaking ensuring audience's attention, comprehension and efficient use of Audio-visual aids. (Equipment Required: Laptop, multimedia, laser pointer, DVD, video, overhead projector, power point, screen) | 2 hours |
+| Activity II      | Making students express their individual views on the assigned topics (Equipment Required: Microphone, movie camera)                                                                                                                        | 2 hours |
+| Activity III     | Getting students to participate in group discussion on the assigned topics                                                                                                                                                                  | 4 hours |
+| Activity IV      | Making students deliver talk either individually or in group on the assigned topics (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen)                                       | 8 hours |
+| Activity V       | Getting students to present their brief oral reports individually on the topics of their choice. (Equipment Required: Overhead projector, microphone, power point, laser pointer multimedia, video camera, screen)                          | 2 hours |
 
 **Evaluation Scheme:**
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Testing Items | Number of Questions | Marks Distribution* |
-|---|---|---|---|
-| I | Reading Passages | 3 | 15 |
-| I | Novel | 1 | 5 |
-| I | Novel | 1 | 5 |
-| I | Grammar | 10 or 5 | 5 |
-| II | Composing &amp; Editing strategies | 1 | 5 |
-| II | MLA and APA Comparison | 1 | 4 |
-| II | Writing Research Articles | 1 | 10 |
-| II | Writing notice, Agenda and minutes | 1 | 5 |
-| II | Writing Proposal | 1 | 8 |
-| II | Writing Reports (Formal Report) | 1 | 10 |
-| II | Writing short reports or Project Report | 1 | 8 |
-| **Total** | **|** | **80** |
-| **Language Lab** | **|** | **|** |
-| **Title** | **Testing Items** | **Number of Questions** | **Marks Distribution* ** |
-| Language Lab | Listening - Instruction, Description, Conversation | 3 | 10 |
-| Language Lab | Speaking - Expressing Individual views, Group/Round Table discussion, Talk delivery, Presenting brief oral report | 3 | 15 |
-
-*There may be minor variation in marks distribution. 
-
-**Copyright&copy; 2021** 
+| Unit             | Testing Items                                                                                                     | Number of Questions     | Marks Distribution*      |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ |
+| I                | Reading Passages                                                                                                  | 3                       | 15                       |
+| I                | Novel                                                                                                             | 1                       | 5                        |
+| I                | Novel                                                                                                             | 1                       | 5                        |
+| I                | Grammar                                                                                                           | 10 or 5                 | 5                        |
+| II               | Composing &amp; Editing strategies                                                                                | 1                       | 5                        |
+| II               | MLA and APA Comparison                                                                                            | 1                       | 4                        |
+| II               | Writing Research Articles                                                                                         | 1                       | 10                       |
+| II               | Writing notice, Agenda and minutes                                                                                | 1                       | 5                        |
+| II               | Writing Proposal                                                                                                  | 1                       | 8                        |
+| II               | Writing Reports (Formal Report)                                                                                   | 1                       | 10                       |
+| II               | Writing short reports or Project Report                                                                           | 1                       | 8                        |
+| **Total**        | **                                                                                                                | **                      | **80**                   |
+| **Language Lab** | **                                                                                                                | **                      | **                       | ** |
+| **Title**        | **Testing Items**                                                                                                 | **Number of Questions** | **Marks Distribution* ** |
+| Language Lab     | Listening - Instruction, Description, Conversation                                                                | 3                       | 10                       |
+| Language Lab     | Speaking - Expressing Individual views, Group/Round Table discussion, Talk delivery, Presenting brief oral report | 3                       | 15                       |

@@ -1,17 +1,3 @@
-## Syllabus - RADAR TECHNOLOGY
-
-**EX 725 01**
-
-**Course Objectives:**
-
-1. To enable the student to become familiar with Radar technology
-2. To get an overview of Radar and the Radar equation
-3. To study about different types of radars and their operations
-4. To study about Radar transmitters, receivers, duplexers, displays and antennas
-5. To get a knowledge about the detection of Radar signals in noise
-
-### Course Outline
-
 1. **Introduction to Radar (2 hours)**
     * Introduction
     * Radar block diagram and operation
@@ -109,17 +95,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 8 | 14 |
-| 3 | 4 | 6 |
-| 4 | 8 | 14 |
-| 5 | 6 | 12 |
-| 6 | 12 | 22 |
-| 7 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 8      | 14                  |
+| 3         | 4      | 6                   |
+| 4         | 8      | 14                  |
+| 5         | 6      | 12                  |
+| 6         | 12     | 22                  |
+| 7         | 5      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-***Copyright&copy; 2021***

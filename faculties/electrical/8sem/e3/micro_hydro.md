@@ -1,11 +1,3 @@
-## Syllabus: Micro-Hydro Power
-
-**Course Objective:**
-
-To introduce the operation, maintenance, and design aspects of Micro Hydro power plants, including basic hydrology and geology.
-
-### Course Outline
-
 1. **Micro Hydro Basics and Status in Nepal (2 hours)**
     * Necessity of micro hydro power
     * Power from water
@@ -136,4 +128,3 @@ To introduce the operation, maintenance, and design aspects of Micro Hydro power
 1. Adam Harvey with Andy Brown, Priyantha Hettiarachi and Allen Inversin: Micro Hydro Design Manual, A Guide to Small Scale Water Power Schemes (ITDG Publication).
 2. D.P. Kothari, K.C. Singal and Rakesh Ranjan: Renewable Energy Sources and Emerging Technologies, Printice Hall of India Ltd.
 
-**Copyright © 2021** 

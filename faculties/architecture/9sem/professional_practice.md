@@ -5,14 +5,14 @@
     - Professional behavior and judgment
     - Nepal Engineering council and proposed Council of Nepalese Architects
     - Ethical Standard Interaction with other professional societies
-    <br>
+    
 2. **Role of Architects (8 hours)**
     - Understanding who is professional and why architecture is considered a profession.
     - Architect's role in the Society.
     - Architect's role as a Team Leader.
     - Relation with Client/Employer, Contractors and Fellow Professionals
     - Responsibility of client/employer, contractor and consultants
-    <br>
+    
 3. **Office Management (4 hours)**
     - Understanding the procedures for the establishment of an Architectural Practice 
     - Company Act and Registration including with professional societies 
@@ -20,7 +20,7 @@
     - Management Project Co-ordination- Clients, Consultant and Project Managers
     - Professional Development – Training 
     - Office Automation Information Storage and Retrieval.
-    <br>
+    
 4. **Hiring A/E Consultants (8 hours)**
     - Introduction to various selection procedures including CBS, QCBS, and QBS. Long list and pre-qualification 
     - National Practices – Procurement Act and the Consultancy Development Act. 
@@ -28,14 +28,14 @@
         - Guidelines of the Government
     - International practices of multi and bi-lateral donors
     - Design Competitions etc.
-    <br>
+    
 5. **Contracts and Agreements (8 hours)**
     - Understanding conditions of agreement- scope of work, comprehensive architectural services and conditions of engagement, remuneration and professional fees. 
     - The Terms of Reference and Scope of Works. 
     - Architectural Contract Agreements 
     - Professional Fees 
     - Professional Liabilities and Insurances /Securities
-    <br>
+    
 6. **Business Promotion (4 hours)**
     - Understanding the techniques of business: commissions, marketing experts
     - Preparing proposals and winning contracts
@@ -44,7 +44,7 @@
     - Design audit & efficiency studies, analysis for special efficiency of buildings.
     - Best practice and quality assurance
     - Proprietary rights
-    <br>
+    
 7. **Regulatory Controls (10 hours)**
     - Regulations in planning and designing of projects in controlled areas
     - Land use and Zoning 
@@ -55,7 +55,7 @@
     - Shelter policy
     - Municipal Drawings
     - Demolition
-    <br>
+    
 8. **Valuation of Properties (6 hours)**
     - Introduction to property valuation/assessment
     - Property Assessment methods (Land, Building etc.)

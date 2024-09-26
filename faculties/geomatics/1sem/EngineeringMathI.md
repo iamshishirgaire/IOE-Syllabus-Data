@@ -1,10 +1,3 @@
-# Syllabus
-
-**ENGINEERING MATHEMATICS I  
-SH 401**  
-**Course Objective:**  
-To provide students a sound knowledge of calculus and analytic geometry to apply them in their relevant fields.
-
 1. **Derivatives and their Applications (14 hours)**
 2. **Integration and its Applications (11 hours)**
 3. **Plane Analytic Geometry (8 hours)**
@@ -24,15 +17,13 @@ To provide students a sound knowledge of calculus and analytic geometry to apply
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1|1.1 to 1.5|16|
-|2|1|1.6 to 1.7|16|
-|2|2.1 to 2.3|16|
-|3|2|2.4 to 2.6|16|
-|4|3|3.1 to 3.3|16|
-|5|4|4.1 to 4.8|16|
-|Total|80|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1           | 1.1 to 1.5 | 16        |
+| 2        | 1           | 1.6 to 1.7 | 16        |
+| 2        | 2.1 to 2.3  | 16         |
+| 3        | 2           | 2.4 to 2.6 | 16        |
+| 4        | 3           | 3.1 to 3.3 | 16        |
+| 5        | 4           | 4.1 to 4.8 | 16        |
+| Total    | 80          |

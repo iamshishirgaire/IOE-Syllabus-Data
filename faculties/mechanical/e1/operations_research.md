@@ -1,16 +1,3 @@
-# Syllabus
-
-## **OPERATIONS RESEARCH/MANAGEMENT SCIENCE**
-
-**Course Objectives:**
-
-* To develop proficiency in managing and analyzing data, including sorting, pivoting tables, and applying statistical analysis in a spreadsheet environment.
-* To gain familiarity with forecasting methods, linear programming, and inventory models.
-* To become comfortable with simulation in decision-making under risk and uncertainty using risk analysis software such as CRYSTAL BALL.
-* To develop the ability to apply the acquired knowledge to solve real-world problems in decision-making.
-
-## **Course Outline:**
-
 1. **Introduction to Modeling for Decisions & Data Management and Analysis (7 hours)**
     * Application and benefits of Operations Research
     * Developing Models
@@ -76,15 +63,12 @@ A course project on real and practical problems such as forecasting, queuing, in
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | all | 16 |
-| 2 | 2 | all | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 4 & 6 | all | 16 |
-| 5 | 5 | all | 16 |
-| **Total** |  |  | **80** |
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1       | all    | 16     |
+| 2         | 2       | all    | 16     |
+| 3         | 3       | all    | 16     |
+| 4         | 4 & 6   | all    | 16     |
+| 5         | 5       | all    | 16     |
+| **Total** |         |        | **80** |
 
-*There could be minor deviation in mark distribution.
-
-## **Copyright © 2021** 

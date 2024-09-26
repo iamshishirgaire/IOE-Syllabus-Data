@@ -1,7 +1,3 @@
-## Syllabus: Applied Photovoltaic Engineering
-
-### Course Outline
-
 **1. The Sun and the Solar Spectrum (4 hours)**
   * Electromagnetic spectrum
   * Effects of Earth's atmosphere, orbit, and rotation on insolation
@@ -84,6 +80,3 @@
 * Messenger, R. A., Ventre, J., Photovoltaic Systems Engineering, 2nd ed., CRC Press, 2003, ISBN-10: 0849317932
 * Foster, R.; Ghassemi, M.; Cota, A.; Solar Energy: Renewable Energy and the Environment, CRC Press, 2009, ISBN-10: 1420075667
 
----
-
-**Copyright &copy; 2021**

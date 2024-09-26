@@ -8,7 +8,7 @@
     - Microinstructions and Hardwired/Microprogrammed Control Unit
     - Introduction to Register Transfer Language
     
-    <br>
+    
     
 2. **Programming with 8085 Microprocessor(10 hours)**
     - Internal Architecture and Features of 8085 microprocessor
@@ -22,7 +22,7 @@
         - Decimal BCD Conversion
         - Multiplication and Division
         
-    <br>
+    
     
 3. **Programming with 8086 Microprocessor(12 hours)**
     - Internal Architecture and Features of 8086 Microprocessor
@@ -52,7 +52,7 @@
         - Read and Display ASCII and Decimal Numbers
         - Displaying Numbers in Binary and Hexadecimal Formats
         
-    <br>
+    
     
 4. **Microprocessor System(10 hours)**
     - Pin Configuration of 8085 and 8086 Microprocessors
@@ -77,7 +77,7 @@
         - Introduction to USART
     - Introduction to Direct Memory Access (DMA) and DMA Controllers
         
-    <br>
+    
     
 5. **Interrupt Operations(5 hours)**
     - Polling versus Interrupt
@@ -93,7 +93,7 @@
         - Software and Hardware Interrupts
         - Interrupt Priorities
         
-    <br>
+    
     
 6. **Advanced Topics(4 hours)**
     - Multiprocessing Systems
@@ -107,7 +107,7 @@
         - RISC and CISC Architectures
         - Digital Signal Processors
         
-    <br>
+    
 
 ## **Practical**
 

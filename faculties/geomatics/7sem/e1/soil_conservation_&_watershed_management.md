@@ -1,10 +1,3 @@
-# Syllabus
-
-**SOIL CONSERVATION AND WATERSHED MANAGEMENT**
-
-**Course Objectives:**  
-To make students able to estimate the runoff and soil loss, design contour bunds, grassed waterways, terraces, drainage structures, gully control structures, small storage structures etc. and prepare watershed management plan.
-
 1. **Introduction** **(2 hours)**
 2. **Runoff and Soil Loss** **(5 hours)**
 3. **Land Capability for Watershed Management** **(2 hours)**
@@ -39,20 +32,17 @@ Individual assignment on delineation of watershed boundary and preparation of Wa
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-||||
-|---|---|---|
-|**Chapter**|**Hours**|**Marks Distribution\***|
-|1|2|5|
-|2|5|10|
-|3|2|5|
-|4|4|5|
-|5|9|20|
-|6|7|15|
-|7|3|5|
-|8|7|10|
-|9|6|5|
-|**Total**|**45**|**80**|
+|             |           |                          |
+| ----------- | --------- | ------------------------ |
+| **Chapter** | **Hours** | **Marks Distribution\*** |
+| 1           | 2         | 5                        |
+| 2           | 5         | 10                       |
+| 3           | 2         | 5                        |
+| 4           | 4         | 5                        |
+| 5           | 9         | 20                       |
+| 6           | 7         | 15                       |
+| 7           | 3         | 5                        |
+| 8           | 7         | 10                       |
+| 9           | 6         | 5                        |
+| **Total**   | **45**    | **80**                   |
 
-\*There could be minor deviation in mark distribution.
-
-#### Copyright&copy; 2021

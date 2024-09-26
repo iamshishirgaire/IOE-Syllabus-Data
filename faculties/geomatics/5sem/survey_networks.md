@@ -1,12 +1,3 @@
-# Syllabus
-
-**SURVEY NETWORKS**
-
-**Course objectives:**  
-The objective of this course is to introduce the knowledge of geodetic network, control points and their computations. This course deals with the knowledge of selection of suitable network, methodology of surveying in there and computation of the particular network with and without redundancy. The course is intended to provide the knowledge of selection, implementation and computation of surveying station and different surveying network using least square adjustment technique.
-
-**Course outline:**
-
 1. **Introduction** **(2 hours)**
 2. **Reference system** **(7 hours)**
 3. **Triangulation** **(10 hours)**
@@ -46,16 +37,13 @@ The objective of this course is to introduce the knowledge of geodetic network, 
 **Evaluation scheme:**  
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as mentioned in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2|9|16|
-|2|3|10|16|
-|3|4,5|7|16|
-|4|6,7,8.1,8.2|8|16|
-|5|8.3-8.4,9|11|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 1,2         | 9         | 16                     |
+| 2         | 3           | 10        | 16                     |
+| 3         | 4,5         | 7         | 16                     |
+| 4         | 6,7,8.1,8.2 | 8         | 16                     |
+| 5         | 8.3-8.4,9   | 11        | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

@@ -1,5 +1,3 @@
-## Syllabus
-
 **GROUP WORK AND PRESENTATION II**
 
 **Practical: 1**
@@ -20,15 +18,11 @@ During this semester students will focus their works on technical aspects, e.g. 
 
 Each group has to prepare a report and submit two copies to the department before the presentation. The evaluation scheme for the subject will be indicated as below:
 
-| Theme                                 | Marks Distribution* |
-|--------------------------------------|--------------------|
-| Students effort to collect information | 5                  |
-| Report                               | 10                 |
-| Presentation skills                  | 10                 |
-| **Total**                             | **25**               |
+| Theme                                  | Marks Distribution* |
+| -------------------------------------- | ------------------- |
+| Students effort to collect information | 5                   |
+| Report                                 | 10                  |
+| Presentation skills                    | 10                  |
+| **Total**                              | **25**              |
 
 *There could be minor deviation in mark distribution.
-
----
-
-Copyright © 2021 

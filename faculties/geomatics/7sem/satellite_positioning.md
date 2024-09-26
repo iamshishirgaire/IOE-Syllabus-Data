@@ -1,11 +1,3 @@
-# Syllabus
-
-**SATELLITE POSITIONING**
-
-**Course Objective:** To outline main concept of GPS and enable students to assess receiver characteristics, analyze their output data and conducts static and kinematic surveys.
-
-**Course Outline:**
-
 1. **Fundamentals of satellite positioning System (GNSS)** **(4 hours)**
 2. **Reference Systems. Signal, Structure, and User Equipment** **(4 hours)**
 3. **Observable** **(5 hours)**
@@ -37,16 +29,13 @@
 
 **Evaluation Scheme:** The question will cover all the chapter in the syllabus. The evaluation schee will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S. No.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2|8|16|
-|2|3,6|9|16|
-|3|4|8|16|
-|4|5|11|16|
-|5|7,8|9|16|
-|**Total**|**45**|**80**|
+|            |             |           |                        |
+| ---------- | ----------- | --------- | ---------------------- |
+| **S. No.** | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1          | 1,2         | 8         | 16                     |
+| 2          | 3,6         | 9         | 16                     |
+| 3          | 4           | 8         | 16                     |
+| 4          | 5           | 11        | 16                     |
+| 5          | 7,8         | 9         | 16                     |
+| **Total**  | **45**      | **80**    |
 
-\* There may be minor variation in marks distribution.
-
-#### Copyright&copy; 2021

@@ -1,11 +1,3 @@
-## Syllabus: Electric Circuit Theory
-
-**Course Objectives:**
-
-To continue work in Basic Electrical Engineering, including the use of the Laplace Transform to determine the time and frequency domain responses of electric circuits.
-
-### Course Content:
-
 1. **Network Analysis of AC circuit & Dependent Sources (8 hours)**
     - Mesh Analysis
     - Nodal Analysis
@@ -102,19 +94,14 @@ To continue work in Basic Electrical Engineering, including the use of the Lapla
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 8 | 12 |
-| 2 | 2 | 6 |
-| 3 | 10 | 16 |
-| 4 | 8 | 12 |
-| 5 | 6 | 12 |
-| 6 | 5 | 10 |
-| 7 | 6 | 12 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 12                  |
+| 2         | 2      | 6                   |
+| 3         | 10     | 16                  |
+| 4         | 8      | 12                  |
+| 5         | 6      | 12                  |
+| 6         | 5      | 10                  |
+| 7         | 6      | 12                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in the marks distribution.
-
-### Copyright:
-
-Copyright © 2021

@@ -1,17 +1,3 @@
-# Syllabus
-
-## **INDUSTRIAL POWER DISTRIBUTION AND ILLUMINATION**
-
-## Course Objective:
-
-After completion of the course, the student will be able to:
-
-1. Have detailed knowledge in design electrical distribution and illumination system
-2. Understand relevant standards, rules and regulation system
-3. Apply appropriate measures to evaluate and improve energy efficiency
-
-##  Syllabus
-
 1. **Introduction (6 hours)** 
    * Electric Load Estimate 
    * Load Centre 
@@ -141,18 +127,17 @@ After completion of the course, the student will be able to:
 
 The questions will cover all the chapters of syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 4 | 4 |
-| 3 | 6 | 8 |
-| 4 | 6 | 8 |
-| 5 | 5 | 8 |
-| 6 | 6 | 8 |
-| 7 | 8 | 12 |
-| 8 | 6 | 8 |
-| 9 | 6 | 8 |
-| 10 | 6 | 8 |
-| **Total** | **60** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 8                   |
+| 2         | 4      | 4                   |
+| 3         | 6      | 8                   |
+| 4         | 6      | 8                   |
+| 5         | 5      | 8                   |
+| 6         | 6      | 8                   |
+| 7         | 8      | 12                  |
+| 8         | 6      | 8                   |
+| 9         | 6      | 8                   |
+| 10        | 6      | 8                   |
+| **Total** | **60** | **80**              |
 
-*There may be minor deviation in marks distribution.

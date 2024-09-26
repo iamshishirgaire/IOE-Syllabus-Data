@@ -1,9 +1,3 @@
-## Syllabus: ELECTRIC MACHINES-II
-
-**Course Objectives:**
-
-To impart knowledge on constructional details, operating principle and performance of 3-phase Synchronous Machines and Fractional Kilowatt Motors. 
-
 ### I. Three Phase Synchronous Generator (8 hours)
 
 1. Constructional Details, Armature Windings, Types of Rotor, Exciter
@@ -65,12 +59,8 @@ To impart knowledge on constructional details, operating principle and performan
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicates in the table below:
 
 | Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 14 |
-| 2 | 7 | 12 |
-| 3 | 12 | 14 |
-| Total | 27 | 40 |
-
-*There could be a minor deviation in the marks distribution.
-
-**Copyright &copy; 2021**
+| ------- | ----- | ------------------- |
+| 1       | 8     | 14                  |
+| 2       | 7     | 12                  |
+| 3       | 12    | 14                  |
+| Total   | 27    | 40                  |

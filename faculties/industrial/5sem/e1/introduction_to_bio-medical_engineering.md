@@ -1,11 +1,3 @@
-## Syllabus: Introduction to Bio-Medical Engineering
-
-### Course Objectives
-
-After completing this course, students will be able to understand the operation of Bio-medical equipment and their maintenance.
-
-### Course Outline
-
 1. **Introduction (3 hours)** 
     * Areas of contribution in medical electronics.
     * Major areas under instrumentation.
@@ -84,27 +76,22 @@ After completing this course, students will be able to understand the operation 
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction | 3 | 6 |
-| 2 | Biological System | 3 | 6 |
-| 3 | Human Physiology | 4 | 8 |
-| 4 | Biological types | 3 | 6 |
-| 5 | Electrodes | 6 | 10 |
-| 6 | Ultrasound | 4 | 6 |
-| 7 | Computed Technology (CT) Scan | 3 | 6 |
-| 8 | X-Ray | 3 | 6 |
-| 9 | Shocks | 2 | 4 |
-| 10 | Magnetic Resonance Imagine (MRI) | 3 | 6 |
-| 11 | Haemo-Dialysis | 3 | 6 |
-| 12 | Ventilator (ICU, Anesthetic) | 2 | 4 |
-| 13 | Laproscopic Surgery | 2 | 4 |
-| 14 | Endoscope | 2 | 4 |
-| 15 | Implants | 2 | 4 |
-| **Total** |  | **45** | **80** |
+| Unit      | Chapters                         | Hour   | Mark Distribution* |
+| --------- | -------------------------------- | ------ | ------------------ |
+| 1         | Introduction                     | 3      | 6                  |
+| 2         | Biological System                | 3      | 6                  |
+| 3         | Human Physiology                 | 4      | 8                  |
+| 4         | Biological types                 | 3      | 6                  |
+| 5         | Electrodes                       | 6      | 10                 |
+| 6         | Ultrasound                       | 4      | 6                  |
+| 7         | Computed Technology (CT) Scan    | 3      | 6                  |
+| 8         | X-Ray                            | 3      | 6                  |
+| 9         | Shocks                           | 2      | 4                  |
+| 10        | Magnetic Resonance Imagine (MRI) | 3      | 6                  |
+| 11        | Haemo-Dialysis                   | 3      | 6                  |
+| 12        | Ventilator (ICU, Anesthetic)     | 2      | 4                  |
+| 13        | Laproscopic Surgery              | 2      | 4                  |
+| 14        | Endoscope                        | 2      | 4                  |
+| 15        | Implants                         | 2      | 4                  |
+| **Total** |                                  | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-### Copyright
-
-Copyright &copy; 2021 

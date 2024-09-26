@@ -1,9 +1,3 @@
-## Syllabus: Digital Signal Analysis and Processing
-
-**Course Objectives:**
-
-To introduce digital signal processing techniques and algorithms.
-
 ### 1. Discrete time signals and systems [8 hours]
 
 * 1.1. Discrete time signal, basic signal types
@@ -74,19 +68,13 @@ To introduce digital signal processing techniques and algorithms.
 
 Marks distribution for all the chapters in the syllabus is shown in the table below.
 
-| Unit | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 8 | 9 |
-| 2 | 4 | 6 |
-| 3 | 6 | 10 |
-| 4 | 8 | 10 |
-| 5 | 6 | 15 |
-| 6 | 6 | 15 |
-| 7 | 7 | 15 |
-| **Total** | **45** | **80** |
-
-*There could be a minor deviation in the marks distribution.
-
-***
-
-**Copyright © 2021** 
+| Unit      | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 8      | 9                  |
+| 2         | 4      | 6                  |
+| 3         | 6      | 10                 |
+| 4         | 8      | 10                 |
+| 5         | 6      | 15                 |
+| 6         | 6      | 15                 |
+| 7         | 7      | 15                 |
+| **Total** | **45** | **80**             |

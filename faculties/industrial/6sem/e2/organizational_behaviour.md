@@ -1,7 +1,3 @@
-## Syllabus: Organizational Behaviour
-
-**ORGANIZATIONAL BEHAVIOUR**
-
 **1. Introduction (4 Hours)**
 
 - Definition of Organisation Behaviour and Historical development
@@ -102,18 +98,16 @@
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 6 | 12 |
-| 3 | 6 | 12 |
-| 4 | 6 | 12 |
-| 5 | 7 | 12 |
-| 6 | 6 | 8 |
-| 7 | 6 | 10 |
-| 8 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 4      | 8                  |
+| 2         | 6      | 12                 |
+| 3         | 6      | 12                 |
+| 4         | 6      | 12                 |
+| 5         | 7      | 12                 |
+| 6         | 6      | 8                  |
+| 7         | 6      | 10                 |
+| 8         | 4      | 6                  |
+| **Total** | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
 
-**Copyright © 2021** 

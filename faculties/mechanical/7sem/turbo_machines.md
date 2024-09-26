@@ -1,14 +1,3 @@
-## Syllabus
-
-**TURBO MACHINES** 
-
-**Course Objective:**
-
-* To provide fundamental knowledge of turbo machines and their application. 
-* To enable students to describe the working principles and applications of gas turbines and their components.
-
-**Course Outline:**
-
 1. **Introduction (8 hours)**
     * Definition of a Turbo machine
     * Parts of a Turbo machine 
@@ -72,16 +61,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below. 
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 8 | 15 |
-| 2 | 8 | 15 |
-| 3 | 8 | 15 |
-| 4 | 7 | 10 |
-| 5 | 8 | 15 |
-| 6 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 8      | 15                 |
+| 2         | 8      | 15                 |
+| 3         | 8      | 15                 |
+| 4         | 7      | 10                 |
+| 5         | 8      | 15                 |
+| 6         | 6      | 10                 |
+| **Total** | **45** | **80**             |
 
-*There may be minor deviation in marks distribution.
 
-**Copyright © 2021** 

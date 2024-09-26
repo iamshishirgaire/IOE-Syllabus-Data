@@ -1,16 +1,3 @@
-## Syllabus: Engineering Economics
-
-**Course Objectives:**
-
-This course aims to provide sound and comprehensive coverage of engineering economics, particularly focusing on:
-
-* **Understanding Business Operations:** How businesses operate, how engineering project decisions are made within a business context, and how engineering decisions can influence a firm's profitability.
-* **Theoretical Foundation:** Building a strong understanding of the theoretical and conceptual principles underlying financial project analysis.
-* **Practical Application:** Satisfying the practical needs of engineers to make informed financial decisions when working on engineering projects as team members or project managers.
-* **Decision-Making Tools:** Incorporating critical decision-making tools, including contemporary computer-oriented techniques such as simulation in risk analysis, to facilitate informed decision-making under uncertainty.
-
-**Course Outline:**
-
 1. **Introduction to Engineering Economics (1 hour)**
     * Engineering Economics
     * Engineering Economic Decisions
@@ -65,17 +52,14 @@ This course aims to provide sound and comprehensive coverage of engineering econ
 
 The evaluation scheme will cover all chapters of the syllabus. The distribution of marks is as follows:
 
-| Chapters  | Hours | Marks Distribution  |
-|---|---|---|
-| 1 & 2   | 6     | 10                 |
-| 3       | 6     | 14                 |
-| 4       | 6     | 14                 |
-| 5       | 12    | 14                 |
-| 6 & 7   | 6     | 14                 |
-| 8 & 9   | 8     | 14                 |
-| 10      | 1     | -                  |
-| **Total** | **45** | **80**              |
+| Chapters  | Hours  | Marks Distribution |
+| --------- | ------ | ------------------ |
+| 1 & 2     | 6      | 10                 |
+| 3         | 6      | 14                 |
+| 4         | 6      | 14                 |
+| 5         | 12     | 14                 |
+| 6 & 7     | 6      | 14                 |
+| 8 & 9     | 8      | 14                 |
+| 10        | 1      | -                  |
+| **Total** | **45** | **80**             |
 
-**Note:** There may be minor deviations in the marks distribution.
-
-**Copyright &copy; 2021** 

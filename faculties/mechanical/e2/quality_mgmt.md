@@ -1,11 +1,3 @@
-## Syllabus: Quality Management
-
-**Course Objective:**
-
-To specialize engineering students with management principles and practices required for modern engineering trades.
-
-**Course Outline:**
-
 1. **Quality Management In Modern Business Organization (1 hour)**
    * Definition, importance and improvement of quality
    * History, qualitative transformation and quality development in manufacturing
@@ -102,15 +94,11 @@ To specialize engineering students with management principles and practices requ
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1, 2 & 3 | all | 16 |
-| 2 | 4 & 5 | all | 16 |
-| 3 | 6 & 7 | all | 16 |
-| 4 | 8 | all | 16 |
-| 5 | 9 | all | 16 |
-| **Total** |  |  | **80** |
-
-*There could be minor deviation in mark distribution.
-
-**Copyright&copy; 2021** 
+| Unit      | Chapter  | Topics | Marks* |
+| --------- | -------- | ------ | ------ |
+| 1         | 1, 2 & 3 | all    | 16     |
+| 2         | 4 & 5    | all    | 16     |
+| 3         | 6 & 7    | all    | 16     |
+| 4         | 8        | all    | 16     |
+| 5         | 9        | all    | 16     |
+| **Total** |          |        | **80** |

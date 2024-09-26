@@ -1,16 +1,3 @@
-## ENVIRONMENT AND POLLUTION CONTROL
-
-**Course Objectives**
-
-1. At the end of the course, the student will be able to understand:
-2. Sources, nature, and health effects of air pollutants and basic control strategies and equipment,
-3. Fundamentals of water pollution,
-4. Nature of sound and quantification, noise control strategies,
-5. Metrological aspects of air pollution,
-6. Solid waste, and basic strategies for proper handling of solid waste.
-
-**Course Outline**
-
 1. **Air pollution (8 hours)**
    * Introduction to the different aspects of air pollution
    * Sources and effects of particulate and gaseous air pollutants
@@ -81,17 +68,15 @@
 
 **Evaluation Scheme**
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 12 |
-| 2 | 6 | 12 |
-| 3 | 6 | 10 |
-| 4 | 6 | 12 |
-| 5 | 6 | 12 |
-| 6 | 6 | 10 |
-| 7 | 7 | 12 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 12                  |
+| 2         | 6      | 12                  |
+| 3         | 6      | 10                  |
+| 4         | 6      | 12                  |
+| 5         | 6      | 12                  |
+| 6         | 6      | 10                  |
+| 7         | 7      | 12                  |
+| **Total** | **45** | **80**              |
 
-**\* There may be minor deviation in marks distribution**
 
-**Copyright © 2021** 

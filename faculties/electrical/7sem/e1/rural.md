@@ -1,12 +1,3 @@
-## Syllabus: Rural Electrification
-
-**Course Objectives:**
-
-* To present a summary of rural livelihood.
-* To introduce the basic concepts of rural electrification and its impact on the development of rural communities.
-
-### Course Content:
-
 1. **Rural Livelihood and Social, Cultural and Human Factors in Development (4 hours)**
    * Components of rural livelihood and livelihood indicators
    * Social, cultural and human factors in development
@@ -84,5 +75,3 @@ A report to be produced by each student on the case study.
 6. Samudayik Bidyut bitran niyamawali 2060, NEA
 7. ISO 9001 standard
 8. AEPC status/progress reports on renewable energy
-
-**Copyright &copy; 2021** 

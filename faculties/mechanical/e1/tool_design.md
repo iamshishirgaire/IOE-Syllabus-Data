@@ -1,11 +1,3 @@
-## Syllabus: TOOL DESIGN FOR ECONOMIC PRODUCTION
-
-**Course Objectives:**
-
-After completion of the course, students will appreciate and understand the critical relationship between tooling, design, cost, and production. They will be able to apply jigs and fixtures in production and design them according to specific needs.
-
-**Course Outline:**
-
 1. **Cutting tools for productive machining (12 hours)**
    - Mechanics of metal cutting
    - Cutting tools materials
@@ -65,15 +57,12 @@ Minimum of THREE assignments on Design, manufacture, and use of a complete set o
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | all | 16 |
-| 2 | 2 | all | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 4 & 5 | all | 16 |
-| 5 | 6 | all | 16 |
-| **Total** | | | **80** |
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1       | all    | 16     |
+| 2         | 2       | all    | 16     |
+| 3         | 3       | all    | 16     |
+| 4         | 4 & 5   | all    | 16     |
+| 5         | 6       | all    | 16     |
+| **Total** |         |        | **80** |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright &copy; 2021** 

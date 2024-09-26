@@ -1,12 +1,3 @@
-## Syllabus
-
-**COMMUNICATION ENGLISH**
-
-**Course Objective:**
-
-1. To make the students capable of producing professional writings such as research articles, technical proposals, reports and project work.
-2. To familiarize the students with the native speakers' pronunciation with the use of audio-visual aids.
-
 **Unit I: Reading (15 hours)**
 
 1. **Intensive Reading (8 hours)**
@@ -106,19 +97,19 @@
 12. Sharma, Sangeeta et. al (2010) "Communication skills for Engineers and  Scientists", PHI Learning Private Limited, New Delhi. 
 13. Taylor, Shirley et. al. (2009), "Model Business letters, E-mails &amp; other  Business documents", Pearson Education.
 
-| Language Lab |         |    |     |      |
-|-------------|----------|---|-----|------|
-|             | **Title** |   | **Number of<br> Questions** | **Marks Distribution*** |
-|             | **Language Lab** |  |     |      |
-|             | Listening |   | 3    | 10   |
-|             | - Instruction |  |     |      |
-|             | - Description |  |     |      |
-|             | - Conversation | |     |      |
-|             | Speaking |   | 3    | 15   |
-|             | - Expressing Individual views | |     |      |
-|             | - Group/Round Table discussion | |     |      |
-|             | - Talk delivery | |     |      |
-|             | - Presenting brief oral report | |     |      |
+| Language Lab |                                |     |                         |                         |
+| ------------ | ------------------------------ | --- | ----------------------- | ----------------------- |
+|              | **Title**                      |     | **Number of Questions** | **Marks Distribution*** |
+|              | **Language Lab**               |     |                         |                         |
+|              | Listening                      |     | 3                       | 10                      |
+|              | - Instruction                  |     |                         |                         |
+|              | - Description                  |     |                         |                         |
+|              | - Conversation                 |     |                         |                         |
+|              | Speaking                       |     | 3                       | 15                      |
+|              | - Expressing Individual views  |     |                         |                         |
+|              | - Group/Round Table discussion |     |                         |                         |
+|              | - Talk delivery                |     |                         |                         |
+|              | - Presenting brief oral report |     |                         |                         |
 
 *There may be minor variation in marks distribution. 
 
@@ -126,32 +117,32 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Unit |                                  Testing Items                                 | Number of<br> Questions | Marks Distribution* |
-|------|-----------------------------------------------------------------------------|-----------------------|---------------------|
-| I     | Reading Passages                                                            | 3                     | 15                  |
-|      | Novel                                                                        | 1                     | 5                   |
-|      | Novel                                                                        | 1                     | 5                   |
-|      | Grammar                                                                      | 10 or 5                | 5                   |
-| II    | Composing &amp; Editing Strategies                                          | 1                     | 5                   |
-|      | MLA and APA Comparison                                                     | 1                     | 4                   |
-|      | Writing Research Articles                                                   | 1                     | 10                  |
-|      | Writing notice, Agenda and minutes                                          | 1                     | 5                   |
-|      | Writing Proposal                                                           | 1                     | 8                   |
-|      | I Writing Reports (Formal Report)                                          | 1                     | 10                  |
-|      | II Writing short reports or Project Report                                  | 1                     | 8                   |
-| **Total** |                                                                           |                       | **80**                |
+| Unit      | Testing Items                              | Number of Questions | Marks Distribution* |
+| --------- | ------------------------------------------ | ------------------- | ------------------- |
+| I         | Reading Passages                           | 3                   | 15                  |
+|           | Novel                                      | 1                   | 5                   |
+|           | Novel                                      | 1                   | 5                   |
+|           | Grammar                                    | 10 or 5             | 5                   |
+| II        | Composing &amp; Editing Strategies         | 1                   | 5                   |
+|           | MLA and APA Comparison                     | 1                   | 4                   |
+|           | Writing Research Articles                  | 1                   | 10                  |
+|           | Writing notice, Agenda and minutes         | 1                   | 5                   |
+|           | Writing Proposal                           | 1                   | 8                   |
+|           | I Writing Reports (Formal Report)          | 1                   | 10                  |
+|           | II Writing short reports or Project Report | 1                   | 8                   |
+| **Total** |                                            |                     | **80**              |
 
-| Language Lab |          | Number of<br> Questions | Marks Distribution* |
-|-------------|----------|-----------------------|---------------------|
-|             | Listening | 3                     | 10                  |
-|             | - Instruction |                      |                      |
-|             | - Description |                      |                      |
-|             | - Conversation |                      |                      |
-|             | Speaking | 3                     | 15                  |
-|             | - Expressing Individual views |                      |                      |
-|             | - Group/Round Table discussion |                      |                      |
-|             | - Talk delivery |                      |                      |
-|             | - Presenting brief oral report |                      |                      |
+| Language Lab |                                | Number of Questions | Marks Distribution* |
+| ------------ | ------------------------------ | ------------------- | ------------------- |
+|              | Listening                      | 3                   | 10                  |
+|              | - Instruction                  |                     |                     |
+|              | - Description                  |                     |                     |
+|              | - Conversation                 |                     |                     |
+|              | Speaking                       | 3                   | 15                  |
+|              | - Expressing Individual views  |                     |                     |
+|              | - Group/Round Table discussion |                     |                     |
+|              | - Talk delivery                |                     |                     |
+|              | - Presenting brief oral report |                     |                     |
 
 
 **Language Lab:**
@@ -168,6 +159,3 @@ The questions will cover all the chapters of the syllabus. The evaluation scheme
   * Activity IV: Making students deliver talk either individually or in group on the assigned topics. (Equipment Required: Overhead projector, microphone, power point, laser pointer, multimedia, video camera, screen)
   * Activity V: Getting students to present their brief oral reports individually on the topics of their choice. (Equipment Required: Overhead projector, microphone, power point, laser pointer, multimedia, video camera, screen)
 
----
-
-**Copyright &copy; 2021** 

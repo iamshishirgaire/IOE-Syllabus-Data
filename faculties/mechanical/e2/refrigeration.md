@@ -1,13 +1,3 @@
-# Syllabus
-
-## Refrigeration
-
-**Course Objective:**
-
-To understand the concept of simple and advanced refrigeration systems and the working principle of various types of refrigeration systems, Cryogenics, various systems of cryogenics. To analyze the merits and demerits of various types of refrigeration systems. To design cold storage.
-
-##  Topics:
-
 1. **Fundamentals of Refrigeration (2 hours)**
     * Introduction to Refrigeration
     * Application of Refrigeration
@@ -100,17 +90,11 @@ To understand the concept of simple and advanced refrigeration systems and the w
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 & 3 | all | 16 |
-| 2 | 2 & 9 | all | 16 |
-| 3 | 4 & 5 | all | 16 |
-| 4 | 6 & 7 | 5.1 to 5.3 | 16 |
-| 5 | 8 | all | 16 |
-| **Total** | | | **80** |
-
-*There could be minor deviation in mark distribution.
-
-## Copyright:
-
-Copyright © 2021 
+| Unit      | Chapter | Topics     | Marks* |
+| --------- | ------- | ---------- | ------ |
+| 1         | 1 & 3   | all        | 16     |
+| 2         | 2 & 9   | all        | 16     |
+| 3         | 4 & 5   | all        | 16     |
+| 4         | 6 & 7   | 5.1 to 5.3 | 16     |
+| 5         | 8       | all        | 16     |
+| **Total** |         |            | **80** |

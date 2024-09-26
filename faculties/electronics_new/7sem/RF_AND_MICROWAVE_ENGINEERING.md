@@ -1,27 +1,18 @@
-## RF AND  MICROWAVE ENGINEERING
-
-**EX 725 05**
-
-**Course Objectives:** <br>
-The course deals with the basic understanding of the fundamentals of Radio Frequency (RF) and Microwave (M/W) theory and applications, design and analysis practices, and measurement techniques.            
-
-### Syllabus
-
 1. **Introduction (3 hours)**
     * Standard frequency bands
     * Behaviour of circuits at conventional and RF/microwave bands
     * Microwave applications 
-<br>
+
 2. **RF and M/W Transmission Lines (6 hours)**
     * Types of transmission lines
     * Transmission line theory
     * Smith Chart analysis
     * Impedance transformations and matching analysis
-<br>
+
 3. **RF an M/W Network Theory and Analysis(4 hours)**
     * Scattering matrix and its properties
     * S-Parameter derivation and analysis
-<br>
+
 4. **RF/Microwave Components and Devices(8 hours)**
     * Coupling probes
     * Coupling loops
@@ -34,14 +25,14 @@ The course deals with the basic understanding of the fundamentals of Radio Frequ
     * Microwave transistor 
     * MASER
     * Resonator and  circulators
-<br>
+
 5. **Microwave Generators (5 hours)**
     * Transit-time effect
     * Limitations of conventional tubes
     * Two-cavity and multi-cavity klystrons 
     * Reflex klystron
     * TWT and  magnetrons
-<br>
+
 6. **RF Design Practices (10 hours)**
     * RF Low pass filter
         * Insertion loss
@@ -53,12 +44,12 @@ The course deals with the basic understanding of the fundamentals of Radio Frequ
     * Oscillator and mixer
         * Oscillator and super mixing theory
         * Design and real world consideration
-<br>
+
 7. **Microwave Antennas and Propagation(3 hours)**
     * Antenna types 
     * Propagation characteristics of microwave antennas
     * RF an M/W radiation,  safety practices and standards 
-<br>
+
 8. **RF/Microwave Measurements (6 hours)**
     * Power measurement
     * Calorimeter method
@@ -95,18 +86,14 @@ The course deals with the basic understanding of the fundamentals of Radio Frequ
 
 The questions will cover all the chapters of the syllabus.  The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 8 |
-| 2 | 6 | 8 |
-| 3 | 4 | 8 |
-| 4 | 8 | 10 |
-| 5 | 5 | 8 |
-| 6 | 10 | 20 |
-| 7 | 3 | 8 |
-| 8 | 6 | 10 |
-| **Total** | **45** | **80** |
-
-*There could be a minor deviation in the marks distribution.
-
-**Copyright&copy; 2021** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 8                   |
+| 2         | 6      | 8                   |
+| 3         | 4      | 8                   |
+| 4         | 8      | 10                  |
+| 5         | 5      | 8                   |
+| 6         | 10     | 20                  |
+| 7         | 3      | 8                   |
+| 8         | 6      | 10                  |
+| **Total** | **45** | **80**              |

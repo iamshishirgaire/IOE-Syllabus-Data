@@ -1,54 +1,54 @@
-# Syllabus
+1. **Introduction (2 hours)**  
+   - Historical Background, Development of Cadastral System, Concept of Cadastre and Cadastral survey, types of Cadastre, Cadastral system (analog and digital), importance of Cadastre.
 
-**CADASTRE**
+2. **Parcel and Boundary (2 hours)**  
+   - Definition of parcel, parcel as a unit of land, parcel numbering system, unique ID, Boundary, types of boundary, boundary demarcation.
 
-**Course objective:**  
-After completion of this course, the students will be able to:
+3. **Components of Cadastre (3 hours)**  
+   - Cadastral maps and their types, Field books, Registers, Title documents, Schema and database, Cadastral data model.
 
-1. Understand the basic concepts, principle, working methodologies and application of Cadastre
-2. Explain analogue and digital cadastral procedures,
-3. Plan, perform and supervise cadastral survey
-4. Prepare cadastral documents and database
+4. **Technical Requirements for Cadastral Survey (6 hours)**  
+   - Approach of cadastral survey: sporadic vs systematic, free sheet vs trigonometrically controlled sheet, isolated vs seamless cadastral data, Projection System, Geodetic Network Control points, Map sheet numbering system, technical specifications, Standards.
 
-**Course contents:**
+5. **Cadastral Survey Methods (6 hours)**  
+   - Annotation on existing map/image, chain/tape, compass, Plane table alidade, Total station, Photogrammetry, GPS method, Hybrid method, comparison of different methods.
 
-1. **Introduction** **(2 hours)**
-2. **Parcel and Boundary** **(2 hours)**
-3. **Components of Cadastre** **(3 hours)**
-4. **Technical requirements for Cadastral Survey** **(6 hours)**
-5. **Cadastral Survey Methods** **(6 hours)**
-6. **Cadastral Survey Procedure and workflow** **(5 hours)**
-7. **I and Registration Process** **(4 hours)**
-8. **Updating and archiving Cadastral Documents** **(4 hours)**
-9. **LIS** **(5 hours)**
-10. **Cadastral System of Nepal** **(5 hours)**
-11. **International Practices** **(5 hours)**
+6. **Cadastral Survey Procedure and Workflow (5 hours)**  
+   - Establishment of Control Points, Notification and Awareness, interaction with local community, Adjudication, Demarcation, Measurement, Recording, Map preparation, Documentation, Cadastral data modeling and database preparation, land parcel registration, preparation of ownership documents (Analogue and digital method).
 
-**Tutorials and internal evaluation:**  
-The students will be given eight assignments for tutorial assignment.  
-Out of 20 marks for internal evaluation, 10 marks for written test and 10 marks for tutorial assignment.  
-Internal assessment: Mean of three test plus assignment marks.
+7. **Land Registration Process (4 hours)**  
+   - Conveyancing, Registration of deed, registration of title, registration process.
 
-**Reference:**
+8. **Updating and Archiving Cadastral Documents (4 hours)**  
+   - Map Tracing, Parcel subdivision, parcel history maintenance, file map, parcel map, plot register maintenance, database maintenance.
 
-1. Cadastral Survey within the common Health, PF Dale.
-2. Land law and registration, S.R. Simpson, Surveyors, publications, London
-3. Land Administration, PF dale and J.D Mc Laughlin, Oxford university press
+9. **LIS (5 hours)**  
+   - Introduction to LIS, components of LIS, Role of LIS, Data sources, Data acquisitions, data preparation, data model, data maintenance, Dissemination and use of data, LIS stakeholders and their role, Benefits of LIS.
 
-The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
+10. **Cadastral System of Nepal (5 hours)**  
+    - Analogue cadastral system, Digital cadastral system, Maintenance of cadastre, LIS in Nepal, Organizations involved in cadastral system, Legal framework for cadastral system.
 
-**Evaluation Scheme:**
-|||||
-|---|---|---|---|
+11. **International Practices (5 hours)**  
+    - Examples of modern cadastral systems implemented around the world, International professional organizations in Cadastral Surveying, International conventions and declarations in cadastral surveying, ethics, professionalism, and code of conduct.
 
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1-3|9|16|
-|2|4,5|9|16|
-|3|6,7|8|16|
-|4|8,9|9|16|
-|5|10,11|10|16|
-|**Total**|**45**|**80**|
+## Tutorials and Internal Evaluation:  
+- The students will be given eight assignments for tutorial assignments.
+- Out of 20 marks for internal evaluation, 10 marks are for written tests and 10 marks for tutorial assignments.
+- Internal assessment: Mean of three tests plus assignment marks.
 
-\*There may be minor variation in marks distribution
+## References:
+1. Cadastral Survey within the Common Health, PF Dale.
+2. Land Law and Registration, S.R. Simpson, Surveyors Publications, London.
+3. Land Administration, PF Dale and J.D. Mc Laughlin, Oxford University Press.
 
-#### Copyright&copy; 2021
+## Evaluation Scheme:
+
+| S.N. | Chapter   | Hours  | Marks Allocation |
+| ---- | --------- | ------ | ---------------- |
+| 1    | 1-3       | 9      | 16               |
+| 2    | 4,5       | 9      | 16               |
+| 3    | 6,7       | 8      | 16               |
+| 4    | 8,9       | 9      | 16               |
+| 5    | 10,11     | 10     | 16               |
+|      | **Total** | **45** | **80**           |
+

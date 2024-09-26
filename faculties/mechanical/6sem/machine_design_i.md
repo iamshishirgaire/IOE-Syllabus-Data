@@ -1,13 +1,3 @@
-# Syllabus
-
-## **MACHINE DESIGN I**
-
-### **Course Objective** 
-
-The main objective of this course is to provide fundamental knowledge and skills to the students that are needed to design the most commonly used machine elements. After completion of this course the students will be able to design different kinds of machine elements and components. 
-
-### **Course Outlines:**
-
 1. **Design Process (3 hour)**
     - Introduction
     - Basic Steps in the Design and Synthesis Process
@@ -115,19 +105,16 @@ The main objective of this course is to provide fundamental knowledge and skills
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below. 
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 2 | 4 |
-| 3 | 4 | 8 |
-| 4 | 8 | 14 |
-| 5 | 4 | 8 |
-| 6 | 6 | 10 |
-| 7 | 4 | 8 |
-| 8 | 12 | 22 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 2      | 4                   |
+| 3         | 4      | 8                   |
+| 4         | 8      | 14                  |
+| 5         | 4      | 8                   |
+| 6         | 6      | 10                  |
+| 7         | 4      | 8                   |
+| 8         | 12     | 22                  |
+| **Total** | **45** | **80**              |
 
-**\*There may be minor deviation in marks distribution.** 
 
----
-Copyright &copy; 2021 

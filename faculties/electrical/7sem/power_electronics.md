@@ -1,9 +1,3 @@
-# Syllabus
-
-## POWER ELECTRONICS
-
-**Course Objective:** To introduce various power electronics based circuits and their use in power system.
-
 ### **1. Characteristics and specification of power electronics device    (10 hours)**
 - **Power Diode:** V-I characteristics, switching characteristics, types of diodes, application
 - **Thyristor:**
@@ -81,17 +75,13 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 10 | 16 |
-| 2 | 6 | 8 |
-| 3 | 4 | 8 |
-| 4 | 6 | 8 |
-| 5 | 8 | 16 |
-| 6 | 6 | 16 |
-| 7 | 5 | 8 |
-| **Total** | **44** | **80** |
-
-\* There may be minor deviation in marks distribution.
-
-## **Copyright&copy; 2021** 
+| Chapters  | Hours  | Marks Distribution\* |
+| --------- | ------ | -------------------- |
+| 1         | 10     | 16                   |
+| 2         | 6      | 8                    |
+| 3         | 4      | 8                    |
+| 4         | 6      | 8                    |
+| 5         | 8      | 16                   |
+| 6         | 6      | 16                   |
+| 7         | 5      | 8                    |
+| **Total** | **44** | **80**               |

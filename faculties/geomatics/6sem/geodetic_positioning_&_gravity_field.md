@@ -1,14 +1,3 @@
-# Syllabus
-
-**GEODETIC POSITIONING AND GRAVITY FIELD IN GEODESY**
-
-**Course Objectives:**
-
-1. To become familiar with coordinate systems, different relative horizontal and vertical positioning systems.
-2. To become familiar earth gravity systems.
-
-**Course outline:**
-
 1. **Introduction** **(2 hours)**
 2. **Relative Positioning by Terrestrial Methods** **(8 hours)**
 3. **Positioning by Astronomic Methods** **(6 hours)**
@@ -37,16 +26,13 @@ Positioning computations and computer programming on exercise.
 **Evaluation Scheme:**  
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks Distribution\***|
-|1|1,2|10|16|
-|2|3,6.1-6.4|9|16|
-|3|4|8|16|
-|4|5|7|16|
-|5|6|10|16|
-|**Total**|**45**|**80**|
+|           |             |           |                          |
+| --------- | ----------- | --------- | ------------------------ |
+| **S.N.**  | **Chapter** | **Hours** | **Marks Distribution\*** |
+| 1         | 1,2         | 10        | 16                       |
+| 2         | 3,6.1-6.4   | 9         | 16                       |
+| 3         | 4           | 8         | 16                       |
+| 4         | 5           | 7         | 16                       |
+| 5         | 6           | 10        | 16                       |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021
