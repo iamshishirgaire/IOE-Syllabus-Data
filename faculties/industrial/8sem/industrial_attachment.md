@@ -1,9 +1,3 @@
-## Syllabus: Industrial Attachment
-
-**Course Objective**
-
-The objective of the industrial attachment is to train, acquire skills, and familiarize students with a real industrial working environment. Students will gain knowledge of management and technical issues encountered by industrial engineers in the field.
-
 **Methodology**
 
 In consultation with the department, students will select an industry, workshop, or organization where they will work for approximately 90 working days. The chosen institution or organization will assess the students' performance and submit an evaluation to the department.
@@ -17,19 +11,13 @@ In consultation with the department, students will select an industry, workshop,
 
 The evaluation will be conducted as follows:
 
-| Unit | Chapters | Mark Distribution\* |
-|---|---|---|
-| **Internal** |  |  |
-| 1 | Performance of student assessed by OJT providing institution/organization/industry | 200 |
-| 2 | Report prepared by student individually and submitted to the department | 50 |
-| **Total** |  | **250** |
-| **Final Exam (Presentation)** |  |  |
-| 1 | Presentation | 25 |
-| 2 | Viva-voce / Interview | 25 |
-| **Total** |  | **50** |
-
-\* There may be minor deviations in the mark distribution.
-
----
-
-Copyright © 2021
+| Unit                          | Chapters                                                                           | Mark Distribution\* |
+| ----------------------------- | ---------------------------------------------------------------------------------- | ------------------- |
+| **Internal**                  |                                                                                    |                     |
+| 1                             | Performance of student assessed by OJT providing institution/organization/industry | 200                 |
+| 2                             | Report prepared by student individually and submitted to the department            | 50                  |
+| **Total**                     |                                                                                    | **250**             |
+| **Final Exam (Presentation)** |                                                                                    |                     |
+| 1                             | Presentation                                                                       | 25                  |
+| 2                             | Viva-voce / Interview                                                              | 25                  |
+| **Total**                     |                                                                                    | **50**              |

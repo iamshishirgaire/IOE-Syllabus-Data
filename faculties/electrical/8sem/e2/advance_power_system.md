@@ -1,7 +1,3 @@
-## Syllabus
-
-### **ADVANCED POWER SYSTEM ANALYSIS**
-
 1. **Review of Transmission Line (5 hours)**
     * Basic relationship in transmission line
     * Uncompensated line
@@ -42,7 +38,3 @@ Exercised on computer simulation
 3. Hadi Saadat, "Power System analysis", TATA Mc Graw Hill.
 4. R.H. Miller, "Reactive power compensation in power system", Mc. Graw Hill
 5. P.S. Kundur, "Power System Stability and control", Mc. Graw Hill. Inc.
-
-***
-
-**Copyright © 2021** 

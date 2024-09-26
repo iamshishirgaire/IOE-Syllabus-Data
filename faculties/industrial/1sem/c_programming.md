@@ -1,9 +1,3 @@
-## Syllabus: Computer Programming
-
-**Course Objective:** To acquaint the student with computer software and high level programming languages. Emphasis will be given on developing computer programming skills using C and FORTRAN languages.
-
-### Course Outline:
-
 1. **Overview of computer software & programming languages (2 hours)**
    - System software
    - Application software
@@ -95,21 +89,16 @@
 
 There will be questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Chapter | Hours | Mark distribution* |
-|---|---|---|
-| 1, 2 | 4 | 8 |
-| 3, 4 | 5 | 8 |
-| 5 | 6 | 10 |
-| 6 | 4 | 8 |
-| 7 | 6 | 10 |
-| 8 | 4 | 8 |
-| 9 | 4 | 8 |
-| 10 | 4 | 8 |
-| 11 | 8 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark distribution* |
+| --------- | ------ | ------------------ |
+| 1, 2      | 4      | 8                  |
+| 3, 4      | 5      | 8                  |
+| 5         | 6      | 10                 |
+| 6         | 4      | 8                  |
+| 7         | 6      | 10                 |
+| 8         | 4      | 8                  |
+| 9         | 4      | 8                  |
+| 10        | 4      | 8                  |
+| 11        | 8      | 12                 |
+| **Total** | **45** | **80**             |
 
-*There may be minor deviation in marks distribution.
-
-### Copyright:
-
-Copyright © 2021

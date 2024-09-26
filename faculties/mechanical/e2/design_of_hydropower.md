@@ -1,13 +1,3 @@
-## Syllabus
-
-**DESIGN OF MICRO HYDROPOWER SYSTEM**
-
-**Course Objectives:**
-
-To develop an understanding of designing and selecting civil, mechanical, electrical components and transmission systems.
-
-### Topics:
-
 1. **Introduction to design of micro-hydropower system (2 hours)**
     * Introduction to MHP system design
     * Planning concepts
@@ -137,17 +127,11 @@ Practical means project work and report have to be submitted at the end of the c
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 & 5 | all | 16 |
-| 2 | 2 | all | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 4 | all | 16 |
-| 5 | 6 & 7 | all | 16 |
-| **Total** |  |  | **80** |
-
-*There could be minor deviation in mark distribution.
-
-***
-
-Copyright © 2021
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1 & 5   | all    | 16     |
+| 2         | 2       | all    | 16     |
+| 3         | 3       | all    | 16     |
+| 4         | 4       | all    | 16     |
+| 5         | 6 & 7   | all    | 16     |
+| **Total** |         |        | **80** |

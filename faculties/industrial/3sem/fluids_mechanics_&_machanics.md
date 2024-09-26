@@ -1,13 +1,3 @@
-# Syllabus
-
-## **FLUID MECHANICS AND MACHINES**
-
-## **Course objectives**
-
-The objective of this course is to develop knowledge about the fluid properties, study of motion of fluid and related theory. It further focuses on the working principle of the fluid machines. After the completion of this course, the student will have good knowledge on the fluid motion behavior and different fluid machines. Any type of industry cannot thrive without dependence on fluid and fluid machinery.
-
-## **Course Outline**
-
 1. **Fluid properties and Fluid Statics (6 hours)**
     * Introductory concepts
     * Definition of fluid
@@ -87,18 +77,12 @@ The objective of this course is to develop knowledge about the fluid properties,
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark distribution * |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 6 | 10 |
-| 3 | 6 | 10 |
-| 4 | 10 | 20 |
-| 5 | 10 | 20 |
-| 6 | 6 | 10 |
-| **Total** | **44** | **80** |
-
-\*There may be minor deviation in mark distribution
-
-***
-
-## **Copyright &copy; 2021**
+| Chapters  | Hours  | Mark distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 10                  |
+| 2         | 6      | 10                  |
+| 3         | 6      | 10                  |
+| 4         | 10     | 20                  |
+| 5         | 10     | 20                  |
+| 6         | 6      | 10                  |
+| **Total** | **44** | **80**              |

@@ -1,11 +1,3 @@
-# Syllabus: BASIC AIRCRAFT & AIR FRAME
-
-## Course Objective:
-
-To develop a basic understanding of different types of aircraft. To become familiar with different types of aircraft structure, construction & materials and to develop a basic understanding of airframe maintenance.
-
-## Course Outline:
-
 1. **Introduction to Aircraft (2 hours)**
     * History of aircraft
     * Development trends of aircraft in terms of design and scale
@@ -109,17 +101,12 @@ Practical means project work and report have to be submitted at the end of the c
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1, 3 & 4 | all | 16 |
-| 2 | 2 | 2.1 & 2.2 | 16 |
-| 3 | 2 | 2.3 & 2.4 | 16 |
-| 4 | 5, 6 & 8 | all | 16 |
-| 5 | 7 | all | 16 |
-| **Total** |  |  | **80** |
+| Unit      | Chapter  | Topics    | Marks* |
+| --------- | -------- | --------- | ------ |
+| 1         | 1, 3 & 4 | all       | 16     |
+| 2         | 2        | 2.1 & 2.2 | 16     |
+| 3         | 2        | 2.3 & 2.4 | 16     |
+| 4         | 5, 6 & 8 | all       | 16     |
+| 5         | 7        | all       | 16     |
+| **Total** |          |           | **80** |
 
-*There could be minor deviation in mark distribution.
-
-## Copyright:
-
-Copyright&copy; 2021

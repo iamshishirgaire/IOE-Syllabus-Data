@@ -1,9 +1,3 @@
-## Syllabus: An Introduction to Construction Equipment
-
-**Course Objective:** To be familiar with the types, repair and maintenance, and management of construction equipment used in Nepal.
-
-### Course Content:
-
 1. **Introduction to Construction Equipment (4 hours)**
     * Types: Graders, loaders, excavators, dozers, road roller, compressor, rock crusher, asphalt equipment
     * Specifications (general)
@@ -66,18 +60,12 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | all | 16 |
-| 1 | 2 | 2.1 | 16 |
-| 2 | 2 | 2.2 to 2.4 | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 4 | all | 16 |
-| 5 | 5 | all | 16 |
-| **Total** | | | **80** |
-
-\*There could be minor deviation in mark distribution.
-
-### Copyright:
-
-Copyright &copy; 2021
+| Unit      | Chapter | Topics     | Marks* |
+| --------- | ------- | ---------- | ------ |
+| 1         | 1       | all        | 16     |
+| 1         | 2       | 2.1        | 16     |
+| 2         | 2       | 2.2 to 2.4 | 16     |
+| 3         | 3       | all        | 16     |
+| 4         | 4       | all        | 16     |
+| 5         | 5       | all        | 16     |
+| **Total** |         |            | **80** |

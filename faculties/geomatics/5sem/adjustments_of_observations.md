@@ -1,12 +1,3 @@
-# Syllabus
-
-**ADJUSTMENT OF OBSERVATIONS**
-
-**Course objectives:**  
-To impart knowledge on adjustment of survey measurements and develop skills in computer programming.
-
-**Course outline:**
-
 1. **Surveying Engineering Methodology** **(1 hours)**
 2. **Classes of Mathematical models** **(4 hours)**
 3. **Solution of Models** **(4 hours)**
@@ -36,16 +27,13 @@ To impart knowledge on adjustment of survey measurements and develop skills in c
 **Evaluation Scheme:**  
 The question will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below.
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|2,3|9|16|
-|2|4,5,6.1,6.2|9|16|
-|3|6|9|16|
-|4|7|12|16|
-|5|1,8|7|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 2,3         | 9         | 16                     |
+| 2         | 4,5,6.1,6.2 | 9         | 16                     |
+| 3         | 6           | 9         | 16                     |
+| 4         | 7           | 12        | 16                     |
+| 5         | 1,8         | 7         | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

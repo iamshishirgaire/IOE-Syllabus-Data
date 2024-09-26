@@ -1,13 +1,3 @@
-# Syllabus
-
-## Automobile Technology
-
-**Course objectives**
-
-The objective of this course is to make students understand the working principle of vehicles and its components. After completion of this course, students have good knowledge to repair and maintain the vehicles.
-
-**Course Outline**
-
 1. **Introduction (2 hours)**
     * History of development of automobile
     * Classification of vehicles
@@ -224,24 +214,21 @@ The objective of this course is to make students understand the working principl
 
 There will be 10 Questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be indicated in the table below:
 
-| Unit | Chapters | Hours | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction | 2 | 5 |
-| 2 | Internal Combustion Engine | 5 | 5 |
-| 3 | Performance of Internal Combustion Engines | 7 | 10 |
-| 4 | Transmission | 8 | 15 |
-| 5 | Wheel and Tyres | 3 | 7 |
-| 6 | Chassis | 2 | 5 |
-| 7 | Suspension System | 2 | 5 |
-| 8 | Brakes | 4 | 8 |
-| 9 | Electrical and Electronics System | 4 | 5 |
-| 10 | Steering System | 2 | 5 |
-| 11 | Hybrid vehicle | 2 | 5 |
-| 12 | Different types of transportation systems used in industrial sector | 4 | 5 |
-| **Total** | **|** | **45** | **80** |
+| Unit      | Chapters                                                            | Hours | Mark Distribution* |
+| --------- | ------------------------------------------------------------------- | ----- | ------------------ |
+| 1         | Introduction                                                        | 2     | 5                  |
+| 2         | Internal Combustion Engine                                          | 5     | 5                  |
+| 3         | Performance of Internal Combustion Engines                          | 7     | 10                 |
+| 4         | Transmission                                                        | 8     | 15                 |
+| 5         | Wheel and Tyres                                                     | 3     | 7                  |
+| 6         | Chassis                                                             | 2     | 5                  |
+| 7         | Suspension System                                                   | 2     | 5                  |
+| 8         | Brakes                                                              | 4     | 8                  |
+| 9         | Electrical and Electronics System                                   | 4     | 5                  |
+| 10        | Steering System                                                     | 2     | 5                  |
+| 11        | Hybrid vehicle                                                      | 2     | 5                  |
+| 12        | Different types of transportation systems used in industrial sector | 4     | 5                  |
+| **Total** | **                                                                  | **    | **45**             | **80** |
 
-*There could be minor deviation in mark distribution.*
 
-***
 
-Copyright &copy; 2021 

@@ -1,12 +1,3 @@
-# Syllabus
-
-**DIGITAL TERRAIN MODELING**
-
-**Course objective:**  
-The objective of the course is to understanding Digital Terrain Modeling. How to Create, visualize 3D and use of DTM. DTM model is mostly related as raster data type, stored usually as a rectangular equal-spaced grid, with space (Resolution) of between 1 and 500 meters mostly presented in Cartesian coordinate system. The DTM data sets are extremely useful for the generation of 3D renderings of any location in the area described. 3D models rendered from DTM data can be extremely useful and versatile for a variety of applications. DTMs are used especially in civil engineering, geodesy & surveying, geophysics, and geography.
-
-**Course outline:**
-
 1. **Digital Terrain Modeling (DTM,DEM, DHM,DSM)** **(3 hours)**
 2. **Method for DTM** **(3 hours)**
 3. **DTM Capturing** **(3 hours)**
@@ -42,16 +33,13 @@ The objective of the course is to understanding Digital Terrain Modeling. How to
 **Evaluation Scheme:**  
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S. No.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2,3|9|16|
-|2|4,5,6|9|16|
-|3|7,10.1,10.2|10|16|
-|4|8,9|9|16|
-|5|10.3,10.4 ,11|8|16|
-|**Total**|**45**|**80**|
+|            |               |           |                        |
+| ---------- | ------------- | --------- | ---------------------- |
+| **S. No.** | **Chapter**   | **Hours** | **Marks allocation\*** |
+| 1          | 1,2,3         | 9         | 16                     |
+| 2          | 4,5,6         | 9         | 16                     |
+| 3          | 7,10.1,10.2   | 10        | 16                     |
+| 4          | 8,9           | 9         | 16                     |
+| 5          | 10.3,10.4 ,11 | 8         | 16                     |
+| **Total**  | **45**        | **80**    |
 
-\* There may be minor variation in marks distribution.
-
-#### Copyright&copy; 2021

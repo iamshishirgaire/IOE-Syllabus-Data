@@ -1,15 +1,3 @@
-# Syllabus
-
-## THEORY OF MECHANISM AND MACHINE II
-
-**Course Objectives:**
-
-* To provide basic concept for the dynamics response analysis of common machines and machine components.
-* To model a given system for a vibratory response.
-* To develop computer simulation and program for the dynamic response.
-
-**Course Outline:**
-
 1. **Engine Force Analysis (2 hours)**
    * Analytical Method for Velocity and Acceleration of the Piston and the Connecting Rod
    * Equivalent Dynamical System
@@ -97,23 +85,16 @@
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme is shown below:
 
-| Chapter | Hour | Marks Distribution* |
-|---|---|---|
-| 1 & 2 | 4 | 6 |
-| 3 | 3 | 6 |
-| 4 | 4 | 8 |
-| 5 | 6 | 10 |
-| 6 | 10 | 18 |
-| 7 | 4 | 8 |
-| 8 | 6 | 10 |
-| 9 | 4 | 7 |
-| 10 | 4 | 7 |
-| **Total** | **45** | **80** |
+| Chapter   | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 4      | 6                   |
+| 3         | 3      | 6                   |
+| 4         | 4      | 8                   |
+| 5         | 6      | 10                  |
+| 6         | 10     | 18                  |
+| 7         | 4      | 8                   |
+| 8         | 6      | 10                  |
+| 9         | 4      | 7                   |
+| 10        | 4      | 7                   |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
-
-## Copyright
-
-Copyright &copy; 2021
-
-This is a Markdown conversion of your HTML syllabus. It removes unnecessary formatting and simplifies the layout for better readability. You can customize this further to match your preferences. 

@@ -1,13 +1,3 @@
-# Syllabus
-
-## HEATING VENTILATING AND AIR CONDITIONING
-
-### Course Objectives:
-
-To understand the properties of air and the psychometric processes that takes place in various Heating, Ventilating and Air Conditioning Systems and to become familiar with Vapor compression, Vapor absorption and Air refrigeration and Air Conditioning systems. Also to understand the basic issues involved with Human comfort with respect to thermal surroundings and to understand the basic structure, and operation of major components used in HVAC systems. To develop understanding of HVAC system design principles.
-
-### Topics:
-
 1. **Basic Refrigeration systems review (5 hours)**
     * Vapor compression cycle fundamentals
     * Vapor absorption system.
@@ -94,15 +84,11 @@ To understand the properties of air and the psychometric processes that takes pl
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 & 4 | all | 16 |
-| 2 | 1 & 5 | all | 16 |
-| 3 | 2 & 3 | all | 16 |
-| 4 | 6 & 7 | all | 16 |
-| 5 | 8 | all | 16 |
-| **Total** | | | **80** |
-
-\*There could be minor deviation in mark distribution.
-
-## Copyright © 2021 
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1 & 4   | all    | 16     |
+| 2         | 1 & 5   | all    | 16     |
+| 3         | 2 & 3   | all    | 16     |
+| 4         | 6 & 7   | all    | 16     |
+| 5         | 8       | all    | 16     |
+| **Total** |         |        | **80** |

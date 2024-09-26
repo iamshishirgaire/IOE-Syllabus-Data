@@ -1,11 +1,3 @@
-# Syllabus
-
-## **ENERGY ELECTRICAL SYSTEM MANAGEMENT**
-
-**Course Objective:** 
-
-To study planning and management aspects of electrical energy supply and to gain some familiarity with demand characteristics and load forecasting.
-
 ### **1. Power utilities and power sector development (9 hours)**
 
 - Functional block model
@@ -75,6 +67,3 @@ To study planning and management aspects of electrical energy supply and to gain
 5. S. Makridakis, S.C. Wheelwright, V.E. Mc Gee: Forecasting Methods and Applications
 6. I.G. Nagarath and D.P. Kothari: Power System Engineering, Tata Mc Grawhill Publishing Company
 
----
-
-**Copyright&copy; 2021** 

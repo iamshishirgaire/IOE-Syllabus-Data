@@ -1,10 +1,3 @@
-## Syllabus
-
-### **PROJECT**
-
-**Course Objective** 
-After completion of this course, students will be able to plan and complete an individual mechanical engineering design project under the supervision of an instructor and prepare a written report and give an oral examination.
-
 **General Procedures**
 
 The project course will involve working on a design project under the supervision of a staff member in the Department of Industrial Engineering. The subject of the project should be as relevant as possible to the local industrial environment and may be selected in consultation with an industrial firm or government departments. Students are advised to select the project topic at the beginning of the term (A of the fourth year). The consultation hour of the supervisor will be 6 hours in part A of the fourth year. Course requirements will include:
@@ -19,22 +12,19 @@ An oral examination of the final report will be conducted during the 15th week o
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Mark Distribution* |
-|---|---|---|
-| **Internal marks** | | |
-| 1 | Concept of project | 20 |
-| 2 | Students efforts in literature / Field visit / Data collection / Design | 20 |
-| 3 | Discipline / Punctuality / Motivation | 20 |
-| 4 | Report | 40 |
-| **Total** | | **100** |
-| **Final Exam (Presentation)** | | |
-| 1 | Presentation | 25 |
-| 2 | Viva-voce | 25 |
-| 3 | Report | 25 |
-| **Total** | | **75** |
+| Unit                          | Chapters                                                                | Mark Distribution* |
+| ----------------------------- | ----------------------------------------------------------------------- | ------------------ |
+| **Internal marks**            |                                                                         |                    |
+| 1                             | Concept of project                                                      | 20                 |
+| 2                             | Students efforts in literature / Field visit / Data collection / Design | 20                 |
+| 3                             | Discipline / Punctuality / Motivation                                   | 20                 |
+| 4                             | Report                                                                  | 40                 |
+| **Total**                     |                                                                         | **100**            |
+| **Final Exam (Presentation)** |                                                                         |                    |
+| 1                             | Presentation                                                            | 25                 |
+| 2                             | Viva-voce                                                               | 25                 |
+| 3                             | Report                                                                  | 25                 |
+| **Total**                     |                                                                         | **75**             |
 
-*There could be minor deviation in mark distribution.
 
----
 
-Copyright &copy; 2021

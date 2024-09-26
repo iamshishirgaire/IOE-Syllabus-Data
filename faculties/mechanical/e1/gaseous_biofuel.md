@@ -1,11 +1,3 @@
-# Syllabus: Gaseous Bio-Fuel
-
-## Course Objectives:
-
-To know different types of gaseous biofuels resources, production technologies, and applications and system design of major gaseous biofuel plants. To know operation and maintenance of major gaseous biofuel plants and scope and application of gaseous biofuel in Nepal.
-
-## Course Outline:
-
 1. **Introduction of gaseous biofuel (9 hours)**
    - Overview of different types of gaseous bio-energy (Pyrolytic gas, CH4, H2, C2H6, Producer gas, Land fill gas etc.) 
    - Resources of gaseous biofuel in Nepal
@@ -87,17 +79,11 @@ To know different types of gaseous biofuels resources, production technologies, 
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | all | 16 |
-| 2 | 2 | all | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 4 | all | 16 |
-| 5 | 5 & 6 | all | 16 |
-| **Total** |  |  | **80** |
-
-*There could be minor deviation in mark distribution.
-
-## Copyright:
-
-Copyright &copy; 2021 
+| Unit      | Chapter | Topics | Marks* |
+| --------- | ------- | ------ | ------ |
+| 1         | 1       | all    | 16     |
+| 2         | 2       | all    | 16     |
+| 3         | 3       | all    | 16     |
+| 4         | 4       | all    | 16     |
+| 5         | 5 & 6   | all    | 16     |
+| **Total** |         |        | **80** |

@@ -1,16 +1,3 @@
-# Syllabus
-
-## SOLID BIO FUEL
-
-**Course Objectives:**
-
-* To know different types of solid biofuels resources and technology applied for different end uses and sector.
-* To know about wood and non-woody biomass resources.
-* To design of cook stove.
-* To know scope and application of solid biofuel in Nepal.
-
-## Course Outline
-
 1. **Introduction of gaseous biofuels (12 hours)**
    * Traditional and modern application of solid biofuels
    * Share of solid biomass fuels in the national, regional energy consumption and newly emerging trend
@@ -105,18 +92,13 @@
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | 1.1 to 1.4 | 16 |
-| 2 | 1 | 1.5 & 1.6 | 16 |
-| 2 | 2 | 2.1 & 2.2 | |
-| 3 | 2 | 2.3 & 2.6 | 16 |
-| 4 | 3 | all | 16 |
-| 5 | 4 & 5 | all | 16 |
-| **Total** |  |  | **80** |
+| Unit      | Chapter | Topics     | Marks* |
+| --------- | ------- | ---------- | ------ |
+| 1         | 1       | 1.1 to 1.4 | 16     |
+| 2         | 1       | 1.5 & 1.6  | 16     |
+| 2         | 2       | 2.1 & 2.2  |        |
+| 3         | 2       | 2.3 & 2.6  | 16     |
+| 4         | 3       | all        | 16     |
+| 5         | 4 & 5   | all        | 16     |
+| **Total** |         |            | **80** |
 
-*There could be minor deviation in mark distribution.
-
-## Copyright
-
-Copyright &copy; 2021 

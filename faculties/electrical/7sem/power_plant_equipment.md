@@ -1,11 +1,3 @@
-# Syllabus
-
-## POWER PLANT EQUIPMENT
-
-**Course Objective:**
-
-To present information on the equipment used in power generating plant including electrical as well as mechanical.
-
 ## Part – A (Electrical)
 
 1. **Hydro Power Plant (6 hours)**
@@ -103,18 +95,15 @@ To present information on the equipment used in power generating plant including
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 10 | 16 |
-| 3 | 6 | 8 |
-| 4 | 8 | 8 |
-| 5 | 10 | 16 |
-| 6 | 7 | 8 |
-| 7 | 7 | 8 |
-| 8 | 6 | 8 |
-| **Total** | **60** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 8                   |
+| 2         | 10     | 16                  |
+| 3         | 6      | 8                   |
+| 4         | 8      | 8                   |
+| 5         | 10     | 16                  |
+| 6         | 7      | 8                   |
+| 7         | 7      | 8                   |
+| 8         | 6      | 8                   |
+| **Total** | **60** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
-## Copyright&copy; 2021 

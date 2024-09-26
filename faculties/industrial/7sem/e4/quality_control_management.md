@@ -1,13 +1,3 @@
-## Syllabus
-
-**QUALITY CONTROL AND MANAGEMENT**
-
-**Course Objective**
-
-After the completion of this course, students will be able to develop awareness and understanding of quality management and its importance for individuals, organizations, and society.
-
-**Course Outline**
-
 1. **Quality Management (5 hours)**
     * Concepts
     * Definition
@@ -87,21 +77,18 @@ After the completion of this course, students will be able to develop awareness 
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter                                    | Hour | Mark Distribution* |
-|------|--------------------------------------------|------|--------------------|
-| 1    | Quality management                           | 5    | 8                 |
-| 2    | Quality and ISO standards and certification | 6    | 12                |
-| 3    | Total preventive maintenance (TPM)         | 6    | 12                |
-| 4    | Safety and total quality management       | 6    | 10                |
-| 5    | Quality control                            | 2    | 4                 |
-| 6    | Quality assurance methods and standards    | 4    | 8                 |
-| 7    | Statistical quality control / statistical process control (SQC/SPC) | 7    | 8                 |
-| 8    | Acceptance sampling for variable, Taguchi method, method and loss function | 4    | 8                 |
-| 9    | Quality, productivity and efficiency        | 5    | 10                |
-| **Total** |                                        | **45** | **80**              |
+| Unit      | Chapter                                                                    | Hour   | Mark Distribution* |
+| --------- | -------------------------------------------------------------------------- | ------ | ------------------ |
+| 1         | Quality management                                                         | 5      | 8                  |
+| 2         | Quality and ISO standards and certification                                | 6      | 12                 |
+| 3         | Total preventive maintenance (TPM)                                         | 6      | 12                 |
+| 4         | Safety and total quality management                                        | 6      | 10                 |
+| 5         | Quality control                                                            | 2      | 4                  |
+| 6         | Quality assurance methods and standards                                    | 4      | 8                  |
+| 7         | Statistical quality control / statistical process control (SQC/SPC)        | 7      | 8                  |
+| 8         | Acceptance sampling for variable, Taguchi method, method and loss function | 4      | 8                  |
+| 9         | Quality, productivity and efficiency                                       | 5      | 10                 |
+| **Total** |                                                                            | **45** | **80**             |
 
-*There could be minor deviation in mark distribution
 
----
 
-**Copyright © 2021** 

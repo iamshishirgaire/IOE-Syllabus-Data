@@ -1,10 +1,3 @@
-# Syllabus
-
-**ENGINEERING CHEMISTRY  
-SH 403**  
-**Course Objective:**  
-To develop the basic concepts of Physical Chemistry, Inorganic Chemistry and Organic Chemistry relevant to problems in engineering.
-
 1. **Electro-chemistry and Buffer (6 hours)**
 2. **Catalyst (4 hours)**
 3. **Environmental Chemistry (5 hours)**
@@ -44,13 +37,12 @@ To develop the basic concepts of Physical Chemistry, Inorganic Chemistry and Org
 **Evaluation Scheme:**  
 There will be questions covering all the chapters in the syllabus. The evaluationscheme for the question will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1 & 7|All|16|
-|2|2 & 3|All|16|
-|3|4 & 8|All|16|
-|4|5 & 6|All|16|
-|5|9 & 10|All|16|
-|Total|80|
-<div data-role="footer"> <h4>Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1 & 7       | All        | 16        |
+| 2        | 2 & 3       | All        | 16        |
+| 3        | 4 & 8       | All        | 16        |
+| 4        | 5 & 6       | All        | 16        |
+| 5        | 9 & 10      | All        | 16        |
+| Total    | 80          |

@@ -1,18 +1,3 @@
-# Syllabus
-
-## HIGH VOLTAGE ENGINEERING
-
-**Course Objective:**
-
-After the completion of this course, the student will gain knowledge about:
-
-* Different causes and types of over voltages
-* Breakdown mechanisms for gaseous, liquid, and solid dielectrics
-* HVAC/HVDC and impulse testing of insulation
-* Safety against high voltage
-
-## Course Outline:
-
 1. **Evolution of power system [6 hours]**
     * Classification of High voltages
     * Emerging Trends in Power Systems
@@ -60,17 +45,12 @@ After the completion of this course, the student will gain knowledge about:
 ## Evaluation Scheme:
 
 | Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 8 |
-| 2 | 6 | 8 |
-| 3 | 8 | 16 |
-| 4 | 4 | 8 |
-| 5 | 8 | 16 |
-| 6 | 8 | 16 |
-| 7 | 4 | 8 |
+| ------- | ----- | ------------------- |
+| 1       | 6     | 8                   |
+| 2       | 6     | 8                   |
+| 3       | 8     | 16                  |
+| 4       | 4     | 8                   |
+| 5       | 8     | 16                  |
+| 6       | 8     | 16                  |
+| 7       | 4     | 8                   |
 
-*There could be a minor deviation in Marks distribution.
-
-## Copyright:
-
-Copyright &copy; 2021 

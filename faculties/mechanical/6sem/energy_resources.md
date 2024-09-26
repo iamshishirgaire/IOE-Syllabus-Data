@@ -1,17 +1,3 @@
-# Syllabus
-
-## **ENERGY RESOURCES**
-
-**Course Objectives:**
-
-At the end of the course, the student will be able to understand:
-
-1. Different types of conventional energy resources
-2. Different types of renewable energy resources
-3. Energy conversion technologies
-
-**Course Outlines:**
-
 1. **Fossil fuels and their characteristics (4 hours)**
     - Classification of traditional fuels
     - Refining of crude oil
@@ -92,19 +78,16 @@ At the end of the course, the student will be able to understand:
 
 There will be questions covering all the chapters of the syllabus. The evaluation scheme for the questions will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 4 | 6 |
-| 2 | 6 | 10 |
-| 3 | 3 | 10 |
-| 4 | 4 | 10 |
-| 5 | 6 | 10 |
-| 6 | 6 | 10 |
-| 7 | 6 | 8 |
-| 8 | 4 | 6 |
-| 9 | 6 | 10 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 6                   |
+| 2         | 6      | 10                  |
+| 3         | 3      | 10                  |
+| 4         | 4      | 10                  |
+| 5         | 6      | 10                  |
+| 6         | 6      | 10                  |
+| 7         | 6      | 8                   |
+| 8         | 4      | 6                   |
+| 9         | 6      | 10                  |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
-
-***Copyright © 2021*** 

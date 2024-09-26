@@ -1,12 +1,3 @@
-# Syllabus
-
-**LAND USE PLANNING**
-
-**Objectives:**  
-The objective of this course is to introduce the Geomatics Engineering students with the specialized knowledge on Land use planning. The overall course is designed to make the students able to learn and understand the theory of land use planning and acquainted with the real problems in Land used planning.
-
-**Course Outlines:**
-
 1. **Introduction to Land use planning** **(6 hours)**
 2. **Integrating land use Planning into planning system** **(6 hours)**
 3. **Elements of an Implementation-Orientated Planning Process** **(6 hours)**
@@ -27,16 +18,13 @@ The students have to present on different land use planning issues in a seminar 
 **Evaluation scheme:**  
 The question will cover the entire chapter in the syllabus. The evaluation scheme will be as mentioned in the table below
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks allocation\***|
-|1|1,2.1,2.2|9|16|
-|2|2.3,2.4,3|9|16|
-|3|4|9|16|
-|4|5, 6.1,6.2|9|16|
-|5|6.3-6.5,7|9|16|
-|**Total**|**45**|**80**|
+|           |             |           |                        |
+| --------- | ----------- | --------- | ---------------------- |
+| **S.N.**  | **Chapter** | **Hours** | **Marks allocation\*** |
+| 1         | 1,2.1,2.2   | 9         | 16                     |
+| 2         | 2.3,2.4,3   | 9         | 16                     |
+| 3         | 4           | 9         | 16                     |
+| 4         | 5, 6.1,6.2  | 9         | 16                     |
+| 5         | 6.3-6.5,7   | 9         | 16                     |
+| **Total** | **45**      | **80**    |
 
-\*There will be minor deviation in the marks distribution
-
-#### Copyright&copy; 2021

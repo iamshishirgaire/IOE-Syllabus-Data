@@ -1,13 +1,3 @@
-# Syllabus
-
-## Operating System
-
-**Course Objective:**
-
-The objective of the course is to be familiar with the different aspects of operating system and use the idea in designing operating systems.
-
-### Topics
-
 1. **Introduction (5 hours)** 
     * Operating System and Function
     * Evolution of Operating System
@@ -133,19 +123,13 @@ The objective of the course is to be familiar with the different aspects of oper
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 10 |
-| 2 | 6 | 10 |
-| 3 | 5 | 10 |
-| 4 | 6 | 10 |
-| 5 | 6 | 10 |
-| 7 | 5 | 10 |
-| 6, 8, 9 | 12 | 20 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution
-
-## Copyright
-
-Copyright &copy; 2021 
+| Chapters  | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 10                  |
+| 2         | 6      | 10                  |
+| 3         | 5      | 10                  |
+| 4         | 6      | 10                  |
+| 5         | 6      | 10                  |
+| 7         | 5      | 10                  |
+| 6, 8, 9   | 12     | 20                  |
+| **Total** | **45** | **80**              |

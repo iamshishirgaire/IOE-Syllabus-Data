@@ -1,11 +1,3 @@
-## Syllabus: MANAGEMENT INFORMATION SYSTEMS
-
-**Course Objective** 
-
-After completing this subject, students will be able to understand how to manage required information and knowledge within the organization and to the public.
-
-**Course Outline**
-
 1. **FUNDAMENTALS OF INFORMATION SYSTEMS (6 Hours)** 
     * Information systems in business
     * Fundamentals of information systems solving business problems with information systems
@@ -62,15 +54,14 @@ After completing this subject, students will be able to understand how to manage
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme is as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Fundamentals of information systems | 6 | 12 |
-| 2 | Information systems for business operations | 8 | 12 |
-| 3 | Issues in managing information technology | 7 | 12 |
-| 4 | Introduction to E-business | 6 | 10 |
-| 5 | E-business model | 8 | 16 |
-| 6 | Consumer-oriented e-commerce | 5 | 10 |
-| 7 | Electronic data interchange (EDI) | 5 | 8 |
-| **Total** |  | **45** | **80** |
+| Unit      | Chapters                                    | Hour   | Mark Distribution* |
+| --------- | ------------------------------------------- | ------ | ------------------ |
+| 1         | Fundamentals of information systems         | 6      | 12                 |
+| 2         | Information systems for business operations | 8      | 12                 |
+| 3         | Issues in managing information technology   | 7      | 12                 |
+| 4         | Introduction to E-business                  | 6      | 10                 |
+| 5         | E-business model                            | 8      | 16                 |
+| 6         | Consumer-oriented e-commerce                | 5      | 10                 |
+| 7         | Electronic data interchange (EDI)           | 5      | 8                  |
+| **Total** |                                             | **45** | **80**             |
 
-* There could be minor deviations in the mark distribution. 

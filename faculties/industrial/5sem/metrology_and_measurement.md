@@ -1,13 +1,3 @@
-# Syllabus
-
-## METROLOGY AND MEASUREMENT
-
-**Course objective**
-
-After completion of this course, the students will have knowledge about measuring tools, their selection and result verification. The subject also highlights the importance of metrology and its role in achieving quality, reliability and standardization.
-
-**Course outline**
-
 1. **Introduction to metrology and measurement (8 Hours)**
    - Objectives and Scope of metrology
    - General metrological terms: measured value, true value, accuracy, precision, repeatability, reproducibility, uncertainty, sensitivity, resolution, stability, calibration, verification etc.
@@ -118,22 +108,17 @@ After completion of this course, the students will have knowledge about measurin
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters                                  | Hour | Mark Distribution* |
-|------|-------------------------------------------|------|--------------------|
-| 1    | Introduction to metrology and measurement | 4    | 8                 |
-| 2    | Errors in measurement                    | 4    | 8                 |
-| 3    | Types of measurement and measuring instruments | 6    | 12                |
-| 4    | Limits, Fits and Gauges                  | 5    | 8                 |
-| 5    | Metrology of screw threads                | 3    | 6                 |
-| 6    | Gear measurement and testing              | 4    | 8                 |
-| 7    | Measurement of surface finish            | 5    | 8                 |
-| 8    | Machine tool metrology                   | 5    | 8                 |
-| 9    | Calibration and measurement               | 5    | 8                 |
-| 10   | International organizations concerning metrology | 4    | 6                 |
-| **Total** | **-**                                    | **45** | **80**               |
+| Unit      | Chapters                                         | Hour   | Mark Distribution* |
+| --------- | ------------------------------------------------ | ------ | ------------------ |
+| 1         | Introduction to metrology and measurement        | 4      | 8                  |
+| 2         | Errors in measurement                            | 4      | 8                  |
+| 3         | Types of measurement and measuring instruments   | 6      | 12                 |
+| 4         | Limits, Fits and Gauges                          | 5      | 8                  |
+| 5         | Metrology of screw threads                       | 3      | 6                  |
+| 6         | Gear measurement and testing                     | 4      | 8                  |
+| 7         | Measurement of surface finish                    | 5      | 8                  |
+| 8         | Machine tool metrology                           | 5      | 8                  |
+| 9         | Calibration and measurement                      | 5      | 8                  |
+| 10        | International organizations concerning metrology | 4      | 6                  |
+| **Total** | **-**                                            | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-***
-
-**Copyright&copy; 2021** 

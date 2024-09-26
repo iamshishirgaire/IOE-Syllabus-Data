@@ -1,13 +1,3 @@
-# Syllabus
-
-**COMPUTING TECHNIQUES FOR GEOMATICS ENGINEERS**
-
-**Course objective:**  
-On completion of this subject the student is expected to:
-
-1. be aware of the range of tools available for creating computational solutions to Geomatics Engineering problems, and be able to evaluate and choose between alternative approaches
-2. Demonstrate familiarity with the underlying theory behind a range of numerical algorithms used in Geomatic Engineering software packages
-
 1. **Review** **(6 Hours)**
 2. **Matrix operations in Geomatics Engineering Problems** **(8 Hours)**
 3. **Method of Least-square adjustment** **(12 Hours)**
@@ -47,16 +37,13 @@ Computer programming on
 **Evaluation scheme:**  
 The questions will cover all the chapter of the syllabus. The evaluation scheme will beas indicated in the table below
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hour**|**Mark distribution\***|
-|1|1, 3.1-3.3|9|16|
-|2|2|8|16|
-|3|3.4-3.7|9|16|
-|4|4|10|16|
-|5|5|9|16|
-|**Total**|**45**|**80**|
+|           |             |          |                         |
+| --------- | ----------- | -------- | ----------------------- |
+| **S.N.**  | **Chapter** | **Hour** | **Mark distribution\*** |
+| 1         | 1, 3.1-3.3  | 9        | 16                      |
+| 2         | 2           | 8        | 16                      |
+| 3         | 3.4-3.7     | 9        | 16                      |
+| 4         | 4           | 10       | 16                      |
+| 5         | 5           | 9        | 16                      |
+| **Total** | **45**      | **80**   |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

@@ -1,11 +1,3 @@
-## Syllabus - Basic Electrical Engineering
-
-**Course Objectives:**
-
-After completion of this course, the student will understand the fundamental concepts of DC, AC, and 3-phase electrical circuits.
-
-### Course Content
-
 1. **General Electric System (6 hours)**
     * Constituent parts of an electrical system (source, load, communication, and control)
     * Current flow in a circuit
@@ -91,18 +83,13 @@ After completion of this course, the student will understand the fundamental con
 The questions will cover all the chapters in the syllabus. The evaluation scheme is as indicated in the table below:
 
 | Chapter | Hours | Marks Distribution\* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 4 | 5 |
-| 3 | 12 | 25 |
-| 4 | 4 | 5 |
-| 5 | 2 | 15 |
-| 6 | 6 | 15 |
-| 7 | 4 | 10 |
-| 8 | 6 | 10 |
+| ------- | ----- | -------------------- |
+| 1       | 6     | 10                   |
+| 2       | 4     | 5                    |
+| 3       | 12    | 25                   |
+| 4       | 4     | 5                    |
+| 5       | 2     | 15                   |
+| 6       | 6     | 15                   |
+| 7       | 4     | 10                   |
+| 8       | 6     | 10                   |
 
-\* There may be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright &copy; 2021

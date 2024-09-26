@@ -1,11 +1,3 @@
-## Syllabus: Strength of Materials
-
-**Course Objective:**
-
-To analyze and solve problems related to different types of stress and strain and to design basic components of structure and machines on the basis of stiffness, strength and stability.
-
-**Course Content:**
-
 1. **Introduction (2 hours)**
     * Types of Stresses and strains
     * Normal stress, shear stress, bearing stress
@@ -95,18 +87,14 @@ To analyze and solve problems related to different types of stress and strain an
 
 **Evaluation Scheme:**
 
-| Chapters | Hours | Mark Distribution * |
-|---|---|---|
-| 1 & 2 | 8 | 16 |
-| 3 | 5 | 8 |
-| 4 | 5 | 8 |
-| 5 | 3 | 8 |
-| 6 | 6 | 12 |
-| 7 & 8 | 10 | 16 |
-| 9 | 5 | 8 |
-| 10 | 3 | 4 |
-| **Total** | **45** | **80** |
-
-* There may be minor deviation in mark distribution
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Mark Distribution * |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 8      | 16                  |
+| 3         | 5      | 8                   |
+| 4         | 5      | 8                   |
+| 5         | 3      | 8                   |
+| 6         | 6      | 12                  |
+| 7 & 8     | 10     | 16                  |
+| 9         | 5      | 8                   |
+| 10        | 3      | 4                   |
+| **Total** | **45** | **80**              |

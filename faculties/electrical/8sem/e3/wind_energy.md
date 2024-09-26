@@ -1,9 +1,3 @@
-## WIND ENERGY CONVERSION SYSTEM
-
-**Course Objectives:**
-
-To introduce the technology, grid integration and energy assessment for the wind power system to the final year BE student.
-
 ### 1. Wing Power Basics (8 hours)
 
 * Historical evolution of wind power system
@@ -76,7 +70,3 @@ To introduce the technology, grid integration and energy assessment for the wind
 2. Renewable and efficient power system
 3. Wind Energy: Fundamentals, Resource analysis and Economics, Mathew Sathyajith, 2006
 4. Wind Energy Explained: theory, Design and Application, James F. Manwell, Jon G. McGowan, Anthony L. Rogers, 2010.
-
----
-
-**Copyright © 2021** 

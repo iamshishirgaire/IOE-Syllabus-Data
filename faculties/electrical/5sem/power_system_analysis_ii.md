@@ -1,12 +1,3 @@
-# Syllabus
-
-## **POWER SYSTEM  ANALYSIS -II** 
-
-**Course Objective:** <br>
-The course aims to deliver the advanced analysis of the interconnected power system including load flow, short circuit studies, and stability analysis.
-
-### **Topics**
-
 1. **Interconnected  Power System(6  hours)**
     * Introduction
     * Real power/ frequency balance
@@ -66,19 +57,15 @@ The course aims to deliver the advanced analysis of the interconnected power sys
 2. Power       System Stability and Control by P. Kundur
 3. Modern       Power System Analysis by I.J Nagrath and D.P Kothari, Tata McGraw Hill       Publications
 
-### **Evaluation  Scheme:**<br>
+### **Evaluation  Scheme:**
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hour | Marks Distribution * |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 8 | 16 |
-| 3 | 4 | 8 |
-| 4 | 6 | 10 |
-| 5 | 10 | 16 |
-| 6 | 10 | 20 |
-| **Total** | **42** | **80** |
-
-*There could be a minor deviation in Marks distribution. 
-
-## **Copyright&copy; 2021** 
+| Chapter   | Hour   | Marks Distribution * |
+| --------- | ------ | -------------------- |
+| 1         | 6      | 10                   |
+| 2         | 8      | 16                   |
+| 3         | 4      | 8                    |
+| 4         | 6      | 10                   |
+| 5         | 10     | 16                   |
+| 6         | 10     | 20                   |
+| **Total** | **42** | **80**               |

@@ -1,14 +1,3 @@
-## Syllabus
-
-**Digital Signal Processing**
-
-**Course Objectives:**
-
-1. To introduce digital signal processing techniques and applications.
-2. To design and implement IIR and FIR digital filters.
-
-### Topics:
-
 1. **Introduction (4 hours)**
     * Basic elements of Digital Signal Processing
     * Need of Digital Signal Processing over Analog Signal Processing
@@ -72,17 +61,15 @@
 
 ### Evaluation Scheme:
 
-| Unit | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 6 | 11 |
-| 3 | 6 | 11 |
-| 4 | 7 | 13 |
-| 5 | 8 | 14 |
-| 6 | 5 | 9 |
-| 7 | 5 | 9 |
-| 8 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Unit      | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 6      | 11                  |
+| 3         | 6      | 11                  |
+| 4         | 7      | 13                  |
+| 5         | 8      | 14                  |
+| 6         | 5      | 9                   |
+| 7         | 5      | 9                   |
+| 8         | 4      | 6                   |
+| **Total** | **45** | **80**              |
 
-**\* There can be 8 to 12 questions covering all Syllabuses<br>
-*There can be minor deviations in the numbers** 

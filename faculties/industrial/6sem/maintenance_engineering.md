@@ -1,13 +1,3 @@
-# Syllabus
-
-## Maintenance Engineering
-
-**Course objectives**
-
-The objective of this course is to make students conversant with various maintenance practices popular in Industries.
-
-**Course Outline**
-
 1. **Maintenance (6 hours)**
     * Concept, Scope, Objectives and Challenges
     * Types of Maintenance System
@@ -149,19 +139,14 @@ The objective of this course is to make students conversant with various mainten
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 6 | 12 |
-| 2 | 10 | 16 |
-| 3 | 2 | 6 |
-| 4 | 3 | 8 |
-| 5 | 10 | 16 |
-| 6 | 8 | 16 |
-| 7 | 6 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 6      | 12                 |
+| 2         | 10     | 16                 |
+| 3         | 2      | 6                  |
+| 4         | 3      | 8                  |
+| 5         | 10     | 16                 |
+| 6         | 8      | 16                 |
+| 7         | 6      | 6                  |
+| **Total** | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-## Copyright
-
-Copyright &copy; 2021

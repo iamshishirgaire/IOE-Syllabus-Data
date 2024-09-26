@@ -1,11 +1,3 @@
-## Syllabus: DIGITAL CONTROL SYSTEM
-
-**Course Objectives:** 
-
-To present the basic concepts on analysis and design of sampled data control system and to apply these concepts to typical physical processes. 
-
-### Topics:
-
 1. **Introduction to discrete time control system** [8 hours]
     * Principle features of discrete time control system
     * Signal sampling, quantizing and coding
@@ -65,17 +57,11 @@ To present the basic concepts on analysis and design of sampled data control sys
 
 The questions will cover all the chapters in the syllabus. 
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 8 | 12 |
-| 2 | 8 | 16 |
-| 3 | 10 | 20 |
-| 4 | 10 | 20 |
-| 5 | 8 | 12 |
-| **Total** | **44** | **80** |
-
-* There could be minor deviation in the marks distribution. 
-
-***
-
-**Copyright &copy; 2021** 
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 8      | 12                 |
+| 2         | 8      | 16                 |
+| 3         | 10     | 20                 |
+| 4         | 10     | 20                 |
+| 5         | 8      | 12                 |
+| **Total** | **44** | **80**             |

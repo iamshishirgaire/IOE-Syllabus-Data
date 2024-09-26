@@ -1,13 +1,3 @@
-## Syllabus
-
-**ENERGY AUDIT AND EFFICIENCY**
-
-**Course objective** 
-
-This course is designed to aware the students concerning various energy intensive process in different industries and to find out the energy conservation opportunities. The course envisaged that students will have the capability to prepare energy auditing and managing the energy demand.
-
-### **Course Contents**
-
 1. **Energy Management and Audit (5 Hours)**
     * Scope of energy management, necessary steps in energy management programme, general principles of energy management, Energy surveying and auditing, objectives, uses of energy, energy conservation schemes, energy index, cost index, pie charts, Sankey diagrams, load profiles (histograms), types of energy audits-preliminary energy audit – detailed energy audit, questionnaire, energy audit instruments and tools, Energy audit report writing.
 
@@ -60,21 +50,19 @@ A demonstrative practical will be conducted at a site and a case study report wi
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Energy Management and Audit | 5 | 8 |
-| 2 | Energy Conservation | 4 | 8 |
-| 3 | Energy Efficient Motors | 3 | 6 |
-| 4 | Energy efficient lighting | 2 | 6 |
-| 5 | Boilers | 6 | 10 |
-| 6 | Furnaces | 4 | 8 |
-| 7 | Cogeneration | 4 | 6 |
-| 8 | Compressed air network | 5 | 6 |
-| 9 | HVAC (Heating Ventilation and Air conditioning) | 6 | 10 |
-| 10 | Pumps | 3 | 6 |
-| 11 | Financial Analysis | 3 | 6 |
-| **Total** | **-** | **45** | **80** |
+| Unit      | Chapters                                        | Hour   | Mark Distribution* |
+| --------- | ----------------------------------------------- | ------ | ------------------ |
+| 1         | Energy Management and Audit                     | 5      | 8                  |
+| 2         | Energy Conservation                             | 4      | 8                  |
+| 3         | Energy Efficient Motors                         | 3      | 6                  |
+| 4         | Energy efficient lighting                       | 2      | 6                  |
+| 5         | Boilers                                         | 6      | 10                 |
+| 6         | Furnaces                                        | 4      | 8                  |
+| 7         | Cogeneration                                    | 4      | 6                  |
+| 8         | Compressed air network                          | 5      | 6                  |
+| 9         | HVAC (Heating Ventilation and Air conditioning) | 6      | 10                 |
+| 10        | Pumps                                           | 3      | 6                  |
+| 11        | Financial Analysis                              | 3      | 6                  |
+| **Total** | **-**                                           | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
 
-**Copyright © 2021**

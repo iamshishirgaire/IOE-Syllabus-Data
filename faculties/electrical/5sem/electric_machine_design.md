@@ -1,9 +1,3 @@
-## Syllabus: ELECTRIC MACHINE DESIGN
-
-**Course Objective:** To impart knowledge on the principle of design of electrical machines like transformers, induction machines and DC machines.
-
-### **Content:**
-
 1. **Materials used in electrical equipment (5 hours)**
     * Review of electrical conducting materials:
         * Various characteristics and comparison between conducting materials.
@@ -16,7 +10,7 @@
     * Insulating materials:
         * Classification, characteristics, application.
         * Insulating materials for transformers, DC machines and AC machines, ceramics.
-    <br>
+    
 
 2. **Heating and cooling of electric machine (7 hours)**
     * Review of heat transfer: Conduction, convection and radiation.
@@ -29,7 +23,7 @@
     * Temperature rise, heating time constant, final steady temperature rise, cooling time constant.
     * Rating of electric machine based on temperature rise.
     * Calculation of temperature rise in armature, field coils and commutators.
-    <br>
+    
 
 3. **Transformer Design (13 hours)**
     * Review of transformer theory.
@@ -46,7 +40,7 @@
         * Resistance of winding, leakage reactance of winding in core type transformer, iron loss, copper loss, efficiency, regulation.
     * Design of cooling system:
         * Temperature rise in plain walled tank, design of tank and tubes.
-    <br>
+    
 
 4. **Three phase induction motor design (10 hours)**
     * Review of three phase induction motor theory:
@@ -57,7 +51,7 @@
         * Choice of stator winding. stator slots and insulation, stator teeth, stator core and stator stamping dimension.
         * Air gap length, rotor design (squirrel cage and slip ring type).
         * Leakage inductance, evaluation of equivalent circuit parameters and operating characteristics from design data.
-    <br>
+    
 
 5. **DC Machine Design (9 hours)**
     * Armature Winding:
@@ -69,7 +63,7 @@
         * Choice of armature windings, no of armature conductors, no of coils, no of armature slots, armature conductor selection.
         * Design of commutator, design of brushes, design of compensating winding.
         * Evaluation of operating characteristics from design data.
-    <br>
+    
 
 ### **Practical:**
 
@@ -90,17 +84,12 @@
 
 The questions will cover all the chapters in syllabus. The evaluation scheme will be as indicated in the table below.
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 10 |
-| 2 | 7 | 12 |
-| 3 | 13 | 24 |
-| 4 | 10 | 18 |
-| 5 | 9 | 16 |
-| **Total** | **44** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 10                  |
+| 2         | 7      | 12                  |
+| 3         | 13     | 24                  |
+| 4         | 10     | 18                  |
+| 5         | 9      | 16                  |
+| **Total** | **44** | **80**              |
 
-*There could be minor deviation in marks distribution.
-
-### **Copyright**
-
-Copyright &copy; 2021

@@ -1,13 +1,3 @@
-## Syllabus
-
-**REFRIGERATION, HVAC SYSTEM DESIGN**
-
-**Course Objective**
-
-After the completion of this course, students will be able to understand the different types of refrigeration and air-conditioning systems used in the industry. They will also be able to design the refrigeration and air-conditioning system.
-
-**Course Outline**
-
 1. **Air refrigeration and Vapour compression system (7 Hours)**
    * Carnot cycle and refrigerator, Bell Columan refrigeration system and the cycle analysis, Simple cooling and simple evaporator and compression system, Vapour compression Refrigeration system with multiple evaporator and compressor. Methods of improving COP. Multi evaporator and compression system.
 2. **Conventional and Unconventional refrigeration system and ozone layer (6 Hours)**
@@ -42,17 +32,13 @@ After the completion of this course, students will be able to understand the dif
 
 **Evaluation Scheme**
 
-| Unit | Topic                                         | Hours | Marks Distribution* |
-|------|-----------------------------------------------|-------|--------------------|
-| 1     | Air refrigeration and Vapour compression system | 7     | 14                 |
-| 2     | Conventional and Unconventional Refrigeration System and Ozone Layer | 6     | 10                 |
-| 3     | Preservations and Cryogenics                  | 6     | 10                 |
-| 4     | Control Components                           | 5     | 9                  |
-| 5     | Introduction to HVAC Systems                 | 7     | 14                 |
-| 6     | Thermal Comfort Ventilation and Indoor Air Quality | 6     | 14                 |
-| 7     | System load determination                     | 5     | 9                  |
-| **Total** | **                                        ** | **43** | **80**                |
-
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021** 
+| Unit      | Topic                                                                | Hours  | Marks Distribution* |
+| --------- | -------------------------------------------------------------------- | ------ | ------------------- |
+| 1         | Air refrigeration and Vapour compression system                      | 7      | 14                  |
+| 2         | Conventional and Unconventional Refrigeration System and Ozone Layer | 6      | 10                  |
+| 3         | Preservations and Cryogenics                                         | 6      | 10                  |
+| 4         | Control Components                                                   | 5      | 9                   |
+| 5         | Introduction to HVAC Systems                                         | 7      | 14                  |
+| 6         | Thermal Comfort Ventilation and Indoor Air Quality                   | 6      | 14                  |
+| 7         | System load determination                                            | 5      | 9                   |
+| **Total** | **                                        **                         | **43** | **80**              |

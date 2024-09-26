@@ -1,13 +1,3 @@
-# Syllabus
-
-## BASIC ACCOUNTING & FINANCE COURSE
-
-**Course objective**
-
-After the completion of the course, students will be able to acquire basic knowledge and skill on basic accounting tools and concepts of financial analyses.
-
-**Course outline**
-
 1. **Basic accounting equation and double entry book-keeping system (7 hours)**
     * Foundation and basic elements
     * Changes in the equation
@@ -62,17 +52,14 @@ Students will be divided into groups and asked to prepare a case study report, s
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 7 | 15 |
-| 2 | 5 | 10 |
-| 3 | 4 | 5 |
-| 4 | 3 | 5 |
-| 5 | 8 | 15 |
-| 6 | 8 | 15 |
-| 7 | 10 | 15 |
-| **Total** | **45** | **80** |
+| Chapters  | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 7      | 15                 |
+| 2         | 5      | 10                 |
+| 3         | 4      | 5                  |
+| 4         | 3      | 5                  |
+| 5         | 8      | 15                 |
+| 6         | 8      | 15                 |
+| 7         | 10     | 15                 |
+| **Total** | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021** 

@@ -1,12 +1,3 @@
-# Syllabus
-
-**APPLICATION OF GIS WITH PYTHON**
-
-**Course Objectives:**  
-The objective of this course is to gain familiarity with basic tools and methods of open source remote sensing and geographic information systems. The course intention is to make students try their hands on solving remote sensing and geographic information system problems without using proprietary software.
-
-**Course content:**
-
 1. **Introduction to python programming** **(1 hour)**
 2. **Python function** **(3 hours)**
 3. **Control statements and repetition** **(3 hours)**
@@ -39,16 +30,13 @@ The objective of this course is to gain familiarity with basic tools and methods
 **Evaluation Scheme:**  
 The questions should cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**S. No.**|**Chapter**|**Hours**|**Marks Allocation\***|
-|1|1-4|10|16|
-|2|5,6,7|9|16|
-|3|8, 10.1-10.4|9|16|
-|4|9|8|16|
-|5|10.4-10.9|9|16|
-|**Total**|**45**|**80**|
+|            |              |           |                        |
+| ---------- | ------------ | --------- | ---------------------- |
+| **S. No.** | **Chapter**  | **Hours** | **Marks Allocation\*** |
+| 1          | 1-4          | 10        | 16                     |
+| 2          | 5,6,7        | 9         | 16                     |
+| 3          | 8, 10.1-10.4 | 9         | 16                     |
+| 4          | 9            | 8         | 16                     |
+| 5          | 10.4-10.9    | 9         | 16                     |
+| **Total**  | **45**       | **80**    |
 
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021

@@ -1,11 +1,3 @@
-## Syllabus
-
-**FILTER DESIGN**
-
-**Course Objective:**
-
-To familiarize students with the concept of analog filter design: passive filters, RC active filters and switched-capacitor filters.
-
 1. **Introduction [4 hours]**
     * Filter and its importance in communication
     * Kinds of filters in terms of frequency response
@@ -94,19 +86,15 @@ The laboratory experiments consist of computer simulation as well as hardware re
 
 **Evaluation Scheme:**
 
-| Unit | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 8 | 14 |
-| 3 | 2 | 4 |
-| 4 | 7 | 13 |
-| 5 | 4 | 7 |
-| 6 | 7 | 12 |
-| 7 | 3 | 5 |
-| 8 | 6 | 11 |
-| 9 | 4 | 7 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 
+| Unit      | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 8      | 14                  |
+| 3         | 2      | 4                   |
+| 4         | 7      | 13                  |
+| 5         | 4      | 7                   |
+| 6         | 7      | 12                  |
+| 7         | 3      | 5                   |
+| 8         | 6      | 11                  |
+| 9         | 4      | 7                   |
+| **Total** | **45** | **80**              |

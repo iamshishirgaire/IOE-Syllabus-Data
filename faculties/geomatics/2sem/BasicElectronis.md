@@ -1,10 +1,3 @@
-# Syllabus
-
-**BASIC ELECTRONICS ENGINEERING  
-EX 451**  
-**Course Objectives:**  
-To understand the electronics elements and their functionality, basic understanding of analog and digital systems and their applications
-
 1. **Basic Circuits Concepts (4 hours)**
 2. **Diodes (6 hours)**
 3. **Transistor (8 hours)**
@@ -31,14 +24,12 @@ To understand the electronics elements and their functionality, basic understand
 **Evaluation Scheme**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1 & 2|All|16|
-|2|3|All|16|
-|3|4|All|16|
-|4|5 & 7|All|16|
-|5|6|All|16|
-|Total|80|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1 & 2       | All        | 16        |
+| 2        | 3           | All        | 16        |
+| 3        | 4           | All        | 16        |
+| 4        | 5 & 7       | All        | 16        |
+| 5        | 6           | All        | 16        |
+| Total    | 80          |

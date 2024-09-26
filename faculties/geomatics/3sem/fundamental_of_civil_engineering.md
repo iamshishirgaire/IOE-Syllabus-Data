@@ -1,9 +1,3 @@
-# Syllabus
-
-**FUNDAMENTAL OF CIVIL ENGINEERING**
-
-**Course Objective:**
-
 1. Acquire knowledge in the basic civil engineering areas required for managing civil works
 2. Acquire knowledge on the basic infrastructures and their element needed in the society
 3. Gain knowledge on the computation of quantity and cost of basic infrastructure in the society
@@ -37,16 +31,13 @@ The following drawing and quantity surveying will be performed in this course. T
 **Evaluation Scheme:**  
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapters**|**Hours**|**Marks distribution\***|
-|1|1|10|16|
-|2|2|8|16|
-|3|3|8|16|
-|4|4|9|16|
-|5|5|10|16|
-|**Total**|**45**|**80**|
+|           |              |           |                          |
+| --------- | ------------ | --------- | ------------------------ |
+| **Unit**  | **Chapters** | **Hours** | **Marks distribution\*** |
+| 1         | 1            | 10        | 16                       |
+| 2         | 2            | 8         | 16                       |
+| 3         | 3            | 8         | 16                       |
+| 4         | 4            | 9         | 16                       |
+| 5         | 5            | 10        | 16                       |
+| **Total** | **45**       | **80**    |
 
-\*There may be minor deviation in marks distribution.
-
-#### Copyright&copy; 2021

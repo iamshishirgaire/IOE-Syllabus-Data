@@ -1,10 +1,3 @@
-**LAND LAW**
-
-**Objectives:**  
-Upon completion of this course, the student will understand land law and land system of Nepal.
-
-**Course Outlines:**
-
 1. **Introduction to Law of Property and Land Law** **(3 hours)**
 2. **Land Rights and Records** **(3 hours)**
 3. **Process and land transfer** **(3 hours)**
@@ -35,14 +28,12 @@ Upon completion of this course, the student will understand land law and land sy
 **Evaluation Scheme:**  
 The question will cover the entire chapter in the syllabus. The evaluation scheme will be as mentioned in the table below:
 
-|||||
-|---|---|---|---|
-|**S.N.**|**Chapter**|**Hours**|**Marks Distribution\***|
-|1|1-3|9|16|
-|2|4,5|8|16|
-|3|6,7|8|16|
-|4|8,9|10|16|
-|5|10|10|16|
-|**Total**|**45**|**80**|
-
-\*There will be minor deviation in the marks distribution
+|           |             |           |                          |
+| --------- | ----------- | --------- | ------------------------ |
+| **S.N.**  | **Chapter** | **Hours** | **Marks Distribution\*** |
+| 1         | 1-3         | 9         | 16                       |
+| 2         | 4,5         | 8         | 16                       |
+| 3         | 6,7         | 8         | 16                       |
+| 4         | 8,9         | 10        | 16                       |
+| 5         | 10          | 10        | 16                       |
+| **Total** | **45**      | **80**    |

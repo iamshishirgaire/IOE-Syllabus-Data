@@ -1,11 +1,3 @@
-## BASIC ELECTRICAL ENGINEERING
-
-**Course Objectives:** 
-
-After completion of this course, the student will understand the fundamental concepts of DC, AC & 3-phase electrical circuits.
-
-### Syllabus
-
 1. **General Electric System (6 hours)**
     * Constituent parts of an electrical system (source, load, communication & control)
     * Current flow in a circuit
@@ -16,7 +8,7 @@ After completion of this course, the student will understand the fundamental con
     * Temperature rise & temperature coefficient of resistance
     * Voltage & current sources
     
-    <br>
+    
 
 2. **DC circuits (4 hours)**
     * Series circuits
@@ -24,7 +16,7 @@ After completion of this course, the student will understand the fundamental con
     * Kirchhoff's laws
     * Power and energy
 
-    <br>
+    
 
 3. **Network Theorems (12 hours)**
     * Application of Kirchhoff's laws in network solution
@@ -37,7 +29,7 @@ After completion of this course, the student will understand the fundamental con
     * Maximum power transfer theorem
     * Reciprocity theorem
 
-    <br>
+    
 
 4. **Inductance & Capacitance in Electric Circuits (4 hours)**
     * General concept of capacitance
@@ -47,7 +39,7 @@ After completion of this course, the student will understand the fundamental con
         * Inductive & non-inductive circuits
         * Inductance in series & parallel
 
-    <br>
+    
 
 5. **Alternating Quantities (2 hours)**
     * AC systems
@@ -55,7 +47,7 @@ After completion of this course, the student will understand the fundamental con
     * Average and RMS values of current & voltage
     * Phasor representation
 
-    <br>
+    
 
 6. **Single-phase AC Circuits (6 hours)**
     * AC in resistive circuits
@@ -65,7 +57,7 @@ After completion of this course, the student will understand the fundamental con
     * AC series and parallel circuit
     * RL, RC and RLC circuit analysis & phasor representation
 
-    <br>
+    
 
 7. **Power in AC Circuits (4 hours)**
     * Power in resistive circuits
@@ -76,7 +68,7 @@ After completion of this course, the student will understand the fundamental con
     * Improvement of power factor
     * Measurement of power in a single-phase AC circuits
 
-    <br>
+    
 
 8. **Three-Phase Circuit Analysis (6 hours)**
     * Basic concept & advantage of Three-phase circuit
@@ -105,18 +97,13 @@ After completion of this course, the student will understand the fundamental con
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
 | Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 4 | 5 |
-| 3 | 12 | 25 |
-| 4 | 4 | 5 |
-| 5 | 2 | 15 |
-| 6 | 6 | 15 |
-| 7 | 4 | 10 |
-| 8 | 6 | 10 |
+| ------- | ----- | ------------------- |
+| 1       | 6     | 10                  |
+| 2       | 4     | 5                   |
+| 3       | 12    | 25                  |
+| 4       | 4     | 5                   |
+| 5       | 2     | 15                  |
+| 6       | 6     | 15                  |
+| 7       | 4     | 10                  |
+| 8       | 6     | 10                  |
 
-*There may be minor deviation in marks distribution.
-
-### Copyright
-
-Copyright © 2021 

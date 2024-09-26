@@ -1,11 +1,3 @@
-## Syllabus: Engineering Mathematics I
-
-**Course Objectives:**
-
-To provide students with a strong foundation in calculus and analytic geometry, enabling them to apply these concepts in their respective fields.
-
-**Topics:**
-
 1. **Derivatives and their Applications (14 hours)**
    - Introduction
    - Higher order derivatives
@@ -59,13 +51,10 @@ To provide students with a strong foundation in calculus and analytic geometry, 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as follows:
 
 | Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 14 | 25 |
-| 2 | 11 | 20 |
-| 3 | 08 | 15 |
-| 4 | 12 | 20 |
-| Total | 45 | 80 |
+| -------- | ----- | ------------------- |
+| 1        | 14    | 25                  |
+| 2        | 11    | 20                  |
+| 3        | 08    | 15                  |
+| 4        | 12    | 20                  |
+| Total    | 45    | 80                  |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright &copy; 2021** 

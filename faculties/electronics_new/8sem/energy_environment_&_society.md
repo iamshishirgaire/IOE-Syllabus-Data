@@ -1,13 +1,3 @@
-## Syllabus
-
-**ENERGY, ENVIRONMENT AND SOCIETY**
-
-**Course Objective:**
-
-To understand the various types of energy sources and their environmental impact. To know the role of engineers for creating better and responsible society.
-
-### Topics:
-
 1. **Technology and Development (3 hours)**
     * Introduction to Technology
     * Appropriate Technology
@@ -69,18 +59,13 @@ To understand the various types of energy sources and their environmental impact
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 4 | 5 |
-| 3 | 14 | 20 |
-| 4 | 4 | 4 |
-| 5 | 3 | 4 |
-| 6 | 2 | 3 |
-| **Total** | **30** | **40** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 4                   |
+| 2         | 4      | 5                   |
+| 3         | 14     | 20                  |
+| 4         | 4      | 4                   |
+| 5         | 3      | 4                   |
+| 6         | 2      | 3                   |
+| **Total** | **30** | **40**              |
 
-*There could be minor deviation in mark distribution. 
-
----
-
-**Copyright &copy; 2021** 

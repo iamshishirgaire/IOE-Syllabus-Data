@@ -1,13 +1,3 @@
-# Syllabus
-
-## **ELECTROMAGNETICS**
-
-**Course Objectives:**
-
-* To provide a basic understanding of the fundamentals of Electromagnetics.
-
-### **Course Outline**
-
 1. **Introduction (3 hours)**
    * Co-ordinate system
    * Scalar and vector fields
@@ -81,15 +71,11 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 11 | 20 |
-| 3 | 9 | 16 |
-| 4 | 12 | 21 |
-| 5, 6, 7 | 10 | 16 |
-| **Total** | **45** | **80** |
-
-*There could be a minor deviation in the marks distribution.
-
-## **Copyright © 2021** 
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 5                   |
+| 2         | 11     | 20                  |
+| 3         | 9      | 16                  |
+| 4         | 12     | 21                  |
+| 5, 6, 7   | 10     | 16                  |
+| **Total** | **45** | **80**              |

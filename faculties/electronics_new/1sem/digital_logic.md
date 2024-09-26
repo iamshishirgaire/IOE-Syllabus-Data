@@ -1,10 +1,3 @@
-## Syllabus - DIGITAL LOGIC
-
-**Course Objective:**
-To introduce basic principles of digital logic design, its implementation and applications.
-
-### Topics:
-
 1. **Introduction (3 hours)**
    - Definitions for Digital Signals
    - Digital Waveforms
@@ -155,21 +148,18 @@ To introduce basic principles of digital logic design, its implementation and ap
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 1 | 4 |
-| 3 | 5 | 8 |
-| 4 | 5 | 10 |
-| 5 | 5 | 8 |
-| 6 | 5 | 8 |
-| 7 | 2 | 4 |
-| 8 | 5 | 8 |
-| 9 | 8 | 12 |
-| 10 | 4 | 8 |
-| 11 | 2 | 4 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 1      | 4                   |
+| 3         | 5      | 8                   |
+| 4         | 5      | 10                  |
+| 5         | 5      | 8                   |
+| 6         | 5      | 8                   |
+| 7         | 2      | 4                   |
+| 8         | 5      | 8                   |
+| 9         | 8      | 12                  |
+| 10        | 4      | 8                   |
+| 11        | 2      | 4                   |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in the marks distribution.
-
-**Copyright&copy; 2021** 

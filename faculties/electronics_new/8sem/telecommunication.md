@@ -1,9 +1,3 @@
-## Syllabus: Telecommunication
-
-**Course Objectives:** To continue the study of modern communication systems, their characteristics and design.
-
-### Topics
-
 1. **Telecommunication Networks [4 hours]**
    - Evolution of telecommunications
    - Classification of switching systems
@@ -55,18 +49,15 @@ Six laboratory sessions to illustrate course principles.
 
 ### Evaluation Scheme
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 4 | 7 |
-| 3 | 4 | 7 |
-| 4 | 8 | 14 |
-| 5 | 4 | 7 |
-| 6 | 9 | 16 |
-| 7 | 2 | 4 |
-| 8 | 10 | 18 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 7                   |
+| 2         | 4      | 7                   |
+| 3         | 4      | 7                   |
+| 4         | 8      | 14                  |
+| 5         | 4      | 7                   |
+| 6         | 9      | 16                  |
+| 7         | 2      | 4                   |
+| 8         | 10     | 18                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
-**Copyright © 2021** 

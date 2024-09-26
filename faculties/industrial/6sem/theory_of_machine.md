@@ -1,15 +1,3 @@
-# Syllabus
-
-## **THEORY OF MACHINE**
-
-### **Course Objective**
-
-To make students understand about different mechanisms used in devices or machines and make them able to do complete analysis of mechanisms (including linkage, gears, gear trains, cams, and followers). 
-
-To provide students with basic concepts of dynamics response analysis of mechanisms and their vibratory response. 
-
-### **Course Outlines**
-
 1. **Introduction to linkage and mechanisms (3 hours)**
    - Introduction to the study of mechanism, mobility, degree of freedom.
    - Mechanism configuration, linkages, chains, inversions.
@@ -103,19 +91,14 @@ To provide students with basic concepts of dynamics response analysis of mechani
 
 ### **Evaluation Scheme**
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 3 | 8 |
-| 2 | 5 | 10 |
-| 3 | 9 | 18 |
-| 4 | 8 | 16 |
-| 5 | 6 | 8 |
-| 6 & 7 | 8 | 8 |
-| 8 | 6 | 12 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 8                   |
+| 2         | 5      | 10                  |
+| 3         | 9      | 18                  |
+| 4         | 8      | 16                  |
+| 5         | 6      | 8                   |
+| 6 & 7     | 8      | 8                   |
+| 8         | 6      | 12                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution
-
-***
-
-Copyright © 2021 

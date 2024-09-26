@@ -1,13 +1,3 @@
-# Syllabus
-
-## Signal Analysis
-
-**Course Objectives:**
-
-To provide understanding of basic concepts in signals and systems.
-
-### Topics
-
 1. **Signal (4 hours)**
     * Signal definition
     * Continuous time signal
@@ -122,16 +112,13 @@ To provide understanding of basic concepts in signals and systems.
 
 ### Evaluation Scheme
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 9 | 14 |
-| 3 | 12 | 22 |
-| 4 | 2 | 6 |
-| 5 | 9 | 15 |
-| 6 | 9 | 15 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 4      | 8                  |
+| 2         | 9      | 14                 |
+| 3         | 12     | 22                 |
+| 4         | 2      | 6                  |
+| 5         | 9      | 15                 |
+| 6         | 9      | 15                 |
+| **Total** | **45** | **80**             |
 
-**\* There could be minor deviation in the marks distribution.**
-
-Copyright &copy; 2021 

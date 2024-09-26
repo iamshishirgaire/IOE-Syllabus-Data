@@ -1,13 +1,3 @@
-# Syllabus
-
-## ENTREPRENEURSHIP DEVELOPMENT
-
-### Course Objective
-
-After the completion of this course, students will be able to understand the basic idea of entrepreneurship development and its importance for individuals, organizations, and society. They will also be able to act in an entrepreneurial manner in a variety of contexts and situations with a better understanding of the process of business creation, conceiving, and planning the new venture.
-
-### Course Outline
-
 1. **Introduction to enterprise, entrepreneur, and entrepreneurship development (3 hours)**
     * Importance and evolution of enterprises
     * Evolution, theories, and themes of entrepreneurship development.
@@ -66,21 +56,16 @@ Group project work, reporting, and a business plan of a small and medium enterpr
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 3 | 4 |
-| 2 | 4 | 4 |
-| 3 | 5 | 10 |
-| 4 | 2 | 4 |
-| 5 | 5 | 5 |
-| 6 | 3 | 2 |
-| 7 | 3 | 4 |
-| 8 | 2 | 3 |
-| 9 | 3 | 4 |
-| **Total** | **30** | **40** |
+| Chapters  | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 3      | 4                  |
+| 2         | 4      | 4                  |
+| 3         | 5      | 10                 |
+| 4         | 2      | 4                  |
+| 5         | 5      | 5                  |
+| 6         | 3      | 2                  |
+| 7         | 3      | 4                  |
+| 8         | 2      | 3                  |
+| 9         | 3      | 4                  |
+| **Total** | **30** | **40**             |
 
-\*There could be minor deviation in mark distribution.
-
----
-
-Copyright &copy; 2021

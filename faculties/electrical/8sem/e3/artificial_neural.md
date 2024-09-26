@@ -1,9 +1,3 @@
-## Syllabus: ARTIFICIAL NEURAL NETWORK
-
-**Course Objective:** To introduce the concept of artificial network as an alternative options for solving engineering problems.
-
-### Topics:
-
 1. **Working with data (4 hours)**
     * Data types; data, information and knowledge; concept of data mining; Dimension reduction of data matrix: Principal component analysis.
     
@@ -54,5 +48,3 @@
 ### References:
 
 1. Simon Hykin, "Neural networks A Comprehensive Foundation", second edition; Pearson Education.
-
-***Copyright&copy; 2021*** 

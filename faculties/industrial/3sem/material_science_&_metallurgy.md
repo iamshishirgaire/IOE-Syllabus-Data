@@ -1,13 +1,3 @@
-## Syllabus
-
-**MATERIAL SCIENCE AND METALLURGY**
-
-**Course Objectives**
-
-The objective of this course is to understand the structures of materials, their mechanical behavior and able to select engineering materials as per requirement.
-
-### **Course Content**
-
 1. **Crystal Structure (3 hours)**
     * Body Center Cubic, Face Center Cubic and Hexagonal Close Packed structures
     * Coordination number and Atomic packing factors
@@ -120,21 +110,16 @@ The objective of this course is to understand the structures of materials, their
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 4 | 8 |
-| 3 | 7 | 14 |
-| 4 | 4 | 8 |
-| 5 | 5 | 10 |
-| 6 | 5 | 6 |
-| 7 | 5 | 10 |
-| 8 | 10 | 15 |
-| 9 | 2 | 3 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 3      | 6                   |
+| 2         | 4      | 8                   |
+| 3         | 7      | 14                  |
+| 4         | 4      | 8                   |
+| 5         | 5      | 10                  |
+| 6         | 5      | 6                   |
+| 7         | 5      | 10                  |
+| 8         | 10     | 15                  |
+| 9         | 2      | 3                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
----
-
-**Copyright&copy; 2021** 

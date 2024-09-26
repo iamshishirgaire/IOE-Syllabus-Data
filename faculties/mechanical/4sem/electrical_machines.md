@@ -1,13 +1,3 @@
-# Syllabus
-
-## ELECTRICAL MACHINES
-
-### Course Objectives: 
-
-To impart knowledge on constructional details, operating principle and performance of Transformers, DC Machines, 1-phase and 3-phase Induction Machines, 3-phase Synchronous Machines and Fractional Kilowatt Motors. 
-
-### **Syllabus**
-
 1. **Magnetic Circuits and Induction (4 hours)**
     * Magnetic Circuits
     * Ohm's Law for Magnetic Circuits
@@ -115,19 +105,13 @@ To impart knowledge on constructional details, operating principle and performan
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 8 | 16 |
-| 3 | 6 | 12 |
-| 4 | 6 | 12 |
-| 5 | 6 | 10 |
-| 6 | 6 | 10 |
-| 7 | 6 | 12 |
-| **Total** | **42** | **80** |
-
-* There may be minor deviation in the marks distribution.
-
-### **Copyright**
-
-Copyright © 2021
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 8      | 16                  |
+| 3         | 6      | 12                  |
+| 4         | 6      | 12                  |
+| 5         | 6      | 10                  |
+| 6         | 6      | 10                  |
+| 7         | 6      | 12                  |
+| **Total** | **42** | **80**              |

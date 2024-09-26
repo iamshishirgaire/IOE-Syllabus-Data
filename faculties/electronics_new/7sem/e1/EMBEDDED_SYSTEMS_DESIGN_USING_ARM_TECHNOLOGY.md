@@ -1,14 +1,3 @@
-# Syllabus
-
-## **EMBEDDED SYSTEMS DESIGN USING ARM TECHNOLOGY**
-CT 725 03
-
-## Course Objectives:
-
-To provide fundamentals concepts and insights for understanding of the ARM based Processors architecture and programming embedded system based on ARM powered MCU for application in control, consumer, multimedia signal processing and mobile and wireless communications systems.
-
-## Course Content:
-
 1. **ARM Embedded Systems [3 hours]**
     * Introduction to Embedded Systems
     * The RISC Design Philosophy
@@ -107,20 +96,17 @@ To provide fundamentals concepts and insights for understanding of the ARM based
 
 There will be 10 questions covering all the chapters in the syllabus. The evaluation scheme for the questions will be indicated in the table below:
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 3 | 5 |
-| 2 | 3 | 5 |
-| 3 | 6 | 10 |
-| 4 | 3 | 6 |
-| 5 | 3 | 6 |
-| 6 | 6 | 11 |
-| 7 | 3 | 6 |
-| 8 | 6 | 13 |
-| 9 | 6 | 9 |
-| 10 | 6 | 9 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 3      | 5                  |
+| 2         | 3      | 5                  |
+| 3         | 6      | 10                 |
+| 4         | 3      | 6                  |
+| 5         | 3      | 6                  |
+| 6         | 6      | 11                 |
+| 7         | 3      | 6                  |
+| 8         | 6      | 13                 |
+| 9         | 6      | 9                  |
+| 10        | 6      | 9                  |
+| **Total** | **45** | **80**             |
 
-*Mark Distribution is indicative and can be subject to change.
-
-## Copyright &copy; 2021 

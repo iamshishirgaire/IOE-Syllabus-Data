@@ -1,10 +1,3 @@
-# Syllabus
-
-**ENGINEERING MATHEMATICS II  
-SH 451**  
-**Course Objective:**  
-To develop the skill of solving differential equations and to provide knowledge of vector algebra and calculus. To make students familiar with calculus of several variables and infinite series.
-
 1. **Calculus of Two or More Variables (6 hours)**
 2. **Multiple Integrals (6 hours)**
 3. **Three Dimensional Solid Geometry (11 hours)**
@@ -26,19 +19,17 @@ To develop the skill of solving differential equations and to provide knowledge 
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1|All|16|
-|2|2.1 to 2.2|
-|2|2|2.3 to 2.4|16|
-|3|3.1 to 3.3|
-|3|3|3.4 to 3.8|16|
-|4|4.1|
-|4|4|4.2 to 4.5|16|
-|5|5.1 to 5.5|
-|5|5|5.6 to 5.8|16|
-|6|All|
-|Total|80|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1           | All        | 16        |
+| 2        | 2.1 to 2.2  |
+| 2        | 2           | 2.3 to 2.4 | 16        |
+| 3        | 3.1 to 3.3  |
+| 3        | 3           | 3.4 to 3.8 | 16        |
+| 4        | 4.1         |
+| 4        | 4           | 4.2 to 4.5 | 16        |
+| 5        | 5.1 to 5.5  |
+| 5        | 5           | 5.6 to 5.8 | 16        |
+| 6        | All         |
+| Total    | 80          |

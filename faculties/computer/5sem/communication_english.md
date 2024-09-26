@@ -7,14 +7,14 @@
     * Contextual questions based on facts and imagination
     * Interpreting text
     
-    <br>
+    
 
 2. **Extensive Reading (5 hours)**
     * Title/Topic Speculation
     * Finding theme
     * Sketching character
     
-    <br>
+    
 
 3. **Contextual Grammar (2 hours)**
     * Sequence of tense
@@ -30,14 +30,14 @@
     * Composing and editing strategies
     * MLA and APA comparison
     
-    <br>
+    
 
 2. **Writing notices with agenda and minutes (2 hours)**
     * Introduction
     * Purpose
     * Process
     
-    <br>
+    
 
 3. **Writing Proposal (6 hours)**
     * Introduction
@@ -55,7 +55,7 @@
         * Evaluation or follow-up
         * Works cited
     
-    <br>
+    
 
 4. **Reports**
     * **Informal Reports (6 hours)**
@@ -66,13 +66,13 @@
             * Introduction
             * Parts
     
-        <br>
+        
 
     * **Project/Field Report (3 hours)**
         * Introduction
         * Parts
     
-        <br>
+        
 
     * **Formal Reports (9 hours)**
         * Introduction
@@ -100,7 +100,7 @@
                 * Bibliography
                 * Appendix
     
-    <br>
+    
 
 5. **Writing Research Articles (2 hours)**
     * Introduction

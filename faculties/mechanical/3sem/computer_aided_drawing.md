@@ -1,13 +1,3 @@
-## Syllabus
-
-**COMPUTER AIDED DRAWING** 
-
-**Course Objective:** 
-
-To give fundamental knowledge on Computer Aided Drafting (2D and 3D) using common drafting software program.
-
-### Topics Covered:
-
 1. **Introduction (4 hours)**
     * Loading Software, Screen organization 
     * Entering commands: menus, command line, function keys 
@@ -93,21 +83,18 @@ To give fundamental knowledge on Computer Aided Drafting (2D and 3D) using commo
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 4 | 2 |
-| 2 | 12 | 8 |
-| 3 | 8 | 6 |
-| 4 | 8 | 6 |
-| 5 | 4 | 2 |
-| 6 | 4 | 3 |
-| 7 | 12 | 8 |
-| 8 | 4 | 3 |
-| 9 | 4 | 2 |
-| **TOTAL** | **60** | **40** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 4      | 2                  |
+| 2         | 12     | 8                  |
+| 3         | 8      | 6                  |
+| 4         | 8      | 6                  |
+| 5         | 4      | 2                  |
+| 6         | 4      | 3                  |
+| 7         | 12     | 8                  |
+| 8         | 4      | 3                  |
+| 9         | 4      | 2                  |
+| **TOTAL** | **60** | **40**             |
 
-*There may be minor deviation in mark distribution. 
 
----
 
-**Copyright © 2021** 

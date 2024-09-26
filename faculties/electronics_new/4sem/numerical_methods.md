@@ -1,11 +1,3 @@
-## Syllabus - Numerical Methods
-
-**Course Objective:**
-
-The course aims to introduce numerical methods used for solving engineering problems. Emphasis is placed on algorithm development, programming, and application to real-world engineering problems.
-
-**Course Outline:**
-
 1. **Introduction, Approximation and Errors of Computation (4 hours)**
     * Introduction, Importance of Numerical Methods
     * Approximation and Errors in Computation
@@ -80,16 +72,13 @@ Algorithm and program development in C programming language of the following:
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 & 2 | 9 | 16 |
-| 3 | 8 | 16 |
-| 4 | 8 | 16 |
-| 5 | 6 | 10 |
-| 6 | 6 | 10 |
-| 7 | 8 | 12 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 9      | 16                  |
+| 3         | 8      | 16                  |
+| 4         | 8      | 16                  |
+| 5         | 6      | 10                  |
+| 6         | 6      | 10                  |
+| 7         | 8      | 12                  |
+| **Total** | **45** | **80**              |
 
-* There could be a minor deviation in the marks distribution.
-
-**Copyright &copy; 2021** 

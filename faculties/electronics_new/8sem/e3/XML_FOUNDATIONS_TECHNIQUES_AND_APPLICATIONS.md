@@ -1,13 +1,3 @@
-# Syllabus
-
-## **XML: FOUNDATIONS, TECHNIQUES AND APPLICATIONS**<br>
-**CT 785 05**
-
-**Course objectives:** <br>
-To provide knowledge of the Extensible Markup Language (XML), a standard for self-describing data, knowledge interchange, and information integration. Since representation, interchange and integration of information are fundamental to all information systems, there is a wide range of possible applications of XML.
-
-### **Chapters:**
-
 1. **XML Foundations(10 hours)**
     * History and background
     * XML syntax
@@ -56,18 +46,13 @@ A number of lab sessions can be conducted using XML Spy which is an XML editor a
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 10 | 17 |
-| 2 | 4 | 7 |
-| 3 | 10 | 18 |
-| 4 | 6 | 11 |
-| 5 | 8 | 14 |
-| 6 | 7 | 13 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 17                  |
+| 2         | 4      | 7                   |
+| 3         | 10     | 18                  |
+| 4         | 6      | 11                  |
+| 5         | 8      | 14                  |
+| 6         | 7      | 13                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in Marks distribution
-
-***
-
-**Copyright &copy; 2021** 

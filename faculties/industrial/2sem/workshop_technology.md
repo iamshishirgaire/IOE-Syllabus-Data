@@ -1,22 +1,3 @@
-## WORKSHOP TECHNOLOGY
-
-**Course Objective:**
-
-The subject aims at imparting knowledge and skill components in the field of basic workshop technology. It deals with different hand and machine tools required for manufacturing simple metal components and articles.
-
-**Objectives:**
-
-After the completion of the course, the student shall be able to:
-
-1. Practice workshop safety rules effectively.
-2. Acquire knowledge and use simple hand tools.
-3. Acquire knowledge and use simple measuring and gauging instruments.
-4. Operate simple drilling machines for producing small holes.
-5. Operate various machine tools for producing simple metal components and articles.
-6. Acquire knowledge and practice on foundry, forging and welding.
-
-### Course Content:
-
 1. **General safety Considerations (2 hours)**
     * Bench Tools
     * Machinist's Hammers
@@ -146,4 +127,3 @@ After the completion of the course, the student shall be able to:
 12. “Workshop Technology - Vol. II” – H. S. Bawa – Tata Mc – Graw Hill publishing company Limited, New Delhi, INDIA,
 13. "A text book of Workshop Technology" - R. S. Khurmi and J. K. Gupta - S. Chand and Company Ltd, New Delhi. INDIA
 
-***Copyright © 2021*** 

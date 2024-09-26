@@ -2,7 +2,7 @@
     * Necessity and importance
     * Application and scope
     * Basis of remote sensing
-<br>
+
 
 2. **Remote Sensing Signatures (4 hours)**
     * Electromagnetic radiations
@@ -10,14 +10,14 @@
     * Basis for remote sensing signatures
     * Sensors used in remote sensing and their classification
     * Remote sensing platforms
-<br>
+
 
 3. **Remote Sensing Data Products (4 hours)**
     * Aerial photographs
     * Digital images
     * Satellite data products - FCC, CCT
     * LANDSAT, SPOT, and IRS images
-<br>
+
 
 4. **Analysis and Interpretation Techniques (5 hours)**
     * Visual Interpretation
@@ -27,7 +27,7 @@
         * Need for image processing
         * Elements of image processing
     * Digital image Analysis
-<br>
+
 
 5. **Aerial Photograph Interpretation (7 hours)**
     * Specifications of aerial photographs
@@ -40,7 +40,7 @@
     * Methods of aerial photo interpretation
     * Photo-maps, mosaics and their use
     * Methods of map making and data transfer
-<br>
+
 
 6. **Concept of GIS (4 hours)**
     * Schematic representation of GIS
@@ -48,7 +48,7 @@
     * Kinds of GIS models - vector and raster models
     * Software used in GIS and their capabilities
     * Terminology used in GIS
-<br>
+
 
 7. **Raster Data Structure and Input (5 hours)**
     * Data types - nominal, ordinal, interval and ratio
@@ -56,7 +56,7 @@
     * Creating thematic data layers
     * Digitizing rules
     * Data management
-<br>
+
 
 8. **Vector GIS and Data Management (5 hours)**
     * Storing spatial data in vector GIS
@@ -65,7 +65,7 @@
     * Digitizing errors and correcting spatial data
     * Tics and their use in vector GIS
     * Constructing topology
-<br>
+
 
 9. **Database Management and Analysis (7 hours)**
     * Coordinate system for multi coverage database
@@ -76,7 +76,7 @@
     * Neighborhood operations
     * Network functions
     * GIS outputs
-<br>
+
 
 10. **Modeling with GIS (2 hours)**
 

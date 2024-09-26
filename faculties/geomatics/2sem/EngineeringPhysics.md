@@ -1,11 +1,3 @@
-# Syllabus
-
-**ENGINEERING PHYSICS  
-SH 452**  
-  
-**Course objectives:**  
-To provide the concept and knowledge of physics with the emphasis of present day application.
-
 1. **Oscillation: (7 hours)**
 2. **Wave motion (2 hours)**
 3. **Acoustics (3 hours)**
@@ -45,14 +37,12 @@ To provide the concept and knowledge of physics with the emphasis of present day
 **Evaluation Scheme:**  
 There will be questions covering all the chapters in the syllabus. The evaluation scheme for the question will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1, 2 & 3|All|16|
-|2|4|All|16|
-|3|5, 6 & 10|All|16|
-|4|7 & 8.1|All|16|
-|5|8.2 & 9|All|16|
-|Total|80|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1, 2 & 3    | All        | 16        |
+| 2        | 4           | All        | 16        |
+| 3        | 5, 6 & 10   | All        | 16        |
+| 4        | 7 & 8.1     | All        | 16        |
+| 5        | 8.2 & 9     | All        | 16        |
+| Total    | 80          |

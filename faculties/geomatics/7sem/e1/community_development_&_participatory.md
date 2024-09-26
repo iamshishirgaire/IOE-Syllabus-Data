@@ -1,10 +1,3 @@
-# Syllabus
-
-**COMMUNITY DEVELOPMENT AND PARTICIPATORY RURAL APPROACH**
-
-**Course Objectives:**  
-To make students able to understand the concept of community development, participatory rural appraisal (PRA) and communication techniques
-
 1. **Community Development** **(10 hours)**
 2. **Participatory Rural Appraisal (PRA)** **(15 hours)**
 3. **Communication** **(10 hours)**
@@ -39,15 +32,12 @@ To make students able to understand the concept of community development, partic
 **Evaluation Scheme:**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-||||
-|---|---|---|
-|**Chapter**|**Hours**|**Marks Distribution\***|
-|1|10|15|
-|2|15|25|
-|3|10|15|
-|4|10|25|
-|**Total**|**45**|**80**|
+|             |           |                          |
+| ----------- | --------- | ------------------------ |
+| **Chapter** | **Hours** | **Marks Distribution\*** |
+| 1           | 10        | 15                       |
+| 2           | 15        | 25                       |
+| 3           | 10        | 15                       |
+| 4           | 10        | 25                       |
+| **Total**   | **45**    | **80**                   |
 
-\*There could be minor deviation in mark distribution.
-
-#### Copyright&copy; 2021

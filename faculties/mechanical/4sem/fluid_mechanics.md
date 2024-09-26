@@ -1,13 +1,3 @@
-# Syllabus
-
-## Fluid Mechanics
-
-**Course Objectives:** 
-
-To provide basic concept of fluid mechanics and its application for solving basic engineering problems. 
-
-### Topics
-
 1. **Definition and Analysis method (2 hours)**
     * Definition and Properties of a Fluid
     * Analysis Method
@@ -90,21 +80,18 @@ To provide basic concept of fluid mechanics and its application for solving basi
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark distribution * |
-|---|---|---|
-| 1 | 2 | 5 |
-| 2 | 3 | 5 |
-| 3 | 5 | 10 |
-| 4 | 8 | 15 |
-| 5 | 3 | 5 |
-| 6 | 10 | 15 |
-| 7 | 6 | 10 |
-| 8 | 5 | 10 |
-| 9 | 3 | 5 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Mark distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 5                   |
+| 2         | 3      | 5                   |
+| 3         | 5      | 10                  |
+| 4         | 8      | 15                  |
+| 5         | 3      | 5                   |
+| 6         | 10     | 15                  |
+| 7         | 6      | 10                  |
+| 8         | 5      | 10                  |
+| 9         | 3      | 5                   |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviation in marks distribution.
 
-## Copyright
 
-Copyright &copy; 2021 

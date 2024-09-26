@@ -1,13 +1,3 @@
-## Syllabus
-
-**MANUFACTURING AND PRODUCTION PROCESSES**
-
-**Course Objectives:**
-
-To impart knowledge and skills in the field of manufacturing and production processes. It deals with different metal forming processes along with advanced manufacturing techniques that are used in modern industries.
-
-**Course Outline:**
-
 1. **Overview of Manufacturing (2 hours)**
    - Introduction 
    - Product Cycle 
@@ -122,16 +112,15 @@ To impart knowledge and skills in the field of manufacturing and production proc
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters  | Hours | Marks Distribution* |
-|----------|-------|--------------------|
-| 1 & 2    | 5     | 8                  |
-| 3 & 4    | 9     | 16                 |
-| 5        | 6     | 10                 |
-| 6        | 4     | 10                 |
-| 7        | 6     | 10                 |
-| 8 & 9    | 6     | 10                 |
-| 10 & 11  | 5     | 8                  |
-| 12       | 4     | 8                  |
-| **Total**| **45** | **80**               |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 5      | 8                   |
+| 3 & 4     | 9      | 16                  |
+| 5         | 6      | 10                  |
+| 6         | 4      | 10                  |
+| 7         | 6      | 10                  |
+| 8 & 9     | 6      | 10                  |
+| 10 & 11   | 5      | 8                   |
+| 12        | 4      | 8                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution. 

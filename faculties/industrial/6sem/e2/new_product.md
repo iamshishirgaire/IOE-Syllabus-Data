@@ -1,13 +1,3 @@
-## Syllabus
-
-**NEW PRODUCT DEVELOPMENT**
-
-**Course objectives**
-
-After the completion of this course, students will be able to understand the basic principles and concepts of new product development strategies, the product life cycles.
-
-**Course outline**
-
 1. **Concept and Definition of New Product and New Product Development (6 hours)** 
     * Defining a new product.
     * Defining new product development.
@@ -43,16 +33,14 @@ Students will be divided into 6 to 8 groups and a project work will be assigned.
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hour | Mark Distribution* |
-|---|---|---|
-| 1 | 6 | 15 |
-| 2 | 8 | 20 |
-| 3 | 3 | 5 |
-| 4 | 3 | 5 |
-| 5 | 10 | 15 |
-| 7 | 15 | 20 |
-| **Total** | **43** | **80** |
+| Chapters  | Hour   | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 6      | 15                 |
+| 2         | 8      | 20                 |
+| 3         | 3      | 5                  |
+| 4         | 3      | 5                  |
+| 5         | 10     | 15                 |
+| 7         | 15     | 20                 |
+| **Total** | **43** | **80**             |
 
-*There could be minor deviation in mark distribution.
 
-**Copyright © 2021** 

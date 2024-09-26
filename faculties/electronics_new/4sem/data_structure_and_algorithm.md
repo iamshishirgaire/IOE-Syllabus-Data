@@ -1,14 +1,3 @@
-# Syllabus
-
-## DATA STRUCTURE AND ALGORITHMS
-
-**Course Objectives:**
-
-* To provide fundamental knowledge of various data structures and their implementation
-* To provide the fundamental knowledge of various algorithms and their analysis
-
-###  **Course Content:**
-
 1. **Concept of data structure (2 hours)**
     * Introduction: data types, data structures and abstract data types
     * Introduction to algorithms
@@ -109,22 +98,16 @@ There shall be 10 to 12 lab exercises based on C or C++
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 6 | 10 |
-| 3 | 3 | 6 |
-| 4 | 5 | 10 |
-| 5 | 4 | 8 |
-| 6 | 7 | 12 |
-| 7 | 5 | 8 |
-| 8 | 5 | 8 |
-| 9 | 2 | 4 |
-| 10 | 6 | 10 |
-| **Total** | **45** | **80** |
-
-**\* There could be a minor deviation in the marks distribution.**
-
-## Copyright
-
-Copyright &copy; 2021
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 6      | 10                  |
+| 3         | 3      | 6                   |
+| 4         | 5      | 10                  |
+| 5         | 4      | 8                   |
+| 6         | 7      | 12                  |
+| 7         | 5      | 8                   |
+| 8         | 5      | 8                   |
+| 9         | 2      | 4                   |
+| 10        | 6      | 10                  |
+| **Total** | **45** | **80**              |

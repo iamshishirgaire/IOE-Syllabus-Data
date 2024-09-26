@@ -1,11 +1,3 @@
-## Syllabus - Principles of Robotics and Modeling
-
-**Course Objective:**
-
-After completing this course, students will be able to describe the basic components and fundamental principles of a robot system.
-
-**Course Outline:**
-
 1. **Introduction (6 hours)**
    - Definitions and Structure
    - Classification and Application
@@ -56,15 +48,13 @@ After completing this course, students will be able to describe the basic compon
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction | 6 | 8 |
-| 2 | Components of a robot system | 9 | 16 |
-| 3 | Control systems | 10 | 20 |
-| 4 | Parts handling | 5 | 10 |
-| 5 | Modeling and system simulation | 15 | 24 |
-| **Total** | **-** | **45** | **80** |
+| Unit      | Chapters                       | Hour   | Mark Distribution* |
+| --------- | ------------------------------ | ------ | ------------------ |
+| 1         | Introduction                   | 6      | 8                  |
+| 2         | Components of a robot system   | 9      | 16                 |
+| 3         | Control systems                | 10     | 20                 |
+| 4         | Parts handling                 | 5      | 10                 |
+| 5         | Modeling and system simulation | 15     | 24                 |
+| **Total** | **-**                          | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
 
-**Copyright © 2021** 

@@ -1,10 +1,3 @@
-# Syllabus
-
-**FUNDAMENTAL OF SURVEYING II**
-
-**Objectives:**  
-The overall course is designed to make the students able to learn and understand the theory and practice by applying suitable surveying methods to produce map.
-
 1. **Orientation** **(3 Hours)**
 2. **Triangulation and trilateration** **(7 hours)**
 3. **Curves** **(7 hours)**
@@ -38,18 +31,14 @@ Three assessments: mean of three will be final marks
 **Evaluation Scheme:**  
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-||||
-|---|---|---|
-|**Chapter**|**Hours**|**Marks Distribution\***|
-|1|3|8|
-|2|7|12|
-|3|7|12|
-|4|7|12|
-|5|7|12|
-|6|7|12|
-|7|7|12|
-|**Total**|**45**|**80**|
-
-\*There may be minor variation in marks distribution
-
-#### Copyright&copy; 2021
+|             |           |                          |
+| ----------- | --------- | ------------------------ |
+| **Chapter** | **Hours** | **Marks Distribution\*** |
+| 1           | 3         | 8                        |
+| 2           | 7         | 12                       |
+| 3           | 7         | 12                       |
+| 4           | 7         | 12                       |
+| 5           | 7         | 12                       |
+| 6           | 7         | 12                       |
+| 7           | 7         | 12                       |
+| **Total**   | **45**    | **80**                   |

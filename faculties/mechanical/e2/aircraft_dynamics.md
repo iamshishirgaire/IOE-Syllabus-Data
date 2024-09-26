@@ -1,19 +1,3 @@
-# Syllabus
-
-## Aircraft Dynamics
-
-### Course Objectives
-
-1. To introduce students with basic aircraft design and manufacturing techniques.
-2. To provide insights on how the design and analysis of aircrafts are carried out in phases and iteratively.
-3. To provide students with the basic knowledge about flight dynamics, aircraft performance measures and analysis methods.
-
-### Prerequisites
-
-All students taking this course must have taken previous course on Aircraft and Airframe.
-
-### Course Outline
-
 1. **Basic Aerodynamic Principles (6 hours)**
     * Fluid Flow over Wings and Bodies
     * Aerodynamic Forces and Aerodynamic Coefficients
@@ -80,17 +64,12 @@ All students taking this course must have taken previous course on Aircraft and 
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 & 2 | 14 | 16 |
-| 3 | 8 | 16 |
-| 3 & 4 | 11 | 16 |
-| 5 | 6 | 16 |
-| 6 | 6 | 16 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1 & 2     | 14     | 16                  |
+| 3         | 8      | 16                  |
+| 3 & 4     | 11     | 16                  |
+| 5         | 6      | 16                  |
+| 6         | 6      | 16                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.*
-
-### Copyright
-
-Copyright &copy; 2021

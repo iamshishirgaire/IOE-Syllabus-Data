@@ -1,11 +1,3 @@
-## Syllabus: DATA MINING (CT 725 02)
-
-**Course Objective:**
-
-This course introduces the fundamental principles, algorithms, and applications of intelligent data processing and analysis. It provides an in-depth understanding of various concepts and popular techniques used in the field of data mining.
-
-### Course Outline:
-
 1. **Introduction (2 hours)**
     - Data Mining Origin
     - Data Mining & Data Warehousing basics
@@ -53,19 +45,14 @@ Using either MATLAB or any other DataMining tools (such as WEKA), students shoul
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 6 | 10 |
-| 3 | 12 | 20 |
-| 4 | 10 | 18 |
-| 5 | 9 | 16 |
-| 6 | 3 | 6 |
-| 7 | 3 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 6      | 10                  |
+| 3         | 12     | 20                  |
+| 4         | 10     | 18                  |
+| 5         | 9      | 16                  |
+| 6         | 3      | 6                   |
+| 7         | 3      | 6                   |
+| **Total** | **45** | **80**              |
 
-*There may be minor variation in marks distribution.
-
-### Copyright
-
-Copyright © 2021

@@ -61,8 +61,6 @@ Algorithm and program development in C programming language of following:
 
 ---
 
-**Copyright © 2021** 
-
 8. Numerical solutions using Matlab.
 
 ### References

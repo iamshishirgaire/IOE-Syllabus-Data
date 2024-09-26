@@ -1,10 +1,3 @@
-# Syllabus
-
-**BASIC ELECTRICAL ENGINEERING  
-EE 451**  
-**Course Objectives:**  
-To provide the fundamental concept of DC, AC & 3-phase electrical circuits
-
 1. General Electric System (6 hours)
 2. **DC circuits (4 hours)**
 3. **Network Theorems (12 hours)**
@@ -31,14 +24,12 @@ To provide the fundamental concept of DC, AC & 3-phase electrical circuits
 **Evaluation Scheme**  
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-|||||
-|---|---|---|---|
-|**Unit**|**Chapter**|**Topics**|**Marks**|
-|1|1 & 2|All|16|
-|2|3|All|16|
-|3|4, 5 & 7|All|16|
-|4|6|All|16|
-|5|8|All|16|
-|Total|80|
-
-#### Copyright&copy; 2021
+|          |             |            |           |
+| -------- | ----------- | ---------- | --------- |
+| **Unit** | **Chapter** | **Topics** | **Marks** |
+| 1        | 1 & 2       | All        | 16        |
+| 2        | 3           | All        | 16        |
+| 3        | 4, 5 & 7    | All        | 16        |
+| 4        | 6           | All        | 16        |
+| 5        | 8           | All        | 16        |
+| Total    | 80          |

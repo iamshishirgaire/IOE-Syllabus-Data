@@ -1,15 +1,3 @@
-## Syllabus
-
-**INSTRUMENTATION II**
-
-**Course Objective:**
-
-1. Continuation of INSTRUMENTATION I with emphasis on advanced system design and case studies.
-2. To introduce and apply the knowledge of microprocessor, A/D, D/A converter to design Instrumentation system.
-3. To provide the concept on interfacing with microprocessor based system and circuit design techniques.
-
-**Course Content:**
-
 1. **Microprocessor Based Instrumentation System (4 hours)**
     * Basic Features of Microprocessor Based System
     * Open Loop and Closed Loop Microprocessor Based System
@@ -123,20 +111,17 @@ Study in detail the instrumentation requirements of a particular proposed or exi
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below
 
-| Unit | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 6 | 10 |
-| 4 | 4 | 8 |
-| 5 | 5 | 8 |
-| 6 | 3 | 6 |
-| 7 | 3 | 6 |
-| 8 | 3 | 6 |
-| 9 | 4 | 8 |
-| 10 | 9 | 12 |
-| **Total** | **45** | **80** |
+| Unit      | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 6      | 10                  |
+| 4         | 4      | 8                   |
+| 5         | 5      | 8                   |
+| 6         | 3      | 6                   |
+| 7         | 3      | 6                   |
+| 8         | 3      | 6                   |
+| 9         | 4      | 8                   |
+| 10        | 9      | 12                  |
+| **Total** | **45** | **80**              |
 
-**\* There can be slight deviation in marks allocation.**
-
-**Copyright &copy; 2021** 

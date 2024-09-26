@@ -1,7 +1,3 @@
-## Syllabus: Computer Network and Security (CNS)
-
-**Course Objective:** To understand the concepts of computer networking, functions of different layers and protocols, and the idea of IPV6 and security. Notes of various chapters of Computer Network compiled by teachers from IOE can be accessed from posts tagged under Computer Network.
-
 ### 1. Introduction to Computer Network (5 hours)
 
 * 1.1 Uses of Computer Network
@@ -103,18 +99,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hour | Marks Distribution* |
-|---|---|---|
-| 1 | 5 | 8 |
-| 2 | 5 | 8 |
-| 3 | 5 | 8 |
-| 4 | 9 | 16 |
-| 5 | 5 | 8 |
-| 6 | 5 | 8 |
-| 7 | 4 | 8 |
-| 8 | 7 | 16 |
-| **Total** | **45** | **80** |
-
-*There may be minor deviation in marks distribution.
-
-**Copyright &copy; 2021** 
+| Chapters  | Hour   | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 8                   |
+| 2         | 5      | 8                   |
+| 3         | 5      | 8                   |
+| 4         | 9      | 16                  |
+| 5         | 5      | 8                   |
+| 6         | 5      | 8                   |
+| 7         | 4      | 8                   |
+| 8         | 7      | 16                  |
+| **Total** | **45** | **80**              |

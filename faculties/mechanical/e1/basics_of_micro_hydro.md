@@ -1,14 +1,3 @@
-## Syllabus
-
-### BASICS OF MICRO HYDROPOWER PLANT
-
-**Course Objectives**
-
-1. To develop an understanding of effectively generating electrical energy from hydraulic energy using micro hydropower systems. To become familiar with the technical aspects of an MHP plant, which includes civil components, mechanical components, electrical components, and the transmission system. To become familiar with management, various applications of MHP plants, potential failures, and sustainability of MHP plants.
-2. To provide concepts for the evaluation of MHP plants, basic concepts of financial analysis. To gain some knowledge about the future prospects of MHP projects in Nepal.
-
-**Course Outline**
-
 1. **Introduction to Micro-hydropower Technology (7 hours)**
     * Power from water
     * Classification of hydropower and end uses
@@ -106,15 +95,11 @@ Practical means project work and a report have to be submitted at the end of the
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapter | Topics | Marks* |
-|---|---|---|---|
-| 1 | 1 | all | 16 |
-| 2 | 2, 4 & 5 | all | 16 |
-| 3 | 3 | all | 16 |
-| 4 | 6 & 7 | all | 16 |
-| 5 | 8 | all | 16 |
-| **Total** |  |  | **80** |
-
-*There could be minor deviation in mark distribution.
-
-**Copyright © 2021**
+| Unit      | Chapter  | Topics | Marks* |
+| --------- | -------- | ------ | ------ |
+| 1         | 1        | all    | 16     |
+| 2         | 2, 4 & 5 | all    | 16     |
+| 3         | 3        | all    | 16     |
+| 4         | 6 & 7    | all    | 16     |
+| 5         | 8        | all    | 16     |
+| **Total** |          |        | **80** |

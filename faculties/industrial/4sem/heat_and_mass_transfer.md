@@ -1,11 +1,3 @@
-## Syllabus: HEAT AND MASS TRANSFER
-
-**Course Objectives:**
-
-The objective of this course is to develop knowledge about thermal systems, heat transfer processes, and their application. The course focuses on the basic principles of heat transfer, including conduction, convection, and radiation. Upon completion, students are expected to have a sound understanding of heat transfer and its industrial applications.
-
-**Course Outline:**
-
 1. **Conduction (4 hours)**
    * Derivation of the general three-dimensional conduction equation in Cartesian coordinates, special cases.
    * Discussion on 3-D conduction in cylindrical and spherical coordinate systems (no derivation).
@@ -91,20 +83,17 @@ The objective of this course is to develop knowledge about thermal systems, heat
 
 The questions will cover all chapters of the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 8 |
-| 2 | 4 | 8 |
-| 3 | 4 | 8 |
-| 4 | 5 | 10 |
-| 5 | 5 | 8 |
-| 6 | 5 | 8 |
-| 7 | 3 | 6 |
-| 8 | 5 | 8 |
-| 9 | 5 | 10 |
-| 10 & 11 | 4 | 6 |
-| **Total** | **44** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 8                   |
+| 2         | 4      | 8                   |
+| 3         | 4      | 8                   |
+| 4         | 5      | 10                  |
+| 5         | 5      | 8                   |
+| 6         | 5      | 8                   |
+| 7         | 3      | 6                   |
+| 8         | 5      | 8                   |
+| 9         | 5      | 10                  |
+| 10 & 11   | 4      | 6                   |
+| **Total** | **44** | **80**              |
 
-* There could be minor deviations in mark distribution.
-
-**Copyright © 2021** 

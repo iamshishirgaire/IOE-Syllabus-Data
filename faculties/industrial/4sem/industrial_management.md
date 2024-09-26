@@ -1,11 +1,3 @@
-## Syllabus - Industrial Management
-
-**Course Objectives:**
-
-After completing this course, students will be able to understand organization and management, leadership and communication, production and operations management (POM), marketing research and forecasting, human resource management (HRM), and quality and productivity engineering.
-
-### Course Outline:
-
 1. **Basics of Industrial Management (2 hours)**
     * Management: Scientific management, Types of Management
     * Organization, Structure, functions and objective of industrial organizations
@@ -49,17 +41,14 @@ After completing this course, students will be able to understand organization a
 
 The questions will cover all chapters of the syllabus. The evaluation scheme is as follows:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 6 | 12 |
-| 3 | 6 | 12 |
-| 4 | 8 | 16 |
-| 5 | 8 | 12 |
-| 6 | 7 | 12 |
-| 7 | 8 | 12 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 6      | 12                  |
+| 3         | 6      | 12                  |
+| 4         | 8      | 16                  |
+| 5         | 8      | 12                  |
+| 6         | 7      | 12                  |
+| 7         | 8      | 12                  |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviations in mark distribution.
-
-**Copyright © 2021**

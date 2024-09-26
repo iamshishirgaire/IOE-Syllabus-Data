@@ -1,11 +1,3 @@
-## Syllabus
-
-**ENGINEERING ECONOMICS**
-
-**Course Objective:** This course aims to provide sound and compressive coverage of engineering economics so that students can explain how the business operates, how engineering project decisions are made within the business, and how engineering decisions can affect the bottom line (profit) of the firm. The course also targets to build a thorough understanding of the theoretical and conceptual basis upon which the practice of financial project analysis is built; all critical decision making tools - including the most contemporary, computer-oriented ones such as simultaneous techniques in risk analysis. 
-
-### Topics
-
 1. **Introduction (6 hours)**
     * Engineering Decision-Makers
     * Engineering and Economics
@@ -99,20 +91,15 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 5 | 8 |
-| 3 | 5 | 8 |
-| 4 | 6 | 10 |
-| 5 | 6 | 12 |
-| 6 | 4 | 8 |
-| 7 | 6 | 12 |
-| 8 | 6 | 12 |
-| **Total** | **44** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 10                  |
+| 2         | 5      | 8                   |
+| 3         | 5      | 8                   |
+| 4         | 6      | 10                  |
+| 5         | 6      | 12                  |
+| 6         | 4      | 8                   |
+| 7         | 6      | 12                  |
+| 8         | 6      | 12                  |
+| **Total** | **44** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
-### Copyright
-
-Copyright&copy; 2021 

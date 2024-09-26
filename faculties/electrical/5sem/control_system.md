@@ -1,11 +1,3 @@
-## Syllabus: CONTROL SYSTEM
-
-**Course Objectives:** 
-
-To present the basic concepts on analysis and design of control systems and to apply these concepts to typical physical processes. 
-
-### Topics:
-
 1. **Control System Background (2 hours)** 
     * History of control systems and its importance
     * Control system: Characteristics and Basic features
@@ -89,18 +81,14 @@ To present the basic concepts on analysis and design of control systems and to a
 
 The question will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below: 
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 6 | 12 |
-| 3 | 6 | 10 |
-| 4 | 4 | 8 |
-| 5 | 6 | 12 |
-| 6 | 6 | 10 |
-| 7 | 10 | 16 |
-| 8 | 4 | 8 |
-| **Total** | **44** | **80** |
-
-*There could be minor deviation in the marks distribution.
-
-**Copyright&copy; 2021** 
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 6      | 12                  |
+| 3         | 6      | 10                  |
+| 4         | 4      | 8                   |
+| 5         | 6      | 12                  |
+| 6         | 6      | 10                  |
+| 7         | 10     | 16                  |
+| 8         | 4      | 8                   |
+| **Total** | **44** | **80**              |

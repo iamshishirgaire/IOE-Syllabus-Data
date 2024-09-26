@@ -1,13 +1,3 @@
-## Syllabus
-
-**APPLIED THERMODYNAMICS**
-
-**Course Objectives:**
-
-To understand the diverse fields of applications of thermodynamics and to implement the laws of thermodynamics and to analyze the working of various components of mechanical systems using laws of thermodynamics. 
-
-**Course Contents:**
-
 1. **Boilers (12 hours)**
     - Introduction and applications
     - Classifications and comparison among various types of boilers
@@ -72,14 +62,10 @@ To understand the diverse fields of applications of thermodynamics and to implem
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark distribution * |
-|---|---|---|
-| 1 | 12 | 20 |
-| 2 | 9 | 16 |
-| 3 | 10 | 18 |
-| 4 | 14 | 26 |
-| **Total** | **45** | **80** |
-
-* There may be minor deviation in mark distribution. 
-
-**Copyright © 2021** 
+| Chapters  | Hours  | Mark distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 12     | 20                  |
+| 2         | 9      | 16                  |
+| 3         | 10     | 18                  |
+| 4         | 14     | 26                  |
+| **Total** | **45** | **80**              |

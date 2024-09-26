@@ -1,9 +1,3 @@
-## Syllabus: Geographical Information System (CT 785 07)
-
-**Course Objective:**  To gain knowledge about the fundamentals of GIS, encompassing spatial data modeling and database design, real-world data capture, spatial analysis, and visualization.
-
-### Course Outline:
-
 1. **Introduction (4 hours)**
     - Overview, History, and Concepts of GIS
     - Scope and Application Areas of GIS
@@ -66,16 +60,13 @@
 
 ### Evaluation Scheme:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 4 | 10 |
-| 2 | 10 | 18 |
-| 3 | 12 | 18 |
-| 4 | 10 | 18 |
-| 5 | 5 | 10 |
-| 6 | 4 | 6 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 4      | 10                  |
+| 2         | 10     | 18                  |
+| 3         | 12     | 18                  |
+| 4         | 10     | 18                  |
+| 5         | 5      | 10                  |
+| 6         | 4      | 6                   |
+| **Total** | **45** | **80**              |
 
-* There may be minor deviations in marks distribution. 
-
-**Copyright © 2021** 

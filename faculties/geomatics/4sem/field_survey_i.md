@@ -1,10 +1,3 @@
-# Syllabus
-
-**FIELD SURVEY I**
-
-**Course Objective:**  
-The course in Geomatics Engineering Field works are intended to students different type of survey instrument and its calibration and practice in team to prepare map and Geomatics engineering survey and computation.
-
 **Field surveys:**  
 10 days (80 hours) fields surveys (Closed camp) within campus complex or nearby site will be conducted prior to start of session III/I lectures.  
 Field exercise includes:
@@ -22,14 +15,12 @@ Each group will be comprised of six students for field survey and teacher group 
 **Evaluation Criteria:**  
 The evaluation scheme will be as indicated in the table below:
 
-||||
-|---|---|---|
-|**SN**|**Chapter**|**Mark Distribution**|
-|1|Internal evaluation|
-|Field work group report|50|
-|Individual report and viva|30|
-|2|External evaluation|
-|Final Viva|20|
-|**Total**|**100**|
-
-#### Copyright&copy; 2021
+|                            |                     |                       |
+| -------------------------- | ------------------- | --------------------- |
+| **SN**                     | **Chapter**         | **Mark Distribution** |
+| 1                          | Internal evaluation |
+| Field work group report    | 50                  |
+| Individual report and viva | 30                  |
+| 2                          | External evaluation |
+| Final Viva                 | 20                  |
+| **Total**                  | **100**             |

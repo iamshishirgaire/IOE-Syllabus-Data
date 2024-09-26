@@ -1,13 +1,3 @@
-## Syllabus
-
-**PROJECT MANAGEMENT**
-
-**Course Objectives:**
-
-To make students able to plan, monitor and control project and project related activities.
-
-### Topics
-
 1. **Introduction (2 hours)**
     * Definition of project and project management
     * Project objectives
@@ -116,27 +106,22 @@ To make students able to plan, monitor and control project and project related a
 
 The questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 2 | 4 |
-| 2 | 4 | 7 |
-| 3 | 2 | 4 |
-| 4 | 4 | 7 |
-| 5 | 2 | 4 |
-| 6 | 2 | 4 |
-| 7 | 4 | 7 |
-| 8 | 4 | 7 |
-| 9 | 4 | 7 |
-| 10 | 3 | 5 |
-| 11 | 3 | 5 |
-| 12 | 4 | 7 |
-| 13 | 3 | 5 |
-| 14 | 3 | 5 |
-| 15 | 1 | 2 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 2      | 4                   |
+| 2         | 4      | 7                   |
+| 3         | 2      | 4                   |
+| 4         | 4      | 7                   |
+| 5         | 2      | 4                   |
+| 6         | 2      | 4                   |
+| 7         | 4      | 7                   |
+| 8         | 4      | 7                   |
+| 9         | 4      | 7                   |
+| 10        | 3      | 5                   |
+| 11        | 3      | 5                   |
+| 12        | 4      | 7                   |
+| 13        | 3      | 5                   |
+| 14        | 3      | 5                   |
+| 15        | 1      | 2                   |
+| **Total** | **45** | **80**              |
 
-*There could be minor deviation in mark distribution.
-
----
-
-This markdown version preserves the structure and content of the original HTML syllabus. It is easier to read and can be easily shared and edited. 

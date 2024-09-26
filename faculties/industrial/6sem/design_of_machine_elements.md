@@ -1,13 +1,3 @@
-# Syllabus
-
-## **DESIGN OF MACHINE ELEMENT**
-
-### Course Objective
-
-After the completion of this course the student will be able to design different kinds of machine elements and components.
-
-### Course Outlines
-
 1. **Design Process (3 hours)** 
     * Basic steps in the design and synthesis process.
     * Recognition of need.
@@ -80,18 +70,15 @@ Assignment based on the above machine design work. It may include few case studi
 
 The question cover all the chapter of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapter | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 3 | 6 |
-| 2 | 6 | 10 |
-| 3 | 8 | 16 |
-| 4 | 7 | 8 |
-| 5 | 4 | 8 |
-| 6 | 8 | 16 |
-| 7 | 4 | 8 |
-| 8 | 5 | 8 |
-| **Total** | **45** | **80** |
+| Chapter   | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 3      | 6                  |
+| 2         | 6      | 10                 |
+| 3         | 8      | 16                 |
+| 4         | 7      | 8                  |
+| 5         | 4      | 8                  |
+| 6         | 8      | 16                 |
+| 7         | 4      | 8                  |
+| 8         | 5      | 8                  |
+| **Total** | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
-
-## Copyright &copy; 2021 

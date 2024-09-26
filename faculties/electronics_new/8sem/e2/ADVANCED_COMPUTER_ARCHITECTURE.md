@@ -1,11 +1,3 @@
-## Syllabus: ADVANCED COMPUTER ARCHITECTURE (CT 765 04)
-
-**Course Objectives:**
-
-The main objective of the advanced computer architecture course is to provide in-depth knowledge of computer architecture, including parallel architectures, instruction-level parallel architectures, superscalar architectures, and thread and process-level parallel architecture.
-
-### Topics:
-
 1. **Computational Models (6 hours)**
     * Computational model
     * The von Neumann Computational model
@@ -69,16 +61,13 @@ The main objective of the advanced computer architecture course is to provide in
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 6 | 10 |
-| 2 | 7 | 13 |
-| 3 | 7 | 13 |
-| 4 | 8 | 14 |
-| 5 | 7 | 13 |
-| 6 | 10 | 17 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 6      | 10                  |
+| 2         | 7      | 13                  |
+| 3         | 7      | 13                  |
+| 4         | 8      | 14                  |
+| 5         | 7      | 13                  |
+| 6         | 10     | 17                  |
+| **Total** | **45** | **80**              |
 
-*There could be a minor deviation in the Marks distribution.
-
-**Copyright © 2021** 

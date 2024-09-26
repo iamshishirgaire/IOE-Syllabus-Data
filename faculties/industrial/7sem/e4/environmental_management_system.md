@@ -1,13 +1,3 @@
-## Syllabus
-
-**ENVIRONMENTAL MANAGEMENT SYSTEMS**
-
-**Course Objective:**
-
-After the completion of this course, students will be able to develop awareness and understanding on environmental management and its importance in global, regional and national perspectives. They will also be able to develop, implement and maintain an environmental management system, both informal and certifiable such as ISO 14001.
-
-**Course Outline:**
-
 1. **Introduction to environmental management (5 hours)**
    - Definition of Environment and Environmental Management
    - Historical Perspective of Environmental Management
@@ -72,22 +62,19 @@ After the completion of this course, students will be able to develop awareness 
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters                                                | Hour | Mark Distribution* |
-|------|-------------------------------------------------------|------|--------------------|
-| 1     | Introduction to environmental management              | 5    | 8                 |
-| 2     | Environmental management in Nepalese Contest         | 5    | 10                |
-| 3     | Environmental pollutants and its impacts              | 5    | 10                |
-| 4     | Environmental management approaches                   | 3    | 6                 |
-| 5     | Introduction to formal environmental management system | 3    | 6                 |
-| 6     | Interpretation of ISO 14001                          | 3    | 6                 |
-| 7     | Clause of ISO 14001                                  | 6    | 8                 |
-| 8     | Certification process                                | 4    | 8                 |
-| 9     | Environmental assessments methods                     | 5    | 10                |
-| 10    | International climate change issues, IPCC reports... | 6    | 8                 |
-| **Total** |                                                | **45** | **80**              |
+| Unit      | Chapters                                               | Hour   | Mark Distribution* |
+| --------- | ------------------------------------------------------ | ------ | ------------------ |
+| 1         | Introduction to environmental management               | 5      | 8                  |
+| 2         | Environmental management in Nepalese Contest           | 5      | 10                 |
+| 3         | Environmental pollutants and its impacts               | 5      | 10                 |
+| 4         | Environmental management approaches                    | 3      | 6                  |
+| 5         | Introduction to formal environmental management system | 3      | 6                  |
+| 6         | Interpretation of ISO 14001                            | 3      | 6                  |
+| 7         | Clause of ISO 14001                                    | 6      | 8                  |
+| 8         | Certification process                                  | 4      | 8                  |
+| 9         | Environmental assessments methods                      | 5      | 10                 |
+| 10        | International climate change issues, IPCC reports...   | 6      | 8                  |
+| **Total** |                                                        | **45** | **80**             |
 
-*There could be minor deviation in mark distribution.
 
-***
 
-**Copyright &copy; 2021** 

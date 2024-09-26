@@ -1,13 +1,3 @@
-# Syllabus
-
-## **PROJECT MANAGEMENT**
-
-### Course Objectives
-
-After the completion of this course, students will be able to understand Project Planning and Management concepts. This will enable them to synchronize resources and forecast the projected future results of the project.
-
-### Course Outline
-
 1. **Introduction to Project Management (8 Hours)**
     * Project definition; project objective(s); Definition of project management; Evolution of project management; Scope of project management
     * Elements of project management: organization, time, cost, quality, human resource, communication, risk, and integration
@@ -57,16 +47,13 @@ After the completion of this course, students will be able to understand Project
 
 The Questions will cover all the chapters in the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Unit | Chapters | Hour | Mark Distribution* |
-|---|---|---|---|
-| 1 | Introduction to Project Management | 8 | 16 |
-| 2 | Project Identification, Planning, Formulation, and Appraisal | 8 | 16 |
-| 3 | Project Organization and Implementation | 10 | 20 |
-| 4 | Project Monitoring, Controls, and Information Systems | 5 | 12 |
-| 5 | Project Evaluation and Auditing | 7 | 16 |
-| 6 | Group Project Work, Reporting, and Presentation | 7 | - |
-| **Total** | **-** | **45** | **80** |
+| Unit      | Chapters                                                     | Hour   | Mark Distribution* |
+| --------- | ------------------------------------------------------------ | ------ | ------------------ |
+| 1         | Introduction to Project Management                           | 8      | 16                 |
+| 2         | Project Identification, Planning, Formulation, and Appraisal | 8      | 16                 |
+| 3         | Project Organization and Implementation                      | 10     | 20                 |
+| 4         | Project Monitoring, Controls, and Information Systems        | 5      | 12                 |
+| 5         | Project Evaluation and Auditing                              | 7      | 16                 |
+| 6         | Group Project Work, Reporting, and Presentation              | 7      | -                  |
+| **Total** | **-**                                                        | **45** | **80**             |
 
-* There could be minor deviation in mark distribution.
-
-Copyright © 2021

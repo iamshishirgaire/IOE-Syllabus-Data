@@ -1,11 +1,3 @@
-## Syllabus: FLUID MACHINES
-
-**Course Objective:**
-
-This course aims to provide an understanding of fluid forces and power. It covers a general introduction to hydropower plants, focusing on water turbines, pumps, steam turbines, and hydraulic machines.
-
-### Topics:
-
 1. **Introduction of Turbomachime and Dynamic Action of Fluid (10 hours)**
    - Turbomachines
    - Hydraulic Machines
@@ -65,15 +57,11 @@ This course aims to provide an understanding of fluid forces and power. It cover
 
 ### Evaluation Scheme:
 
-| Chapters | Hours | Mark distribution * |
-|---|---|---|
-| 1 | 10 | 20 |
-| 2 | 4 | 5 |
-| 3 | 14 | 25 |
-| 4 | 8 | 15 |
-| 5 | 9 | 15 |
-| **Total** | **45** | **80** |
-
-* There may be minor deviation in marks distribution.
-
-***Copyright&copy; 2021***
+| Chapters  | Hours  | Mark distribution * |
+| --------- | ------ | ------------------- |
+| 1         | 10     | 20                  |
+| 2         | 4      | 5                   |
+| 3         | 14     | 25                  |
+| 4         | 8      | 15                  |
+| 5         | 9      | 15                  |
+| **Total** | **45** | **80**              |

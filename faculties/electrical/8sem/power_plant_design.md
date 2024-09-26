@@ -1,11 +1,3 @@
-## Syllabus: POWER PLANT DESIGN
-
-**Course Objectives:** 
-
-To study technical requirements and economic principles related to the design of power plants, electrical systems, switchyards, and plant design guidelines.
-
-### Topics
-
 1. **Energy Sources and Electric Power Generation (8 hours)**
     * Renewable and non-renewable energy sources - Technology of geothermal, tidal, wind, solar thermal, solar photovoltaic, thermal, combustion, biothermal, combined cycle, gas turbine, and hydro.
     * Operational characteristics of each technology in the power system based on reliability, forced and scheduled outages, availability, on-grid and off-grid operation, operating range, and maintainability.
@@ -63,14 +55,10 @@ To study technical requirements and economic principles related to the design of
 
 ### Evaluation Scheme
 
-| Chapters | Hours | Marks Distribution* |
-|---|---|---|
-| 1 | 8 | 16 |
-| 2 | 4 | 8 |
-| 3 | 8 | 16 |
-| 4 | 24 | 40 |
-| **Total** | **44** | **80** |
-
-*There may be minor deviations in marks distribution.
-
-***Copyright&copy; 2021*** 
+| Chapters  | Hours  | Marks Distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 8      | 16                  |
+| 2         | 4      | 8                   |
+| 3         | 8      | 16                  |
+| 4         | 24     | 40                  |
+| **Total** | **44** | **80**              |

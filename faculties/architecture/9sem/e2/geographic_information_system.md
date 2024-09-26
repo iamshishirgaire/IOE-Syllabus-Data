@@ -74,12 +74,12 @@
 
 ### **Practical:**
 
-| S.No      | Duration | Stage                                                                                                                                                                                                                                                                      | Marks  |
-| --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1         | 10 hrs   | Preliminary exercises: <br> * Usage of GIS software package – Arc-Catalog & ArcMap. <br> * Various Exercises for understanding GIS Concepts                                                                                                                                | 10     |
-| 2         | 20 hrs   | Case Studies / Assignments on: <br> * Problem Identification <br> * Data collection <br> * Data analysis <br> * Cartography & map presentation <br> * Presentation on findings <br> Possible Topics: Settlement Planning, Infrastructure, Transport, Disaster related etc. | 40     |
-| 3         |          | Report Submission                                                                                                                                                                                                                                                          |        |
-| **Total** | **30**   |                                                                                                                                                                                                                                                                            | **50** |
+| S.No      | Duration | Stage                                                                                                                                                                                                                                              | Marks  |
+| --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1         | 10 hrs   | Preliminary exercises:  * Usage of GIS software package – Arc-Catalog & ArcMap.  * Various Exercises for understanding GIS Concepts                                                                                                                | 10     |
+| 2         | 20 hrs   | Case Studies / Assignments on:  * Problem Identification  * Data collection  * Data analysis  * Cartography & map presentation  * Presentation on findings  Possible Topics: Settlement Planning, Infrastructure, Transport, Disaster related etc. | 40     |
+| 3         |          | Report Submission                                                                                                                                                                                                                                  |        |
+| **Total** | **30**   |                                                                                                                                                                                                                                                    | **50** |
 
 ### **References:**
 

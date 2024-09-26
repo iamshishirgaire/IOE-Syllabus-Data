@@ -1,9 +1,3 @@
-## Syllabus
-
-**PROJECT**
-
-**Course Objectives:**
-
 The objective of this project work is to develop hands-on experience of working in a project. During the course, students have to design and complete a functional project which should require integration of various course concepts. Students will develop various skills related to project management like teamwork, resource management, documentation and time management.
 
 1. Group formation (Not exceeding 4 persons per group)
@@ -16,4 +10,3 @@ The objective of this project work is to develop hands-on experience of working 
 * **Project (Part A):** Internal Evaluation is done on the basis of Project Proposal, Regular activities, Progress Report and Presentation.
 * **Project (Part B):** Internal and Final Evaluation is done on the basis of Regularity of the work, Completeness of project, Documentation, Progress Presentation and Final Presentation.
 
-**Copyright © 2021** 

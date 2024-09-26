@@ -1,12 +1,3 @@
-## Hydropower
-
-**Course Objective:**
-
-1. To familiarize the basic concepts of Fluid flow and hydraulics and their application in the context of hydropower development.
-2. To make students acquainted with components of hydropower systems and their design principles.
-
-### **Course Content**
-
 1. **Introduction to Basic Fluid Mechanics and Hydraulics (14 hours)**
     * Classification of Fluid Flows: Compressible versus incompressible flow, Laminar versus Turbulent flow, steady versus unsteady flow, One-, Two-, and Three-Dimensional flows.
     * Properties of fluid: Concept of Continuum, density and specific gravity, vapor pressure and cavitation, energy and specific heats, compressibility, viscosity, surface tension and capillary effect.
@@ -75,19 +66,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Mark Distribution* |
-|---|---|---|
-| 1 | 14 | 28 |
-| 2 | 5 | 6 |
-| 3 | 5 | 8 |
-| 4 | 5 | 8 |
-| 5 | 6 | 10 |
-| 6 | 3 | 6 |
-| 7 | 7 | 14 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Mark Distribution* |
+| --------- | ------ | ------------------ |
+| 1         | 14     | 28                 |
+| 2         | 5      | 6                  |
+| 3         | 5      | 8                  |
+| 4         | 5      | 8                  |
+| 5         | 6      | 10                 |
+| 6         | 3      | 6                  |
+| 7         | 7      | 14                 |
+| **Total** | **45** | **80**             |
 
-*There may be minor variations in marks distribution.
-
-***
-
-**Copyright © 2021** 

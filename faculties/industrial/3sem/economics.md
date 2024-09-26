@@ -1,11 +1,3 @@
-# Syllabus
-
-## **ECONOMICS**
-
-**Course Objective:**  To provide knowledge regarding different aspects of economics i.e. microeconomic and macro economics. The subject also imparts concept of  various element of economics viz. demand, supply, market, capital, price, tax,  investment etc. Economics is the heart of industrial engineering as no  investment can be made and funds raised without sound knowledge of economics.
-
-### Topics:
-
 1. **Basic concept (5 hours)** 
     * Fundamental of Economics
     * Markets and Government in modern Economy
@@ -64,19 +56,14 @@
 
 The questions will cover all the chapters of the syllabus. The evaluation scheme will be as indicated in the table below:
 
-| Chapters | Hours | Marks distribution* |
-|---|---|---|
-| 1 | 5 | 8 |
-| 2 | 10 | 16 |
-| 3 | 4 | 8 |
-| 4 | 6 | 12 |
-| 5 | 10 | 16 |
-| 6 | 5 | 10 |
-| 7 | 5 | 10 |
-| **Total** | **45** | **80** |
+| Chapters  | Hours  | Marks distribution* |
+| --------- | ------ | ------------------- |
+| 1         | 5      | 8                   |
+| 2         | 10     | 16                  |
+| 3         | 4      | 8                   |
+| 4         | 6      | 12                  |
+| 5         | 10     | 16                  |
+| 6         | 5      | 10                  |
+| 7         | 5      | 10                  |
+| **Total** | **45** | **80**              |
 
-*There may be minor deviation in marks distribution.
-
----
-
-## Copyright &copy; 2021
